@@ -1,4 +1,4 @@
-﻿2
+2
 00:00:37,130 --> 00:00:39,330
 看起来暴风雨已经结束了.
 It looks like the storm has passed.
