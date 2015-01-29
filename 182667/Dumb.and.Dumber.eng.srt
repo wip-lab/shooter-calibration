@@ -272,11 +272,11 @@ Don't worry about a thing, Mrs. Neugyburger.
 
 69
 00:06:40,230 --> 00:06:43,650
-are not gonna need primping. You know why? Because I bathed them...
+are not gonna need primping. You know why? Because I ...
 
 70
 00:06:43,820 --> 00:06:45,270
-and I clipped them myself.
+bathed them and I clipped them myself.
 
 71
 00:06:45,440 --> 00:06:48,190
@@ -1682,8 +1682,6 @@ I don't know, Lloyd, this place doesn't really do it for me .
 00:37:17,100 --> 00:37:19,810
 It brings back a lot of memories.
 
-422
-00:37:20,980 --> 00:37:22,400
 
 
 423
@@ -1752,11 +1750,11 @@ She gave me crap about me not listening to her enough or something.
 
 439
 00:38:05,780 --> 00:38:09,860
-I don't know, I wasn't paying attention. But the thing that hurt the most...
+I don't know, I wasn't paying attention. But the thing that hurt the most is I think ...
 
 440
 00:38:10,030 --> 00:38:12,200
-is I think she was seeing another guy.
+she was seeing another guy.
 
 441
 00:38:15,960 --> 00:38:18,250
@@ -2398,8 +2396,6 @@ Cool.
 00:50:23,100 --> 00:50:26,600
 Excuse me, but you...You're spraying everywhere.
 
-601
-00:50:39,160 --> 00:50:42,830
 
 
 602
