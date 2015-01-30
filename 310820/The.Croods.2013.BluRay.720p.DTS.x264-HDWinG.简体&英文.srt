@@ -1,0 +1,4630 @@
+1
+00:00:00,000 --> 00:00:05,000
+m 115 64 l 115 35 l 171 0 l 177 0 l 133 46 l 143 52 l 179 0 l 184 0 l 159 63 l 229 107 l 229 182 l 145 96 l 135 122 l 207 227 l 137 227 l 115 172 l 115 93 l 126 76 l 115 64 l 104 76 l 115 93 l 115 172 l 93 227 l 23 227 l 95 122 l 84 96 l 0 182 l 0 107 l 70 63 l 45 0 l 50 0 l 87 52 l 97 46 l 52 0 l 59 0 l 115 35
+
+2
+00:00:00,000 --> 00:00:05,000
+m 71 60 b 71 0 161 0 161 60 b 161 120 71 120 71 60
+
+3
+00:00:00,000 --> 00:00:05,000
+m 325 0 l 355 0 l 332 47 l 354 47 l 399 136 l 369 136 l 328 53 l 288 136 l 257 136 l 325 0 m 467 0 l 497 0 l 474 47 l 496 47 l 541 136 l 511 136 l 470 53 l 430 136 l 399 136 l 467 0 m 545 1 l 583 1 l 583 14 l 568 14 l 568 19 l 583 19 l 583 30 l 568 30 l 568 34 l 599 34 l 599 30 l 583 30 l 583 19 l 599 19 l 599 14 l 583 14 l 583 1 l 611 1 b 616 1 622 6 622 10 l 622 36 l 652 0 l 678 0 l 644 41 l 622 41 l 622 47 l 596 47 l 597 54 l 625 54 l 625 68 l 541 68 l 541 54 l 572 54 l 571 47 l 545 47 l 545 1 m 583 72 l 583 85 l 569 85 l 569 90 l 598 90 l 598 85 l 583 85 l 583 72 l 611 72 b 615 72 621 78 621 82 l 653 44 l 678 44 l 644 86 l 621 86 l 621 103 l 597 103 l 597 136 l 570 136 l 564 126 l 562 136 l 542 136 l 548 107 l 568 107 l 565 121 l 571 121 l 571 103 l 547 103 l 547 72 l 583 72 m 600 107 l 620 107 l 624 124 l 653 89 l 679 89 l 642 136 l 615 136 l 618 132 l 606 132 l 600 107 m 689 0 l 716 0 l 721 15 l 732 15 l 732 30 l 718 56 l 731 56 l 735 100 l 721 100 l 717 59 l 714 64 l 714 136 l 693 136 l 693 79 l 676 79 l 707 30 l 679 30 l 679 15 l 694 15 l 689 0 m 738 0 l 804 0 b 807 0 813 6 813 9 l 813 87 l 794 87 l 794 14 l 756 14 l 756 87 l 763 77 l 763 21 l 787 21 l 787 91 l 798 91 l 798 120 l 820 120 l 812 136 l 778 136 l 778 90 l 748 136 l 723 136 l 756 87 l 738 87 l 738 0 m 257 151 l 275 151 l 297 182 l 319 151 l 337 151 l 304 197 l 304 227 l 290 227 l 290 197 l 257 151 m 337 151 l 355 151 l 377 182 l 399 151 l 417 151 l 384 197 l 384 227 l 370 227 l 370 197 l 337 151 m 425 192 l 447 192 b 445 181 427 181 425 192 l 410 192 b 414 162 458 162 462 192 l 462 206 l 425 206 b 425 210 429 212 433 213 l 462 213 l 462 227 l 433 227 b 412 227 408 203 410 192 m 462 151 l 532 151 l 532 165 l 504 165 l 504 227 l 489 227 l 489 165 l 462 165 l 462 151 m 580 172 l 580 186 l 549 186 b 543 186 543 192 549 192 l 565 192 b 589 192 589 227 565 227 l 532 227 l 532 213 l 565 213 b 570 213 570 206 565 206 l 549 206 b 524 206 524 172 549 172 l 580 172 m 592 213 l 606 213 l 606 227 l 592 227 l 592 213 m 639 172 l 665 172 l 665 186 l 639 186 b 623 186 623 213 639 213 l 665 213 l 665 227 l 639 227 b 603 227 603 172 639 172 m 700 184 b 722 184 722 215 700 215 l 700 229 b 740 229 740 170 700 170 b 660 170 660 229 700 229 l 700 215 b 680 215 680 184 700 184 m 737 172 l 782 172 b 803 172 813 177 813 198 l 813 228 l 799 228 l 799 198 b 799 186 793 187 782 187 l 782 228 l 768 228 l 768 187 l 752 187 l 752 228 l 737 228 l 737 172
+
+4
+00:00:00,000 --> 00:00:05,000
+人人影视
+YYeTs.com
+
+5
+00:00:00,000 --> 00:00:05,000
+原创翻译  双语字幕
+
+6
+00:00:00,000 --> 00:00:05,000
+■
+
+7
+00:00:00,000 --> 00:00:05,000
+仅供学习 禁止用于任何商业盈利行为
+更多影视更新
+请登陆www.YYeTs.com
+
+8
+00:00:05,000 --> 00:00:10,000
+翻译：伊森先生    脸盆王子    ponyonyo    borat
+
+9
+00:00:10,000 --> 00:00:15,000
+校对：oktobertanz
+
+10
+00:00:15,000 --> 00:00:20,000
+时间轴：加森    Zero    兜兜兜爹
+
+11
+00:00:15,000 --> 00:00:20,000
+后期：zzzyusa
+
+12
+00:00:54,220 --> 00:00:56,500
+每每旭日东升
+With every sun comes a new day.
+
+13
+00:00:56,710 --> 00:00:58,150
+都是崭新的开始
+A new beginning.
+
+14
+00:00:58,780 --> 00:01:02,750
+总是期冀今日之美远胜昨日
+A hope that things will be better today than they were yesterday.
+
+15
+00:01:03,230 --> 00:01:06,160
+但不属于我   我叫小伊
+But not for me. My name's Eep.
+
+16
+00:01:06,290 --> 00:01:09,380
+这是我的家人  克鲁德一家
+And this is my family. The Croods.
+
+17
+00:01:09,380 --> 00:01:11,750
+如果你看到我们的兽皮和倾斜的额头
+If you weren't clued already, by animal skin
+
+18
+00:01:11,750 --> 00:01:14,470
+还不明白  我们是原始人
+and sloping forehead, we are cavemen.
+
+19
+00:01:15,360 --> 00:01:17,930
+我们整日在洞穴中度日
+Most days we spend in our cave,
+
+20
+00:01:18,490 --> 00:01:19,790
+藏于黑暗
+in the dark.
+
+21
+00:01:20,290 --> 00:01:23,770
+日复一日  年复一年
+Night after night, day after day.
+
+22
+00:01:24,950 --> 00:01:27,640
+真是甜蜜的家啊
+Yep. Home sweet home.
+
+23
+00:01:28,920 --> 00:01:31,030
+难得出洞  还得在残酷的大自然里
+When we did go out, we struggled to find food
+
+24
+00:01:31,030 --> 00:01:33,600
+拼命找食物
+in a harsh and hostile world.
+
+25
+00:01:34,940 --> 00:01:38,430
+我还得拼命保护家人
+And I struggled to survive my family.
+
+26
+00:01:39,800 --> 00:01:41,500
+我们是仅存的一家了
+We were the last ones around.
+
+27
+00:01:41,670 --> 00:01:43,180
+曾经有很多邻居
+There used to be neighbors.
+
+28
+00:01:43,590 --> 00:01:45,820
+高茨一家  被猛犸象踩扁了
+The Gorts, smashed by a mammoth.
+
+29
+00:01:45,820 --> 00:01:48,700
+霍克一家  被沙蛇吞了
+The Horks, swallowed by a sand snake.
+
+30
+00:01:48,720 --> 00:01:50,920
+厄夫一家  被蚊子叮死了
+The Erfs, mosquito bite.
+
+31
+00:01:50,920 --> 00:01:54,700
+斯洛格一家  感个冒就挂了
+The Throgs, common cold.
+
+32
+00:01:55,270 --> 00:01:57,850
+还有克鲁德一家  就是我们
+And the Croods... That's us.
+
+33
+00:01:58,130 --> 00:02:01,250
+我们活下来了  全靠我老爸
+The Croods made it, because of my dad.
+
+34
+00:02:01,940 --> 00:02:05,100
+他不但强壮  而且遵守规则
+He was strong, and he followed the rules,
+
+35
+00:02:05,520 --> 00:02:07,570
+规矩都刻在洞穴的墙上了
+the ones painted on our cave walls:
+
+36
+00:02:07,570 --> 00:02:10,480
+新鲜事物都很危险  好奇心也很危险
+Anything new is bad. Curiosity is bad.
+
+37
+00:02:10,490 --> 00:02:11,640
+夜晚出门更是危险
+Going out at night is bad.
+
+38
+00:02:11,640 --> 00:02:13,910
+总而言之  有趣的事情都危险
+Basically, anything fun is bad.
+
+39
+00:02:14,850 --> 00:02:16,490
+欢迎来到我的世界
+Welcome to my world.
+
+40
+00:02:17,120 --> 00:02:21,860
+这故事讲的是这一切如何瞬间改变
+But this is a story about how all that changed in an instant.
+
+41
+00:02:22,460 --> 00:02:25,950
+因为我们还不知道
+Because what we didn't know was that our world
+
+42
+00:02:25,950 --> 00:02:28,350
+我们的世界面临末日
+was about to come to an end.
+
+43
+00:02:28,480 --> 00:02:31,310
+我们洞穴的墙上
+And there were no rules on our cave walls
+
+44
+00:02:31,310 --> 00:02:33,000
+可没有应对之法
+to prepare us for that.
+
+45
+00:02:53,630 --> 00:02:55,760
+你应该等我信号的  小伊
+You're supposed to wait for my signal, Eep.
+
+46
+00:02:56,030 --> 00:02:56,970
+小伊
+Eep.
+
+47
+00:03:09,650 --> 00:03:12,110
+我在洞里呆够了
+We've been in that cave forever.
+
+48
+00:03:12,110 --> 00:03:14,830
+三天可不算长吧
+Three days is not forever.
+
+49
+00:03:14,870 --> 00:03:16,330
+和你们一起度日如年
+It is with this family.
+
+50
+00:03:16,330 --> 00:03:18,320
+小伊  拜托下来好吗
+Eep, will you come down here?
+
+51
+00:03:18,320 --> 00:03:21,190
+你真是  太夸张了
+You're being so... so dramatic.
+
+52
+00:03:21,540 --> 00:03:23,720
+别别别  仙蒂  快回来
+No, no, no, Sandy, come back here!
+
+53
+00:03:24,500 --> 00:03:27,580
+记住信号  好女孩总是等信号
+Remember the signal. Good girls wait for the signal.
+
+54
+00:03:27,800 --> 00:03:29,710
+-乌格  -一抓到仙蒂
+- Ugga! - As soon as I get Sandy,
+
+55
+00:03:29,710 --> 00:03:31,510
+我就回洞里  你就可以发信号了
+I'll go back in, and you can give the signal.
+
+56
+00:03:31,510 --> 00:03:33,420
+可是  你已经出来了啊
+No. But you're already out now.
+
+57
+00:03:33,420 --> 00:03:35,330
+我在乖乖等信号呢  老爸
+I am waiting for the signal, Dad!
+
+58
+00:03:35,330 --> 00:03:37,520
+没事了  桑克  出来吧
+Never mind, Thunk. Just come out.
+
+59
+00:03:37,520 --> 00:03:41,440
+可如果你不发信号  我怎么知道你是我老爸
+But if you don't give me the signal, how do I know you're my dad?
+
+60
+00:03:41,440 --> 00:03:43,120
+信号不是为了验明我的正身
+The signal isn't so you know it's me.
+
+61
+00:03:43,120 --> 00:03:45,690
+是为了证明我还没被野兽吃掉
+It's so you know I wasn't eaten by an animal.
+
+62
+00:03:45,690 --> 00:03:48,170
+那为何信号是野兽叫啊
+Then why is the signal an animal noise?
+
+63
+00:03:48,170 --> 00:03:50,270
+那样不会产生歧义吗
+I mean, doesn't that just confuse things?
+
+64
+00:03:50,270 --> 00:03:53,170
+我还在等信号
+I'm still waiting for the signal.
+
+65
+00:04:12,500 --> 00:04:15,100
+妈妈  准备出发
+Mom, we're ready to leave!
+
+66
+00:04:16,090 --> 00:04:17,120
+妈妈
+Mom?
+
+67
+00:04:19,540 --> 00:04:21,690
+我还没死呢
+Still alive!
+
+68
+00:04:22,140 --> 00:04:23,660
+大限还没到
+It's still early.
+
+69
+00:04:23,950 --> 00:04:25,570
+你这个死肥仔
+And you're still fat.
+
+70
+00:04:26,550 --> 00:04:27,960
+组成早餐队形
+Breakfast formation!
+
+71
+00:04:29,920 --> 00:04:32,460
+发挥出洞穴人应有的水平来
+I want to see some real caveman action out there!
+
+72
+00:04:32,470 --> 00:04:34,760
+勇往直前  奋勇争先
+We do this fast. We do this loud,
+
+73
+00:04:34,760 --> 00:04:36,680
+我们齐心协力
+we do this as a family,
+
+74
+00:04:36,710 --> 00:04:40,060
+疯狂原始人
+
+75
+00:04:37,640 --> 00:04:40,020
+时刻保持警惕
+and never not be afraid!
+
+76
+00:04:40,020 --> 00:04:41,700
+冲啊  克鲁德们
+The croods
+
+77
+00:04:58,280 --> 00:05:00,360
+吃早餐啦
+Yay breakfast.
+
+78
+00:05:16,440 --> 00:05:19,630
+好了  该谁了  猜字决定
+Okay, who's up? We'll flip for it.
+
+79
+00:05:19,630 --> 00:05:21,880
+-快决定吧  -头朝上
+- Call her in the air. - Heads!
+
+80
+00:05:23,600 --> 00:05:26,190
+屁股朝上  桑克赢了  各就位
+Tails. Thunk's in. Positions!
+
+81
+00:05:26,610 --> 00:05:29,850
+好了  桑克  出发
+Okay. Thunk, go!
+
+82
+00:05:32,200 --> 00:05:33,570
+快点  桑克
+Come on, Thunk.
+
+83
+00:05:39,550 --> 00:05:41,750
+干得好  带着蛋回洞穴
+Way to go! Take it to the cave!
+
+84
+00:05:46,250 --> 00:05:48,330
+快放出宝宝
+Release the baby!
+
+85
+00:05:48,740 --> 00:05:50,090
+干掉他们  仙蒂  加油
+Get 'em, Sandy, go!
+
+86
+00:06:14,010 --> 00:06:15,080
+加油  妈妈
+Get them, Mom!
+
+87
+00:06:40,800 --> 00:06:43,300
+老太婆倒啦
+Old lady down!
+
+88
+00:06:43,470 --> 00:06:45,920
+小伊  替我报仇
+Eep, avenge me!
+
+89
+00:06:54,800 --> 00:06:55,850
+谢谢啦
+Thanks.
+
+90
+00:07:05,220 --> 00:07:07,620
+-小伊  -接好了
+- Eep! - Heads up!
+
+91
+00:07:46,660 --> 00:07:48,530
+老爸  能开饭了吗
+Hey, Dad, can we eat now?
+
+92
+00:07:48,540 --> 00:07:50,310
+等回到家再说吧
+Just wait til we get home.
+
+93
+00:07:50,310 --> 00:07:52,290
+小伊  启动刹车
+Eep, put on the brakes!
+
+94
+00:08:14,310 --> 00:08:15,320
+小伊
+Eep!
+
+95
+00:08:35,850 --> 00:08:37,320
+谁想吃饭
+Who's hungry?
+
+96
+00:08:38,070 --> 00:08:38,830
+干得好  老爸
+Good one, Dad.
+
+97
+00:08:38,830 --> 00:08:40,650
+给你  桑克  尽情喝吧
+Here you go, Thunk. Drink up.
+
+98
+00:08:43,980 --> 00:08:46,680
+-对不住  老爸  -看来今天要吃快餐啦
+- Sorry, dad. - Looks like fast food tonight!
+
+99
+00:09:02,100 --> 00:09:04,550
+没事  我上周吃过了
+That's all right. I ate last week.
+
+100
+00:09:08,300 --> 00:09:10,290
+夕阳警报
+Two knuckle warning!
+
+101
+00:09:10,840 --> 00:09:12,060
+快走快走
+Go, go, go.
+
+102
+00:09:16,160 --> 00:09:17,150
+赶紧  赶紧
+Come on, come on.
+
+103
+00:09:17,160 --> 00:09:19,330
+黑暗意味着死亡  都明白吧
+Darkness brings death! We know this.
+
+104
+00:09:20,190 --> 00:09:22,740
+满月之夜  该洗澡了
+The moon is full. Bath night.
+
+105
+00:09:22,740 --> 00:09:24,780
+-快逃命啊  -你也得洗  妈妈
+- Run for your life! - You too, Mom.
+
+106
+00:09:25,170 --> 00:09:27,790
+我可不想被洗掉保护皮
+I don't want to lose my protective layer.
+
+107
+00:09:27,790 --> 00:09:29,380
+妈妈  你身上都长蚂蚁了
+Mom, you've got ants.
+
+108
+00:09:31,210 --> 00:09:33,480
+看看  仙蒂都不闹
+See? Sandy doesn't fuss.
+
+109
+00:09:38,640 --> 00:09:41,980
+-她还还外面吗  -你知道她讨厌洞穴
+- Is she still out there? - You know she hates the cave, Grug.
+
+110
+00:10:08,000 --> 00:10:09,590
+请你明天一定要回来
+Please come back tomorrow.
+
+111
+00:10:09,590 --> 00:10:13,330
+她怎么会不喜欢洞穴  多温馨啊
+How can she not like the cave? It's so cozy.
+
+112
+00:10:13,330 --> 00:10:16,670
+太黑了点  是吧
+It is a little dark, right?
+
+113
+00:10:16,670 --> 00:10:18,230
+也没那么黑
+It's not that dark.
+
+114
+00:10:18,460 --> 00:10:19,560
+小伊
+Eep!
+
+115
+00:10:44,200 --> 00:10:46,290
+快来  我要关门了
+Come on, I gotta close the cave.
+
+116
+00:10:49,460 --> 00:10:50,340
+小伊
+Eep!
+
+117
+00:10:51,950 --> 00:10:53,380
+来了  来了
+Okay! Okay!
+
+118
+00:10:54,790 --> 00:10:55,860
+快回来
+Come on.
+
+119
+00:11:02,960 --> 00:11:05,130
+小伊  快下来
+Eep! Come down!
+
+120
+00:11:22,520 --> 00:11:25,510
+-刚才太危险了  -我只是看看  又没事
+- That was too close! - I was watching. I was fine.
+
+121
+00:11:25,510 --> 00:11:27,600
+-你在干什么  小伊  -我也不知道
+- What were you doing up there, Eep? - I don't know.
+
+122
+00:11:27,610 --> 00:11:29,180
+-你在找什么  -没什么
+- What were you looking for? - Nothing.
+
+123
+00:11:29,180 --> 00:11:30,370
+好吧  那你上去干吗
+Well then, why did you go up there?
+
+124
+00:11:30,370 --> 00:11:32,370
+-说了不知道  -你为什么不知道
+- I don't know! - Why don't you know?
+
+125
+00:11:32,750 --> 00:11:34,670
+别去找什么鬼东西了
+Stop looking for things!
+
+126
+00:11:34,680 --> 00:11:36,540
+恐惧让我们生存  小伊
+Fear keeps us alive, Eep.
+
+127
+00:11:36,540 --> 00:11:38,410
+时刻保持警惕
+Never not be afraid.
+
+128
+00:11:39,080 --> 00:11:41,370
+这一切有何意义呢
+What's the point of all this?
+
+129
+00:11:41,570 --> 00:11:44,240
+-你说什么  -我说  我们在这里干吗
+- What was that? - I mean, why are we here?
+
+130
+00:11:44,240 --> 00:11:46,140
+我们这么躲藏是为什么
+What are we doing this for?
+
+131
+00:11:49,110 --> 00:11:51,370
+没人说生存是件趣事
+No one said survival is fun.
+
+132
+00:11:51,380 --> 00:11:52,750
+一切都了无生趣
+Nothing is fun.
+
+133
+00:11:52,930 --> 00:11:55,550
+-请你下来好吗  小伊  -阿瓜
+- Would you come down here? Eep? - Grug?
+
+134
+00:11:55,550 --> 00:11:58,730
+-下来  下来  -好吧  我只是想
+- Off! Off!- Yes. Okay. I am trying to
+
+135
+00:11:58,730 --> 00:12:00,690
+我就是不明白她为什么要自己在上面
+I just don't see why she needs her own ledge.
+
+136
+00:12:00,690 --> 00:12:01,920
+仅此而已  我就是想知道
+That's all. That's what this is about.
+
+137
+00:12:01,920 --> 00:12:04,270
+她在思索罢了  她需要自己的空间
+She's working through some things and needs some space.
+
+138
+00:12:04,270 --> 00:12:06,930
+思索什么  要思索多久
+What things? How long is this going to take?
+
+139
+00:12:07,150 --> 00:12:10,340
+她都不肯听我说话了
+Really? She already doesn't listen to me. Hey!
+
+140
+00:12:10,370 --> 00:12:11,810
+看吧  她听着呢
+See? She's listening.
+
+141
+00:12:11,810 --> 00:12:14,820
+要想生存  她就必须遵守规矩
+If she wants to survive, she has to follow our rules.
+
+142
+00:12:14,820 --> 00:12:17,730
+-讲个故事吧  小伊爱听故事  -好主意
+- How about a story? Eep loves those. - That's a good idea.
+
+143
+00:12:17,740 --> 00:12:20,490
+-谁想听故事  -快讲一个
+- How about a story, huh? - Yeah, tell us a story.
+
+144
+00:12:23,100 --> 00:12:25,210
+好的  能借用一下吗  多谢
+Okay. Can I borrow that? Thank you.
+
+145
+00:12:25,210 --> 00:12:28,250
+小伊  你儿时的最爱
+Eep! Your old favourite!
+
+146
+00:12:28,500 --> 00:12:30,550
+我都多少年没玩过那玩具了
+I haven't played with that thing in years.
+
+147
+00:12:30,550 --> 00:12:33,280
+今晚我们来讲熊熊的故事
+Tonight we'll hear the story of Krispy Bear.
+
+148
+00:12:34,440 --> 00:12:37,830
+很久以前  熊熊还活着
+A long time ago, this little bear was alive.
+
+149
+00:12:37,830 --> 00:12:40,640
+她能活着  因为她听从老爸的话
+She was alive because she listened to her father
+
+150
+00:12:40,640 --> 00:12:44,380
+整日在黑暗与恐惧中谨慎地生活
+and lived her life in routine and darkness and terror.
+
+151
+00:12:44,390 --> 00:12:45,710
+所以她很快乐
+So she was happy.
+
+152
+00:12:46,250 --> 00:12:50,280
+但是熊熊有个致命弱点
+But Krispy had one terrible problem.
+
+153
+00:12:50,450 --> 00:12:52,410
+她充满了
+She was filled with...
+
+154
+00:12:53,290 --> 00:12:54,860
+好奇心
+curiosity.
+
+155
+00:12:54,920 --> 00:12:56,930
+-阿瓜  -好吧  好吧
+- Grug! - Yes, yes.
+
+156
+00:12:56,930 --> 00:13:00,290
+有一天  好奇熊熊站在树上
+And one day, while she was in a tree,
+
+157
+00:13:00,290 --> 00:13:03,510
+她想爬上树顶
+the curious little bear wanted to climb to the top.
+
+158
+00:13:03,710 --> 00:13:06,360
+-什么  -当她爬到树顶的时候
+- What? - And no sooner had she climbed to the top
+
+159
+00:13:06,360 --> 00:13:10,500
+她看到了新鲜事物  然后  死了
+she saw something new and died.
+
+160
+00:13:10,500 --> 00:13:11,580
+就这样完了
+Just like that?
+
+161
+00:13:11,580 --> 00:13:14,530
+没错  她最后惊恐的表情
+Yes! Her last moments of terror
+
+162
+00:13:14,530 --> 00:13:16,930
+还留在脸上
+still frozen on her face.
+
+163
+00:13:16,930 --> 00:13:18,400
+每次都是这个结局
+Same ending as every day.
+
+164
+00:13:18,400 --> 00:13:21,220
+我明白  老爸  我永远不会去尝鲜
+I get it, Dad. I will never do anything new or different.
+
+165
+00:13:21,220 --> 00:13:24,240
+-桑克真是好孩子  -大家磨磨牙齿
+- Good man, Thunk. - All right, everyone sharpen your teeth
+
+166
+00:13:24,240 --> 00:13:25,450
+抱团睡吧
+and let's pile up.
+
+167
+00:18:00,800 --> 00:18:02,910
+-空气  -你会说话
+- Air - You talk.
+
+168
+00:18:02,910 --> 00:18:04,850
+我和你一样  是个人
+I'm person, like you.
+
+169
+00:18:07,690 --> 00:18:09,930
+差不多  一样
+Sort of... like you.
+
+170
+00:18:12,760 --> 00:18:14,480
+好吧  好吧  喂喂喂
+Okay, okay. Hey, hey, hey,
+
+171
+00:18:14,480 --> 00:18:16,570
+喂  拜托你  拜托你不要
+Hey. Could you... Could you mind not...
+
+172
+00:18:19,530 --> 00:18:22,330
+好痒  喂喂喂
+That tickles. Hey, hey, hey. Hey!
+
+173
+00:18:25,470 --> 00:18:28,190
+安静  我不应该出门的
+Quiet! I am not supposed to be out here.
+
+174
+00:18:41,410 --> 00:18:43,590
+-小伊不见了  -你说什么  阿瓜
+- Eep's gone. - What? Grug!
+
+175
+00:18:43,600 --> 00:18:44,620
+呆在洞里
+Stay in the cave!
+
+176
+00:18:55,600 --> 00:18:57,780
+哇  你可真是强壮
+Wow, you're really strong.
+
+177
+00:19:01,670 --> 00:19:03,430
+-别  那是我的  别  -请不要
+- No! It's mine! No! No! - Please
+
+178
+00:19:04,460 --> 00:19:05,690
+-它快灭了  -是我抓住的
+- But it is dying!  - I caught it.
+
+179
+00:19:05,690 --> 00:19:09,370
+我能让它复燃  拜托  我讨厌黑暗
+I can fix it. Please. Please. I hate the dark.
+
+180
+00:19:19,830 --> 00:19:21,010
+加油  加油
+Come on, come on
+
+181
+00:19:23,490 --> 00:19:25,920
+它听你的命令吗
+It does what you tell it?
+
+182
+00:19:25,970 --> 00:19:28,390
+那个  算是吧
+Well, yeah, sort of.
+
+183
+00:19:28,740 --> 00:19:32,310
+-太阳吗  -不是  是火
+-Sun? - No, no. Fire.
+
+184
+00:19:34,020 --> 00:19:36,120
+你好啊  火儿
+Hi, Fire.
+
+185
+00:19:38,510 --> 00:19:40,440
+它没有生命
+It's not alive.
+
+186
+00:19:40,690 --> 00:19:42,660
+你不是说它快"死"了吗
+But you said it was dying.
+
+187
+00:19:41,590 --> 00:19:42,660
+英文"死亡"兼有"熄灭"之意
+
+188
+00:19:43,820 --> 00:19:47,230
+-抱歉  -它来自你的故乡吗
+- Sorry. - It comes from where you came from?
+
+189
+00:19:47,240 --> 00:19:50,650
+-不  我创造了它  -帮我造一点
+- No, I make it. - Make some for me.
+
+190
+00:19:50,650 --> 00:19:53,480
+-那个  它不是从我身上出来的  -快造
+- Okay! It doesn't come out of me. - Make.
+
+191
+00:19:53,490 --> 00:19:55,870
+造  快造
+Make. Make it!
+
+192
+00:19:57,230 --> 00:19:58,990
+你真是杀人不眨眼
+You do this a lot.
+
+193
+00:20:01,290 --> 00:20:05,020
+你死了吗  你死了我可以继承你的火吗
+Are you dead? Can I have your fire if you're dead?
+
+194
+00:20:10,650 --> 00:20:15,520
+那玩意很凉  是吗  顺风耳贝  启动
+Hey, those are cold! You think? Listening shells, activate.
+
+195
+00:20:16,360 --> 00:20:19,900
+我同意  虎妞  我们必须马上离开
+I concur. Tiger girl, we need to leave immediately.
+
+196
+00:20:19,990 --> 00:20:22,330
+我都不认识你
+I don't even know you.
+
+197
+00:20:23,800 --> 00:20:26,020
+- 我叫盖伊  - 盖伊
+- I'm Guy. - Guy?
+
+198
+00:20:26,020 --> 00:20:29,040
+这是皮带猴  是我的厨子聊伴兼导游
+And this is Belt. Cook, conversationalist, navigator,
+
+199
+00:20:29,460 --> 00:20:31,310
+也帮我拎裤子
+also keeps my pants up.
+
+200
+00:20:31,750 --> 00:20:34,250
+-什么是"拎裤子"  -你叫什么
+- What are 'pants up'? - Who are you?
+
+201
+00:20:35,330 --> 00:20:38,910
+-小伊  -我来解释一下  世界要毁灭
+- Eep. - Let me clarify, Eep. The world is ending.
+
+202
+00:20:38,910 --> 00:20:42,020
+-什么  -我把它叫做  末日
+- What? - I'm calling it..."The End."
+
+203
+00:20:45,270 --> 00:20:47,810
+-你怎么知道  -我看到了  就要来了
+- How do you know? - I've seen it. It's coming this way.
+
+204
+00:20:47,810 --> 00:20:50,560
+首先  大地会颤抖  然后裂开
+First, the ground is gonna shake. Then it breaks open.
+
+205
+00:20:50,570 --> 00:20:52,020
+万物跌入其中
+Everything falls in.
+
+206
+00:20:52,020 --> 00:20:55,010
+烈火  熔岩  我不想太夸张  但是
+Fire. Lava. I don't mean to sound too dramatic, but...
+
+207
+00:20:57,120 --> 00:20:58,620
+相信我  我们脚下的一切
+Believe me, everything we're standing on,
+
+208
+00:20:58,620 --> 00:21:00,750
+所有的一切  都会毁灭
+all this right here, will be gone.
+
+209
+00:21:00,750 --> 00:21:02,700
+我们必须去高地  我知道有座山
+We've got to get to high ground. I know a mountain,
+
+210
+00:21:02,700 --> 00:21:04,700
+在那边  那是我们唯一的机会
+that way. It's our only chance.
+
+211
+00:21:05,870 --> 00:21:07,040
+跟我来吧
+Come with me.
+
+212
+00:21:09,060 --> 00:21:12,800
+-我不能  -好吧
+- I can't. - Okay.
+
+213
+00:21:14,480 --> 00:21:15,820
+这个
+Here.
+
+214
+00:21:19,800 --> 00:21:22,980
+如果你能活下来  呼叫我
+If you survive, call me.
+
+215
+00:21:28,560 --> 00:21:29,650
+谢谢
+Thank you.
+
+216
+00:21:30,840 --> 00:21:31,770
+人呢
+Hello?
+
+217
+00:21:36,040 --> 00:21:38,890
+-老爸  -你受伤了吗  谁抓了你
+- Dad! - Are you hurt? What took you?
+
+218
+00:21:38,890 --> 00:21:41,170
+没有  我自己出来的
+Nothing. I left on my own.
+
+219
+00:21:41,170 --> 00:21:45,570
+-你说什么  -老爸  听我解释
+- You... what? - Dad, let me explain.
+
+220
+00:21:53,380 --> 00:21:55,120
+你从不让我解释
+You never let me talk.
+
+221
+00:21:55,120 --> 00:21:56,750
+你被关禁闭了
+You're grounded.
+
+222
+00:22:03,760 --> 00:22:05,530
+-小伊  -妈妈
+- Eep! - Mom!
+
+223
+00:22:06,140 --> 00:22:07,610
+阿瓜  怎么回事
+Grug! What happened?
+
+224
+00:22:07,610 --> 00:22:11,310
+我现在很生气  不想和她说话
+You know what, I am so mad right now that I can't talk to her.
+
+225
+00:22:11,310 --> 00:22:13,540
+-小伊  -说了你也不信
+- Eep? - You'll never believe it.
+
+226
+00:22:13,540 --> 00:22:15,840
+我找到了一样新东西
+I found something new.
+
+227
+00:22:15,840 --> 00:22:17,930
+-新东西  -新东西可是大麻烦
+- New? - New is a big problem.
+
+228
+00:22:17,930 --> 00:22:18,900
+等等
+Wait. Wait.
+
+229
+00:22:18,900 --> 00:22:21,070
+小伊  待在家庭作战队形里
+Eep, stay inside the family kill circle.
+
+230
+00:22:21,070 --> 00:22:23,160
+-但它并不坏  -新即是坏
+- But it wasn't bad. - New is always bad.
+
+231
+00:22:23,160 --> 00:22:26,730
+-不  他人很好  -什么  他
+- No. He was nice. - What? Excuse me? He?
+
+232
+00:22:26,730 --> 00:22:28,740
+刚开始我还以为他是只野猪
+Well, I thought he was a warthog,
+
+233
+00:22:28,740 --> 00:22:31,190
+后来才发现是个男孩
+but then he turned into a boy.
+
+234
+00:22:31,190 --> 00:22:34,140
+奇怪  一般都反过来才对
+Strange. Usually it's the reverse.
+
+235
+00:22:34,140 --> 00:22:35,430
+小伊找了个雄猪猪
+Eep's got a boy hog!
+
+236
+00:22:35,430 --> 00:22:36,810
+小伊找了个雄...
+Eep's got a boy...
+
+237
+00:22:36,920 --> 00:22:40,240
+他是个男孩  好吗  我现在就叫他来
+There was a boy. Watch, okay? I'm gonna call him.
+
+238
+00:22:57,050 --> 00:22:59,170
+你们有毛病吗
+What is wrong with you?
+
+239
+00:22:59,170 --> 00:23:02,500
+-它很危险  -它很漂亮
+- It was dangerous. - It was beautiful.
+
+240
+00:23:02,500 --> 00:23:04,750
+什么叫危险  这才是
+You want to see dangerous? Here.
+
+241
+00:23:05,160 --> 00:23:08,490
+-我的嗅探鼻  -小伊  够了
+- Ow! My sniffer! - Okay, Eep, that's it.
+
+242
+00:23:08,490 --> 00:23:09,560
+我们现在就回洞穴
+We're going back to the cave
+
+243
+00:23:09,560 --> 00:23:15,140
+你就在里边一直待到比她还老吧
+and you're going to stay in there until you're older than her!
+
+244
+00:23:15,140 --> 00:23:16,220
+什么
+What?
+
+245
+00:23:17,140 --> 00:23:19,700
+你不能关我一辈子
+You can't keep me inside forever!
+
+246
+00:23:31,700 --> 00:23:33,210
+他说过会这样的
+He said this would happen.
+
+247
+00:23:38,760 --> 00:23:40,420
+快回洞穴
+Get to the cave.
+
+248
+00:23:42,490 --> 00:23:43,610
+快跑
+Go!
+
+249
+00:24:14,020 --> 00:24:15,220
+小心
+Look out!
+
+250
+00:24:16,760 --> 00:24:17,920
+停
+Stop!
+
+251
+00:24:57,140 --> 00:24:59,810
+-都没事吧  -没事
+- Is everyone okay? - Yes.
+
+252
+00:25:00,340 --> 00:25:05,180
+阿瓜  洞穴没了
+Grug, the cave. It's gone.
+
+253
+00:25:07,940 --> 00:25:08,980
+不
+No.
+
+254
+00:25:44,760 --> 00:25:48,010
+你们真该来看看
+You really need to see this.
+
+255
+00:26:04,780 --> 00:26:06,780
+-我们应该去那儿  -不行
+- We should go there! - No. No.
+
+256
+00:26:07,170 --> 00:26:09,170
+哪儿都不许去
+No one is going anywhere.
+
+257
+00:26:11,500 --> 00:26:13,690
+那男孩还说了什么
+What else did that boy say?
+
+258
+00:26:38,470 --> 00:26:42,750
+-快点  阿瓜  -快跑  跳下去
+- Come on, Grug! - Just go. Go! Go!
+
+259
+00:27:02,330 --> 00:27:06,680
+一个  两个  三个  四个  五个
+One, two, three, four, five...
+
+260
+00:27:10,050 --> 00:27:11,230
+六个
+Six.
+
+261
+00:27:12,190 --> 00:27:16,010
+-我们这是在哪  -我不知道
+- Where are we? - I don't know. I'm not sure.
+
+262
+00:27:16,430 --> 00:27:20,040
+在下面  低一点的地方
+Down. In a lower place.
+
+263
+00:27:20,830 --> 00:27:23,730
+有一点可以确定  我们回不去了
+One thing's for sure, we can't go back the way we came.
+
+264
+00:27:25,540 --> 00:27:27,290
+仙蒂  那是什么
+Sandy? What is it?
+
+265
+00:27:29,050 --> 00:27:31,180
+别  等一下  回来  仙蒂
+No, no. Wait. Come back, Sandy.
+
+266
+00:27:38,640 --> 00:27:40,860
+我们不能像这样暴露在外面
+We can't be out in the open like this.
+
+267
+00:27:43,200 --> 00:27:45,410
+我们要找个洞穴
+We need a cave.
+
+268
+00:27:45,410 --> 00:27:47,710
+踩着我的脚印走
+Now step where I step.
+
+269
+00:27:48,200 --> 00:27:50,430
+好的  保持安静
+Okay. Stay quiet.
+
+270
+00:27:50,580 --> 00:27:52,830
+希望还没有大家伙注意到我们
+Hopefully nothing big knows we're here yet.
+
+271
+00:28:02,510 --> 00:28:06,100
+等等  好了
+Wait! Okay.
+
+272
+00:28:06,420 --> 00:28:09,120
+等等  好了
+Wait! Okay.
+
+273
+00:28:09,860 --> 00:28:10,810
+等等
+Wait!
+
+274
+00:28:16,320 --> 00:28:17,190
+等等
+Wait!
+
+275
+00:28:19,760 --> 00:28:22,080
+好了  等等
+Okay. Wait.
+
+276
+00:28:26,440 --> 00:28:27,160
+等等
+Wait.
+
+277
+00:28:37,910 --> 00:28:42,700
+爸爸  难道还要找个一模一样的洞穴吗
+So Dad, just to be clear, are we looking for the exact same cave?
+
+278
+00:28:42,700 --> 00:28:45,610
+要是我的话  我只是提个建议
+Okay. If it was me... I was throwing this out there.
+
+279
+00:28:45,610 --> 00:28:47,530
+要是让我挑洞穴的话
+If it was me choosing the cave,
+
+280
+00:28:50,440 --> 00:28:52,990
+我会挑个小一点的
+I would go with a smaller cave.
+
+281
+00:28:54,860 --> 00:28:55,710
+等等
+Wait!
+
+282
+00:28:59,390 --> 00:29:02,280
+-爸爸  -我来搞定
+- Dad! - I'll take care of this.
+
+283
+00:29:12,060 --> 00:29:14,490
+好的  爸爸  拿下它们
+All right, Dad, go get them.
+
+284
+00:29:14,490 --> 00:29:17,420
+拿下它们  这一拳真够...准的
+Now you get them right in the no... Oh man, there.
+
+285
+00:29:17,420 --> 00:29:18,900
+看着真欢乐
+Hah! I'm loving this.
+
+286
+00:29:19,400 --> 00:29:20,570
+爸爸  我知道了
+Dad, I got this.
+
+287
+00:29:20,570 --> 00:29:22,480
+只要别再拿脸撞拳头就好了
+Just stop running to their fists!
+
+288
+00:29:23,550 --> 00:29:26,500
+阿瓜  玩够了就上路吧
+Grug, when you're done, we should get going.
+
+289
+00:29:31,690 --> 00:29:34,560
+怎么样  怕了吧
+That's right! You can't get past this!
+
+290
+00:29:55,180 --> 00:29:56,970
+往上爬  往上爬
+Climb! Climb! Climb!
+
+291
+00:30:01,780 --> 00:30:02,850
+快点
+Move!
+
+292
+00:30:05,750 --> 00:30:08,220
+是洞穴  快跑
+Cave! Go! Go!
+
+293
+00:30:08,540 --> 00:30:10,530
+来吧  快点  快点
+Come on, hurry up! Let's go! Come on!
+
+294
+00:30:13,200 --> 00:30:16,470
+这洞穴居然还长舌头  酷毙了
+Hey, look! This cave has a tongue! Awesome!
+
+295
+00:30:32,740 --> 00:30:35,110
+好的  一个  两个  三个
+Okay. That's one, two, three,
+
+296
+00:30:35,110 --> 00:30:36,750
+四个  五个
+four, five...
+
+297
+00:30:37,370 --> 00:30:38,590
+六个
+Six.
+
+298
+00:30:38,590 --> 00:30:40,440
+七个
+And seven,
+
+299
+00:30:40,440 --> 00:30:43,960
+如果算上那只死神之猫的话
+if we're counting Chunky the Death Cat.
+
+300
+00:30:54,010 --> 00:30:55,650
+他怕黑
+He's scared of the dark!
+
+301
+00:30:57,010 --> 00:30:59,700
+等一下  我们也怕黑
+Wait, we're scared of the dark!
+
+302
+00:31:36,670 --> 00:31:37,950
+作战队形
+Kill circle!
+
+303
+00:31:48,190 --> 00:31:49,340
+小伊
+Eep!
+
+304
+00:32:10,210 --> 00:32:11,310
+小伊
+Eep!
+
+305
+00:33:11,160 --> 00:33:12,850
+-是原始人  -原始人
+- Cavies! - Cavies?
+
+306
+00:33:12,850 --> 00:33:15,460
+原始人  退后  他们跟野兽无异
+Cavemen! Stand back! They're practically animals.
+
+307
+00:33:15,460 --> 00:33:18,370
+-看见他们后倾的额骨没  -是啊
+- See their bony, sloping foreheads? - Yeah!
+
+308
+00:33:18,370 --> 00:33:22,060
+-他们原始的大板牙  -看见了
+- The huge primitive teeth? - Yeah.
+
+309
+00:33:22,110 --> 00:33:24,250
+还有超浓密的体毛
+The excessive body hair?
+
+310
+00:33:24,250 --> 00:33:26,640
+-这货还长着尾巴  -是啊
+- That one's even got a tail! - Yeah.
+
+311
+00:33:26,640 --> 00:33:27,970
+好的  闭上眼
+All right. Close your eyes.
+
+312
+00:33:27,970 --> 00:33:29,480
+我来取他们性命
+I'm going to have to take their lives.
+
+313
+00:33:29,480 --> 00:33:32,430
+不  没用的  他们是我的家人
+No, it won't help. They're my family.
+
+314
+00:33:32,430 --> 00:33:33,400
+什么
+What?
+
+315
+00:33:35,290 --> 00:33:39,320
+-太阳在他的手里  -不  这是火
+- The sun is in his hands! - No, no, it's fire.
+
+316
+00:33:39,320 --> 00:33:42,000
+-哪里来的  -他造出来的
+- Where did it come from? - He made it.
+
+317
+00:33:42,320 --> 00:33:44,770
+-给我造点  -不是从他身上来的
+- Make some for me! - It doesn't come out of him.
+
+318
+00:33:44,780 --> 00:33:46,670
+造  给我造
+Make! Make it!
+
+319
+00:33:47,770 --> 00:33:50,510
+还真是虎父无犬女
+You know, you're a lot like your daughter.
+
+320
+00:33:50,810 --> 00:33:52,020
+好极了  你把他弄坏了
+Great, now he's broken!
+
+321
+00:33:52,020 --> 00:33:53,980
+看这太阳宝宝
+Oh, it's a baby sun!
+
+322
+00:33:53,980 --> 00:33:57,050
+退后  不知道它是何方神圣
+Hey! Stay back! We don't know what it wants.
+
+323
+00:33:57,050 --> 00:34:00,220
+我们现在就坐在这儿等太阳出来
+Now we'll all sit here and wait for the sun to come back.
+
+324
+00:34:00,220 --> 00:34:02,630
+明天我们去找一个新的洞穴
+And tomorrow we'll find a new cave
+
+325
+00:34:02,630 --> 00:34:05,510
+假装今天的事没发生过
+and pretend today never happened.
+
+326
+00:34:05,510 --> 00:34:06,750
+很有趣吧  小伊
+Isn't this fun, Eep?
+
+327
+00:34:06,870 --> 00:34:08,350
+小伊  别碰他
+Eep, don't touch him!
+
+328
+00:34:08,350 --> 00:34:09,850
+鬼知道他从哪冒出来的
+Goodness knows where he's been.
+
+329
+00:34:09,850 --> 00:34:11,730
+爸爸  仙蒂在伤害火
+Dad, Sandy's hurting fire!
+
+330
+00:34:11,820 --> 00:34:15,470
+仙蒂  别这样  火不是用来玩的
+Sandy! No! Fire is not a plaything.
+
+331
+00:34:15,520 --> 00:34:18,490
+-多讨人喜欢啊  -后退
+- What a cute little guy. - Hey, stay back!
+
+332
+00:34:21,050 --> 00:34:22,570
+不不不  等等
+No, no, no, wait!
+
+333
+00:34:26,040 --> 00:34:28,880
+它喜欢我  它在咬我
+It likes me! Hey! It's biting me!
+
+334
+00:34:30,800 --> 00:34:34,230
+桑克  躲到高大的干草从里
+Thunk! Try hiding from it in the tall, dry grass!
+
+335
+00:34:37,990 --> 00:34:41,270
+别  求你了  我才9岁  它在咬我
+Stop, please! I'm only nine! It's biting me!
+
+336
+00:34:44,970 --> 00:34:46,310
+火宝宝
+Fire babies!
+
+337
+00:34:48,420 --> 00:34:50,670
+你爸想要杀了我
+So, your dad, he's trying to kill me.
+
+338
+00:34:50,670 --> 00:34:52,810
+没错  但我不会让他得逞的
+Yeah. But I won't let him.
+
+339
+00:34:54,410 --> 00:34:56,360
+等一下  儿子  回来
+Hold on, son, come back!
+
+340
+00:34:57,710 --> 00:35:00,070
+它停不下来  别碰我
+It won't stop. Stop touching me!
+
+341
+00:35:00,590 --> 00:35:01,550
+滚开
+Get out!
+
+342
+00:35:02,850 --> 00:35:04,810
+尽情吃吧  宝宝们
+Eat up, babies!
+
+343
+00:35:08,330 --> 00:35:09,360
+去死
+Die!
+
+344
+00:35:11,840 --> 00:35:13,540
+我赢了
+I win!
+
+345
+00:35:20,020 --> 00:35:22,290
+熟了之后你就不觉得他们吓人了
+They're not so scary once you get to know them.
+
+346
+00:35:24,510 --> 00:35:26,520
+你们到底是什么人
+Who are you people?
+
+347
+00:35:26,520 --> 00:35:30,490
+真抱歉  我们是克鲁德一家
+Oh, I'm sorry. We're the Croods!
+
+348
+00:35:30,660 --> 00:35:32,040
+你呢
+And you are?
+
+349
+00:35:32,680 --> 00:35:35,620
+-我是盖伊  -你好  盖伊
+- Guy. - Hi, Guy.
+
+350
+00:35:50,410 --> 00:35:51,810
+跟魔术一样
+Looks like magic!
+
+351
+00:35:52,160 --> 00:35:53,900
+闻起来好美味
+And smells like food.
+
+352
+00:36:00,090 --> 00:36:02,540
+别吃  这是新事物
+Don't eat it, it's new.
+
+353
+00:36:07,130 --> 00:36:08,650
+我们还活着
+Still alive!
+
+354
+00:36:08,650 --> 00:36:10,320
+来吧  继续吃
+Come on, keep eating!
+
+355
+00:36:14,470 --> 00:36:16,000
+盖伊在哪
+Hey, where's Guy?
+
+356
+00:36:23,650 --> 00:36:25,270
+-要去哪  -山上
+- Going somewhere? -The Mountain.
+
+357
+00:36:25,270 --> 00:36:27,450
+高地  世界末日  还记得吗
+High ground. End of the world, remember?
+
+358
+00:36:27,460 --> 00:36:30,630
+已经发生了  它毁了我们的洞穴
+That already happened. It destroyed our cave.
+
+359
+00:36:30,630 --> 00:36:33,300
+不  这只是末日的前兆
+No. That was just the beginning of the end.
+
+360
+00:36:33,300 --> 00:36:35,740
+真正的末日还在后头
+The end of the end is still coming.
+
+361
+00:36:35,740 --> 00:36:38,250
+小伊  把他放下
+Eep. Drop it.
+
+362
+00:36:41,080 --> 00:36:42,770
+我们不能让他跑了
+We can't let him go!
+
+363
+00:36:42,770 --> 00:36:45,810
+要是日落前没找到洞穴怎么办
+What if we don't find a cave before sunset?
+
+364
+00:36:46,210 --> 00:36:48,070
+要是得找上好几天怎么办
+What if it takes a few days?
+
+365
+00:36:48,690 --> 00:36:51,110
+要是那群鸟又来了怎么办
+What if the birds come back?
+
+366
+00:36:52,680 --> 00:36:55,080
+我们需要他的火  笨蛋
+We need his fire, dummy!
+
+367
+00:36:56,530 --> 00:36:59,780
+好吧  你就待到我们找到洞穴为止
+Fine. You're staying with us until we find a cave.
+
+368
+00:36:59,800 --> 00:37:03,220
+什么  我不要  我不要掺进来
+What? No, I'm not! Don’t make me part of this.
+
+369
+00:37:03,440 --> 00:37:05,240
+你们想留下就留下  但是放我走
+Stay here if you want, but let me go.
+
+370
+00:37:05,240 --> 00:37:06,960
+我还有梦想  有使命
+I've got a dream, a mission,
+
+371
+00:37:06,960 --> 00:37:08,460
+有活下去的理由
+a reason to live!
+
+372
+00:37:08,460 --> 00:37:09,690
+现在没了
+Not anymore!
+
+373
+00:37:10,810 --> 00:37:13,550
+我有个主意  我们去那座山上吧
+I've got an idea. Let's go to that Mountain.
+
+374
+00:37:14,000 --> 00:37:18,110
+-太远了  -我爸一心只想要找洞穴
+- It's too far. - Dad really has his heart set on a cave.
+
+375
+00:37:19,020 --> 00:37:21,330
+山上也有洞穴
+There are caves on that Mountain.
+
+376
+00:37:21,330 --> 00:37:22,590
+你去过了
+Have you been there?
+
+377
+00:37:22,590 --> 00:37:24,020
+那是座山
+It's a mountain.
+
+378
+00:37:24,210 --> 00:37:26,430
+山上很安全  山上有洞穴
+Mountains are safe. Mountains have caves.
+
+379
+00:37:26,610 --> 00:37:28,850
+有水  有树枝
+Water. Sticks.
+
+380
+00:37:28,950 --> 00:37:30,410
+妈妈  你听见没
+Mom, did you hear that?
+
+381
+00:37:30,410 --> 00:37:31,470
+我可以有自己的树枝了
+I can get my own stick!
+
+382
+00:37:31,470 --> 00:37:33,280
+是的  树枝  还有洞穴
+Yes. Sticks. And caves.
+
+383
+00:37:33,280 --> 00:37:35,330
+洞穴跟树枝  好多树枝呢  走吧
+Caves and sticks. Crazy sticks. Let's go.
+
+384
+00:37:36,180 --> 00:37:37,130
+别吵
+Quiet!
+
+385
+00:37:48,090 --> 00:37:49,510
+那玩意真奇怪
+That thing is weird.
+
+386
+00:37:51,340 --> 00:37:53,420
+不不不  没事  仙蒂
+No. No. No. It's okay, Sandy.
+
+387
+00:37:53,420 --> 00:37:54,940
+那是只皮带猴
+That's just a belt.
+
+388
+00:37:58,810 --> 00:38:02,960
+我决定了  我们要去那座山
+I've made a decision. We're going to that Mountain!
+
+389
+00:38:03,310 --> 00:38:05,760
+别问为什么  我只是有预感
+Don't ask me why. It's just a hunch.
+
+390
+00:38:05,900 --> 00:38:08,710
+-跟着感觉走  -我不知道  阿瓜
+- It just feels right. - I don't know, Grug.
+
+391
+00:38:08,740 --> 00:38:10,790
+我们可从来没走过这么远
+We've never really walked that far.
+
+392
+00:38:10,790 --> 00:38:12,800
+我的脚可受不了
+I don't think my feet can do that.
+
+393
+00:38:12,800 --> 00:38:15,640
+我可活不到走到的那一天
+I'll never live long enough to get there.
+
+394
+00:38:16,610 --> 00:38:17,920
+那我们走吧
+Let's do it.
+
+395
+00:38:18,720 --> 00:38:21,050
+来吧  你们想一想
+Oh, come on, just think.
+
+396
+00:38:21,050 --> 00:38:22,570
+我们全家人一起
+Our whole family, packed together
+
+397
+00:38:22,570 --> 00:38:25,250
+来一次周游各地的长途旅行
+on a long, slow trip across the country?
+
+398
+00:38:25,280 --> 00:38:27,420
+从早到晚都待在一起
+Days and nights with just each other?
+
+399
+00:38:27,460 --> 00:38:29,180
+一路讲故事  开怀大笑
+We'll tell stories. We'll laugh.
+
+400
+00:38:30,370 --> 00:38:32,860
+一家人的感情会更好
+We'll become closer as a family.
+
+401
+00:38:36,170 --> 00:38:36,850
+弄走她  弄走她
+Get her off! Get her off!
+
+402
+00:38:36,850 --> 00:38:38,190
+要是你没作好挑战她的准备
+If you're not ready to challenge her,
+
+403
+00:38:38,190 --> 00:38:39,550
+那就别直视她的眼睛
+then don't look her in the eye.
+
+404
+00:38:39,550 --> 00:38:40,680
+你的大粗胳膊
+Could you keep your big giant arms
+
+405
+00:38:40,740 --> 00:38:42,240
+能老实点吗
+on your side of the trail?
+
+406
+00:38:42,560 --> 00:38:45,950
+是不是很有趣  我们第一次一起旅行
+Isn't this fun? We're taking our first trip together.
+
+407
+00:38:46,560 --> 00:38:48,230
+别推我  不然我拔掉你舌头
+Stop shoving, or I will pull out your tongue!
+
+408
+00:38:48,230 --> 00:38:50,710
+你们想尝尝我的拳头吗  想吗
+Do you want me to turn this family around? Do you?
+
+409
+00:38:50,710 --> 00:38:53,600
+我已经准备好胖揍你们一顿了
+Because I will turn this family around so fast!
+
+410
+00:38:53,600 --> 00:38:56,990
+-爸爸  我憋不住了  -你可以的
+- Dad, I gotta go! - Come on, you can hold it.
+
+411
+00:38:57,870 --> 00:38:59,450
+仙蒂  快把那东西吐出来
+Sandy, take that out of your mouth.
+
+412
+00:39:01,290 --> 00:39:03,610
+-我还是憋不住  -好吧
+- I still gotta go! - Fine.
+
+413
+00:39:04,060 --> 00:39:05,680
+-别闹了  -快去快回
+- Quit it! - Just make it fast.
+
+414
+00:39:06,270 --> 00:39:08,250
+-有东西咬我  -那是你活该
+- Something bit me! - I don't blame it!
+
+415
+00:39:08,250 --> 00:39:11,780
+-爸爸  能让我扛他吗  -不行
+- Dad, can I take a turn carrying him? - No.
+
+416
+00:39:11,830 --> 00:39:13,410
+-现在呢  -不行
+- What about now? - No!
+
+417
+00:39:13,410 --> 00:39:14,820
+-现在呢  -不行
+- Now? - No!
+
+418
+00:39:14,820 --> 00:39:18,290
+-现在呢  -我能扛一整天
+- Now? - I can do this all day long.
+
+419
+00:39:18,410 --> 00:39:21,840
+不行  不行  就是不行
+No, no, no, and still no!
+
+420
+00:39:21,840 --> 00:39:24,530
+我不要做个饿死鬼
+I'm not dying on an empty stomach.
+
+421
+00:39:24,920 --> 00:39:26,520
+阿瓜  我们都很累了
+Grug, we're all pretty tired.
+
+422
+00:39:26,520 --> 00:39:29,670
+-到了我们就吃东西  -老娘等不及了
+- We'll eat when we get there. - It's taking too long!
+
+423
+00:39:29,680 --> 00:39:31,630
+我先吃点零食
+I'm grabbing a snack.
+
+424
+00:39:32,390 --> 00:39:34,940
+别这样  他会砍你的  这不是食物
+Don't do that! He will cut you. That's not food,
+
+425
+00:39:34,940 --> 00:39:36,260
+他是我的宠物
+he's a pet. My pet.
+
+426
+00:39:36,260 --> 00:39:39,070
+-宠物是什么  -就是不能吃的动物
+- What's a pet? - An animal you don't eat.
+
+427
+00:39:39,500 --> 00:39:41,710
+我们管那种东西叫小孩
+We call those children.
+
+428
+00:39:42,840 --> 00:39:44,610
+人不应该养宠物
+No man should have a pet.
+
+429
+00:39:44,610 --> 00:39:46,390
+不仅奇怪  而且不对
+It's weird. And wrong.
+
+430
+00:39:46,640 --> 00:39:49,170
+-那是...食物  -不  求你了
+- It's... food! - No, no, please!
+
+431
+00:39:49,170 --> 00:39:51,040
+不是它  是它
+Not that. That!
+
+432
+00:39:52,580 --> 00:39:54,120
+食物能解决任何问题
+Food fixes everything.
+
+433
+00:39:54,120 --> 00:39:56,280
+好了  进入狩猎状态
+All right, show me your hunting face.
+
+434
+00:39:58,210 --> 00:39:59,770
+不是你  你还在禁闭中
+Not you! You're still grounded.
+
+435
+00:39:59,770 --> 00:40:00,990
+来吧  桑克
+Come on, Thunk.
+
+436
+00:40:01,320 --> 00:40:02,550
+我的脚好痛
+My feet hurt.
+
+437
+00:40:09,470 --> 00:40:11,210
+-你看着很紧张  -我没有
+- You look tense. - I'm not tense.
+
+438
+00:40:11,720 --> 00:40:14,500
+想要被"狩猎"的愤怒女孩
+Angry girl who wants to be doing what they're doing.
+
+439
+00:40:15,660 --> 00:40:16,760
+我还没准备好
+I wasn't ready.
+
+440
+00:40:18,010 --> 00:40:19,890
+坚持住  桑克  我来了
+Hang on, Thunk. I'm coming.
+
+441
+00:40:20,050 --> 00:40:21,340
+你干吗追着我不放
+Why are you doing this?
+
+442
+00:40:23,060 --> 00:40:25,240
+-他们在干嘛  -狩猎
+- What are they doing? - Hunting.
+
+443
+00:40:26,510 --> 00:40:27,800
+离我远点
+You stay away from me!
+
+444
+00:40:27,820 --> 00:40:29,210
+不  说真的  他们在干嘛
+No, seriously, what are they doing?
+
+445
+00:40:29,210 --> 00:40:32,500
+你有那么多蛋  再生一个不行吗
+You're got a ton of eggs. Just make another egg!
+
+446
+00:40:46,960 --> 00:40:48,720
+你这是落井下石
+Now you're just rubbing it in.
+
+447
+00:40:50,390 --> 00:40:53,540
+来  谁想要吃蝎子
+There. Who is hungry for scorpion?
+
+448
+00:40:56,030 --> 00:40:58,530
+那只鸟和那颗蛋怎么了
+What happened to the egg and the bird?
+
+449
+00:40:58,840 --> 00:41:00,030
+没抓住  可是
+You know, we lost 'em. But,
+
+450
+00:41:00,040 --> 00:41:01,360
+那只鸟踩在我身上
+when the bird stepped on me
+
+451
+00:41:01,360 --> 00:41:02,990
+把我推到在地的时候
+and pushed me into the ground,
+
+452
+00:41:02,990 --> 00:41:04,460
+这只蝎子给我垫背了
+the scorpion grabbed a hold of me,
+
+453
+00:41:04,470 --> 00:41:06,560
+塞翁失马焉知非福
+and you know, one thing led to another
+
+454
+00:41:06,560 --> 00:41:07,810
+所以他就成了我们的盘中餐
+and here we are, eating him.
+
+455
+00:41:07,890 --> 00:41:09,720
+-一箭双雕  -不够吃
+- So, win-win. - Not enough.
+
+456
+00:41:09,720 --> 00:41:11,800
+不够啊  我还要吃
+Not enough. I need more.
+
+457
+00:41:11,810 --> 00:41:14,520
+我还要
+I need more!
+
+458
+00:41:14,560 --> 00:41:15,640
+你们看她
+Oh, look at that.
+
+459
+00:41:15,650 --> 00:41:17,640
+她不会真吃掉我吧
+She's not gonna eat me, right?
+
+460
+00:41:17,640 --> 00:41:18,700
+你身上没肉
+You're too skinny.
+
+461
+00:41:18,700 --> 00:41:21,050
+她要吃也是吃...
+If she was going to eat anyone, it would be...
+
+462
+00:41:21,790 --> 00:41:23,900
+妈呀  她死活不松口
+Mom! She locked her jaw!
+
+463
+00:41:28,290 --> 00:41:31,390
+走开  你个老不死的变态
+Stay away! You sick old monster!
+
+464
+00:41:31,390 --> 00:41:32,980
+快点  把棍子塞进她嘴里
+Hurry! Put the stick in her mouth!
+
+465
+00:41:34,970 --> 00:41:37,070
+稳住她  用石头
+Hold her still. Use a rock.
+
+466
+00:41:39,260 --> 00:41:40,880
+你能直接敲她腿吗
+Would you just hit her legs?
+
+467
+00:41:41,780 --> 00:41:42,790
+你怎么滚到这里来了
+Why are you rolling away?
+
+468
+00:41:42,790 --> 00:41:45,220
+我只是想找吃的
+I just want something to eat!
+
+469
+00:41:45,220 --> 00:41:48,620
+不是有虫子吃吗  那么多
+You had bug for dinner. Plenty of bug!
+
+470
+00:41:48,660 --> 00:41:52,110
+拜托  我会让你帮我狩猎
+Please! I'll let you help me hunt.
+
+471
+00:41:52,110 --> 00:41:52,970
+真的吗
+Really?
+
+472
+00:41:54,180 --> 00:41:55,460
+别管我了
+Don't wait on me!
+
+473
+00:41:56,700 --> 00:41:58,230
+记得宣传我生前事迹
+Tell my story.
+
+474
+00:42:05,060 --> 00:42:06,030
+行了
+Okay.
+
+475
+00:42:07,610 --> 00:42:10,060
+-这个叫什么  -陷阱
+- What do you call this? - A trap.
+
+476
+00:42:10,200 --> 00:42:11,970
+-这干什么的  -看着
+- What is the deal? - Well...
+
+477
+00:42:21,400 --> 00:42:23,310
+你一个人过多久了
+How long have you been alone?
+
+478
+00:42:27,900 --> 00:42:29,820
+那我们要做什么
+So what do we do?
+
+479
+00:42:31,050 --> 00:42:32,410
+你的演技如何
+How's your acting?
+
+480
+00:42:58,360 --> 00:42:59,820
+你很擅长这个啊
+You're good at this.
+
+481
+00:43:03,900 --> 00:43:06,840
+不对  抱歉  不是  就这样
+No, Sorry. No. Okay.
+
+482
+00:43:06,900 --> 00:43:07,990
+不好意思
+Excuse me.
+
+483
+00:43:11,080 --> 00:43:11,850
+那是我的手臂  是...
+That's my arm! That's...
+
+484
+00:43:11,850 --> 00:43:13,070
+好  我拿出来
+Okay, I'm moving it...
+
+485
+00:43:25,050 --> 00:43:27,900
+它没踩到你设的陷阱
+It didn't step on your trap-y thing.
+
+486
+00:43:27,900 --> 00:43:31,130
+是  我发现了
+Yeah, I noticed!
+
+487
+00:43:34,690 --> 00:43:35,890
+小伊去哪儿了
+Where's Eep?
+
+488
+00:43:42,540 --> 00:43:44,090
+她好厉害
+She's awesome.
+
+489
+00:43:45,490 --> 00:43:46,460
+小伊
+Eep!
+
+490
+00:43:47,090 --> 00:43:48,080
+老爸  别
+Dad, no!
+
+491
+00:43:59,830 --> 00:44:01,740
+真是一顿饕餮大餐
+It's an avalanche of flavor!
+
+492
+00:44:29,860 --> 00:44:31,860
+看样子是不会剩了
+Looks like we won't have any leftovers.
+
+493
+00:44:31,880 --> 00:44:33,530
+剩是什么意思
+What are leftovers?
+
+494
+00:44:33,530 --> 00:44:34,930
+食物太多吃不完
+You know, when you have so much food to eat,
+
+495
+00:44:34,930 --> 00:44:36,000
+就是剩了
+you have some left over.
+
+496
+00:44:36,000 --> 00:44:38,400
+我们从来都没弄到过那么多食物
+Well, we never have that much food.
+
+497
+00:44:51,350 --> 00:44:53,350
+阿瓜  来讲个故事吧
+Grug, how about a story?
+
+498
+00:44:53,500 --> 00:44:56,460
+这主意不错  有人要听故事吗
+That's a good idea. How about a story, huh?
+
+499
+00:44:56,460 --> 00:44:58,280
+太好了  快给我们讲故事吧
+Yeah, a story! Tell us a story!
+
+500
+00:45:01,160 --> 00:45:04,520
+很久以前  有只小老虎
+Once upon a time, there was a little tiger
+
+501
+00:45:04,790 --> 00:45:07,360
+和家人住在山洞里
+who lived in a cave with her family.
+
+502
+00:45:07,580 --> 00:45:08,750
+家里有很多规矩
+There were a lot of rules,
+
+503
+00:45:08,750 --> 00:45:10,880
+但最重要最简单的一条就是
+but the big, simple one was
+
+504
+00:45:10,880 --> 00:45:13,900
+晚上不准离开山洞
+to never leave the cave at night.
+
+505
+00:45:13,940 --> 00:45:15,690
+她家的门十分沉重
+And the door was so heavy,
+
+506
+00:45:15,690 --> 00:45:18,690
+还以为这样就能让她记住了
+you think it would be easy to remember.
+
+507
+00:45:18,700 --> 00:45:21,310
+-确实很容易记住  -可不是
+- So easy to remember. - I know.
+
+508
+00:45:22,380 --> 00:45:24,760
+但是当大家都睡着了以后
+But while everyone was asleep,
+
+509
+00:45:24,890 --> 00:45:26,260
+她还是跑出去了
+she went out anyway.
+
+510
+00:45:26,260 --> 00:45:27,930
+-不是吧  -还真是
+- No! - Yes!
+
+511
+00:45:27,930 --> 00:45:30,850
+她前脚刚走  她家的山洞就被毁了
+And no sooner than she did, her cave was destroyed
+
+512
+00:45:30,860 --> 00:45:33,700
+全家人只得走上这长长的恼人旅程
+and everyone had to go on this long, sucky walk,
+
+513
+00:45:33,700 --> 00:45:35,420
+路上还碰到了一个怪人
+with some weirdo they met,
+
+514
+00:45:35,430 --> 00:45:36,530
+然后
+and...
+
+515
+00:45:36,600 --> 00:45:37,760
+死了
+died!
+
+516
+00:45:39,010 --> 00:45:39,990
+讲完了
+The end.
+
+517
+00:45:41,560 --> 00:45:43,390
+我没想到会这样结束
+I did not see that coming,
+
+518
+00:45:43,390 --> 00:45:45,060
+结局太反转了
+twist ending.
+
+519
+00:45:45,060 --> 00:45:46,750
+我的故事是不会就这样潦草结束的
+My stories never end like that.
+
+520
+00:45:46,750 --> 00:45:48,990
+太好了  一晚上俩故事
+Yes! Two stories in one night!
+
+521
+00:45:57,930 --> 00:46:01,030
+好吧  但没有阿瓜的那么精彩
+Okay, but it won't be as good as Grug's.
+
+522
+00:46:05,380 --> 00:46:09,170
+很久以前  有只美丽的老虎
+Once upon a time, there was a beautiful tiger.
+
+523
+00:46:09,700 --> 00:46:12,290
+她和家人住在一个山洞里
+She lived in a cave with the rest of her family.
+
+524
+00:46:12,690 --> 00:46:14,370
+她爸妈说
+Her father and mother told her:
+
+525
+00:46:14,370 --> 00:46:16,430
+你想去哪儿就去哪儿
+"You may go anywhere you want,
+
+526
+00:46:16,620 --> 00:46:19,100
+但千万不要靠近悬崖
+but never go near the cliff,
+
+527
+00:46:19,110 --> 00:46:20,180
+不然会掉下去
+for you could fall."
+
+528
+00:46:20,180 --> 00:46:22,610
+摔死  这故事真好
+And die. Good story.
+
+529
+00:46:23,650 --> 00:46:25,090
+但她趁没人注意的时候
+But when no one was looking,
+
+530
+00:46:27,890 --> 00:46:29,390
+跑到了悬崖边
+she go near the cliff,
+
+531
+00:46:30,330 --> 00:46:32,190
+越靠近悬崖
+for the closer she came to the edge,
+
+532
+00:46:32,320 --> 00:46:33,690
+她听到的越多
+the more she could hear,
+
+533
+00:46:34,020 --> 00:46:35,450
+看到的越多
+the more she could see,
+
+534
+00:46:36,100 --> 00:46:37,450
+感受到的也就越多
+and the more she could feel.
+
+535
+00:46:40,110 --> 00:46:43,910
+最后她站在悬崖边
+Finally she stood at the very edge,
+
+536
+00:46:44,750 --> 00:46:46,340
+看见了一道光
+and she saw a light.
+
+537
+00:46:46,740 --> 00:46:49,510
+她探身去触碰
+She leaned out to touch it,
+
+538
+00:46:50,230 --> 00:46:51,280
+但脚下一滑
+and she slipped.
+
+539
+00:46:51,730 --> 00:46:52,850
+掉了下去
+And she fell.
+
+540
+00:46:53,470 --> 00:46:55,030
+然后她飞了起来
+And she flew.
+
+541
+00:46:57,620 --> 00:46:59,020
+她飞去了哪里
+Where did she fly?
+
+542
+00:46:59,460 --> 00:47:01,740
+-明天  -明天?
+- Tomorrow. - Tomorrow?
+
+543
+00:47:02,170 --> 00:47:04,980
+在那里  天空中的星星多得数不清
+A place with more suns in the sky than you can count.
+
+544
+00:47:04,980 --> 00:47:06,420
+那会很明亮啊
+It would be so bright.
+
+545
+00:47:06,420 --> 00:47:09,260
+那里不像今天亦或昨天
+A place not like today, or yesterday.
+
+546
+00:47:09,590 --> 00:47:12,370
+那里的一切都更美好
+A place where things are better.
+
+547
+00:47:14,090 --> 00:47:15,590
+明天又不是个地方
+Tomorrow isn't a place.
+
+548
+00:47:15,590 --> 00:47:16,790
+它是...是...是...
+It's... It's... It's...
+
+549
+00:47:16,790 --> 00:47:18,260
+是看不见的  
+You can't see it!
+
+550
+00:47:18,260 --> 00:47:22,100
+能看到的  我看见过
+Oh, yes, yes it is. I've seen it.
+
+551
+00:47:24,790 --> 00:47:26,510
+那就是我要去的地方
+That's where I'm going.
+
+552
+00:47:36,510 --> 00:47:40,550
+行了  该去睡觉了
+Well, we are going to shut our eyes and sleep.
+
+553
+00:47:41,110 --> 00:47:42,520
+醒了以后  我们就去找
+And when we wake up, we're going to find
+
+554
+00:47:42,520 --> 00:47:44,660
+找那个什么都有的地方
+the place that has everything we want.
+
+555
+00:47:44,660 --> 00:47:46,670
+-找"明天"吗  -找山洞
+- Tomorrow? - A cave.
+
+556
+00:48:25,970 --> 00:48:28,100
+太险了  我们差点就死了
+That was too close. It almost caught us.
+
+557
+00:48:28,100 --> 00:48:30,020
+有我看着呢  没事
+I was watching. We were fine.
+
+558
+00:48:30,020 --> 00:48:31,220
+反正我们得快点走了
+Well, we're got to move faster.
+
+559
+00:48:31,220 --> 00:48:34,520
+你们能别一直用徘徊的速度吗
+You people have any other speed aside from wander?
+
+560
+00:48:34,520 --> 00:48:36,670
+怎么着也得达到散步的速度吧
+I'll take a shamble, at this point.
+
+561
+00:48:36,670 --> 00:48:38,610
+你有时间吗
+Hey, do you have a minute?
+
+562
+00:48:38,870 --> 00:48:40,850
+那只老虎是怎么飞的
+How did the tiger fly?
+
+563
+00:48:40,850 --> 00:48:43,380
+把我放出来我才会说
+I only share when I'm outside the log.
+
+564
+00:48:43,630 --> 00:48:44,810
+那样我才有激情
+I'm funny that way.
+
+565
+00:48:44,820 --> 00:48:47,440
+看我的吧
+Leave this to me.
+
+566
+00:48:48,950 --> 00:48:51,970
+桑克  你脸上有只蜘蛛
+Hey, Thunk, you have a spider on your face.
+
+567
+00:48:55,960 --> 00:48:57,390
+他跑掉了
+He's loose!
+
+568
+00:49:02,050 --> 00:49:05,870
+别去踩那些奇怪的尖石头
+Do not step on those weird, pointy rocks!
+
+569
+00:49:05,870 --> 00:49:07,070
+你是说这些石头吗
+You mean these rocks?
+
+570
+00:49:08,360 --> 00:49:10,120
+千万不要踩  
+Do not step on these rocks!
+
+571
+00:49:10,120 --> 00:49:11,800
+走开  娘炮
+Step aside, girl.
+
+572
+00:49:14,110 --> 00:49:15,970
+喂  为什么没人肯听我的
+Hello? Is that... nobody's listening!
+
+573
+00:49:15,970 --> 00:49:19,230
+都没长耳朵吗  根本没法在上面走路
+No one is listening! You cannot walk on those!
+
+574
+00:49:32,220 --> 00:49:34,550
+回来  马上给我回来
+Get back here, get back here now!
+
+575
+00:49:34,880 --> 00:49:37,690
+我们的救星跑掉了
+Well, there goes our chance for survival.
+
+576
+00:49:37,690 --> 00:49:39,290
+木头也没了
+And our log!
+
+577
+00:49:40,530 --> 00:49:41,440
+好吧
+Okay!
+
+578
+00:50:01,970 --> 00:50:04,580
+跳着走也不行  能好一点
+Jumping doesn't help. I mean, just briefly,
+
+579
+00:50:04,900 --> 00:50:05,950
+但还是很疼的
+but it doesn't get any better!
+
+580
+00:50:09,210 --> 00:50:10,810
+行了  不要用爬的
+Okay. Do not walk on your hands.
+
+581
+00:50:10,820 --> 00:50:12,580
+爬着走也不行
+The hands do not help at all!
+
+582
+00:50:23,260 --> 00:50:24,430
+我可以帮忙
+I can help you,
+
+583
+00:50:24,860 --> 00:50:26,360
+但我们的规矩
+but we're going to have to make
+
+584
+00:50:26,360 --> 00:50:27,360
+得改改了
+a few changes around here.
+
+585
+00:50:27,720 --> 00:50:31,000
+不准把我装在木头里了  把它扔掉
+The log ride is over. Drop the log.
+
+586
+00:50:35,380 --> 00:50:37,400
+现在把它踢走
+Now kick it away.
+
+587
+00:50:40,510 --> 00:50:41,740
+踢远点儿
+Farther.
+
+588
+00:50:46,750 --> 00:50:47,740
+玩真的
+Really?
+
+589
+00:50:48,700 --> 00:50:51,650
+行了  聪明的...盖伊
+Okay, smart... Guy.
+
+590
+00:50:52,020 --> 00:50:53,230
+现在要怎样
+Now what?
+
+591
+00:51:07,750 --> 00:51:09,170
+乖乖鱼  乖乖鱼
+Good fish, good fish.
+
+592
+00:51:13,460 --> 00:51:15,480
+好了  现在可以看了
+Okay, now you can look.
+
+593
+00:51:20,330 --> 00:51:21,890
+爱死了
+I love them!
+
+594
+00:51:22,130 --> 00:51:24,030
+-我的脚呢  -还在呢
+- But where are my feet? - They're still there.
+
+595
+00:51:25,180 --> 00:51:26,120
+那好
+Okay.
+
+596
+00:51:28,670 --> 00:51:30,860
+-你好重啊  -真的吗
+- You're really heavy. - Really?
+
+597
+00:51:31,260 --> 00:51:32,530
+谢谢夸奖
+Thank you.
+
+598
+00:51:33,600 --> 00:51:35,290
+等等
+Hey, hey wait, wait!
+
+599
+00:51:38,950 --> 00:51:40,860
+行了  她起来了
+Okay, she's up.
+
+600
+00:51:40,860 --> 00:51:41,810
+我们都没事  没事了
+We're good. I'm good.
+
+601
+00:51:41,810 --> 00:51:45,590
+这些鞋子太棒了  你怎么想到的
+Oh, these shoes are great! Where do you get these ideas?
+
+602
+00:51:49,400 --> 00:51:51,770
+这个叫做大脑
+I'm calling it a brain.
+
+603
+00:51:52,000 --> 00:51:54,190
+想法都是从这里产生的
+I'm pretty sure it's where ideas come from.
+
+604
+00:51:54,190 --> 00:51:56,760
+爸  我没有大脑
+Dad, I don't have a brain.
+
+605
+00:51:57,610 --> 00:52:00,750
+就算没有大脑  我们也生活得很好
+We've gotten along just fine without brains until now.
+
+606
+00:52:00,750 --> 00:52:02,770
+原始人不需要大脑
+Cavemen don't need brains.
+
+607
+00:52:02,780 --> 00:52:04,420
+有这些就够了
+We have these.
+
+608
+00:52:05,090 --> 00:52:08,560
+就是这样  懦夫才会诡计多端
+That's I'm talking about! Ideas are for weaklings!
+
+609
+00:52:08,560 --> 00:52:10,860
+现在  让我们朝那座山迈进吧
+Now let's get to that Mountain.
+
+610
+00:52:13,960 --> 00:52:16,710
+这鞋子太棒了
+Oh, wow, I love those.
+
+611
+00:52:16,810 --> 00:52:18,700
+乖乖鱼  别吃我的脚脚
+Good fish, don't eat my feet.
+
+612
+00:52:55,530 --> 00:52:58,430
+老虎到底是怎么飞的
+So, how did the tiger fly?
+
+613
+00:52:58,500 --> 00:53:00,080
+她跳上了太阳
+She jumped on the sun,
+
+614
+00:53:00,560 --> 00:53:02,070
+骑着它到了明天
+and rode it to Tomorrow.
+
+615
+00:53:04,180 --> 00:53:05,800
+不不不
+No, no, no, no!
+
+616
+00:53:38,670 --> 00:53:39,890
+老爸你好
+Hi, Dad!
+
+617
+00:53:41,190 --> 00:53:42,520
+老爸再见
+Bye, Dad.
+
+618
+00:53:47,570 --> 00:53:50,330
+你们之前见过雨吧  
+You've seen rain before, right?
+
+619
+00:53:50,330 --> 00:53:52,600
+我们很少出门的
+We don't get out much.
+
+620
+00:54:13,520 --> 00:54:15,360
+小伊  这个看着不安全
+Eep, looks dangerous.
+
+621
+00:54:16,040 --> 00:54:18,080
+老爸  你看什么都危险
+Dad, you say that about everything.
+
+622
+00:54:18,410 --> 00:54:20,750
+-当心  -是吗  那好吧
+- Careful. - Oh, really? Okay.
+
+623
+00:54:54,970 --> 00:54:57,510
+不不不  不可以  不可以
+No, no, no! Not cool! Not cool!
+
+624
+00:54:57,510 --> 00:54:58,690
+不可以
+Not cool!
+
+625
+00:55:18,480 --> 00:55:20,360
+那只熊说  你的洞吗
+The bear says: "Your cave?
+
+626
+00:55:20,370 --> 00:55:22,780
+我从上周开始就把自己的骨头扔在这了
+I've been dumping my bones here since last week."
+
+627
+00:55:24,720 --> 00:55:26,120
+这故事很有趣
+That's a funny story!
+
+628
+00:55:26,120 --> 00:55:28,520
+这不是故事  是笑话
+It's not a story, it's a joke.
+
+629
+00:55:28,520 --> 00:55:30,000
+笑话是什么
+What's a joke?
+
+630
+00:55:30,000 --> 00:55:31,400
+就是瞎编出来
+You know, just making something up,
+
+631
+00:55:31,400 --> 00:55:33,260
+让人发笑的东西
+to make you laugh.
+
+632
+00:55:37,720 --> 00:55:39,480
+-拿着  给你一个  -谢谢
+- Here you go. One for you. - Thanks.
+
+633
+00:55:39,490 --> 00:55:42,210
+给你一个  还有一个给你
+One for you, and this one's for you...
+
+634
+00:55:42,930 --> 00:55:46,110
+行了行了  够了
+Okay. Okay. That's enough.
+
+635
+00:55:47,730 --> 00:55:49,740
+为什么孩子们也要每人拿一个海螺
+I don't see why the kids need their own shells.
+
+636
+00:55:49,740 --> 00:55:50,750
+如果有人出事了
+So if anyone gets in trouble,
+
+637
+00:55:50,750 --> 00:55:51,910
+就用这个呼叫其他人
+we can call the others.
+
+638
+00:55:51,910 --> 00:55:54,670
+等下  你是说我们要分头行动吗
+Wait, you're saying we should split up?
+
+639
+00:55:54,670 --> 00:55:56,550
+这样就能同时尝试多条路径了
+We can try more paths at once.
+
+640
+00:55:56,550 --> 00:55:58,050
+这是最快捷有效的方式
+It's the fastest way through.
+
+641
+00:55:58,050 --> 00:55:59,180
+克鲁德一家永远不分离
+The Croods stick together.
+
+642
+00:55:59,180 --> 00:56:00,650
+你的方法不安全
+Your way isn't safe.
+
+643
+00:56:00,650 --> 00:56:03,060
+-他们可以  -我们可以  老爸  
+- They can handle it. -We can do it, Dad.
+
+644
+00:56:03,060 --> 00:56:05,100
+不不不不
+No, no, no, no, no.
+
+645
+00:56:05,100 --> 00:56:07,120
+保护你们的安全是我的责任
+It's my job to keep you safe.
+
+646
+00:56:07,120 --> 00:56:08,100
+这里还是我说了算
+ I'm still in charge,
+
+647
+00:56:08,100 --> 00:56:10,290
+我们不能分开
+and we are not splitting up.
+
+648
+00:56:11,470 --> 00:56:12,870
+不过你俩可以
+Except for you two.
+
+649
+00:56:13,300 --> 00:56:14,370
+就这么决定了
+And that's final.
+
+650
+00:56:34,210 --> 00:56:37,310
+人呢  人呢  你们都还好吧
+Hello? Hello? Is everyone all right?
+
+651
+00:56:37,990 --> 00:56:39,420
+我们没事  阿瓜  
+We're okay, Grug!
+
+652
+00:56:39,420 --> 00:56:41,700
+老爸  我有点害怕
+Dad, I'm freaking out a little bit.
+
+653
+00:56:41,700 --> 00:56:42,730
+告诉我该怎么做
+Just tell me what to do.
+
+654
+00:56:42,730 --> 00:56:44,290
+我现在要怎么办  怎么办
+Just what do I do? What do I do right now?
+
+655
+00:56:44,300 --> 00:56:46,410
+原地不动  我会找到你的
+Stay where you are! I'll find you.
+
+656
+00:56:46,410 --> 00:56:48,190
+不  太慢了
+No! Too slow.
+
+657
+00:56:48,190 --> 00:56:51,190
+所有人都往前走  我们会走出去的
+Everybody, keep moving forward and we'll get out.
+
+658
+00:56:51,190 --> 00:56:52,170
+老爸
+Dad?
+
+659
+00:56:54,300 --> 00:56:57,110
+是的  好吧
+Yeah. Okay.
+
+660
+00:56:57,500 --> 00:57:00,160
+记住  千万不要害怕
+Remember, never not be afraid.
+
+661
+00:57:00,160 --> 00:57:01,720
+你可以的
+You can do this!
+
+662
+00:57:02,400 --> 00:57:04,060
+没事的  没事的
+It's gonna be okay, it's gonna be okay.
+
+663
+00:57:04,670 --> 00:57:05,950
+我要晕过去了
+I'm gonna pass out.
+
+664
+00:57:08,440 --> 00:57:09,650
+仙蒂 仙蒂
+Sandy! Sandy!
+
+665
+00:59:00,010 --> 00:59:01,190
+再给我一朵
+Give me another one.
+
+666
+00:59:05,260 --> 00:59:06,550
+你掉东西了
+You dropped these.
+
+667
+00:59:40,090 --> 00:59:41,240
+跟我走
+Come with me.
+
+668
+00:59:44,450 --> 00:59:46,100
+狗狗  抓住它
+Here, boy, catch!
+
+669
+00:59:50,160 --> 00:59:51,280
+外婆
+Gran?
+
+670
+00:59:54,190 --> 00:59:55,160
+妈
+Mom?
+
+671
+00:59:58,180 --> 00:59:59,140
+阿瓜
+Grug?
+
+672
+01:00:07,520 --> 01:00:08,680
+我去接他
+I'll go get him.
+
+673
+01:00:15,770 --> 01:00:17,790
+好狗狗  谁是我的好狗狗
+Good boy. Who's my good boy?
+
+674
+01:00:17,790 --> 01:00:19,930
+是你  就是你  看看你
+You are. Yes, you are. Look at you.
+
+675
+01:00:19,930 --> 01:00:21,640
+想要个名字吗  给你取个名字吧
+You need a name? You want a name?
+
+676
+01:00:21,900 --> 01:00:23,590
+就叫你道格拉斯吧
+I'm going to call you Douglas.
+
+677
+01:00:23,990 --> 01:00:25,170
+你能做动作吗
+Can you do tricks?
+
+678
+01:00:25,260 --> 01:00:26,150
+翻身
+Roll over.
+
+679
+01:00:26,290 --> 01:00:27,770
+来  道格拉斯  翻身
+Come on, Douglas. Roll over.
+
+680
+01:00:33,250 --> 01:00:34,890
+好狗狗  道格拉斯
+Good boy, Douglas!
+
+681
+01:00:38,820 --> 01:00:41,910
+我曾经爱上过一个猎人
+I was in love once. He was a hunter.
+
+682
+01:00:42,010 --> 01:00:43,510
+而我是食物收集者
+I was a gatherer.
+
+683
+01:00:43,570 --> 01:00:45,930
+在当时算是件丑闻
+It was quite a scandal.
+
+684
+01:00:46,870 --> 01:00:50,290
+我们喂对方吃浆果  一起跳舞
+We fed each other berries. We danced.
+
+685
+01:00:50,290 --> 01:00:51,950
+然后我爸用石头把他捶成肉泥
+Then my father smashed him with a rock,
+
+686
+01:00:51,950 --> 01:00:53,980
+又把我卖给了你外公
+and traded me to your grandfather.
+
+687
+01:00:58,500 --> 01:01:01,590
+大伙  都下来
+Croods, get down here!
+
+688
+01:01:01,590 --> 01:01:03,440
+阿瓜  他们没事
+Grug, they're okay.
+
+689
+01:01:03,440 --> 01:01:04,390
+有盖伊在呢
+Guy's with them.
+
+690
+01:01:04,390 --> 01:01:07,340
+有盖伊在  好吧
+Oh, Guy's with them. Oh, Okay.
+
+691
+01:01:07,740 --> 01:01:08,950
+那还真是感谢  
+Well, thank you,
+
+692
+01:01:08,950 --> 01:01:12,900
+谢谢你告诉我关于盖伊的有趣近况
+thank you for bringing me that interesting Guy update.
+
+693
+01:01:12,900 --> 01:01:15,100
+好了  我要上去了
+Okay. I'm gonna go up.
+
+694
+01:01:15,100 --> 01:01:16,790
+一起上去吧
+Why don't you join us
+
+695
+01:01:16,790 --> 01:01:19,690
+你就别再拖累大家了
+when you stop being a big drag.
+
+696
+01:01:28,110 --> 01:01:29,380
+来抱团睡觉吧
+Sleep pile?
+
+697
+01:01:33,930 --> 01:01:35,530
+有人听故事吗
+How about a story, huh?
+
+698
+01:01:38,320 --> 01:01:39,420
+有人吗
+Anyone?
+
+699
+01:01:42,190 --> 01:01:46,690
+索科说  "知道  是我画的"
+Then Thork said: "Know it, I drew it."
+
+700
+01:01:51,610 --> 01:01:54,240
+我知道你带着我们走挺麻烦的  但是
+I know it was hard for you to bring us along, but...
+
+701
+01:01:54,880 --> 01:01:57,220
+这些天是他们生命中最多彩的日子
+they had the best day in their lives.
+
+702
+01:01:59,070 --> 01:02:00,710
+谢谢你
+Thank you for that.
+
+703
+01:02:23,760 --> 01:02:25,200
+我带你们看样东西
+I wanna show you something.
+
+704
+01:03:06,850 --> 01:03:09,210
+数都数不清的太阳
+More suns in the sky than you can count.
+
+705
+01:03:09,770 --> 01:03:13,490
+每一颗横跨天空的星星都会在那里休息
+Every sun that crosses our sky comes to rest up there.
+
+706
+01:03:14,230 --> 01:03:17,480
+-明天  -就是可以安身的地方
+- Tomorrow. - That's where we'll be safe.
+
+707
+01:03:18,690 --> 01:03:20,300
+我要跟盖伊一起走  
+I'm going with Guy.
+
+708
+01:03:20,800 --> 01:03:23,170
+不  不要带走我的女儿
+No, not my little girl.
+
+709
+01:03:27,820 --> 01:03:28,950
+跟我们一起走吧
+Come with us.
+
+710
+01:03:29,920 --> 01:03:31,570
+我不能扔下阿瓜
+I can't go without Grug.
+
+711
+01:03:31,570 --> 01:03:34,340
+那你就自己留下吧  我要去
+Well, that makes one of us. Count me in.
+
+712
+01:03:34,340 --> 01:03:35,560
+你说真的  妈妈
+Really? Mom?
+
+713
+01:03:36,170 --> 01:03:38,460
+阿瓜根本不知道怎么保护我们
+Grug has no idea how to protect us.
+
+714
+01:03:38,470 --> 01:03:40,690
+他压根就没主意
+In fact, he has no ideas at all.
+
+715
+01:03:40,690 --> 01:03:43,600
+不会吧  那次他不就...
+No. That's not true. What about that one time he...
+
+716
+01:03:44,490 --> 01:03:47,280
+-他... -面对现实吧
+- He... - Oh, face it.
+
+717
+01:03:47,280 --> 01:03:50,010
+他要能想出个原创的主意
+If he actually had an idea of his own,
+
+718
+01:03:50,150 --> 01:03:53,200
+我就算心肌梗死也值了
+I'd have a heart attack and die!
+
+719
+01:03:58,420 --> 01:04:00,880
+-阿瓜  -老爸  老爸
+- Grug? - Dad? Dad?
+
+720
+01:04:00,880 --> 01:04:04,160
+他那么大块头  怎么就人间蒸发了呢
+He's a big guy. How can he just disappear like that.
+
+721
+01:04:04,270 --> 01:04:08,110
+问问这个丑娘们儿看没看见老爸
+Hey, wait. Let's ask that ugly lady if she's seen Dad.
+
+722
+01:04:09,000 --> 01:04:10,210
+没看见哟
+I haven't seen him.
+
+723
+01:04:11,250 --> 01:04:14,800
+-你在干吗  -我一宿没合眼
+- What are you doing? - Yeah. I was up all night.
+
+724
+01:04:14,800 --> 01:04:17,960
+因为我才思泉涌
+All these ideas kept coming to me.
+
+725
+01:04:18,430 --> 01:04:21,890
+-那是蛇吗  -皮带蛇  升级加强版
+- Is that a snake? - Belt! New and improved!
+
+726
+01:04:23,650 --> 01:04:26,210
+还有自动束腰功能
+It's even self-tightening.
+
+727
+01:04:27,180 --> 01:04:29,120
+你头上那是什么
+What's that on your head?
+
+728
+01:04:29,240 --> 01:04:31,360
+我看叫孤注一掷
+It's called desperation.
+
+729
+01:04:31,360 --> 01:04:33,860
+这叫假发  跟阿瓜谐音
+I call it a 'rug'. Rhymes with Grug.
+
+730
+01:04:33,860 --> 01:04:38,370
+这个叫作坐骑  也跟阿瓜谐音
+And this one. I call it a 'ride'. Rhymes with Grug.
+
+731
+01:04:38,370 --> 01:04:39,140
+并不谐音啊
+That doesn't rhyme.
+
+732
+01:04:39,140 --> 01:04:41,630
+坐这个可比鞋快多了
+It's gonna get us places faster than shoes.
+
+733
+01:04:42,580 --> 01:04:45,300
+来吧  别掉队哦
+Yeah! Try to keep up!
+
+734
+01:04:50,880 --> 01:04:52,520
+我也想有个坐骑
+I wish I had a 'ride'.
+
+735
+01:04:52,900 --> 01:04:55,270
+绘画已经过时了
+Painting is a thing of the past.
+
+736
+01:04:55,270 --> 01:04:58,360
+我给这个起名叫快照
+I call this a 'snapshot'.
+
+737
+01:04:59,470 --> 01:05:01,320
+再来一次  我好像眨眼了
+Let's do it again. I think I blinked.
+
+738
+01:05:02,440 --> 01:05:05,090
+这叫墨镜
+I call them 'shades'.
+
+739
+01:05:05,090 --> 01:05:07,270
+阳光不再刺眼啦
+The sun doesn't hurt my eyes anymore.
+
+740
+01:05:07,270 --> 01:05:08,980
+你哪来的这些好主意
+Where do you get these great ideas?
+
+741
+01:05:08,990 --> 01:05:10,550
+我没有大脑
+Since I don't have a brain,
+
+742
+01:05:10,560 --> 01:05:11,980
+这都是从我胃里出来的
+they're coming from my stomach,
+
+743
+01:05:11,980 --> 01:05:15,530
+在深处发酵  再反刍到我的思想里
+down deep below, and then up again into my mind.
+
+744
+01:05:18,150 --> 01:05:20,290
+阿瓜  该出发了
+Grug, we have to keep moving.
+
+745
+01:05:20,380 --> 01:05:22,970
+我有点子哦  也有思想
+See, I got ideas. I got thoughts.
+
+746
+01:05:23,200 --> 01:05:26,410
+像这个  我叫它活动房屋
+Like this. I call it a 'mobile home'.
+
+747
+01:05:26,410 --> 01:05:28,320
+棒吧
+Isn't that something?
+
+748
+01:05:31,320 --> 01:05:34,460
+-这个叫升降梯  -老妈
+- I'm calling this one a 'lifterator'. - Mom?
+
+749
+01:05:34,460 --> 01:05:36,260
+我懂的  太烂了
+I know. It's bad.
+
+750
+01:05:40,240 --> 01:05:42,550
+我差点儿就要心疼他了
+I almost feel sorry for him.
+
+751
+01:05:47,150 --> 01:05:48,510
+一点也不心疼
+No, I don't.
+
+752
+01:05:49,720 --> 01:05:51,760
+阿瓜  你想干吗
+What are you trying to do, Grug?
+
+753
+01:05:52,310 --> 01:05:57,020
+我以为我要是能像盖伊那样有主意
+I thought if I could have ideas like Guy,
+
+754
+01:05:58,270 --> 01:06:00,320
+没准小伊就会听我的话了
+maybe Eep would listen to me.
+
+755
+01:06:00,700 --> 01:06:04,350
+也许她就不会想跟盖伊走了
+Maybe she wouldn't want to go with Guy.
+
+756
+01:06:04,500 --> 01:06:08,240
+阿瓜  你就是为了这个吗
+Oh, Grug. Is that what this is all about?
+
+757
+01:06:11,820 --> 01:06:15,840
+我还以为这样能干掉你老妈  所以
+And I also thought it would kill your mother, so...
+
+758
+01:06:15,840 --> 01:06:17,720
+你懂的  双赢
+you know, win-win.
+
+759
+01:06:17,770 --> 01:06:18,720
+我们到了
+We're here!
+
+760
+01:06:58,010 --> 01:07:00,280
+那有个洞  大家快进去
+Cave! Everyone inside! Come on!
+
+761
+01:07:00,280 --> 01:07:03,500
+快点儿  快走快走
+Hurry up! Let's go! Let's go! Go! Go!
+
+762
+01:07:04,800 --> 01:07:05,560
+不
+No!
+
+763
+01:07:08,780 --> 01:07:11,170
+-阿瓜  别再往洞里躲了  -你说啥
+- No more caves, Grug. - What?
+
+764
+01:07:11,180 --> 01:07:15,150
+我们要乘着太阳和盖伊一起去明天
+We're gonna jump on the sun and ride it to Tomorrow with Guy.
+
+765
+01:07:15,150 --> 01:07:17,670
+等等  你们都要去吗
+Wait, wait, so you're all going to do this?
+
+766
+01:07:19,350 --> 01:07:22,990
+-桑克?  -对不起  老爸
+- Thunk? - Sorry, Dad.
+
+767
+01:07:25,320 --> 01:07:27,590
+别再为我们操心了
+You have to stop worrying for all of us.
+
+768
+01:07:27,590 --> 01:07:30,420
+这是我的职责  操心费力  循规蹈矩
+It's my job to worry. It's my job to follow the rules.
+
+769
+01:07:30,420 --> 01:07:32,390
+规矩在这儿不好使了
+The rules don't work out here!
+
+770
+01:07:32,390 --> 01:07:33,640
+是规矩让我们活了下来
+They kept us alive!
+
+771
+01:07:33,640 --> 01:07:36,560
+那不是活着  那只是
+That wasn't living, that was just...
+
+772
+01:07:36,560 --> 01:07:39,450
+苟且偷生  不一样的
+Not dying. There's a difference.
+
+773
+01:07:39,450 --> 01:07:42,240
+乌格  大家听着  你们得听我讲
+Ugga, everyone, you have to listen to me!
+
+774
+01:07:42,240 --> 01:07:44,730
+要是听了你的  我们早就死了
+We'd be dead now if we'd listened to you!
+
+775
+01:07:47,070 --> 01:07:48,820
+我们必须跟着盖伊走
+We have to follow Guy now.
+
+776
+01:07:53,480 --> 01:07:56,920
+-盖伊 -盖伊  快跑
+- Guy? - Guy, run!
+
+777
+01:08:06,400 --> 01:08:08,750
+这样毫无意义  我们时间不多了
+This is pointless! We've running out of time!
+
+778
+01:08:08,750 --> 01:08:09,620
+世界就要崩塌了
+Everything is collapsing.
+
+779
+01:08:09,620 --> 01:08:11,890
+你失去理智的话会适得其反的
+You are being irrational and counterproductive.
+
+780
+01:08:11,890 --> 01:08:13,560
+别跟我拽词儿
+Big words anger me!
+
+781
+01:08:13,760 --> 01:08:16,160
+-接着说啊  -反击
+- Keep talking! - Countermeasures!
+
+782
+01:08:18,200 --> 01:08:19,370
+还记得今早你什么样吗
+Remember how you were this morning?
+
+783
+01:08:19,370 --> 01:08:20,270
+你变了  记得吗
+You changed, remember?
+
+784
+01:08:20,270 --> 01:08:22,170
+你是智者  是现代人了
+Idea man? Modern man?
+
+785
+01:08:22,580 --> 01:08:27,040
+-我是原始人  -别过来  等等
+- I am a caveman! - No, no, no, wait!
+
+786
+01:08:48,720 --> 01:08:52,680
+这是什么  害得我打不到你
+No! What is this stuff that's saving you from my punches?
+
+787
+01:08:54,060 --> 01:08:55,410
+-是焦油  -不
+- Tar. - No!
+
+788
+01:08:55,410 --> 01:08:57,100
+-求求你  -不  我得回到她们身边
+- Please. - No! I have to get back to them!
+
+789
+01:08:57,100 --> 01:08:58,590
+别动了
+You have to stop.
+
+790
+01:08:58,600 --> 01:09:00,260
+-别挣扎  -不
+- Stop struggling! - No!
+
+791
+01:09:00,260 --> 01:09:01,610
+阿瓜  别动
+Grug, stop!
+
+792
+01:09:08,350 --> 01:09:12,800
+没人能挣脱焦油  相信我
+No one gets out of this. Believe me.
+
+793
+01:09:14,020 --> 01:09:14,910
+我知道
+I know.
+
+794
+01:09:16,880 --> 01:09:18,560
+-你的  -全家
+- Your? - Family.
+
+795
+01:09:26,580 --> 01:09:27,530
+对不起
+Sorry.
+
+796
+01:09:31,570 --> 01:09:33,510
+当时我还很小
+I was little when it happened.
+
+797
+01:09:34,950 --> 01:09:37,270
+父母留给我的最后一句话是
+The last thing my parents told me was:
+
+798
+01:09:37,600 --> 01:09:40,750
+别东躲西藏  勇敢的活着
+"Don't hide. Live.
+
+799
+01:09:43,210 --> 01:09:47,290
+跟着太阳走  你就会到达明天
+Follow the sun. You'll make it to Tomorrow."
+
+800
+01:09:50,090 --> 01:09:54,880
+你追求光明  我女儿很像你
+You followed the light. My daughter is a lot like you.
+
+801
+01:09:55,000 --> 01:09:57,480
+不  他像你
+No. She's like you.
+
+802
+01:09:58,040 --> 01:10:00,110
+她爱你  却总是忘记说出口
+She loves you but always forgets to say it,
+
+803
+01:10:01,270 --> 01:10:03,280
+就像你也总是忘记向她表露心声
+just like you forget to tell her.
+
+804
+01:10:06,510 --> 01:10:11,350
+也许因为我总是忙着保护他们
+I guess I was just busy keeping them all alive.
+
+805
+01:10:12,260 --> 01:10:15,200
+我理解  这是父亲的责任
+It's okay. That's what dads do.
+
+806
+01:10:22,430 --> 01:10:27,640
+没错  但是我们要先离开这里
+That's right, and we can't do that from here.
+
+807
+01:10:27,790 --> 01:10:29,650
+我们需要你的主意
+We need one of your ideas.
+
+808
+01:10:33,480 --> 01:10:35,950
+来吧  你行的
+Come on, you can do it.
+
+809
+01:10:40,540 --> 01:10:43,780
+皮带猴  启动紧急创意生成机
+Belt! Emergency Idea Generator, activate.
+
+810
+01:10:45,640 --> 01:10:47,150
+有主意了
+I've got it.
+
+811
+01:10:54,460 --> 01:10:56,050
+我懂  不过
+Yeah. I know, but,
+
+812
+01:10:56,050 --> 01:10:58,400
+它已经尽力了  开始吧
+he's doing the best with what he has. Let's go.
+
+813
+01:11:04,360 --> 01:11:05,370
+它来了
+There he is.
+
+814
+01:11:06,200 --> 01:11:09,230
+皮带猴  来段浪漫生动又真挚的音乐
+Belt, I want romance, drama, sincerity.
+
+815
+01:11:09,230 --> 01:11:10,080
+要打动我哦
+Move me.
+
+816
+01:11:16,130 --> 01:11:19,590
+它看到我们了  好戏上演了  开始
+Okay, he sees us! That's our cue. Now work it!
+
+817
+01:11:29,330 --> 01:11:30,600
+它不过来
+He's not coming over.
+
+818
+01:11:30,610 --> 01:11:32,290
+可能咱们的人偶不够惊恐
+I don't think out puppet looks scared enough.
+
+819
+01:11:32,290 --> 01:11:34,830
+惊恐  我给你来个惊恐的
+Scared? I'll show you scared!
+
+820
+01:11:34,830 --> 01:11:36,940
+把琴槌给我
+Hand me those acting sticks!
+
+821
+01:11:52,920 --> 01:11:54,430
+抓紧了
+Hold on!
+
+822
+01:12:24,290 --> 01:12:26,290
+你成功了
+Yes! You did it!
+
+823
+01:12:27,660 --> 01:12:29,490
+-阿瓜 -爸爸
+- Grug! - Dad!
+
+824
+01:12:29,490 --> 01:12:30,780
+我们没事
+We're okay!
+
+825
+01:12:33,390 --> 01:12:36,580
+我们很好
+Yeah. We're okay.
+
+826
+01:12:49,060 --> 01:12:50,990
+阿瓜  听你的
+Grug, your call.
+
+827
+01:12:52,920 --> 01:12:54,420
+带我们去明天吧
+Take us to Tomorrow.
+
+828
+01:13:01,060 --> 01:13:04,250
+快点  加油  我们要到了
+Hurry! Come on! We're gonna make it!
+
+829
+01:13:06,290 --> 01:13:09,150
+-你说的都是真的  -那就是了
+- You were right! - There... There it is!
+
+830
+01:13:09,290 --> 01:13:12,970
+太阳在那儿  我们能乘着它去明天了
+The sun! We can do it! We can ride it to Tomorrow.
+
+831
+01:13:37,730 --> 01:13:38,560
+快跑
+Run!
+
+832
+01:14:06,980 --> 01:14:09,170
+我...我不明白
+I don't... I don't understand.
+
+833
+01:14:09,390 --> 01:14:12,040
+太阳就在这儿  刚刚还在这儿呀
+The sun was right here! It was right here!
+
+834
+01:14:17,100 --> 01:14:19,520
+快回到洞里去  快
+We have to go back to the cave! Hurry.
+
+835
+01:14:19,570 --> 01:14:20,910
+快快  别跑散了
+Hurry, hurry, stay together!
+
+836
+01:14:20,910 --> 01:14:23,160
+别停下  快走快走
+Let's keep moving. Move! Move, move!
+
+837
+01:14:23,760 --> 01:14:25,680
+大家抓住我的手  桑克
+Everybody hold my hand! Thunk,
+
+838
+01:14:25,680 --> 01:14:28,180
+走走走  别分散
+let's go! Go, go, go! Let's stay together!
+
+839
+01:14:28,180 --> 01:14:30,890
+阿瓜  你怎么了
+Let's... Grug, what's wrong with you?
+
+840
+01:14:31,380 --> 01:14:34,000
+阿瓜  在这里会死的
+Grug, we'll die if we stay here!
+
+841
+01:14:58,090 --> 01:15:02,690
+阿瓜  听我说  我们得回到洞里
+Grug, listen to me! We have to get back to that cave.
+
+842
+01:15:06,520 --> 01:15:10,260
+不要黑暗  不再躲藏
+No more dark. No more hiding.
+
+843
+01:15:11,860 --> 01:15:13,020
+不要再进洞穴了
+No more caves.
+
+844
+01:15:15,600 --> 01:15:17,210
+这一切都是为了什么
+What's the point of all this?
+
+845
+01:15:21,650 --> 01:15:23,700
+追逐光明
+To follow the light.
+
+846
+01:15:27,750 --> 01:15:31,110
+我无法改变自己  我也没有主意
+I can't change, I don't have ideas,
+
+847
+01:15:32,470 --> 01:15:34,470
+但是我有蛮力
+but I have my strength.
+
+848
+01:15:34,990 --> 01:15:38,120
+现在你们需要的就是蛮力
+And right now that's all you need.
+
+849
+01:15:40,470 --> 01:15:42,020
+不  我们对那边一无所知
+No! We don't know what's over there!
+
+850
+01:15:42,020 --> 01:15:45,240
+那边也许什么都没有  太冒险了
+Maybe nothing. It's too risky!
+
+851
+01:15:47,450 --> 01:15:48,740
+这是个机会
+It's a chance.
+
+852
+01:15:58,370 --> 01:15:59,770
+我愿意试试
+I'll take that chance.
+
+853
+01:16:02,010 --> 01:16:05,990
+从我一见到你  就想把你扔出去
+You know, I've wanted to throw you away ever since I met you.
+
+854
+01:16:07,050 --> 01:16:10,210
+-你在开玩笑吧  -玩笑是什么
+- That's a joke, right? - What's a joke?
+
+855
+01:16:41,320 --> 01:16:42,300
+他成功了
+He made it!
+
+856
+01:16:44,620 --> 01:16:46,640
+他成功了
+He made it.
+
+857
+01:16:49,960 --> 01:16:52,080
+桑克  该你了
+Okay, Thunk. Your turn.
+
+858
+01:16:52,330 --> 01:16:53,970
+你是不是要自己留下来
+You're not coming, are you?
+
+859
+01:16:54,410 --> 01:16:56,900
+你到了那边  我也就到了
+When you make it, so will I.
+
+860
+01:17:14,830 --> 01:17:16,030
+你真棒
+You did good.
+
+861
+01:17:18,880 --> 01:17:19,950
+老爸
+Daddy.
+
+862
+01:17:32,770 --> 01:17:35,620
+-奶...-别废话  快扔吧
+- Gran... - No mush, just throw me.
+
+863
+01:17:36,600 --> 01:17:41,830
+等下  你今天让我刮目相看  傻孩子
+Wait! You surprised me today. Lunkhead.
+
+864
+01:17:47,920 --> 01:17:49,650
+我还活着
+Still alive!
+
+865
+01:17:51,040 --> 01:17:55,460
+-该你了  -不  我有好多话想说
+- Time to go. - No! I have too much to say to you.
+
+866
+01:17:55,460 --> 01:17:58,370
+我想弥补一切  却没有时间了
+I need to fix everything, and I don't have time.
+
+867
+01:17:58,590 --> 01:17:59,850
+我会弥补的
+I can fix it.
+
+868
+01:18:03,920 --> 01:18:05,180
+感觉真好
+This works good.
+
+869
+01:18:07,040 --> 01:18:12,500
+-这叫什么  -我考虑把它叫作拥抱
+- What do you call it? - I was thinking of calling it a 'hug',
+
+870
+01:18:13,460 --> 01:18:15,220
+因为跟阿瓜谐音
+because it rhymes with Grug.
+
+871
+01:18:15,720 --> 01:18:19,790
+不过你想叫它别的也可以
+But you can change it if you want.
+
+872
+01:18:20,890 --> 01:18:23,510
+不  我喜欢拥抱
+No, no, I like hug.
+
+873
+01:18:29,870 --> 01:18:30,890
+我爱你
+I love you.
+
+874
+01:18:34,780 --> 01:18:35,650
+我...
+I...
+
+875
+01:18:41,600 --> 01:18:42,390
+老爸
+Dad,
+
+876
+01:18:43,780 --> 01:18:47,540
+-我害怕  -永远不要恐惧
+- I'm scared. - Never be afraid.
+
+877
+01:19:25,580 --> 01:19:27,810
+他在那儿  我看见了
+There! I see him.
+
+878
+01:20:12,990 --> 01:20:15,410
+我成功了
+Hey! I did it.
+
+879
+01:21:38,480 --> 01:21:40,070
+后退  后退
+Stay back! Stay back!
+
+880
+01:22:25,700 --> 01:22:29,050
+他们有麻烦了  挺住  我来了
+They're in trouble. Hang on! I'm coming!
+
+881
+01:22:30,210 --> 01:22:33,150
+我要怎么过去呢  好好想一想
+How do I get across? I gotta think.
+
+882
+01:22:33,400 --> 01:22:37,530
+如果是盖伊会怎么做呢
+What would Guy do? What would Guy do?
+
+883
+01:22:40,280 --> 01:22:41,710
+我会怎么做呢
+What would I do?
+
+884
+01:22:43,010 --> 01:22:44,020
+拿着
+Hold this.
+
+885
+01:22:59,810 --> 01:23:02,760
+我...有...
+I... have...
+
+886
+01:23:03,620 --> 01:23:08,110
+主意啦
+an... idea!
+
+887
+01:23:28,780 --> 01:23:30,050
+跑啊
+Run!
+
+888
+01:24:19,930 --> 01:24:23,100
+道格拉斯  我认得那家伙
+Douglas! Hey, I know that guy!
+
+889
+01:24:58,490 --> 01:24:59,450
+抓紧了
+Hold on!
+
+890
+01:25:43,140 --> 01:25:44,380
+这里不安全
+It's not safe here.
+
+891
+01:25:46,810 --> 01:25:47,890
+我去和她说吧
+I'll tell her.
+
+892
+01:26:36,560 --> 01:26:37,950
+我还没来得及告诉他
+I've never had to tell him.
+
+893
+01:26:40,320 --> 01:26:43,630
+小伊  要是你老爸在  他会让你...
+Eep, if your dad were here, he would tell you to...
+
+894
+01:26:43,630 --> 01:26:46,810
+快让开
+Get out of the way!
+
+895
+01:26:46,810 --> 01:26:49,150
+你学得可真像
+Wow, you sound just like him.
+
+896
+01:26:49,150 --> 01:26:52,420
+快让开
+Get out of the way!
+
+897
+01:26:53,140 --> 01:26:55,640
+-老爸  -他成功了
+- Daddy! - He did it!
+
+898
+01:26:55,890 --> 01:26:57,300
+他乘着太阳
+He's riding the sun,
+
+899
+01:26:58,700 --> 01:27:02,510
+-不过技术不太好  -快都闪开
+- but not very well. - Everybody out of the way!
+
+900
+01:27:08,550 --> 01:27:09,390
+阿瓜
+Grug!
+
+901
+01:27:10,330 --> 01:27:12,590
+危险在哪儿  谁吹的号
+Where's the danger? Who blew their shell?
+
+902
+01:27:14,250 --> 01:27:15,890
+我也爱你
+I love you, too!
+
+903
+01:27:25,200 --> 01:27:28,370
+一  二  三  四
+One, two, three, four,
+
+904
+01:27:28,370 --> 01:27:33,040
+五  六...
+five, six, and...
+
+905
+01:27:33,150 --> 01:27:33,880
+七
+seven.
+
+906
+01:27:36,690 --> 01:27:37,850
+七个半
+And a half.
+
+907
+01:27:39,210 --> 01:27:40,250
+八个
+And eight.
+
+908
+01:27:41,810 --> 01:27:44,990
+-九个  -道格拉斯  老爸  你救了它
+- Nine. - Douglas! Dad, you saved him!
+
+909
+01:27:44,990 --> 01:27:47,300
+男孩总得养个宠物吧
+Well, boy's got to have a pet.
+
+910
+01:27:51,650 --> 01:27:53,940
+没想到我还是个爱猫男士
+Turns out I'm a cat person.
+
+911
+01:27:56,710 --> 01:27:57,700
+不可以
+No!
+
+912
+01:28:06,970 --> 01:28:09,660
+你们快来看啊
+You really need to see this.
+
+913
+01:28:22,000 --> 01:28:23,240
+我们去那里吧
+We should go there.
+
+914
+01:28:24,190 --> 01:28:26,170
+太棒了  我们来了
+Yes! Coming through!
+
+915
+01:28:35,170 --> 01:28:37,990
+这就是我  我是小伊
+This is me. My name is Eep.
+
+916
+01:28:38,310 --> 01:28:41,290
+这是我们一家  克鲁德一家
+And this is my family, the Croods.
+
+917
+01:28:41,650 --> 01:28:44,160
+我们晒日光浴  也养宠物  
+If you weren't clued by sunbathes and pets,
+
+918
+01:28:44,170 --> 01:28:46,590
+我们不再是原始人了
+we're not exactly cavemen anymore.
+
+919
+01:28:49,950 --> 01:28:52,140
+再来一次  我好像眨眼了
+Let's do it again. I think I blinked.
+
+920
+01:28:53,590 --> 01:28:56,170
+世界依然艰辛险恶
+Our world is still plenty harsh and hostile.
+
+921
+01:28:57,930 --> 01:28:59,820
+但我们对未来充满信心
+But now we know the Croods will make it,
+
+922
+01:29:00,210 --> 01:29:05,170
+我们打破了那曾禁锢我们于黑暗的规矩
+because we changed the rules. The ones that kept us in the dark.
+
+923
+01:29:07,960 --> 01:29:10,080
+也因为我的老爸
+And because of my dad,
+
+924
+01:29:10,080 --> 01:29:11,960
+他让我们明白人是会改变的
+who taught us that anyone could change.
+
+925
+01:29:11,960 --> 01:29:14,130
+放出宝宝
+Release the baby!
+
+926
+01:29:17,930 --> 01:29:19,940
+多少变了点儿吧
+Well, sort of.
+
+927
+01:29:39,270 --> 01:29:41,990
+从今往后  我们将在外面的世界生活
+So from now on, we'll stay out here,
+
+928
+01:29:42,740 --> 01:29:44,430
+并在这里追逐光明
+where we can follow the light.
+
