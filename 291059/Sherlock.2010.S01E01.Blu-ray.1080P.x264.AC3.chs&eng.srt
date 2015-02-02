@@ -1,16 +1,7 @@
-1
-00:00:08,622 --> 00:00:09,977
-华生
-WATSON
-
-2
-00:01:28,950 --> 00:01:29,940
-(约翰·华生医生的博客)
-THE PERSONAL BLOG OF DR.John H.Watson
 
 3
 00:01:29,975 --> 00:01:31,250
-博客写的如何?
+你博客写的如何?
 How's your blog going?
 
 4
@@ -23,16 +14,6 @@ Yeah, good, very good.
 你一个字都没写 对吧?
 You haven't written a word, have you?
 
-6
-00:01:38,450 --> 00:01:40,190
-你刚写下了"仍然不信任人"
-You just wrote "still has trust issues".
-
-7
-00:01:41,260 --> 00:01:43,250
-而你颠倒着读出了我写的东西
-And you read my writing upside down.
-
 8
 00:01:45,180 --> 00:01:46,500
 知道我什么意思了?
@@ -43,112 +24,35 @@ You see what I mean?
 约翰 你是个军人
 John, you're a soldier
 
-10
-00:01:52,830 --> 00:01:53,670
-从这个身份到普通人
-and it's going to take you a while
-
-11
-00:01:53,705 --> 00:01:55,620
-需要一个过程
-to adjust to civilian life
-
-12
-00:01:56,420 --> 00:01:59,174
-把你每天的遭遇写在博客上
-and writing a blog about everything that happens to you
-
-13
-00:01:59,209 --> 00:02:01,627
-会有很大帮助
-will honestly help you.
-
 14
 00:02:02,980 --> 00:02:04,950
 我根本没有任何遭遇
 Nothing happens to me.
-
-15
-00:02:06,241 --> 00:02:09,278
-<font color="#4096d1"> -==破烂熊乐园倾情奉献==- 本字幕仅供学习交流，严禁用于商业用途</font>
-
-16
-00:02:09,280 --> 00:02:12,592
-<font color="#4096d1">-==http://www.ragbear.com==- 神探夏洛克 第一季第1集 粉色的研究</font>
-
-17
-00:02:22,450 --> 00:02:29,930
-<font color=#4096d1>-=破烂熊字幕组=- 翻译：LOVEKEICO 小米 tpring 校对：molatime tpring 时间轴：烟雨訾洲 60</font>
-
-18
-00:02:39,030 --> 00:02:41,430
-10月12日
-October 12th
-
-19
-00:02:42,260 --> 00:02:43,608
-你说一辆破车都没了?
-'What do you mean there's no ruddy car?'
 
 20
 00:02:43,643 --> 00:02:45,966
 他去滑铁卢了 抱歉
 He went to Waterloo, I'm sorry.
 
-21
-00:02:46,001 --> 00:02:48,290
-叫辆出租车       我从不叫车
-Get a cab I never get cabs
-
 22
 00:02:50,300 --> 00:02:52,400
 我爱你      什么时候?
 I love you. When?
 
-23
-00:02:52,435 --> 00:02:54,370
-快叫辆出租车
-Get a cab
-
 24
 00:03:14,080 --> 00:03:15,540
-我的丈夫
-My husband
-
-25
-00:03:16,320 --> 00:03:20,160
-是个努力生活的乐观男人
-was a happy man who lived life to the full.
+我的丈夫是个努力生活的乐观男人
+My husband was a happy man who lived life to the full.
 
 26
 00:03:20,540 --> 00:03:23,570
-他热爱家庭和工作
-He loved his family and his work,
-
-27
-00:03:24,600 --> 00:03:28,200
-他选择这样结束自己的生命
-and that he should have taken his own life in this way
-
-28
-00:03:29,080 --> 00:03:30,630
-让人无法理解
-is a mystery
-
-29
-00:03:31,190 --> 00:03:34,910
-也让认识他的人 都感到震惊
-and a shock to all who knew him.
+他热爱家庭和工作 他选择这样结束自己的生命 让人无法理解
+He loved his family and his work,and that he should have taken his own life in this way is a mystery
 
 30
 00:03:46,690 --> 00:03:48,350
 出租车 出租车
 Taxi, taxi
-
-31
-00:03:48,385 --> 00:03:50,010
-11月26日
-November 26th
 
 32
 00:03:53,220 --> 00:03:54,885
@@ -169,16 +73,6 @@ You can share mine.
 00:03:58,063 --> 00:03:59,470
 就两分钟 好吗?
 Two minutes, all right?
-
-36
-00:04:22,740 --> 00:04:27,410
-(18岁男孩在体育馆自杀)
-Boy 18，kills himself in side sports centre
-
-37
-00:04:30,550 --> 00:04:33,060
-11月27日
-January 27th
 
 38
 00:04:34,970 --> 00:04:36,110
@@ -210,60 +104,20 @@ Where is she?
 副运输部长贝斯·戴文特的尸体
 The body of Beth Davenport, Junior Minister for Transport,
 
-44
-00:05:01,975 --> 00:05:03,140
-昨天深夜在伦敦
-was found late last night
-
-45
-00:05:03,141 --> 00:05:05,380
-一建筑工地被发现
-on a building site in Greater London.
-
 46
 00:05:05,980 --> 00:05:09,460
 初步调查的结果为自杀
 Preliminary investigations suggest that this was suicide.
 
-47
-00:05:09,495 --> 00:05:10,349
-我们可以确认
-We can confirm that
-
-48
-00:05:10,384 --> 00:05:13,220
-这起自杀案十分类似于
-this apparent suicide closely resembles those of
-
-49
-00:05:13,255 --> 00:05:14,695
-杰弗瑞·帕特森爵士
-Sir Jeffrey Patterson
-
-50
-00:05:14,696 --> 00:05:16,430
-和詹姆士·费力默的状况
-and James Phillimore.
-
 51
 00:05:16,550 --> 00:05:17,366
-因为这点
-In the light of this,
-
-52
-00:05:17,401 --> 00:05:19,710
-我们认为他们很有可能有关联
-these incidents are now being treated as linked.
+因为这点 我们认为他们很有可能有关联
+In the light of this,these incidents are now being treated as linked.
 
 53
 00:05:19,745 --> 00:05:21,055
 调查还在继续
 The investigation is ongoing
-
-54
-00:05:21,056 --> 00:05:23,940
-不过雷斯垂德探长会回答大家的问题
-but Detective Inspector Lestrade will take questions now.
 
 55
 00:05:24,840 --> 00:05:27,520
@@ -280,40 +134,15 @@ Well, they all took the same poison.
 尸体都在他们不该出现的地方出现
 They were all found in places they had no reason to be.
 
-58
-00:05:34,120 --> 00:05:35,166
-都没有明显的动机
-None of them had shown any prior indication.
-
-59
-00:05:35,201 --> 00:05:37,760
-不可能会有连环自杀
-But you can't have serial suicides.
-
-60
-00:05:37,795 --> 00:05:39,310
-显然已经有了
-Well, apparently you can.
-
 61
 00:05:39,330 --> 00:05:41,360
 这三人之间没有关系吗?
 These three people, there's nothing that links them?
 
-62
-00:05:41,370 --> 00:05:43,830
-暂时还没发现关系 但是
-There's no link we've found yet but
-
 63
 00:05:44,000 --> 00:05:46,420
 我们在寻找 一定存在的
 we're looking for it. There has to be one.
-
-64
-00:05:49,340 --> 00:05:53,255
-(错)
-Wrong！
 
 65
 00:05:53,290 --> 00:05:55,081
@@ -329,11 +158,6 @@ It just says "Wrong".
 00:05:56,130 --> 00:05:58,770
 是的 别管它 如果没有其它问题
 Well, just ignore that. If there are no more questions,
-
-68
-00:05:58,805 --> 00:05:59,985
-要问雷斯垂德探长的话
-For Detective Inspector Lestrade
 
 69
 00:06:00,020 --> 00:06:01,715
@@ -360,11 +184,6 @@ It's an unusual situation,
 我们已经派遣最好的人手调查
 we've got our best people investigating.
 
-74
-00:06:17,230 --> 00:06:18,750
-又收到了“错”
-Says "Wrong" again.
-
 75
 00:06:19,360 --> 00:06:20,559
 最后一个问题
@@ -382,38 +201,13 @@ And if they are, is this the work of a serial killer?
 
 78
 00:06:26,540 --> 00:06:28,216
-我知道你们更喜欢写这种故事
-I know that you like writing about these
-
-79
-00:06:28,251 --> 00:06:30,380
-但现场状况确系自杀
-but these do appear to be suicides.
-
-80
-00:06:30,400 --> 00:06:31,925
-两者的差别明显
-We know the difference.
+我知道你们更喜欢写这种故事 但现场状况确系自杀
+I know that you like writing about these but these do appear to be suicides.
 
 81
 00:06:32,126 --> 00:06:34,420
 很清楚 毒药是他们自己服下的
 The poison was clearly self-administered.
-
-82
-00:06:34,455 --> 00:06:36,235
-是的 可如果他们真是被杀
-Yes, but if they are murders,
-
-83
-00:06:36,236 --> 00:06:37,950
-大家怎么才能保证自身安全?
-how do people keep themselves safe?
-
-84
-00:06:37,985 --> 00:06:40,028
-珍爱生命 不要自杀
-Well, don't commit suicide.
 
 85
 00:06:40,550 --> 00:06:42,000
@@ -425,25 +219,10 @@ Daily Mail
 现在虽是恐慌时期
 Obviously, This is a frightening time for people
 
-87
-00:06:44,490 --> 00:06:49,690
-大家需要的是提高警惕
-but all anyone has to do is exercise reasonable precautions.
-
 88
 00:06:49,725 --> 00:06:52,140
 安全是可以由自己创造的
 We are all as safe as we want to be.
-
-89
-00:06:52,660 --> 00:06:54,980
-(错)
-wrong
-
-90
-00:06:56,480 --> 00:06:58,780
-(你知道我在哪里 夏·福)
-You know where to find me. SH
 
 91
 00:07:00,370 --> 00:07:01,270
@@ -472,23 +251,8 @@ John
 
 96
 00:07:24,510 --> 00:07:25,730
-约翰·华生
+约翰 华生
 John Watson
-
-97
-00:07:26,990 --> 00:07:29,518
-麦克·斯坦佛 巴兹医学院的同学
-Stamford, Mike Stamford. We were at Barts together.
-
-98
-00:07:29,553 --> 00:07:31,575
-是的 抱歉 麦克 你好
-Yes, sorry, yes, Mike, hello.
-
-99
-00:07:31,610 --> 00:07:34,200
-是 我知道自己胖了      没有
-Yes, I know, I got fat. No, no.
 
 100
 00:07:34,410 --> 00:07:36,150
@@ -508,42 +272,12 @@ I got shot.
 103
 00:07:45,120 --> 00:07:46,798
 你还在巴兹吗?
-Are you still at Barts then?
-
-104
-00:07:47,020 --> 00:07:47,967
-现在教书了
-Teaching now,
-
-105
-00:07:48,002 --> 00:07:50,900
-聪明的年轻人 就像当年的我们
-yeah, bright young things like we used to be.
-
-106
-00:07:50,935 --> 00:07:52,244
-上帝啊 我烦死他们了
-God, I hate them.
-
-107
-00:07:52,950 --> 00:07:53,439
-那你呢?
-What about you,
-
-108
-00:07:53,474 --> 00:07:55,548
-恢复之前一直这样呆着?
-just staying in town till you get yourself sorted?
+Are you still at Barts?
 
 109
 00:07:55,583 --> 00:07:57,590
 只靠军队抚恤金 在伦敦无法生活
 I can't afford London on an Army pension.
-
-110
-00:07:57,625 --> 00:07:59,131
-在别的地方 你活不下去
-Couldn't bear to be anywhere else.
 
 111
 00:07:59,166 --> 00:08:00,637
@@ -554,16 +288,6 @@ That's not the John Watson I know.
 00:08:00,672 --> 00:08:02,230
 我不是那个约翰·华生了
 I'm not the John Watson.
-
-113
-00:08:07,630 --> 00:08:09,115
-哈利没帮你?
-Couldn't Harry help?
-
-114
-00:08:09,480 --> 00:08:11,172
-你觉得可能吗
-Yeah, like that's going to happen
 
 115
 00:08:11,620 --> 00:08:14,400
@@ -600,16 +324,6 @@ Who was the first?
 有多新鲜?
 How fresh?
 
-122
-00:08:29,680 --> 00:08:32,630
-刚来的 67岁 自然死亡
-Just in. 67, natural causes.
-
-123
-00:08:32,650 --> 00:08:35,950
-曾经在这里工作 我认识他 人不错
-Used to work here. I knew him, he was nice.
-
 124
 00:08:36,790 --> 00:08:37,750
 很好
@@ -624,21 +338,6 @@ We'll start with the riding crop.
 00:08:51,180 --> 00:08:53,920
 呃 今天心情不好吗?
 So, bad day was it?
-
-127
-00:08:54,540 --> 00:08:56,561
-我需要知道它在20分钟内的伤痕情况
-I need to know what bruises form in the next 20 minutes.
-
-128
-00:08:56,596 --> 00:08:59,109
-一个人的不在场证明就靠他了 发短信给我
-A man's alibi depends on it. Text me.
-
-129
-00:08:59,490 --> 00:09:00,809
-对了 我想...
-Listen, I was wondering.
 
 130
 00:09:00,844 --> 00:09:02,235
@@ -725,11 +424,6 @@ Oh, thank you.
 这是我的老朋友 约翰·华生
 This is an old friend of mine, John Watson.
 
-147
-00:09:56,150 --> 00:09:58,076
-在阿富汗还是伊拉克?
-Afghanistan or Iraq?
-
 148
 00:10:01,020 --> 00:10:01,340
 什么?
@@ -744,16 +438,6 @@ Which was it, in Afghanistan or Iraq?
 00:10:06,980 --> 00:10:08,300
 阿富汗 抱歉 你怎么知道?
 Afghanistan, sorry, how did you know?
-
-151
-00:10:08,310 --> 00:10:10,280
-茉莉 咖啡来了 谢谢
-Ah Coffee, thank you.
-
-152
-00:10:11,330 --> 00:10:12,711
-口红呢?
-What happened to the lipstick?
 
 153
 00:10:13,090 --> 00:10:14,070
@@ -785,16 +469,6 @@ How do you feel about the violin?
 对不起 什么?
 I'm sorry, what?
 
-159
-00:10:27,860 --> 00:10:30,065
-我在想事情时会拉小提琴 有时
-I play the violin when I'm thinking and sometimes
-
-160
-00:10:30,100 --> 00:10:32,235
-一天都不讲话 你介意吗?
-I don't talk for days on end. Would that bother you?
-
 161
 00:10:32,270 --> 00:10:34,870
 做室友应该知道对方的缺点
@@ -802,7 +476,7 @@ Potential flatmates should know the worst about each other.
 
 162
 00:10:37,060 --> 00:10:38,340
-你把我的事告诉他了
+你把我的事告诉他了？
 You told him about me?
 
 163
@@ -815,30 +489,10 @@ Not a word.
 那谁告诉你室友这回事?
 Who said anything about flatmates?
 
-165
-00:10:41,605 --> 00:10:42,775
-我本人 今早我告诉麦克
-I did. Told Mike this morning
-
-166
-00:10:42,810 --> 00:10:45,480
-我这种人找个室友多困难
-that I must be a difficult man to find a flatmate for.
-
 167
 00:10:45,780 --> 00:10:47,184
 刚过午饭 他就来了
 Now here he is just after lunch
-
-168
-00:10:47,219 --> 00:10:48,600
-带来一个老朋友 显然刚在
-with an old friend clearly just home from
-
-169
-00:10:48,635 --> 00:10:51,828
-阿富汗军队服役过 并不难猜到吧
-military service in Afghanistan. Wasn't a difficult leap.
 
 170
 00:10:52,410 --> 00:10:53,970
@@ -885,11 +539,6 @@ Is that what?
 我们才刚见面
 We've only just met
 
-179
-00:11:08,897 --> 00:11:10,410
-就要一起找房子?
-and we're going to go and look at a flat?
-
 180
 00:11:11,810 --> 00:11:12,990
 有问题吗?
@@ -910,60 +559,15 @@ I don't know where we're meeting,
 甚至也不知道你的名字
 I don't even know your name.
 
-184
-00:11:20,700 --> 00:11:21,997
-我知道你是军医 刚从阿富汗
-I know you're an Army doctor and you've been
-
-185
-00:11:22,032 --> 00:11:23,465
-被遣送回国
-invalided home from Afghanistan.
-
 186
 00:11:23,500 --> 00:11:24,853
 你有一个哥哥 很关心你
 You've got a brother worried about you
 
-187
-00:11:24,888 --> 00:11:26,894
-你却不愿意得到他的帮助
-but you won't go to him for help because you don't
-
-188
-00:11:26,929 --> 00:11:28,900
-你对他不满 也许因为他嗜酒
-approve of him, possibly because he's an alcoholic,
-
-189
-00:11:28,901 --> 00:11:31,360
-更有可能是他刚抛弃了他老婆
-more likely because he recently walked out on his wife.
-
-190
-00:11:31,395 --> 00:11:32,743
-我也知道医生认为你
-And I know that your therapist thinks your
-
-191
-00:11:32,778 --> 00:11:35,799
-患有伤残心理后遗症 恐怕这诊断很对
-limp's psychosomatic, quite correctly, I'm afraid.
-
 192
 00:11:35,834 --> 00:11:38,820
 作为室友 这些够了吧?
 That's enough to be going on with, don't you think?
-
-193
-00:11:42,100 --> 00:11:43,096
-我的名字叫夏洛克·福尔摩斯
-The name's Sherlock Holmes
-
-194
-00:11:43,131 --> 00:11:45,921
-那里的地址是贝克街221B
-and the address is 221B Baker Street.
 
 195
 00:11:46,380 --> 00:11:47,560
@@ -975,36 +579,6 @@ Afternoon.
 是的 他一直都这样
 Yeah, he's always like that.
 
-197
-00:12:12,890 --> 00:12:13,960
-(短信)
-Messages- Received
-
-198
-00:12:13,995 --> 00:12:15,025
-(发送成功)
-Messages-sent
-
-199
-00:12:15,060 --> 00:12:18,040
-(如果哥哥有绿色梯子就逮捕他 夏·福)
-If brother has green ladder arrest brother. SH
-
-200
-00:12:22,640 --> 00:12:25,450
-(搜索)
-search
-
-201
-00:12:26,994 --> 00:12:30,010
-(夏洛克·福尔摩斯)
-Sherlock Holmes
-
-202
-00:12:42,880 --> 00:12:45,610
-(贝克街 威斯敏斯特)
-BAKER STREET W1 CITY OF WESTMINSTER
-
 203
 00:12:58,900 --> 00:12:59,600
 你好
@@ -1013,42 +587,17 @@ Hello
 204
 00:13:00,985 --> 00:13:03,400
 福尔摩斯先生      请叫我夏洛克
-Ah - Mr Holmes. Sherlock, please.
+Mr Holmes.  Sherlock, please.
 
 205
 00:13:03,970 --> 00:13:06,275
 这里位置很好 应该非常贵
-Well, this is a prime spot. Must be expensive.
-
-206
-00:13:06,310 --> 00:13:09,260
-房东赫德森太太给了我特价
-Mrs Hudson, the landlady - she's given me a special deal.
-
-207
-00:13:09,295 --> 00:13:11,276
-欠我一个人情 几年之前
-Owes me a favour. A few years back,
-
-208
-00:13:11,311 --> 00:13:14,390
-她丈夫在弗罗里达被判处无期徒刑
-her husband got himself sentenced to death in Florida.
+this is a prime spot. Must be expensive.
 
 209
 00:13:14,425 --> 00:13:15,196
 我出了点力
 I was able to help out.
-
-210
-00:13:15,231 --> 00:13:18,160
-所以 你让她丈夫免于死刑?
-Sorry - you stopped her husband being executed?
-
-211
-00:13:18,195 --> 00:13:19,780
-没有 我指证了他
-Oh, no, I ensured it.
 
 212
 00:13:21,210 --> 00:13:22,810
@@ -1065,16 +614,6 @@ Mrs Hudson, Dr John Watson.
 你好 进来
 Hello. Come in.
 
-215
-00:13:26,370 --> 00:13:27,960
-谢谢       请进吧
-Thank you. Shall we...?
-
-216
-00:13:53,880 --> 00:13:55,830
-这里还挺不错
-Well, this could be very nice.
-
 217
 00:13:57,590 --> 00:13:58,840
 确实很棒
@@ -1084,11 +623,6 @@ very nice indeed
 00:13:58,875 --> 00:14:00,100
 是的
 Yes.
-
-219
-00:14:01,350 --> 00:14:03,185
-对 我也这样觉得
-Yes, I think so, my thoughts precisely.
 
 220
 00:14:03,220 --> 00:14:04,986
@@ -1105,11 +639,6 @@ Soon as we get all this rubbish cleaned out...
 所以这都是...      好吧
 So this is all... Well,
 
-223
-00:14:10,533 --> 00:14:14,990
-我可以把它们放放好
-obviously I can erm... straighten things up a bit.
-
 224
 00:14:15,380 --> 00:14:17,849
 这是个骷髅      我的朋友
@@ -1123,37 +652,17 @@ When I say friend...
 226
 00:14:19,740 --> 00:14:21,770
 你觉得如何 华生医生?
-What do you think, then, Dr Watson?
+What do you think,  Dr Watson?
 
 227
 00:14:22,850 --> 00:14:24,672
 楼上还有一个卧室
 There's another bedroom upstairs,
 
-228
-00:14:24,673 --> 00:14:26,869
-如果你们需要两间卧室的话
-if you'll be needing two bedrooms.
-
-229
-00:14:26,870 --> 00:14:28,765
-当然需要两间
-Of course we'll be needing two.
-
 230
 00:14:28,800 --> 00:14:30,805
 别担心的 这里什么人都有
-Oh, don't worry, there's all sorts round here.
-
-231
-00:14:30,806 --> 00:14:34,261
-隔壁特勒太太家那对还结婚了呢
-Mrs Turner next door's got.
-
-232
-00:14:36,288 --> 00:14:40,260
-夏洛克 看看弄的多乱
-Oh... Sherlock The mess you've made.
+don't worry, there's all sorts round here.
 
 233
 00:14:47,170 --> 00:14:49,280
@@ -1165,11 +674,6 @@ I looked you up on the internet last night.
 有什么有趣的发现吗?
 Anything interesting?
 
-235
-00:14:52,254 --> 00:14:55,450
-找到了你的网站 "演绎法研究"
-Found your website. The Science of Deduction.
-
 236
 00:14:55,770 --> 00:14:57,150
 你觉得如何?
@@ -1180,35 +684,10 @@ What did you think?
 你说可以从领带看出一个软件设计师
 You said you could identify a software designer by his tie
 
-238
-00:15:00,960 --> 00:15:03,210
-从大拇指看出一个飞行员
-and an airline pilot by his left thumb?
-
 239
 00:15:03,245 --> 00:15:04,400
 是的
 Yes.
-
-240
-00:15:04,900 --> 00:15:06,075
-我从你的脸和腿上
-And I can read your military career
-
-241
-00:15:06,110 --> 00:15:07,095
-看出你军人的经历
-in your face and your leg,
-
-242
-00:15:07,130 --> 00:15:09,740
-从你的手机上看出你兄弟酗酒
-and your brother's drinking habits on your mobile phone.
-
-243
-00:15:10,910 --> 00:15:12,060
-怎么看?
-How?
 
 244
 00:15:12,410 --> 00:15:14,970
@@ -1219,26 +698,6 @@ What about these suicides then, Sherlock?
 00:15:15,005 --> 00:15:17,530
 我想你会感兴趣吧
 I thought that'd be right up your street.
-
-246
-00:15:17,565 --> 00:15:19,860
-3起一模一样的案件
-Three exactly the same.
-
-247
-00:15:20,090 --> 00:15:21,440
-4起
-Four.
-
-248
-00:15:22,640 --> 00:15:24,566
-第4起发生了 而且这次
-There's been a fourth. And there's something
-
-249
-00:15:24,601 --> 00:15:27,330
-有些不一样      第4起?
-different this time. A fourth?
 
 250
 00:15:29,340 --> 00:15:30,354
@@ -1255,21 +714,6 @@ Brixton, Lauriston Gardens.
 这次有什么不同?
 What's new about this one?
 
-253
-00:15:32,926 --> 00:15:33,973
-要不你也不会专程来
-You wouldn't have come to me
-
-254
-00:15:33,974 --> 00:15:35,330
-肯定有些反常之处
-otherwise there was somethin different.
-
-255
-00:15:35,390 --> 00:15:38,271
-之前受害人从不留信息 这次有了
-You know how they never leave notes? Yeah. This one did.
-
 256
 00:15:38,590 --> 00:15:39,945
 你来吗?
@@ -1284,16 +728,6 @@ Who's on forensics? Anderson.
 00:15:42,880 --> 00:15:44,157
 我和他相处不好
 He doesn't work well with me.
-
-259
-00:15:44,192 --> 00:15:45,434
-反正他不会是你助手
-Well, he won't be your assistant.
-
-260
-00:15:45,469 --> 00:15:47,287
-我需要一个助手
-I NEED an assistant.
 
 261
 00:15:47,387 --> 00:15:48,086
@@ -1322,8 +756,8 @@ Four serial suicides, and now a note.
 
 266
 00:16:05,419 --> 00:16:07,529
-圣诞节到了啊 赫德森太太
-Oh, it's Christmas. Mrs Hudson,
+圣诞节到了 赫德森太太
+it's Christmas. Mrs Hudson,
 
 267
 00:16:07,564 --> 00:16:09,605
@@ -1340,20 +774,10 @@ I'm your landlady, dear, not your housekeeper.
 冷的也行 约翰 喝杯茶
 Something cold will do. John, have a cup of tea,
 
-270
-00:16:14,762 --> 00:16:16,270
-把这儿当自己家
-make yourself at home.
-
 271
 00:16:16,305 --> 00:16:17,580
 别等我
 Don't wait up
-
-272
-00:16:17,800 --> 00:16:20,220
-看看他 就知道 就知道往外跑
-Look at him, dashing about...
 
 273
 00:16:20,230 --> 00:16:22,549
@@ -1369,16 +793,6 @@ But you're more the sitting-down type, I can tell.
 00:16:27,430 --> 00:16:29,260
 我给你倒杯茶 歇歇你的腿
 I'll make you that cuppa, you rest your leg.
-
-276
-00:16:29,290 --> 00:16:32,075
-它娘的腿  对不起 抱歉
-Damn my leg Sorry, I'm so sorry -
-
-277
-00:16:32,110 --> 00:16:34,875
-有时候这些操蛋的事儿...
-It's just sometimes this bloody thing...
 
 278
 00:16:34,900 --> 00:16:37,460
@@ -1400,25 +814,10 @@ I'm not your housekeeper.
 再来两块饼干 如果有的话
 Couple of biscuits too, if you've got 'em.
 
-282
-00:16:43,824 --> 00:16:45,930
-我不是你管家哦
-Not your housekeeper
-
-283
-00:16:48,160 --> 00:16:49,260
-(雷斯垂德探长负责调查)
-DI Lestrade, in charge of the investigation
-
 284
 00:16:49,295 --> 00:16:50,710
 你是个医生
 You're a doctor.
-
-285
-00:16:51,710 --> 00:16:53,540
-而且是个军医
-In fact you're an Army doctor.
 
 286
 00:16:54,770 --> 00:16:55,580
@@ -1443,37 +842,17 @@ Seen a lot of injuries, then. Violent deaths.
 290
 00:17:04,375 --> 00:17:06,130
 是的
-Well, yes.
+yes.
 
 291
 00:17:06,250 --> 00:17:07,605
 也很难受吧 我想?
 Bit of trouble too, I bet?
 
-292
-00:17:07,640 --> 00:17:12,180
-当然 一辈子的都见过了 太多了
-Of course. Yes. Enough for a lifetime, far too much.
-
 293
 00:17:13,000 --> 00:17:13,876
 想再看多些吗?
 Want to see some more?
-
-294
-00:17:13,911 --> 00:17:15,350
-上帝啊 好的
-Oh, God, yes.
-
-295
-00:17:19,250 --> 00:17:21,988
-对不起 赫德森太太 不喝茶了
-Sorry Mrs Hudson, I'll skip the tea. Off out.
-
-296
-00:17:22,023 --> 00:17:23,390
-你们都不喝了?
-Both of you?
 
 297
 00:17:23,920 --> 00:17:26,210
@@ -1484,16 +863,6 @@ Impossible suicides? Four of them?
 00:17:26,245 --> 00:17:27,011
 没理由坐在家里了
 No point sitting at home
-
-299
-00:17:27,046 --> 00:17:29,226
-人生终于有乐趣了
-when there's finally something fun going on
-
-300
-00:17:29,261 --> 00:17:31,407
-死人了你这么开心 不像话
-Look at you, all happy. It's not decent.
 
 301
 00:17:31,408 --> 00:17:33,269
@@ -1512,7 +881,7 @@ Taxi
 
 304
 00:18:19,040 --> 00:18:20,530
-好吧 你有问题要问
+好吧 你有问题要问...
 OK, You've got questions...
 
 305
@@ -1542,133 +911,28 @@ I'd say... private detective. But?
 
 310
 00:18:30,940 --> 00:18:33,280
-警察不会去找私家侦探
+但警察不会去找私家侦探
 But the police don't go to private detectives.
-
-311
-00:18:33,540 --> 00:18:36,385
-我是个"咨询侦探" 世界唯一的
-I'm a consulting detective. Only one in the world,
 
 312
 00:18:36,420 --> 00:18:37,125
 这工作是我发明的
 I invented the job.
 
-313
-00:18:37,160 --> 00:18:39,151
-那是什么?      每当警察
-What does that mean? Means when the police
-
-314
-00:18:39,152 --> 00:18:41,100
-找不到方向 他们经常都这样
-are out of their depth, which is always,
-
-315
-00:18:41,135 --> 00:18:42,221
-他们会咨询我
-they consult me.
-
 316
 00:18:42,256 --> 00:18:44,510
 警察不会咨询外行的
 The police don't consult amateurs.
-
-317
-00:18:47,490 --> 00:18:48,955
-我昨天遇到你时
-When I met you for the first time yesterday,
-
-318
-00:18:48,990 --> 00:18:51,240
-提到了阿富汗和伊拉克 你看起来很惊讶
-I said Afghanistan or Iraq. You looked surprised.
-
-319
-00:18:51,275 --> 00:18:52,527
-是的 你怎么知道?
-Yes, how DID you know?
 
 320
 00:18:52,562 --> 00:18:53,780
 我不是知道 是观察到的
 I didn't know, I saw.
 
-321
-00:18:54,650 --> 00:18:56,895
-你的发型 举止是军人的风格
-'Your haircut, the way you hold yourself says military.
-
-322
-00:18:56,930 --> 00:18:59,880
-而你说的话      物是人非了
-'But your conversation... ' Bit different from my day.
-
-323
-00:18:59,915 --> 00:19:01,649
-说明在巴兹医学院学习过
-.. said trained at Barts -
-
-324
-00:19:01,684 --> 00:19:03,384
-所以很明显是军医
-so Army doctor, obvious.
-
-325
-00:19:03,820 --> 00:19:05,340
-你的脸晒的比较黑
-'Your face is tanned...
-
-326
-00:19:05,650 --> 00:19:06,973
-可手腕却没晒黑
-'but no tan above the wrists.
-
 327
 00:19:06,974 --> 00:19:08,623
 所以你曾去过国外 可并不是日光浴
 You've been abroad, but not sunbathing.
-
-328
-00:19:08,658 --> 00:19:10,238
-你的走路时跛的厉害
-'Your limp's really bad when you walk,
-
-329
-00:19:10,273 --> 00:19:11,741
-却宁愿站着 不要椅子
-but you don't ask for a chair when you stand -
-
-330
-00:19:11,742 --> 00:19:12,968
-完全忘了伤残
-that you forgot about it
-
-331
-00:19:13,003 --> 00:19:14,945
-所以至少有点身心障碍
-'so it's at least partly psychosomatic.
-
-332
-00:19:14,980 --> 00:19:16,352
-也说明因为你的伤口
-'That says the original circumstances of the injury
-
-333
-00:19:16,353 --> 00:19:17,867
-是外伤
-were traumatic -'
-
-334
-00:19:17,902 --> 00:19:19,829
-战场上受伤 战场上受伤
-wounded in action then. Wounded in action,
-
-335
-00:19:19,864 --> 00:19:22,450
-苏丹 阿富汗 或者是伊拉克
-suntan - Afghanistan or Iraq.
 
 336
 00:19:23,650 --> 00:19:24,895
@@ -1680,40 +944,15 @@ You said I had a therapist.
 你有伤残心理障碍
 You've got a psychosomatic limp,
 
-338
-00:19:26,635 --> 00:19:28,235
-当然会有治疗师
-of course you've got a therapist.
-
 339
 00:19:28,270 --> 00:19:30,022
 然后是你的哥哥 因为电话
 Then there's your brother. Your phone.
 
-340
-00:19:30,057 --> 00:19:32,340
-它很贵 能发邮件 听音乐
-'It's expensive, e-mail enabled, MP3 player. '
-
 341
 00:19:32,375 --> 00:19:33,857
 而你穷到要和人合租
 And you're looking for a flatshare.
-
-342
-00:19:33,892 --> 00:19:35,696
-所以不是你买的 是个礼物
-You wouldn't buy this - it's a gift.
-
-343
-00:19:35,731 --> 00:19:37,465
-划痕 不只一条 很多很多
-'Scratches. Not one, many over time -'
-
-344
-00:19:37,500 --> 00:19:39,565
-一定是和钥匙和硬币放一个口袋
-it's been in the same pocket as keys and coins.
 
 345
 00:19:39,600 --> 00:19:41,630
@@ -1737,7 +976,7 @@ The engraving?
 
 349
 00:19:46,439 --> 00:19:47,183
-哈利·华生
+哈利 华生
 Harry Watson.
 
 350
@@ -1749,31 +988,6 @@ Clearly a family member who's given you his old phone.
 00:19:49,645 --> 00:19:51,560
 不是你父亲 这东西是年轻人玩的
 Not your father, this is a young man's gadget.
-
-352
-00:19:51,595 --> 00:19:53,177
-有可能是表兄弟 可你是个
-Could be a cousin, but you're a war hero
-
-353
-00:19:53,212 --> 00:19:54,465
-无家可归的战斗英雄
-who can't find a place to live -
-
-354
-00:19:54,500 --> 00:19:56,431
-不像是大家族里的人
-unlikely you've got an extended family,
-
-355
-00:19:56,466 --> 00:19:58,362
-所以是近亲 那就是兄弟了
-not one you're close to. So brother it is.
-
-356
-00:19:58,397 --> 00:20:00,137
-然后是克拉若?
-Now, Clara, who's Clara?
 
 357
 00:20:00,138 --> 00:20:02,025
@@ -1795,21 +1009,6 @@ Must have given it to him recently,
 大概用了6个月
 it's only six months old.
 
-361
-00:20:07,350 --> 00:20:09,640
-婚姻出现问题了 6个月他就送人了
-Marriage in trouble then - six months on he's given it away.
-
-362
-00:20:09,675 --> 00:20:12,040
-如果是她甩他 也许他会留作纪念
-If she'd left HIM, he would have kept it. Sentiment.
-
-363
-00:20:12,075 --> 00:20:14,255
-不 他想扔掉 是他甩她
-No, he wanted rid of it. He left HER.
-
 364
 00:20:14,290 --> 00:20:16,800
 他把手机给你 是希望和你保持联系
@@ -1819,16 +1018,6 @@ He gave the phone to you, so he wants you to stay in touch.
 00:20:16,835 --> 00:20:18,690
 你在找便宜的房子
 You're looking for cheap accommodation,
-
-366
-00:20:18,691 --> 00:20:20,580
-却不向你兄弟求助
-but you're not going to your brother for help -
-
-367
-00:20:20,615 --> 00:20:21,699
-所以你和他之前有问题
-that says you've got problems with him.
 
 368
 00:20:21,734 --> 00:20:24,849
@@ -1845,11 +1034,6 @@ How can you possibly know about the drinking?
 胡乱猜的 不过挺准
 Shot in the dark. Good one, though.
 
-371
-00:20:30,800 --> 00:20:33,230
-电源插口周围有一些磨损
-Power connection - tiny little scuff marks round it.
-
 372
 00:20:33,265 --> 00:20:35,312
 所以他每晚想插进去充电 可手却在发抖
@@ -1860,11 +1044,6 @@ Every night he plugs it in but his hands are shaking.
 这在清醒人的手机上是不会出现的
 You never see those marks on a sober man's phone,
 
-374
-00:20:37,395 --> 00:20:38,780
-每个酗酒的人都有
-never see a drunk's without them.
-
 375
 00:20:38,781 --> 00:20:40,440
 好吧 你也说对了
@@ -1872,7 +1051,7 @@ There you go, you were right.
 
 376
 00:20:40,475 --> 00:20:42,827
-我对了 哪里说对了?
+我对了？ 哪里说对了?
 I was right? Right about what?
 
 377
@@ -1925,16 +1104,6 @@ Harry and me don't get on, never have,
 卡拉若和哈利三个月之前分手
 Clara and Harry split up three months ago
 
-387
-00:21:22,025 --> 00:21:23,720
-他们在闹离婚
-and they're getting a divorce,
-
-388
-00:21:24,240 --> 00:21:25,712
-哈利是酗酒的人
-and Harry is a drinker.
-
 389
 00:21:25,747 --> 00:21:28,130
 那全中 没想到所有都猜中了
@@ -1960,20 +1129,10 @@ Look, what exactly am I supposed to be doing here?
 姐妹
 Sister
 
-394
-00:21:34,807 --> 00:21:36,648
-老实讲 我到底来这里做什么?
-No - seriously, what am I doing here?
-
-395
-00:21:36,683 --> 00:21:37,740
-总要出点错
-There's always something.
-
 396
 00:21:38,460 --> 00:21:42,020
 你好 怪胎      我找雷斯垂德探长
-Hello, freak I'm here to see Detective Inspector Lestrade.
+Hello, freak .I'm here to see Detective Inspector Lestrade.
 
 397
 00:21:42,055 --> 00:21:43,100
@@ -1989,16 +1148,6 @@ I was invited.
 00:21:45,090 --> 00:21:46,681
 为什么?      我想他想让我看看
 Why? I think he wants me to take a look.
-
-400
-00:21:46,716 --> 00:21:48,272
-好吧 你知道我想什么吗?
-Well, you know what I think, don't you?
-
-401
-00:21:48,307 --> 00:21:49,660
-当然 莎莉
-Always Sally.
 
 402
 00:21:50,620 --> 00:21:52,840
@@ -2017,18 +1166,13 @@ Colleague of mine, Dr Watson.
 
 405
 00:21:55,790 --> 00:21:58,440
-华生医生 莎莉·多诺万警官
+华生医生 莎莉 多诺万警官
 Dr Watson, Sergeant Sally Donovan.
 
 406
 00:21:58,475 --> 00:21:59,665
 老朋友
 Old friend.
-
-407
-00:21:59,700 --> 00:22:03,160
-同事? 你竟然有同事?
-A colleague? How do YOU get a colleague?
 
 408
 00:22:03,260 --> 00:22:04,550
@@ -2073,12 +1217,12 @@ Quite clear.
 416
 00:22:28,210 --> 00:22:30,095
 你老婆很久不回家了吗?
-And is your wife away for long?
+is your wife away for long?
 
 417
 00:22:30,130 --> 00:22:31,558
 别装做是你推理出来的
-Oh, don't pretend you worked that out.
+don't pretend you worked that out.
 
 418
 00:22:31,593 --> 00:22:32,431
@@ -2100,45 +1244,10 @@ My deodorant?
 是男士用的
 It's for men.
 
-422
-00:22:36,886 --> 00:22:38,906
-当然了 我喷的当然是男用的
-Well, of course it's for men - I'm wearing it.
-
-423
-00:22:38,941 --> 00:22:40,750
-和多诺万警官身上的一样
-So's Sergeant Donovan.
-
-424
-00:22:42,000 --> 00:22:44,150
-味道突然消失了 我能进吗?
-Ooh... I think it just vaporised. May I go in?
-
 425
 00:22:44,185 --> 00:22:46,265
 听着 不管你在暗示什么...
-Ah, look. Whatever you're trying to imply...
-
-426
-00:22:46,300 --> 00:22:49,260
-我什么都没说 我相信莎莉只是
-I'm not implying anything. I'm sure Sally came round
-
-427
-00:22:49,295 --> 00:22:52,220
-来和你聊聊天 顺便就过夜了
-for a nice little chat, and just happened to stay over.
-
-428
-00:22:52,255 --> 00:22:54,270
-我猜她还帮你擦了地
-And I assume she scrubbed your floors,
-
-429
-00:22:54,305 --> 00:22:56,430
-从她膝盖看出来的
-going by the state of her knees.
+look. Whatever you're trying to imply...
 
 430
 00:23:06,660 --> 00:23:08,260
@@ -2149,16 +1258,6 @@ You'll need to wear one of these.
 00:23:08,550 --> 00:23:09,740
 这是谁?
 Who's this?
-
-432
-00:23:10,100 --> 00:23:11,170
-我的人
-He's with me.
-
-433
-00:23:11,290 --> 00:23:14,110
-可他是谁?      我说他是我的人
-But who is he? I said he's with me.
 
 434
 00:23:16,320 --> 00:23:17,950
@@ -2215,81 +1314,6 @@ I didn't say anything.
 你在思考 干扰了我
 You were thinking. It's annoying.
 
-445
-00:24:34,070 --> 00:24:36,440
-(左撇子)
-Left Handed
-
-446
-00:24:37,960 --> 00:24:41,510
-(RACHE 德文 名词 复仇)
-RACHE German revenge
-
-447
-00:24:42,830 --> 00:24:45,730
-(人名: 瑞秋)
-Rachel
-
-448
-00:24:50,410 --> 00:24:51,350
-(湿润)
-wet
-
-449
-00:24:57,230 --> 00:24:57,920
-(干燥)
-dry
-
-450
-00:25:03,330 --> 00:25:04,300
-(湿润)
-wet
-
-451
-00:25:07,722 --> 00:25:08,436
-(干净)
-Clean
-
-452
-00:25:09,120 --> 00:25:09,920
-(干净)
-clean
-
-453
-00:25:10,820 --> 00:25:11,730
-(干净)
-clean
-
-454
-00:25:15,010 --> 00:25:15,990
-(脏)
-dirty
-
-455
-00:25:17,560 --> 00:25:20,970
-(婚姻不睦: 10年以上)
-unhappily married 10+ years
-
-456
-00:25:24,180 --> 00:25:25,380
-(干净)
-clean
-
-457
-00:25:26,390 --> 00:25:27,730
-(一面干净一面脏)
-dirty
-
-458
-00:25:28,860 --> 00:25:30,870
-(经常脱下)
-regularly removed
-
-459
-00:25:32,290 --> 00:25:34,000
-(多次通奸)
-serial adulterer
-
 460
 00:25:35,220 --> 00:25:36,400
 发现什么了吗?
@@ -2305,45 +1329,10 @@ Not much.
 她是德国人
 She's German.
 
-463
-00:25:42,010 --> 00:25:43,698
-RACHE在德文中是复仇的意思
-Rache. It's German for revenge.
-
-464
-00:25:43,733 --> 00:25:44,707
-她是想告诉我们什么
-She could be trying to tell us something...
-
 465
 00:25:44,742 --> 00:25:46,370
 谢谢您的参与
-Yes, thank you for your input.
-
-466
-00:25:47,208 --> 00:25:48,469
-所以她是德国人?      当然不是
-So she's German? Of course she's not.
-
-467
-00:25:48,504 --> 00:25:49,895
-(未来7天天气预报)      她是外地来的
-She's from out of town though.
-
-468
-00:25:49,930 --> 00:25:51,796
-她准备在回卡迪夫前
-Intended to stay in London for one night
-
-469
-00:25:51,831 --> 00:25:55,000
-在伦敦呆一晚上 这很明显
-before returning home to Cardiff. So far, so obvious.
-
-470
-00:25:55,035 --> 00:25:55,857
-抱歉 明显?
-Sorry - obvious?
+thank you for your input.
 
 471
 00:25:55,892 --> 00:25:57,156
@@ -2355,16 +1344,6 @@ What about the message though?
 华生医生 你认为呢?
 Dr Watson, what do you think?
 
-473
-00:25:59,020 --> 00:25:59,533
-信息?
-Of the message?
-
-474
-00:25:59,568 --> 00:26:00,949
-是尸体 你是学医的
-Of the body. You're a medical man.
-
 475
 00:26:00,984 --> 00:26:02,330
 我们外面有整队人马
@@ -2374,11 +1353,6 @@ We have a whole team right outside.
 00:26:02,365 --> 00:26:03,080
 他们不为我工作
 They won't work with me.
-
-477
-00:26:03,115 --> 00:26:05,070
-我排除万难让你来这里
-I'm breaking every rule letting YOU in here...
 
 478
 00:26:05,105 --> 00:26:07,040
@@ -2400,55 +1374,15 @@ God help me.
 华生医生?
 Dr Watson Hm?
 
-482
-00:26:15,700 --> 00:26:17,680
-像他说的那样 请自便
-Oh, do as he says. Help yourself.
-
-483
-00:26:20,890 --> 00:26:23,620
-安德森 让大家离开几分钟
-Anderson, keep everyone out for a couple of minutes...
-
 484
 00:26:25,187 --> 00:26:27,195
 好吧?      我来这里做什么?
 Well? What am I doing here?
 
-485
-00:26:27,230 --> 00:26:28,654
-帮我理清头绪      我只想
-Helping me make a point. I'm supposed to
-
-486
-00:26:28,689 --> 00:26:31,140
-分担你的房租      这个有趣多了
-be helping you pay the rent. This is more fun.
-
 487
 00:26:31,175 --> 00:26:33,580
 有趣?一个女人躺在这里 死掉了
 Fun? There's a woman lying dead.
-
-488
-00:26:33,860 --> 00:26:36,570
-分析很准确 不过希望你再深入点
-Perfectly sound analysis, but I WAS hoping you'd go deeper.
-
-489
-00:26:55,250 --> 00:26:56,210
-好吧
-Yeah...
-
-490
-00:26:56,990 --> 00:26:59,336
-可能是窒息死亡 晕过去了
-Asphyxiation, probably. Passed out,
-
-491
-00:26:59,371 --> 00:27:00,565
-被自己的呕吐物塞住
-choked on her own vomit.
 
 492
 00:27:00,600 --> 00:27:02,185
@@ -2465,50 +1399,10 @@ It could have been a seizure. Possibly drugs.
 你知道怎么回事 你看了报纸
 You know what it was, you've read the papers.
 
-495
-00:27:07,110 --> 00:27:08,782
-她是自杀者之一 第4个
-Well, she's one of the suicides. The fourth...?
-
-496
-00:27:08,817 --> 00:27:11,537
-夏洛克 你说两分钟 发现了些什么
-Sherlock - two minutes, I said, I need anything you got.
-
 497
 00:27:11,637 --> 00:27:13,902
 受害者年近30 专业人士
 Victim is in her late 30s. Professional person,
-
-498
-00:27:13,937 --> 00:27:14,909
-从她的衣着判断
-going by her clothes -
-
-499
-00:27:14,944 --> 00:27:15,847
-我猜是传媒界的人
-I'm guessing the media,
-
-500
-00:27:15,882 --> 00:27:18,170
-穿着显眼的粉色
-going by the frankly alarming shade of pink.
-
-501
-00:27:18,205 --> 00:27:19,591
-她从卡迪夫而来
-Travelled from Cardiff today intending
-
-502
-00:27:19,626 --> 00:27:22,490
-准备呆一晚 从箱子大小可以看出
-to stay in London one night from the size of her suitcase.
-
-503
-00:27:22,525 --> 00:27:23,667
-箱子?      箱子 是的
-Suitcase? Suitcase, Yes.
 
 504
 00:27:23,702 --> 00:27:26,568
@@ -2525,25 +1419,10 @@ She's had a string of lovers
 但没人知道她结婚了
 but none of them knew she was married.
 
-507
-00:27:29,660 --> 00:27:31,498
-看在上帝的份上 你是顺口说说的
-Oh, for God's sake, if you're just making this up...
-
-508
-00:27:31,533 --> 00:27:34,105
-她的婚戒 至少有10年历史了
-Her wedding ring. Ten years old at least.
-
 509
 00:27:34,140 --> 00:27:35,990
 她其它的饰品都很干净
 The rest of her jewellery has been regularly cleaned,
-
-510
-00:27:35,991 --> 00:27:36,965
-唯独婚戒不是
-but not her wedding ring.
 
 511
 00:27:37,000 --> 00:27:38,539
@@ -2560,16 +1439,6 @@ The inside is shinier than the outside.
 说明经常被摘掉
 That means its regularyly removed
 
-514
-00:27:41,497 --> 00:27:42,890
-只有在她摘掉时
-The only polishing it gets is
-
-515
-00:27:42,925 --> 00:27:44,261
-才算被擦拭一次
-when she works it off her finger.
-
 516
 00:27:44,296 --> 00:27:45,597
 不是为工作 看她的指甲
@@ -2584,21 +1453,6 @@ She doesn't work with her hands
 00:27:46,453 --> 00:27:48,632
 那为什么要脱去婚戒?
 so who does she remove her rings for?
-
-519
-00:27:48,667 --> 00:27:50,777
-不只有一个情人  她不能
-Not one lover, she'd never sustain
-
-520
-00:27:50,812 --> 00:27:52,380
-假装单身那么久
-the fiction of being single for that long
-
-521
-00:27:52,415 --> 00:27:55,466
-所以更可能有一长串人     厉害
-so more likely a string of them. Brilliant.
 
 522
 00:27:55,740 --> 00:27:57,595
@@ -2620,30 +1474,10 @@ It's not obvious to me.
 上帝啊 你们小脑瓜里到底装了什么
 Dear God, what is it like in your funny little brains,
 
-526
-00:28:03,751 --> 00:28:05,987
-一定很无聊 看她的外套
-it must be so boring. Her coat -
-
-527
-00:28:06,022 --> 00:28:06,743
-有一点潮湿
-it's slightly damp,
-
-528
-00:28:06,778 --> 00:28:08,566
-一定是在最近几个小时内遭遇了暴雨
-she's been in heavy rain the last few hours -
-
 529
 00:28:08,601 --> 00:28:10,448
 伦敦这段时间都没下雨
 no rain anywhere in London in that time.
-
-530
-00:28:10,648 --> 00:28:12,316
-大衣领背面也湿了
-Under her coat collar is damp too.
 
 531
 00:28:12,351 --> 00:28:13,985
@@ -2655,20 +1489,10 @@ She's turned it up against the wind.
 她口袋里有雨伞 可却是干的 没用过
 She's got an umbrella in her pocket but it's dry and unused.
 
-533
-00:28:16,720 --> 00:28:19,270
-不只有风 是强风 大到不能打伞
-Not just wind, strong wind - too strong to use her umbrella.
-
 534
 00:28:19,305 --> 00:28:20,266
-从她的箱子里
-We know from her suitcase
-
-535
-00:28:20,301 --> 00:28:21,633
-看出她准备过夜
-that she was intending to stay overnight
+从她的箱子里看出她准备过夜
+We know from her suitcase that she was intending to stay overnight
 
 536
 00:28:21,668 --> 00:28:24,599
@@ -2680,16 +1504,6 @@ but she can't have travelled more than two or three hours
 因为外套还没干
 because her coat still hasn't dried.
 
-538
-00:28:26,302 --> 00:28:27,865
-所以 哪里刚刚有暴雨
-So - where has there been heavy rain
-
-539
-00:28:27,900 --> 00:28:30,590
-有强风 且在两三小时旅程内?
-and strong wind within the radius of that travel time?
-
 540
 00:28:30,780 --> 00:28:31,965
 卡迪夫
@@ -2699,11 +1513,6 @@ Cardiff.
 00:28:32,000 --> 00:28:34,600
 太棒了      你知道你大声说出来了吗?
 Fantastic. Do you know you do that out loud?
-
-542
-00:28:34,635 --> 00:28:37,200
-抱歉 我闭嘴      没..关系
-Sorry, I'll shut up. No, it's... fine.
 
 543
 00:28:37,235 --> 00:28:38,475
@@ -2720,30 +1529,10 @@ Yes, where is it?
 电话里或是记事本上一定有
 She must have had a phone or an organiser.
 
-546
-00:28:42,426 --> 00:28:44,706
-找找瑞秋这个人      她写的是瑞秋?
-Find out who Rachel is. She was writing Rachel?
-
-547
-00:28:44,741 --> 00:28:46,952
-不 她用德语留了句愤怒遗言
-No, she was leaving an angry note in German -
-
-548
-00:28:46,987 --> 00:28:49,418
-当然她写的是瑞秋 不可能是其他词
-of course she was writing Rachel, no other word it can be.
-
 549
 00:28:49,453 --> 00:28:50,660
-问题是 为什么要等到
-the question is Why did she wait
-
-550
-00:28:50,695 --> 00:28:52,272
-临死时来写?
-until she was dying to write it?
+问题是 为什么要等到临死时来写?
+the question is Why did she wait until she was dying to write it?
 
 551
 00:28:52,307 --> 00:28:53,815
@@ -2752,38 +1541,13 @@ How do you know she had a suitcase?
 
 552
 00:28:53,850 --> 00:28:56,084
-她的右后跟和小腿肚有泥浆的痕迹
-Tiny splash marks on her right heel and calf
-
-553
-00:28:56,119 --> 00:28:57,045
-左边却没有
-not present on the left.
+她的右后跟和小腿肚有泥浆的痕迹 左边却没有
+Tiny splash marks on her right heel and calf not present on the left.
 
 554
 00:28:57,080 --> 00:28:59,200
-从泥点的图案可以看出
-She was dragging a wheeled suitcase behind her
-
-555
-00:28:59,235 --> 00:29:01,320
-她右手拉着一个带轮子的箱子
-with her right hand, by that splash pattern.
-
-556
-00:29:01,355 --> 00:29:03,375
-以泥点分布来看 是略小的箱子
-Smallish case, going by the spread.
-
-557
-00:29:03,410 --> 00:29:05,339
-这么小的箱子 对穿衣这么讲究的女士来说
-Case that size, woman this clothes-conscious -
-
-558
-00:29:05,374 --> 00:29:06,428
-只够呆一晚
-could only be an overnight bag
+从泥点的图案可以看出她右手拉着一个带轮子的箱子
+She was dragging a wheeled suitcase behind her with her right hand, by that splash pattern.
 
 559
 00:29:06,429 --> 00:29:08,079
@@ -2835,11 +1599,6 @@ But they take the poison themselves, swallow the pills.
 这个很明显 你们怎么会找不到
 There are clear signs, even you lot couldn't miss them.
 
-569
-00:29:28,506 --> 00:29:30,435
-好吧 谢谢 那...
-Right, thanks. And...?
-
 570
 00:29:30,470 --> 00:29:32,845
 所有案子都是谋杀 我不知道方法
@@ -2854,11 +1613,6 @@ But they're not suicides, they're serial killings.
 00:29:35,565 --> 00:29:36,654
 我们要寻找一个连环杀手
 We've got a serial killer.
-
-573
-00:29:36,689 --> 00:29:37,002
-太好了
-I love it.
 
 574
 00:29:37,037 --> 00:29:38,850
@@ -2878,7 +1632,7 @@ Her case Come on, where is her case?
 577
 00:29:42,305 --> 00:29:43,433
 自己吃掉了吗?
-Did she eat it
+Did she eat it?
 
 578
 00:29:43,434 --> 00:29:46,190
@@ -2910,16 +1664,6 @@ No, she's never got to the hotel. look at her hair.
 口红和鞋都是一样颜色
 She colour-coordinates her lipstick and her shoes.
 
-584
-00:29:56,086 --> 00:29:57,578
-她不可能离开酒店
-She'd never have left any hotel
-
-585
-00:29:57,613 --> 00:29:59,071
-如果头发还那么...
-with her hair still looking...
-
 586
 00:30:03,600 --> 00:30:05,615
 夏洛克? 怎么了?
@@ -2942,33 +1686,13 @@ We can't just wait!
 
 590
 00:30:09,870 --> 00:30:12,265
-不用再等了 看看她 好好看
-Oh, we're done waiting. Look at her, really look!
-
-591
-00:30:12,300 --> 00:30:14,625
-总部 错误找到了 调查卡迪夫那边
-Houston, we have a mistake. Get on to Cardiff.
-
-592
-00:30:14,660 --> 00:30:16,740
-去找詹妮弗·威尔森的家人和朋友
-.Find out who Jennifer Wilson's family and friends were.
-
-593
-00:30:16,775 --> 00:30:17,625
-去找瑞秋
-Find Rachel
+不用再等了 看看她 好好看!
+we're done waiting. Look at her, really look!
 
 594
 00:30:17,660 --> 00:30:20,050
 当然了 好的 但到底是什么错?
-Of course, yeah - but what mistake?!
-
-595
-00:30:21,020 --> 00:30:22,080
-粉色
-Pink!
+Of course, yeah . But what mistake?!
 
 596
 00:30:24,370 --> 00:30:25,580
@@ -2983,7 +1707,7 @@ He's gone.
 598
 00:31:04,680 --> 00:31:05,805
 谁? 夏洛克·福尔摩斯?
-Who, Sherlock Holmes?
+Who? Sherlock Holmes?
 
 599
 00:31:05,840 --> 00:31:07,730
@@ -3020,15 +1744,10 @@ Brixton.
 你知道该去哪里打车吗?
 Do you know where I could get a cab?
 
-606
-00:31:24,205 --> 00:31:25,840
-因为...
-It's just er...
-
 607
 00:31:26,550 --> 00:31:27,660
 呃...
-well -
+well...
 
 608
 00:31:28,180 --> 00:31:29,280
@@ -3107,7 +1826,7 @@ One day we'll be standing round a body
 
 623
 00:32:09,240 --> 00:32:11,100
-夏洛克·福尔摩斯就是始作俑者
+夏洛克 福尔摩斯就是始作俑者
 and Sherlock Holmes will be the one that put it there.
 
 624
@@ -3127,7 +1846,7 @@ Psychopaths get bored.
 
 627
 00:32:16,640 --> 00:32:18,620
-多诺万      来了
+多诺万！      来了
 Donovan! Coming.
 
 628
@@ -3137,7 +1856,7 @@ Stay away from Sherlock Holmes.
 
 629
 00:32:55,470 --> 00:32:57,340
-出租车 出租车...
+出租车！ 出租车...
 Taxi! Taxi...
 
 630
@@ -3175,11 +1894,6 @@ Do you see the camera, Dr Watson?
 是的 我看到了       看着...
 Yeah, I see it. Watch...
 
-637
-00:33:58,310 --> 00:34:02,440
-街对面的大楼上有另一个摄像头 看到了吗?
-There's another camera on the building opposite you. Do u see it?
-
 638
 00:34:05,680 --> 00:34:09,670
 最后一个 你右手边大楼的顶层
@@ -3198,12 +1912,12 @@ How are you doing this?
 641
 00:34:21,290 --> 00:34:23,350
 我本可以威胁你
-'I would make some sort of threat,
+I would make some sort of threat,
 
 642
 00:34:23,360 --> 00:34:26,710
 但你一定很清楚自己的处境
-but I'm sure your situation is quite clear to you. '
+but I'm sure your situation is quite clear to you. 
 
 643
 00:34:43,240 --> 00:34:45,610
@@ -3235,15 +1949,10 @@ I'm John.
 我知道
 Yes. I know.
 
-649
-00:35:09,680 --> 00:35:12,250
-我有必要问问这是去哪吗?
-Any point in asking... where I'm going?
-
 650
 00:35:15,270 --> 00:35:16,870
 毫无必要
-None at all...
+None at all
 
 651
 00:35:17,340 --> 00:35:18,640
@@ -3265,35 +1974,10 @@ Have a seat, John.
 你知道 我有手机的
 You know, I've got a phone.
 
-655
-00:35:49,730 --> 00:35:51,990
-摄像头那招是很妙
-I mean, very clever and all that,
-
-656
-00:35:52,520 --> 00:35:54,325
-但是...
-but er...
-
 657
 00:35:54,360 --> 00:35:56,600
 打电话给我就行
 you could just phone me.
-
-658
-00:35:57,330 --> 00:35:59,170
-到我手机上
-On my phone.
-
-659
-00:36:01,070 --> 00:36:03,850
-要想避开夏洛克·福尔摩斯的眼睛
-When one is avoiding the attention of Sherlock Holmes,
-
-660
-00:36:03,885 --> 00:36:06,320
-就该学会谨慎 所以在此见面
-one learns to be discreet, hence this place.
 
 661
 00:36:06,355 --> 00:36:09,540
@@ -3328,7 +2012,7 @@ The bravery of the soldier.
 667
 00:36:21,570 --> 00:36:25,230
 勇敢是愚蠢最好听的代言词 你说呢?
-Bravery is by far the kindest word for stupidity, don't u think?
+Bravery is by far the kindest word for stupidity, don't you think?
 
 668
 00:36:25,265 --> 00:36:28,190
@@ -3338,17 +2022,7 @@ What is your connection to Sherlock Holmes?
 669
 00:36:28,630 --> 00:36:34,100
 没关系 我们几乎不认识 我昨天才遇到他
-I don't have one. I barely know him, I met him... yesterday.
-
-670
-00:36:34,135 --> 00:36:36,070
-才一天工夫 你们就同居了
-Mmm, and since yesterday you've moved in with him
-
-671
-00:36:36,105 --> 00:36:38,385
-现在还一起查案
-and now you're solving crimes together.
+I don't have one. I barely know him, I met him yesterday.
 
 672
 00:36:38,420 --> 00:36:41,540
@@ -3375,45 +2049,20 @@ I'm guessing you're not friends.
 你也见过他 你想他能有几个朋友?
 You've met him. How many friends do you imagine he has?
 
-677
-00:36:52,920 --> 00:36:54,645
-我是夏洛克能拥有的
-I'm the closest thing to a friend
-
-678
-00:36:54,680 --> 00:36:57,150
-最近乎朋友的存在      你指什么?
-that Sherlock Holmes is capable of having And what's that?
-
 679
 00:36:57,185 --> 00:36:59,012
 敌人      敌人?
 An enemy. An enemy?
 
-680
-00:36:59,047 --> 00:37:00,805
-在他看来 我绝对是敌人
-In HIS mind, certainly.
-
 681
 00:37:00,840 --> 00:37:04,120
-如果你问他 他会说我是他的魔王
+如果你问他 他会说我是他的死敌
 If you were to ask him, he'd probably say his arch-enemy.
 
 682
 00:37:04,530 --> 00:37:06,910
 他喜欢把事情搞得戏剧化
 He does love to be dramatic.
-
-683
-00:37:07,260 --> 00:37:09,440
-哟 谢天谢地你没这毛病
-Well, thank God YOU'RE above all that.
-
-684
-00:37:14,780 --> 00:37:18,120
-(若方便速来贝克街-夏·福)      我没打扰你吧
-I hope I'm not distracting you.
 
 685
 00:37:18,150 --> 00:37:19,605
@@ -3425,40 +2074,10 @@ Not distracting me at all.
 你打算继续和夏洛克·福尔摩斯合作下去?
 Do you plan to continue your association with Sherlock Holmes?
 
-687
-00:37:22,625 --> 00:37:23,815
-也许说的不对...
-I could be wrong...
-
 688
 00:37:23,850 --> 00:37:26,385
 但我觉得这不关你事
 but I think that's none of your business.
-
-689
-00:37:26,420 --> 00:37:28,920
-很难说      真不关你事
-It could be. It really couldn't.
-
-690
-00:37:29,500 --> 00:37:32,060
-如果你真的搬进...
-If you DO move into, erm...
-
-691
-00:37:34,160 --> 00:37:38,925
-贝克街 221B号
-.. 221B Baker Street,
-
-692
-00:37:38,960 --> 00:37:41,965
-我将非常乐意行方便
-I'd be happy to pay you a meaningful sum
-
-693
-00:37:42,000 --> 00:37:45,560
-定期付你可观报酬
-of money on a regular basis to ease your way.
 
 694
 00:37:45,595 --> 00:37:46,725
@@ -3477,13 +2096,13 @@ In exchange for what?
 
 697
 00:37:50,360 --> 00:37:52,155
-提供信息
+信息
 Information.
 
 698
 00:37:52,190 --> 00:37:56,000
 绝不会侵犯隐私 绝不会让你为难
-Nothing indiscreet. Nothing you'd feel... uncomfortable with.
+Nothing indiscreet. Nothing you'd feel uncomfortable with.
 
 699
 00:37:56,035 --> 00:37:58,760
@@ -3500,26 +2119,6 @@ I worry about him. Constantly.
 你可真好人
 That's nice of you.
 
-702
-00:38:04,950 --> 00:38:06,850
-但出于种种原因
-But I would prefer for various reasons
-
-703
-00:38:06,885 --> 00:38:09,055
-希望你对此事守口如瓶
-that my concern go unmentioned,
-
-704
-00:38:09,090 --> 00:38:13,060
-我们的关系有点...不太融洽
-we have what you might call a... difficult relationship.
-
-705
-00:38:17,050 --> 00:38:19,830
-(若不方便亦来 - 夏·福)
-If inconvenient, come anyway
-
 706
 00:38:19,930 --> 00:38:22,190
 不行      我还没说具体金额呢
@@ -3530,20 +2129,10 @@ No. But I haven't mentioned a figure.
 省省吧
 Don't bother.
 
-708
-00:38:23,620 --> 00:38:25,855
-这么快就对他死心塌地了
-You're very loyal VERY quickly.
-
 709
 00:38:25,890 --> 00:38:28,770
 不 不是 我只是不感兴趣
 No, I'm not, I'm just not interested.
-
-710
-00:38:33,040 --> 00:38:36,060
-"不信任人" 医生写的
-"Trust issues"... it says here.
 
 711
 00:38:39,380 --> 00:38:40,615
@@ -3552,13 +2141,8 @@ What's that?
 
 712
 00:38:40,650 --> 00:38:42,450
-你居然不信任其他人
-Could it be that you've decided to
-
-713
-00:38:42,485 --> 00:38:44,250
-却信任夏洛克·福尔摩斯?
-trust Sherlock Holmes of all people?
+你居然不信任其他人却信任夏洛克 福尔摩斯?
+Could it be that you've decided to trust Sherlock Holmes of all people?
 
 714
 00:38:44,285 --> 00:38:45,265
@@ -3575,11 +2159,6 @@ You don't seem the kind to make friends easily.
 说完了没?
 Are we done?
 
-717
-00:38:50,180 --> 00:38:51,800
-你说呢
-You tell me.
-
 718
 00:38:58,440 --> 00:39:01,665
 我猜已经有人警告过你离他远点
@@ -3595,30 +2174,10 @@ but I can see from your left hand that's not going to happen.
 我的什么?      给我看看
 My what? Show me.
 
-721
-00:39:21,550 --> 00:39:23,440
-别碰
-Don't...
-
 722
 00:39:30,890 --> 00:39:32,225
 了不得      什么?
 Remarkable. What is?
-
-723
-00:39:32,260 --> 00:39:34,825
-这城市大多人都庸庸碌碌
-Most people... blunder round this city,
-
-724
-00:39:34,860 --> 00:39:38,930
-眼中只有繁华街肆 车来人往
-and all they see are streets and shops and cars.
-
-725
-00:39:39,550 --> 00:39:42,670
-与夏洛克·福尔摩斯同行 你却能看到战场
-When you walk with Sherlock Holmes, you see the battlefield.
 
 726
 00:39:42,705 --> 00:39:44,570
@@ -3690,11 +2249,6 @@ Time to choose a side, Dr Watson.
 我带你回家
 I'm to take you home.
 
-740
-00:40:41,030 --> 00:40:44,310
-(可能很危险 - 夏·福)
-Dangerous - S H
-
 741
 00:40:48,940 --> 00:40:50,025
 地址?
@@ -3738,7 +2292,7 @@ Yeah.
 749
 00:41:37,740 --> 00:41:42,350
 呃...你平时有空闲吗?
-Hey erm... do you ever get any free time?
+Erm... do you ever get any free time?
 
 750
 00:41:42,385 --> 00:41:44,260
@@ -3754,11 +2308,6 @@ Bye OK.
 00:42:19,540 --> 00:42:20,850
 你在干什么?
 What are you doing?
-
-753
-00:42:21,530 --> 00:42:23,200
-尼古丁贴片(戒烟用)
-Nicotine patch.
 
 754
 00:42:23,380 --> 00:42:25,260
@@ -3780,25 +2329,10 @@ Bad news for brain work.
 却有利于呼吸
 It's good news for breathing.
 
-758
-00:42:32,080 --> 00:42:33,840
-呼吸 呼吸乏味透顶
-Oh... Breathing! Breathing's boring.
-
-759
-00:42:33,875 --> 00:42:36,062
-你一下就三张贴片?
-Is that... three patches?
-
 760
 00:42:36,097 --> 00:42:38,250
 这是三张级的难题
 It's a three-patch problem.
-
-761
-00:42:41,870 --> 00:42:43,060
-怎么样?
-Well...?
 
 762
 00:42:45,850 --> 00:42:48,220
@@ -3808,7 +2342,7 @@ You asked me to come, I'm assuming it's important.
 763
 00:42:49,260 --> 00:42:51,730
 哦 当然了 我能借用你的手机吗?
-Oh - yeah, of course. Can I borrow your phone?
+Oh ,of course. Can I borrow your phone?
 
 764
 00:42:52,410 --> 00:42:54,005
@@ -3828,17 +2362,12 @@ It's on the website.
 767
 00:42:56,410 --> 00:42:58,370
 赫德森太太有手机      她在楼下呢
-Mrs Hudson's got a phone. Yeah, she's downstairs.
+Mrs Hudson's got a phone. she's downstairs.
 
 768
 00:42:58,405 --> 00:42:59,720
 我试过大喊 但她耳背
 I tried shouting but she didn't hear.
-
-769
-00:42:59,730 --> 00:43:00,800
-我在伦敦城的另一边...
-I WAS the other side of London...
 
 770
 00:43:00,835 --> 00:43:02,310
@@ -3853,17 +2382,7 @@ Here...
 772
 00:43:12,350 --> 00:43:14,345
 要干什么? 这案子?
-So what's this about - the case?
-
-773
-00:43:14,380 --> 00:43:16,305
-她的箱子...      她的箱子?
-Her case... HER case?
-
-774
-00:43:16,340 --> 00:43:18,340
-她的行李箱 当然了
-Her suitcase, yes, obviously.
+So what's this about ? the case?
 
 775
 00:43:18,820 --> 00:43:21,860
@@ -3910,11 +2429,6 @@ A friend? An enemy.
 哦 哪一个?
 Oh. Which one?
 
-784
-00:43:57,020 --> 00:44:00,280
-据他说 是你的魔王 人真会有魔王?
-Well, your arch-enemy, according to him. Do people have arch-enemies?
-
 785
 00:44:02,400 --> 00:44:04,610
 他有没出钱让你监视我?
@@ -3930,30 +2444,10 @@ Yes. Did you take it?
 没有
 No.
 
-788
-00:44:08,100 --> 00:44:11,040
-真遗憾 我们本可以平分 下次想清楚点
-Pity, we could have split the fee. Think it through next time.
-
 789
 00:44:11,790 --> 00:44:14,070
-他是谁?      你见过的最危险的人
-Who is he? The most dangerous man you've ever met,
-
-790
-00:44:14,105 --> 00:44:15,280
-不过现在的问题不是他
-and not my problem right now.
-
-791
-00:44:15,315 --> 00:44:17,430
-发短信 号码在我桌上
-On my desk, the number!
-
-792
-00:44:24,140 --> 00:44:26,085
-詹妮弗·威尔森 这是...
-Jennifer Wilson. That was...
+他是谁?      你见过的最危险的人 不过现在的问题不是他
+Who is he? The most dangerous man you've ever met,and not my problem right now.
 
 793
 00:44:26,120 --> 00:44:28,045
@@ -3975,36 +2469,6 @@ Are you doing it? Yes.
 输完了吗?
 Have you done it?
 
-797
-00:44:34,207 --> 00:44:35,280
-是...等一下
-Yeah - hang on!
-
-798
-00:44:36,330 --> 00:44:38,805
-照我说的 一字不差
-These words exactly.
-
-799
-00:44:38,840 --> 00:44:42,040
-"劳里斯顿花园发生了什么?"
-"What happened at Lauriston Gardens?
-
-800
-00:44:42,075 --> 00:44:44,647
-"我一定是昏过去了"
-I must have blacked out.
-
-801
-00:44:44,682 --> 00:44:47,185
-"诺森伯兰街22号"
-22 Northumberland Street,
-
-802
-00:44:47,220 --> 00:44:48,970
-"请速前来"      你昏过去了?
-please come. " You blacked out?
-
 803
 00:44:49,005 --> 00:44:51,080
 什么? 不是 当然不是
@@ -4022,17 +2486,7 @@ Have you sent it? What's the address?
 
 806
 00:45:01,375 --> 00:45:03,237
-诺森伯兰街22号 快
-22 Northumberland Street. Hurry up!
-
-807
-00:45:03,272 --> 00:45:04,726
-(劳里斯顿花园发生了什么? 我一定是昏过去了)
-"What happened at Lauriston Gardens?"
-
-808
-00:45:04,761 --> 00:45:06,180
-(诺森伯兰街22号 请速前来)
+诺森伯兰街22号 快！
 22 Northumberland Street. Hurry up!
 
 809
@@ -4053,7 +2507,7 @@ Yes, obviously.
 812
 00:45:20,050 --> 00:45:22,820
 或许该解释下 我没杀她
-Oh, perhaps I should mention - I didn't kill her.
+Oh, perhaps I should mention . I didn't kill her.
 
 813
 00:45:22,855 --> 00:45:23,865
@@ -4105,55 +2559,9 @@ The killer must have driven her to Lauriston Gardens.
 箱子遗落在车里 所以到了他手上
 He could only keep her case by accident if it was in the car.
 
-823
-00:45:45,285 --> 00:45:47,720
-谁拿这箱子都会引人注目
-Nobody could be seen with this case without drawing attention -
-
-824
-00:45:47,755 --> 00:45:51,160
-尤其是男人 按统计学凶手大概是男人
-particularly a man, which is statistically more likely.
-
-825
 00:45:51,195 --> 00:45:53,085
 所以他迫切想扔掉它
 So obviously he'd feel compelled to get rid of it.
-
-826
-00:45:53,120 --> 00:45:54,540
-一发现自己带着这箱子
-the next thing he knows-he still has it. Wouldn't have taken
-
-827
-00:45:54,575 --> 00:45:56,922
-不到五分钟就意识到是个错误
-him more than five minutes to realise his mistake.
-
-828
-00:45:56,957 --> 00:45:59,235
-我检查了劳里斯顿花园周边
-I checked every backstreet wide enough for a car
-
-829
-00:45:59,270 --> 00:46:01,040
-五分钟车程内每条丢弃大件物品
-five minutes from Lauriston Gardens, and anywhere you could
-
-830
-00:46:01,075 --> 00:46:04,230
-不引人注意的小巷
-'dispose of a bulky object without being observed.
-
-831
-00:46:05,900 --> 00:46:08,480
-不到一小时就找到了
-'Took me less than an hour to find the right skip. '
-
-832
-00:46:10,580 --> 00:46:13,680
-粉色 仅靠箱子是粉色 就推理出那么多?
-Pink. You got all that because you realised the case would be pink?
 
 833
 00:46:13,715 --> 00:46:14,747
@@ -4173,12 +2581,12 @@ Because you're an idiot.
 836
 00:46:17,140 --> 00:46:19,670
 不 别那副表情 几乎所有人都是
-No, no, no, don't look like that. Practically everyone is.
+No, don't look like that. Practically everyone is.
 
 837
 00:46:20,110 --> 00:46:22,420
 听着 你发现少了什么没?
-Now, look. Do you see what's missing?
+ look. Do you see what's missing?
 
 838
 00:46:22,455 --> 00:46:24,540
@@ -4235,11 +2643,6 @@ She could have lost it. Yes, or?
 凶手...你觉得凶手拿走了手机?
 The murderer... You think the murderer has the phone?
 
-849
-00:46:52,835 --> 00:46:55,802
-也许她放箱子时 落了手机
-Maybe she... left it when she left her case.
-
 850
 00:46:55,837 --> 00:46:58,735
 也许凶手出于某种原因把手机拿走了
@@ -4253,7 +2656,7 @@ Either way, the balance of probability is murderer has her phone.
 852
 00:47:01,975 --> 00:47:03,965
 不好意思...我们在干什么?
-Sorry... what are we doing -
+Sorry... what are we doing ?
 
 853
 00:47:04,000 --> 00:47:07,260
@@ -4262,13 +2665,8 @@ did I just text a murderer? What good will that do?
 
 854
 00:47:10,340 --> 00:47:11,675
-刚杀人几小时后
-A few hours after his last victim,
-
-855
-00:47:11,710 --> 00:47:15,480
-凶手收到只可能来自死者的短信
-and now he receives a text that can only be from her.
+刚杀人几小时后 凶手收到只可能来自死者的短信
+A few hours after his last victim,and now he receives a text that can only be from her.
 
 856
 00:47:17,330 --> 00:47:18,545
@@ -4277,13 +2675,8 @@ If somebody had just found that phone
 
 857
 00:47:18,580 --> 00:47:20,950
-不会理睬这种短信 但是凶手...
-they'd ignore a text like that, but the murderer...
-
-858
-00:47:22,330 --> 00:47:23,430
-会惊慌失措的
-would panic.
+不会理睬这种短信 但是凶手...会惊慌失措的
+they'd ignore a text like that, but the murderer...would panic.
 
 859
 00:47:26,390 --> 00:47:27,245
@@ -4300,11 +2693,6 @@ Four people are dead, there isn't time.
 那为什么和我说?
 So why are you talking to ME?
 
-862
-00:47:31,152 --> 00:47:32,780
-赫德森太太没收了我那头盖骨
-Mrs Hudson took my skull.
-
 863
 00:47:34,450 --> 00:47:36,200
 所以我在代替你那头盖骨?
@@ -4318,27 +2706,17 @@ Relax, you're doing fine.
 865
 00:47:38,052 --> 00:47:39,765
 好了      什么好了?
-Well? Well, what?
-
-866
-00:47:39,800 --> 00:47:42,630
-你大可坐在这里看电视
-Well - you could just sit there and... watch telly.
+Well?  what?
 
 867
 00:47:42,665 --> 00:47:43,615
 你要我一块去?
-What, you want me to come with you?
+you want me to come with you?
 
 868
 00:47:43,650 --> 00:47:47,060
 我喜欢出门有人陪 大声讲话有助于思维
 I like company when I go out, I think better when I talk aloud.
-
-869
-00:47:47,095 --> 00:47:49,650
-头盖骨出门太招摇了 所以...
-The skull just attracts attention, so...
 
 870
 00:47:50,380 --> 00:47:52,760
@@ -4354,16 +2732,6 @@ What about her?
 00:47:54,147 --> 00:47:55,395
 她说...
 She said...
-
-873
-00:47:55,430 --> 00:47:57,570
-凶案让你兴奋 乐在其中
-you get off on this. You enjoy it.
-
-874
-00:47:58,470 --> 00:48:02,130
-我说了"危险" 你转眼就来了
-And I said "dangerous", and here you are.
 
 875
 00:48:05,890 --> 00:48:07,330
@@ -4390,60 +2758,20 @@ You think he's stupid enough to go there?
 不 我觉得他聪明极了
 No, I think he's brilliant enough.
 
-880
-00:48:22,690 --> 00:48:25,930
-聪明人我喜欢 都巴不得被抓到
-I love the brilliant ones. They're all so desperate to get caught.
-
-881
-00:48:25,970 --> 00:48:27,750
-为什么?      被人赏识
-Why? Appreciation!
-
-882
-00:48:27,990 --> 00:48:30,590
-受人追捧 终成焦点所在
-Applause! At long last the spotlight.
-
 883
 00:48:30,780 --> 00:48:32,280
 这就是天才的软肋
 That's the frailty of genius,
-
-884
-00:48:32,315 --> 00:48:33,820
-他们需要观众
-it needs an audience.
 
 885
 00:48:33,855 --> 00:48:34,660
 没错
 Yeah.
 
-886
-00:48:34,690 --> 00:48:38,540
-这就是他的狩猎场 城市的中心
-This is his hunting ground. Right here in the heart of the city.
-
 887
 00:48:38,575 --> 00:48:40,190
-现在知道受害人是被他诱拐的
-Now that we know his victims were abducted,
-
-888
-00:48:40,225 --> 00:48:41,850
-那就不一样了
-that changes everything.
-
-889
-00:48:42,230 --> 00:48:44,920
-受害人都是从繁忙的街道消失
-Because all of his victims disappeared from busy streets,
-
-890
-00:48:44,955 --> 00:48:47,700
-闹市 但从没人注意到他们离开
-crowded places, but nobody saw them go.
+现在知道受害人是被他诱拐的那就不一样了
+Now that we know his victims were abducted,that changes everything.
 
 891
 00:48:48,220 --> 00:48:51,400
@@ -4485,11 +2813,6 @@ Thank you, Billy.
 盯着它
 Keep your eyes on it.
 
-899
-00:49:15,080 --> 00:49:18,140
-他不会走上前去按门铃的 他已经疯了
-He's not just going to ring the doorbell. He'd need to be mad.
-
 900
 00:49:18,220 --> 00:49:20,270
 他已经杀了4个人
@@ -4515,40 +2838,15 @@ Anything on the menu, whatever you want, free.
 算在我们帐上 你和你的情人都是
 On the house, for you and for your date.
 
-905
-00:49:29,952 --> 00:49:31,876
-你想吃东西吗?      我不是他的情人
-Do you want to eat? I'm not his date.
-
 906
 00:49:31,911 --> 00:49:33,765
 这个人帮我洗清了谋杀的嫌疑
 This man got me off a murder charge.
 
-907
-00:49:33,800 --> 00:49:36,730
-这是安吉洛 3年前我向雷斯垂德证明了
-This is Angelo. Three years ago I sucessfully proved to Lestrade
-
-908
-00:49:36,765 --> 00:49:38,675
-当一起极为残暴的三重谋杀发生时
-at the time of a particularly vicious triple murder
-
-909
-00:49:38,710 --> 00:49:41,730
-安吉洛正在城市另一头入室抢劫
-that Angelo was in different part of town house-breaking.
-
 910
 00:49:41,765 --> 00:49:42,675
 他洗清了我的名誉
 He cleared my name.
-
-911
-00:49:42,710 --> 00:49:45,160
-一点点吧 对面有什么动静吗?
-I cleared it a bit. Anything happening opposite?
 
 912
 00:49:45,195 --> 00:49:46,095
@@ -4572,33 +2870,18 @@ I'll get a candle for the table. It's more romantic.
 
 916
 00:49:51,965 --> 00:49:53,260
-我不是他的情人
+我不是他的情人！
 I'm not his date!
-
-917
-00:49:55,500 --> 00:49:57,740
-你还是吃点吧 我们可能要等很久
-You may as well eat. We might have a long wait.
 
 918
 00:49:59,460 --> 00:50:00,680
 多谢了
 Thanks.
 
-919
-00:50:08,140 --> 00:50:10,750
-人是没有魔王的
-People don't have arch-enemies.
-
 920
 00:50:10,785 --> 00:50:13,360
 什么?      在现实生活里
 I'm sorry? In real life.
-
-921
-00:50:13,860 --> 00:50:16,520
-现实生活里是没有魔王的 没有
-There are no arch-enemies in real life. Doesn't happen.
 
 922
 00:50:16,555 --> 00:50:19,240
@@ -4609,11 +2892,6 @@ Doesn't it? Sounds a bit dull.
 00:50:19,275 --> 00:50:20,520
 那么我遇到的是谁?
 So who did I meet?
-
-924
-00:50:20,770 --> 00:50:24,790
-那么正常人在"现实生活"中应该有什么?
-What do real people have, then, in their... "real lives"?
 
 925
 00:50:25,480 --> 00:50:26,480
@@ -4630,11 +2908,6 @@ People they know, people they like, people they don't like...
 女朋友 男朋友
 Girlfriends, boyfriends.
 
-928
-00:50:33,120 --> 00:50:34,870
-对 我没说错 乏味
-Yes, well, as I was saying - dull.
-
 929
 00:50:35,500 --> 00:50:37,120
 这么说你没有女朋友了
@@ -4649,11 +2922,6 @@ Girlfriend? No, not really my area.
 00:50:42,370 --> 00:50:43,460
 哦 这样啊
 Oh, right.
-
-932
-00:50:44,990 --> 00:50:47,550
-那你有男朋友吗? 对了 那也没关系
-Do you have a... boyfriend? Which is fine, by the way.
 
 933
 00:50:47,585 --> 00:50:48,760
@@ -4685,30 +2953,10 @@ Fine. Good.
 约翰 嗯...
 John, erm...
 
-939
-00:51:11,710 --> 00:51:13,850
-我想还是该告诉你 我把工作当成爱人
-I think you should know that I consider myself married to my work,
-
-940
-00:51:13,885 --> 00:51:15,435
-尽管我受宠若惊
-and while I'm flattered,
-
-941
-00:51:15,470 --> 00:51:17,100
-但我真的不想找什么...
-I'm really not looking for any...
-
 942
 00:51:17,135 --> 00:51:17,205
 不
 No,
-
-943
-00:51:17,240 --> 00:51:20,030
-我不是在试探 不是
-I'm... not asking. No.
 
 944
 00:51:20,900 --> 00:51:24,130
@@ -4743,7 +2991,7 @@ Why a taxi?
 950
 00:51:40,820 --> 00:51:42,340
 真聪明 聪明吗?
-Oh, that's clever. Is it clever?
+that's clever. Is it clever?
 
 951
 00:51:42,375 --> 00:51:43,860
@@ -4785,75 +3033,20 @@ Right turn, one way, roadworks, traffic lights, bus lane,
 过街横道 只许左转 红绿灯
 pedestrian crossing, left turn only, traffic lights.
 
-959
-00:52:22,540 --> 00:52:23,320
-(备用道路)
-ALTERNATIVE ROUTE
-
 960
 00:52:28,080 --> 00:52:28,980
 抱歉
 Sorry.
 
-961
-00:52:32,030 --> 00:52:33,180
-(禁行)
-NO ENTRY
-
-962
-00:52:33,215 --> 00:52:34,330
-(封路)
-ROAD CLOSED
-
 963
 00:52:39,430 --> 00:52:40,560
 约翰 快
-Come on, John...
-
-964
-00:52:54,440 --> 00:52:55,270
-请稍等
-WAIT
-
-965
-00:52:59,400 --> 00:53:01,600
-快点 约翰 追不上了
-Come on, John. We're losing him!
-
-966
-00:53:23,200 --> 00:53:24,160
-(封路)
-ROAD CLOSED
+Come on, John.
 
 967
 00:53:30,900 --> 00:53:31,850
 这边
 This way.
-
-968
-00:53:32,720 --> 00:53:34,180
-不对 这边!
-No - THIS way!
-
-969
-00:53:34,220 --> 00:53:35,170
-抱歉
-Sorry...
-
-970
-00:53:37,510 --> 00:53:38,670
-(步行街尾)
-PEDESTRIAN ZONE ENDS
-
-971
-00:53:40,140 --> 00:53:41,310
-(禁行)
-NO ENTRY
-
-972
-00:53:51,360 --> 00:53:52,180
-(让行)
-GIVE WAY
 
 973
 00:54:00,970 --> 00:54:03,120
@@ -4863,17 +3056,7 @@ Police! Open her up.
 974
 00:54:06,750 --> 00:54:07,850
 不对
-No...
-
-975
-00:54:08,290 --> 00:54:10,340
-牙齿 深肤色 加利佛尼亚人?
-Teeth, tan. What - Californian...?
-
-976
-00:54:11,390 --> 00:54:14,065
-洛杉矶 圣莫妮卡 刚刚抵达
-LA, Santa Monica. Just arrived.
+No.
 
 977
 00:54:14,100 --> 00:54:16,250
@@ -4893,7 +3076,7 @@ Going by your final destination and the route the cabbie takes.
 980
 00:54:23,045 --> 00:54:24,900
 不好意思 你们是警察吗?
-Sorry - are you guys the police?
+Sorry  Are you guys the police?
 
 981
 00:54:24,935 --> 00:54:27,600
@@ -4910,11 +3093,6 @@ Yeah.
 欢迎来到伦敦
 Welcome to London.
 
-984
-00:54:34,220 --> 00:54:36,440
-遇到任何问题请通知我们
-Er, any problems - just let us know.
-
 985
 00:54:40,580 --> 00:54:42,400
 总之只是辆碰巧减速的出租车
@@ -4929,16 +3107,6 @@ Basically.
 00:54:43,480 --> 00:54:45,450
 不是凶手      不是凶手 不是
 Not the murderer. Not the murderer, no.
-
-988
-00:54:45,485 --> 00:54:47,330
-外国人 强力不在场证明
-Wrong country, good alibi.
-
-989
-00:54:47,460 --> 00:54:49,860
-无懈可击      你从哪搞来这个的?
-As they go. Hey, where did you get this?
 
 990
 00:54:51,020 --> 00:54:53,120
@@ -4960,11 +3128,6 @@ You can keep that one, I've got plenty at the flat.
 什么?
 What?
 
-994
-00:55:00,990 --> 00:55:03,110
-没什么 只是... "欢迎来到伦敦"
-Nothing, just... "Welcome to London".
-
 995
 00:55:06,980 --> 00:55:09,670
 喘过气来啦?      等你发令
@@ -4983,7 +3146,7 @@ That was ridiculous.
 998
 00:55:20,740 --> 00:55:24,160
 这是我做过的最荒谬的事
-That was the most ridiculous thing... I've ever done.
+That was the most ridiculous thing I've ever done.
 
 999
 00:55:24,195 --> 00:55:26,360
@@ -5020,21 +3183,6 @@ So what were we doing there?
 哦 打发时间呗
 Oh, just passing the time.
 
-1006
-00:55:43,940 --> 00:55:45,430
-并且证明一件事
-And proving a point.
-
-1007
-00:55:45,700 --> 00:55:47,035
-证明什么?       你
-What point? You.
-
-1008
-00:55:47,070 --> 00:55:51,150
-赫德森太太 华生医生要楼上那间房了
-Mrs Hudson! Dr Watson WILL take the room upstairs.
-
 1009
 00:55:51,185 --> 00:55:52,290
 谁说的?
@@ -5044,11 +3192,6 @@ Says who?
 00:55:52,780 --> 00:55:54,370
 门口那个人说的
 Says the man at the door.
-
-1011
-00:56:05,080 --> 00:56:09,380
-夏洛克给我发短信 说你掉了这个
-Sherlock texted me. He said you forgot this.
 
 1012
 00:56:13,310 --> 00:56:14,495
@@ -5100,40 +3243,10 @@ Well, what do you call this then?
 这是缉毒
 It's a drugs bust.
 
-1022
-00:56:37,420 --> 00:56:39,745
-什么 这家伙能是毒虫?
-Seriously? This guy - a junkie?
-
 1023
 00:56:39,780 --> 00:56:42,035
 你认识他吗?       约翰
-Have you met him? John...
-
-1024
-00:56:42,070 --> 00:56:43,915
-依我看 你大可以在这翻上一天
-I'm pretty sure that You could search this flat all day,
-
-1025
-00:56:43,950 --> 00:56:45,725
-也别想找到任何消遣的东西
-you wouldn't find anything you could call recreational.
-
-1026
-00:56:45,760 --> 00:56:48,490
-约翰 建议你现在闭嘴吧      拜托
-John, you probably want to shut up now. But come on...
-
-1027
-00:56:50,440 --> 00:56:52,060
-不       什么?
-No... What?
-
-1028
-00:56:52,400 --> 00:56:55,270
-你?       闭嘴 我不是你的搜查犬
-You? Shut up! I'm not your sniffer dog.
+Have you met him? John.
 
 1029
 00:56:55,305 --> 00:56:57,320
@@ -5160,11 +3273,6 @@ They all did. They're not strictly speaking ON the drug squad,
 不过都很热心
 but they're very keen.
 
-1034
-00:57:05,850 --> 00:57:08,055
-这是人类眼球吧      放回去
-Are these human eyes? Put those back!
-
 1035
 00:57:08,090 --> 00:57:10,280
 在微波炉里啊      这是科学实验
@@ -5179,11 +3287,6 @@ Keep looking, guys.
 00:57:11,980 --> 00:57:14,200
 或者你好好帮我们 我就收队
 Or you could help us properly and I'll stand them down.
-
-1038
-00:57:14,235 --> 00:57:16,420
-真幼稚      对付幼儿嘛
-This is childish. Well, I'm dealing with a child.
 
 1039
 00:57:16,455 --> 00:57:17,515
@@ -5200,25 +3303,10 @@ I'm letting you in, but you do not go off on your own.
 明白?
 Clear?
 
-1042
-00:57:21,250 --> 00:57:24,620
-什么-你居然假装缉毒来要挟我?
-What - so you set up a pretend drugs bust to bully me?
-
-1043
-00:57:24,655 --> 00:57:26,480
-真找到毒品就不算假装了
-It stops being pretend if we find anything.
-
 1044
 00:57:26,515 --> 00:57:27,745
 我是清白的
-I am clean!
-
-1045
-00:57:27,780 --> 00:57:30,390
-你的公寓是... 全都清白?
-Is your flat...? All of it?
+I am clean
 
 1046
 00:57:30,425 --> 00:57:31,980
@@ -5235,16 +3323,6 @@ Neither do I.
 好吧 我们来合作吧
 So let's work together.
 
-1049
-00:57:38,960 --> 00:57:40,680
-找到瑞秋了      她是谁?
-We've found Rachel. Who is she?
-
-1050
-00:57:40,715 --> 00:57:42,400
-詹妮弗·温森的独女
-Jennifer Wilson's only daughter.
-
 1051
 00:57:42,435 --> 00:57:43,640
 她女儿?
@@ -5259,26 +3337,6 @@ Why would she write her daughter's name? Why?
 00:57:46,535 --> 00:57:48,565
 别管了 箱子找到了
 Never mind that, we found the case.
-
-1054
-00:57:48,600 --> 00:57:51,065
-某人曾断言箱子在凶手那里
-According to SOMEONE the murderer has the case,
-
-1055
-00:57:51,100 --> 00:57:53,990
-现在它在我们亲爱的精神病人手里
-and we found it in the hands of our favourite psychopath.
-
-1056
-00:57:54,025 --> 00:57:56,510
-我不是精神病 是高功能反社会病
-not a psychopath, I'm a high-functioning sociopath.
-
-1057
-00:57:56,545 --> 00:57:57,555
-拜托你专业点
-Do your research.
 
 1058
 00:57:57,590 --> 00:58:00,570
@@ -5315,11 +3373,6 @@ Rachel was Jennifer Wilson's stillborn daughter, 14 years ago.
 不 这...
 No, that's...
 
-1065
-00:58:15,140 --> 00:58:16,770
-这不对头 怎么会...
-.. that's not right. How...
-
 1066
 00:58:17,420 --> 00:58:19,225
 她干吗这么做 为什么?
@@ -5330,20 +3383,10 @@ Why would she do that? Why?
 她临死前为啥想女儿?
 Why would she think of her daughter in her last moments?
 
-1068
-00:58:21,615 --> 00:58:23,472
-嗯 果然正宗反社会病
-Yup - sociopath, I'm seeing it now.
-
 1069
 00:58:23,507 --> 00:58:25,295
 她不是想女儿
 She didn't think about her daughter.
-
-1070
-00:58:25,330 --> 00:58:28,530
-是用指甲把名字刻在地上
-She scratched her name on the floor with her fingernails.
 
 1071
 00:58:28,565 --> 00:58:29,395
@@ -5360,70 +3403,15 @@ It took effort, it would have hurt.
 你说受害人都是自己服药的
 You said that the victims all took the poison themselves,
 
-1074
-00:58:34,395 --> 00:58:36,425
-是他逼他们的
-that he MAKES them take it -
-
-1075
-00:58:36,460 --> 00:58:38,930
-呃 也许他... 跟他们说了什么
-well, maybe he... I don't know, talks to them.
-
-1076
-00:58:38,965 --> 00:58:41,365
-也许利用了她女儿的死
-Maybe he used the death of her daughter somehow.
-
-1077
-00:58:41,400 --> 00:58:44,440
-对 可那都多少年了 她还郁闷个头啊
-Yeah, but that was ages ago. Why would she still be upset?
-
-1078
-00:58:48,420 --> 00:58:49,420
-不对?
-Not good?
-
-1079
-00:58:50,100 --> 00:58:51,205
-是不太对
-Bit not good, yeah.
-
-1080
-00:58:51,240 --> 00:58:53,540
-如果你要死了 被谋杀了
-If you were dying... If you'd been murdered -
-
-1081
-00:58:53,575 --> 00:58:55,840
-你临终会说什么?
-in your very last few seconds what would you say?
-
-1082
-00:58:55,875 --> 00:58:57,170
-"神啊 救救我吧"
-"Please, God, let me live. "
-
 1083
 00:58:57,205 --> 00:58:58,630
-发挥点想象力
+发挥点想象力！
 Use your imagination!
 
 1084
 00:58:59,170 --> 00:59:00,210
 我不用
 I don't have to.
-
-1085
-00:59:01,260 --> 00:59:02,825
-对 可假设你聪明
-Yeah, but if you were clever...
-
-1086
-00:59:02,860 --> 00:59:05,360
-詹妮弗这么多情人 她绝对聪明
-Jennifer Wilson running all those lovers - she WAS clever.
 
 1087
 00:59:05,395 --> 00:59:07,005
@@ -5440,26 +3428,6 @@ Isn't the doorbell working? Your taxi's here, Sherlock.
 我没叫出租车 走开
 I didn't order a taxi. Go away.
 
-1090
-00:59:11,230 --> 00:59:14,090
-哎哟 翻的这么乱 要找什么啊
-Oh, dear. They're making such a mess. What are they looking for?
-
-1091
-00:59:14,125 --> 00:59:16,110
-这是缉毒 赫德森太太
-It's a drugs bust, Mrs Hudson.
-
-1092
-00:59:16,120 --> 00:59:19,130
-可这是我治腰疼的 是草药...
-But they're just for my hip. They're herbal soothers...
-
-1093
-00:59:19,165 --> 00:59:22,140
-全都闭嘴 别乱动 别说话 别呼吸
-Shut up, everybody! Don't move. Don't speak, don't breathe.
-
 1094
 00:59:22,175 --> 00:59:22,685
 我在思考呢
@@ -5470,11 +3438,6 @@ I'm trying to think.
 安德森 转过去 你太扎眼了
 Anderson, face the other way. You're putting me off.
 
-1096
-00:59:24,605 --> 00:59:26,065
-什么 我的脸?
-What? My FACE is
-
 1097
 00:59:26,100 --> 00:59:27,165
 都给我安静不许动
@@ -5482,27 +3445,13 @@ Everybody quiet and still.
 
 1098
 00:59:27,200 --> 00:59:29,450
-安德森 转过去      老天爷
+安德森 转过去    哦  老天爷
 Anderson, turn your back. Oh, for God's sake!
 
-1099
-00:59:29,485 --> 00:59:30,965
-马上转过去 谢谢
-Your back, now, please!
-
-1100
-00:59:31,000 --> 00:59:33,590
-加油 快想啊      车怎么办?
-Come on, think. Quick! What about your taxi?
-
-1101
-00:59:33,625 --> 00:59:34,870
-赫德森太太
-MRS HUDSON!
 
 1102
 00:59:41,220 --> 00:59:44,500
-她很聪明 聪明 对
+她很聪明 聪明 对！
 She was clever. Clever, yes!
 
 1103
@@ -5520,21 +3469,6 @@ Do you see, do you get it?
 手机不是丢了 根本没丢
 She didn't lose her phone, she never lost it.
 
-1106
-00:59:51,045 --> 00:59:52,745
-她栽给凶手了
-She PLANTED it on him.
-
-1107
-00:59:52,780 --> 00:59:54,165
-她下车的时候
-When she got out of the car,
-
-1108
-00:59:54,200 --> 00:59:55,585
-就预料到要死了
-she knew that she was going to her death.
-
 1109
 00:59:55,620 --> 00:59:59,160
 她留下了手机 追踪凶手
@@ -5545,30 +3479,10 @@ She left the phone in order to lead us to her killer.
 怎么追踪?
 But how?
 
-1111
-01:00:01,090 --> 01:00:02,130
-什么叫怎么追踪?
-What do you mean, how?
-
-1112
-01:00:03,160 --> 01:00:04,260
-瑞秋
-Rachel!
-
-1113
-01:00:05,820 --> 01:00:07,720
-还不懂? 瑞秋
-Don't you see? Rachel!
-
 1114
 01:00:11,260 --> 01:00:13,145
 瞧瞧你们 一群草包
 Look at you lot. You're all so vacant.
-
-1115
-01:00:13,180 --> 01:00:15,470
-不是我的感觉很好吧? 多轻松啊
-Is it nice not being me? It must be so relaxing.
 
 1116
 01:00:15,505 --> 01:00:16,650
@@ -5580,55 +3494,10 @@ Rachel is not a name.
 那是什么?
 Then what is it?
 
-1118
-01:00:18,210 --> 01:00:19,510
-约翰 行李上有个标签
-John - on the luggage, there's a label.
-
-1119
-01:00:19,545 --> 01:00:20,790
-电子邮件
-E- mail address.
-
-1120
-01:00:23,380 --> 01:00:26,900
-jennie.pink@mephone.org.uk
-Er, jennie. pink@mephone. org. uk.
-
 1121
 01:00:26,940 --> 01:00:28,185
-她没带电脑
-She didn't have a laptop,
-
-1122
-01:00:28,220 --> 01:00:30,150
-所以肯定用手机办公
-which means she did her business on her phone.
-
-1123
-01:00:30,185 --> 01:00:32,125
-智能机 绑定邮箱的
-A smartphone, it's e-mail enabled.
-
-1124
-01:00:32,160 --> 01:00:33,925
-有个网站能登陆她的账号
-So there was a website for her account.
-
-1125
-01:00:33,960 --> 01:00:35,625
-用户名就是电邮地址
-The username is her e-mail address -
-
-1126
-01:00:35,660 --> 01:00:37,290
-猜猜看 密码呢?
-and all together, the password is?
-
-1127
-01:00:37,325 --> 01:00:38,500
-瑞秋
-Rachel.
+她没带电脑 所以肯定用手机办公
+She didn't have a laptop,which means she did her business on her phone.
 
 1128
 01:00:38,510 --> 01:00:40,120
@@ -5645,11 +3514,6 @@ Anderson, don't talk out loud.
 整条街智商都被你拉低了
 You lower the IQ of the whole street.
 
-1131
-01:00:42,950 --> 01:00:46,750
-何止是邮件 这是智能手机 有卫星定位
-We can do much more than that. It's a smartphone, it's got GPS.
-
 1132
 01:00:46,785 --> 01:00:49,062
 就是说如果遗失 可以上网追踪
@@ -5660,24 +3524,14 @@ Which means if you lose it you can locate it online.
 她要把我们带到凶手面前
 She's leading us directly to the man who killed her.
 
-1134
-01:00:51,178 --> 01:00:53,190
-除非他扔了      我们知道他没有
-Unless he got rid of it. We know he didn't.
-
-1135
-01:00:53,420 --> 01:00:54,905
-加油 快啊
-Come on, come on. Quickly!
-
 1136
 01:00:54,940 --> 01:00:57,255
-夏洛克亲爱的 那个出租车司机...
+夏洛克 亲爱的 那个出租车司机...
 Sherlock, dear. This taxi driver...
 
 1137
 01:00:57,290 --> 01:01:00,000
-赫德森太太 你晚上该用药了吧
+赫德森太太 你晚上该用药了吧？
 Mrs Hudson, isn't it time for your evening soother?
 
 1138
@@ -5690,25 +3544,10 @@ Get vehicles, get a helicopter.
 手机电池是有限的
 This phone battery won't last for ever.
 
-1140
-01:01:04,720 --> 01:01:06,830
-只有地图 没有凶手名字
-We'll just have a map reference, not a name.
-
-1141
-01:01:06,865 --> 01:01:07,425
-这是突破口
-It's a start!
-
-1142
-01:01:07,460 --> 01:01:09,785
-夏洛克      至少不是全城都有嫌疑了
-Sherlock... Narrows it down from just anyone in London.
-
 1143
 01:01:09,820 --> 01:01:12,130
 这是我们第一条靠谱线索      夏洛克
-It's the first proper lead that we've had. Sherlock...
+It's the first proper lead that we've had. Sherlock.
 
 1144
 01:01:12,165 --> 01:01:13,760
@@ -5718,7 +3557,7 @@ Where is it? Quickly, where?
 1145
 01:01:14,560 --> 01:01:18,240
 在这里 贝克街221号
-Here. It's... in 221 Baker Street.
+Here. It's in 221 Baker Street.
 
 1146
 01:01:19,660 --> 01:01:21,110
@@ -5732,18 +3571,8 @@ How?
 
 1148
 01:01:23,280 --> 01:01:26,460
-也许在你带回的箱子里...
-Maybe it was in the case when you brought it back and it...
-
-1149
-01:01:26,495 --> 01:01:27,335
-掉出来了
-fell out somewhere.
-
-1150
-01:01:27,370 --> 01:01:29,790
-我还没发现? 我——没发现?
-What, and I didn't notice it? Me - I didn't notice?
+也许在你带回的箱子里...掉出来了
+Maybe it was in the case when you brought it back and it...fell out somewhere.
 
 1151
 01:01:29,825 --> 01:01:31,880
@@ -5755,50 +3584,15 @@ Anyway, we texted him and he called back.
 注意了 在这幢楼里找一个手机
 Guys, we're also looking for a mobile somewhere here,
 
-1153
-01:01:35,205 --> 01:01:35,915
-受害人的...
-belonged to the victim...
-
-1154
-01:01:35,950 --> 01:01:38,780
-谁虽然素不相识仍让我们信任?
-'Who do we trust, even if we don't know them?
-
-1155
-01:01:44,900 --> 01:01:46,830
-(伦敦出租车司机71126)
-LONDON CAB DRIVER 71126
-
-1156
-01:01:48,100 --> 01:01:51,020
-谁不管到哪里都无人注意?
-'Who passes unnoticed wherever they go?
-
-1157
-01:01:55,320 --> 01:01:58,060
-谁在人群中狩猎?
-'Who hunts in the middle of a crowd?'
-
-1158
-01:02:30,880 --> 01:02:33,060
-(跟我来)
-COME WITH ME
-
-1159
-01:02:35,840 --> 01:02:38,110
-夏洛克 你没事吧      什么...
-Sherlock, you OK? What...?
-
 1160
 01:02:39,020 --> 01:02:41,030
 对 对 我没事
-Yeah, yeah... I'm fine.
+Yeah, yeah I'm fine.
 
 1161
 01:02:41,260 --> 01:02:43,090
 那手机为什么在这?
-So, how can the phone be here?
+how can the phone be here?
 
 1162
 01:02:43,125 --> 01:02:44,120
@@ -5815,20 +3609,10 @@ I'll try it again. Good idea.
 你去哪?
 Where are you going?
 
-1165
-01:02:47,880 --> 01:02:51,220
-出去透气 就去一会 马上回来
-Fresh air, just popping outside for a moment. Won't be long.
-
 1166
 01:02:51,700 --> 01:02:53,850
 你真的没事?       我很好
 You sure you're all right? I'm fine.
-
-1167
-01:03:04,180 --> 01:03:06,010
-夏洛克·福尔摩斯的车
-Taxi for Sherlock Holmes.
 
 1168
 01:03:09,260 --> 01:03:11,200
@@ -5865,11 +3649,6 @@ See? No-one ever thinks about the cabbie.
 就像是透明人
 It's like you're invisible.
 
-1175
-01:03:32,500 --> 01:03:34,190
-永远被人抛到脑后
-Just the back of an 'ead.
-
 1176
 01:03:35,300 --> 01:03:37,870
 对连环杀手 真是得天独厚
@@ -5879,11 +3658,6 @@ Proper advantage for a serial killer.
 01:03:40,340 --> 01:03:42,520
 你认罪了?       哦 当然
 Is this a confession? Oh, yeah.
-
-1178
-01:03:43,690 --> 01:03:45,375
-再告诉你件事
-I'll tell you what else...
 
 1179
 01:03:45,410 --> 01:03:47,970
@@ -5912,13 +3686,8 @@ I didn't kill those four people, Mr Holmes.
 
 1184
 01:04:01,540 --> 01:04:03,200
-我跟他们聊天
-I spoke to 'em...
-
-1185
-01:04:03,700 --> 01:04:05,820
-他们就自行了断了
-and they killed themselves.
+我跟他们聊天...他们就自行了断了
+I spoke to 'em...and they killed themselves.
 
 1186
 01:04:07,260 --> 01:04:10,660
@@ -5932,13 +3701,8 @@ I will never tell you what I said.
 
 1188
 01:04:19,900 --> 01:04:21,075
-不过再也没人会死了
-No-one else will die, though,
-
-1189
-01:04:21,110 --> 01:04:23,240
-我相信他们也能结案了
-and I believe they call that a result.
+不过再也没人会死了 我相信他们也能结案了
+No-one else will die, though,and I believe they call that a result.
 
 1190
 01:04:23,420 --> 01:04:27,050
@@ -5949,16 +3713,6 @@ And you won't ever understand how those people died.
 01:04:28,020 --> 01:04:30,380
 你想要哪种结案?
 What kind of result do you care about?
-
-1192
-01:04:46,060 --> 01:04:48,180
-如果我想要真相
-If I wanted to understand...
-
-1193
-01:04:49,660 --> 01:04:52,120
-我该怎么做?       我请你兜个风
-.. what would I do? Let me take you for a ride.
 
 1194
 01:04:52,155 --> 01:04:53,475
@@ -5972,18 +3726,8 @@ I don't want to kill you, Mr Holmes.
 
 1196
 01:04:57,340 --> 01:04:59,100
-我只想跟你聊聊
-I'm going to talk to ya...
-
-1197
-01:05:00,700 --> 01:05:02,710
-你就自行了断了
-.. and then you're going to kill yourself.
-
-1198
-01:05:20,940 --> 01:05:24,430
-他上出租车了 是夏洛克 他坐车走了
-He just got in a cab... It's Sherlock. He just drove off in a cab.
+我只想跟你聊聊...你就自行了断了
+I'm going to talk to ya...and then you're going to kill yourself.
 
 1199
 01:05:24,465 --> 01:05:26,032
@@ -5997,28 +3741,13 @@ He bloody left again.
 
 1201
 01:05:27,700 --> 01:05:29,625
-我们在浪费时间
+我们在浪费时间！
 We're wasting our time!
-
-1202
-01:05:29,660 --> 01:05:32,070
-我打手机试试 开了响铃
-I'm... calling the phone, it's ringing out.
-
-1203
-01:05:43,940 --> 01:05:45,540
-如果开了响铃 那它不在这儿
-And if it's ringing, it's not here.
 
 1204
 01:05:45,575 --> 01:05:47,455
 我再定位试试
 I'll try the search again.
-
-1205
-01:05:47,490 --> 01:05:48,950
-有关系吗 有意思吗
-Does it matter? Does any of it?
 
 1206
 01:05:49,480 --> 01:05:51,770
@@ -6032,7 +3761,7 @@ And you're wasting your time. All our time.
 
 1208
 01:06:01,720 --> 01:06:03,620
-好吧 伙计们
+好吧 伙计们...
 OK, everybody...
 
 1209
@@ -6055,25 +3784,10 @@ Oh, I recognised ya.
 就在你追我车的时候
 Soon as I saw you chasing my cab.
 
-1213
-01:06:15,880 --> 01:06:17,750
-夏洛克·福尔摩斯
-Sherlock Holmes!
-
 1214
 01:06:19,100 --> 01:06:20,790
 有人警告我提防你
 I was warned about you.
-
-1215
-01:06:21,460 --> 01:06:24,810
-我还上过你的网站 真不错 我喜欢
-I've been on your website, too. Brilliant stuff! Loved it.
-
-1216
-01:06:26,150 --> 01:06:29,330
-谁警告你?       某个注意到你的人
-Who warned you about me? Just someone out there who's noticed.
 
 1217
 01:06:30,930 --> 01:06:31,960
@@ -6110,45 +3824,15 @@ Tell me more.
 只告诉你这些了
 That's all you're going to know.
 
-1224
-01:06:52,340 --> 01:06:54,150
-在这辈子
-In THIS lifetime.
-
-1225
-01:06:55,200 --> 01:06:57,740
-他这是干啥 他跑什么?
-Why did he do that? Why did he have to leave?
-
 1226
 01:06:58,210 --> 01:06:59,960
 你比我了解他
 You know him better than I do.
 
-1227
-01:07:00,090 --> 01:07:03,050
-我认识他5年了 不 我不了解他
-I've known him for five years - and no, I don't.
-
 1228
 01:07:04,780 --> 01:07:06,340
 那你为什么忍受他?
 So why do you put up with him?
-
-1229
-01:07:06,870 --> 01:07:08,930
-我是死马当活马医啊
-Because I'm desperate, that's why.
-
-1230
-01:07:10,700 --> 01:07:13,340
-也因为夏洛克·福尔摩斯是个伟人
-And because Sherlock Holmes is a great man -
-
-1231
-01:07:13,720 --> 01:07:17,800
-我想有一天 如果我们大家走运
-and I think one day, if we're very, very lucky,
 
 1232
 01:07:17,835 --> 01:07:19,600
@@ -6160,35 +3844,10 @@ he might even be a good one.
 我们在哪?
 Where are we?
 
-1234
-01:07:43,140 --> 01:07:46,560
-你熟悉伦敦的大街小巷 你知道这是哪
-You know every street in London. You know exactly where we are.
-
-1235
-01:07:46,595 --> 01:07:49,450
-罗兰克尔专科学校
-Roland-Kerr Further Education College.
-
-1236
-01:07:49,670 --> 01:07:52,000
-为什么来这儿?       门开着
-Why here? It's open.
-
 1237
 01:07:52,260 --> 01:07:53,700
 清洁工在打扫
 Cleaners are in.
-
-1238
-01:07:54,300 --> 01:07:55,865
-开出租有个特点
-One thing about being a cabbie -
-
-1239
-01:07:55,900 --> 01:07:58,510
-随时知道哪有僻静处适合谋杀
-you always know a nice quiet spot for a murder.
 
 1240
 01:07:58,545 --> 01:08:01,120
@@ -6200,21 +3859,6 @@ I'm surprised more of us don't branch out.
 受害人就跟你走进去? 为什么?
 And you just walk your victims in? How?
 
-1242
-01:08:06,100 --> 01:08:08,060
-真没劲
-Oh... Dull.
-
-1243
-01:08:08,160 --> 01:08:10,020
-别担心 好戏在后头
-Don't worry. It gets better.
-
-1244
-01:08:10,780 --> 01:08:13,610
-你不能拿枪逼人自行了断的
-You can't make people take their own lives at gunpoint.
-
 1245
 01:08:13,645 --> 01:08:15,070
 我没有
@@ -6225,15 +3869,10 @@ I don't.
 比那要好多了
 It's much better than that.
 
-1247
-01:08:17,900 --> 01:08:21,020
-对你不需要 因为你会跟着我的
-Don't need this with you. Cos you'll follow me.
-
 1248
 01:09:13,270 --> 01:09:14,650
 你觉得怎样?
-Well, what do you think?
+what do you think?
 
 1249
 01:09:16,280 --> 01:09:17,610
@@ -6278,62 +3917,37 @@ And Mrs Hudson will remember you.
 1257
 01:09:53,550 --> 01:09:55,890
 你管这叫风险? 嘁
-You call that a risk? Nah...
+You call that a risk? Nah
 
 1258
 01:09:56,420 --> 01:09:58,540
 这才叫风险
-THIS is a risk.
+This is a risk.
 
 1259
 01:10:06,220 --> 01:10:07,880
 我最爱这部分
-Oh, I like this bit.
+I like this bit.
 
 1260
 01:10:08,860 --> 01:10:10,770
 因为你还不明白 是吗?
 Cos you don't get it yet, do ya?
 
-1261
-01:10:12,720 --> 01:10:14,380
-马上就明白了
-But you're about to.
-
 1262
 01:10:15,500 --> 01:10:17,440
 只要我拿出这个...
 I just have to do this...
 
-1263
-01:10:23,420 --> 01:10:25,290
-这你可没料到吧?
-Weren't expecting that, were ya?
-
 1264
 01:10:26,320 --> 01:10:27,720
-这个保证你喜欢
-Oh, you're going to love this.
+这个你肯定喜欢
+you're going to love this.
 
 1265
 01:10:27,755 --> 01:10:28,935
 喜欢什么?
 Love what?
-
-1266
-01:10:28,970 --> 01:10:31,380
-夏洛克·福尔摩斯 看看你
-Sherlock Holmes! Look at you!
-
-1267
-01:10:33,020 --> 01:10:38,520
-真的是你 你那个网站 你的粉丝给我讲过
-Here in the flesh. That website of yours, your fan told me about it.
-
-1268
-01:10:38,650 --> 01:10:40,110
-我的粉丝?
-My fan?
 
 1269
 01:10:40,250 --> 01:10:41,630
@@ -6344,21 +3958,6 @@ You are brilliant.
 01:10:42,420 --> 01:10:44,900
 你是不世出的天才
 You are a proper genius.
-
-1271
-01:10:45,560 --> 01:10:48,350
-"演绎法研究" 我说 这...
-The Science of Deduction. Now, that...
-
-1272
-01:10:48,780 --> 01:10:50,570
-才叫思考
-is proper thinking.
-
-1273
-01:10:52,360 --> 01:10:55,460
-你我私下说说 为什么人们都不会思考?
-Between you and me sitting here, why can't people think?
 
 1274
 01:10:56,580 --> 01:10:58,420
@@ -6372,28 +3971,13 @@ Why can't people just think?
 
 1276
 01:11:06,640 --> 01:11:10,480
-哦 明白了 原来你也是不世出的天才
+哦 明白了... 原来你也是不世出的天才
 Oh, I see... So you're a proper genius too.
-
-1277
-01:11:10,700 --> 01:11:12,220
-看上去不像 对吧?
-Don't look it, do I?
-
-1278
-01:11:13,380 --> 01:11:15,500
-开出租的小老头
-Funny little man driving a cab.
 
 1279
 01:11:16,260 --> 01:11:18,030
 可你马上就会醒悟了
 But you'll know better in a minute.
-
-1280
-01:11:18,840 --> 01:11:21,520
-这有可能是你今生知道的最后一件事了
-Chances are it'll be the last thing you EVER know.
 
 1281
 01:11:23,980 --> 01:11:26,240
@@ -6434,16 +4018,6 @@ Of course I know.
 01:11:40,935 --> 01:11:41,705
 可我不知道
 But I don't.
-
-1289
-01:11:41,740 --> 01:11:45,395
-你知道就不好玩了 你来选择
-Wouldn't be a game if you knew. You're the one who chooses.
-
-1290
-01:11:45,430 --> 01:11:49,050
-我凭什么? 没理由 我能赢得什么?
-Why should I? I've got nothing to go on. What's in it for me?
 
 1291
 01:11:49,320 --> 01:11:51,470
@@ -6488,22 +4062,12 @@ Didn't expect that, did you, Mr Holmes?
 1299
 01:12:15,510 --> 01:12:17,435
 这就是你对他们做的
-This is what you did to the rest of them -
-
-1300
-01:12:17,470 --> 01:12:20,220
-给他们选择?       现在我给你
-you gave them a choice? And now I'm giving you one.
+This is what you did to the rest of them
 
 1301
 01:12:21,720 --> 01:12:23,100
 不必着急
 You take your time.
-
-1302
-01:12:23,540 --> 01:12:25,060
-理清思绪
-Get yourself together.
 
 1303
 01:12:26,380 --> 01:12:27,645
@@ -6530,21 +4094,6 @@ It's not chance, Mr Holmes, it's chess.
 这是一局棋
 It's a game of chess,
 
-1308
-01:12:39,080 --> 01:12:43,040
-只有一步 只有一方能活
-with one move... and one survivor.
-
-1309
-01:12:44,560 --> 01:12:46,820
-而这 这...
-And this - this...
-
-1310
-01:12:47,200 --> 01:12:48,970
-就是唯一一步
-is the move.
-
 1311
 01:12:57,000 --> 01:13:00,000
 我刚给你的是好瓶子还是坏瓶子?
@@ -6554,21 +4103,6 @@ Did I just give you the good bottle or the bad bottle?
 01:13:00,600 --> 01:13:02,750
 随你选一个
 You can choose either one.
-
-1313
-01:13:05,940 --> 01:13:08,730
-不 找雷斯垂德探长 我有话跟他说
-No, Detective Inspector Lestrade - I need to speak to him.
-
-1314
-01:13:08,765 --> 01:13:11,430
-非常重要 十万火急
-It's important. It's an emergency.
-
-1315
-01:13:11,460 --> 01:13:13,440
-这里左转 谢谢 左转
-Er, left here, please. Left here...
 
 1316
 01:13:25,240 --> 01:13:27,120
@@ -6588,36 +4122,16 @@ Play what? It's a 50:50 chance.
 1319
 01:13:31,120 --> 01:13:33,730
 你赌的不是数字 是我
-You're not playing the numbers, you're playing ME.
+You're not playing the numbers, you're playing me.
 
 1320
 01:13:36,500 --> 01:13:39,250
 我刚给你的是好药还是坏药?
 Did I just give you the good pill or the bad pill?
 
-1321
-01:13:39,290 --> 01:13:40,810
-这是诈术吗
-Is it a bluff,
-
-1322
-01:13:41,420 --> 01:13:42,940
-还是反诈
-or a double bluff?
-
-1323
-01:13:43,460 --> 01:13:45,245
-还是三重反诈?       仍然只是概率
-Or a triple bluff? It's still just chance.
-
-1324
-01:13:45,280 --> 01:13:47,030
-一连四个人? 这不是概率
-Four people, in a row? It's not chance.
-
 1325
 01:13:47,065 --> 01:13:49,200
-运气      这是天才
+运气      这是天才！
 Luck. It's genius!
 
 1326
@@ -6650,11 +4164,6 @@ Or maybe God just loves me.
 不管哪样 你开出租都算糟蹋了
 Either way, you're wasted as a cabbie.
 
-1332
-01:14:19,320 --> 01:14:20,460
-所以
-So...
-
 1333
 01:14:22,040 --> 01:14:26,370
 你拿命赌了四次 杀了几个路人 为什么?
@@ -6684,16 +4193,6 @@ There's shaving foam behind your left ear.
 01:14:35,425 --> 01:14:36,780
 没人提醒你
 Nobody's pointed it out to you.
-
-1339
-01:14:36,820 --> 01:14:38,035
-从痕迹来看不止一次
-Traces of where it's happened before,
-
-1340
-01:14:38,070 --> 01:14:41,010
-显然你是独居 没人提醒你
-so obviously you live on your own - there's no-one to tell you.
 
 1341
 01:14:41,045 --> 01:14:42,635
@@ -6740,26 +4239,6 @@ but you still love them and it still hurts.
 啊 可不止这些
 Ah, but there's more.
 
-1350
-01:15:02,420 --> 01:15:04,505
-你的衣服 刚刚洗过
-Your clothes. Recently laundered,
-
-1351
-01:15:04,540 --> 01:15:07,620
-但你身上每件衣物至少...穿了三年了?
-but everything you're wearing is at least... three years old?
-
-1352
-01:15:08,000 --> 01:15:11,430
-保持仪表 却无长远规划
-Keeping up appearances, but not planning ahead.
-
-1353
-01:15:12,180 --> 01:15:16,340
-现在又沉迷于自毁式谋杀 这是为什么?
-And here you are on a kamikaze murder spree. What's that about?
-
 1354
 01:15:22,500 --> 01:15:24,610
 三年前 他们是那时告诉你的?
@@ -6770,16 +4249,6 @@ Three years ago. Is that when they told you?
 告诉我什么?
 Told me what?
 
-1356
-01:15:25,695 --> 01:15:26,875
-（濒死）
-DYING
-
-1357
-01:15:26,910 --> 01:15:29,290
-说你死到临头了      你也是
-That you're a dead man walking. So are you.
-
 1358
 01:15:29,325 --> 01:15:31,110
 不过你时间不多了
@@ -6789,11 +4258,6 @@ You don't have long, though.
 01:15:31,210 --> 01:15:32,620
 我说的对吗?
 Am I right?
-
-1360
-01:15:34,000 --> 01:15:36,810
-动脉瘤 就在这儿
-Aneurism. Right in 'ere.
 
 1361
 01:15:39,340 --> 01:15:41,630
@@ -6815,16 +4279,6 @@ I've outlived four people.
 对动脉瘤患者 这是最开心的事了
 That's the most fun you can have with an aneurism.
 
-1365
-01:15:52,860 --> 01:15:56,585
-不 不 还有别的原因
-No... No, there's something else.
-
-1366
-01:15:56,620 --> 01:15:58,630
-你不是因为愤懑杀了四个人
-You didn't just kill four people because you're bitter.
-
 1367
 01:15:58,665 --> 01:16:00,790
 愤懑是种麻醉剂
@@ -6840,11 +4294,6 @@ Love is a much more vicious motivator.
 不知为什么 这是为了你的孩子
 Somehow, this is about your children.
 
-1370
-01:16:12,700 --> 01:16:15,590
-你确实厉害 是吗?       可为什么呢?
-You ARE good, in't ya? But how?
-
 1371
 01:16:16,560 --> 01:16:19,840
 我死了 我的孩子们拿不到什么
@@ -6854,11 +4303,6 @@ When I die they won't get much, my kids.
 01:16:21,820 --> 01:16:23,705
 开出租不挣钱
 Not a lot of money in driving cabs.
-
-1373
-01:16:23,740 --> 01:16:26,630
-连环杀人也是      这你可失算了
-Or serial killing. You'd be surprised.
 
 1374
 01:16:26,670 --> 01:16:27,780
@@ -6880,14 +4324,9 @@ You have a what?
 我每取一条命 孩子们就会拿到钱
 For every life I take, money goes to my kids.
 
-1378
-01:16:37,030 --> 01:16:40,280
-我杀的越多 他们过得越好
-The more I kill... the better off they'll be.
-
 1379
 01:16:41,960 --> 01:16:44,480
-你看 比你想的要划算
+你看？ 比你想的要划算
 You see? It's nicer than you think.
 
 1380
@@ -6895,40 +4334,10 @@ You see? It's nicer than you think.
 谁会赞助连环杀手?
 Who'd sponsor a serial killer?
 
-1381
-01:16:46,782 --> 01:16:48,980
-谁会迷恋夏洛克·福尔摩斯?
-Who'd be a fan of Sherlock Holmes?
-
 1382
 01:16:52,820 --> 01:16:55,220
 不是只有你能欣赏精彩的谋杀
 You're not the only one to enjoy a good murder.
-
-1383
-01:16:55,950 --> 01:16:59,520
-世上还有你的同类 只不过你是孤家寡人
-There's others out there just like you, except u're just a man.
-
-1384
-01:17:00,860 --> 01:17:03,120
-而他们远远不止于此
-And they're so much more than that.
-
-1385
-01:17:05,080 --> 01:17:06,110
-你是说...
-What do you mean...
-
-1386
-01:17:06,820 --> 01:17:09,030
-不止一个人?
-more than a man?
-
-1387
-01:17:10,040 --> 01:17:11,990
-一个组织? 什么?
-An organisation...? What?
 
 1388
 01:17:12,220 --> 01:17:15,220
@@ -6943,22 +4352,12 @@ And I'm not going to say it either.
 1390
 01:17:19,580 --> 01:17:21,840
 闲话聊够了
-Now, enough chatter.
+enough chatter.
 
 1391
 01:17:23,900 --> 01:17:25,460
 该做选择了
 Time to choose.
-
-1392
-01:17:29,880 --> 01:17:30,910
-夏洛克
-Sherlock?!
-
-1393
-01:17:36,120 --> 01:17:37,320
-夏洛克
-Sherlock!
 
 1394
 01:17:37,920 --> 01:17:41,340
@@ -6967,13 +4366,8 @@ What if I don't choose either? I could just walk out of here.
 
 1395
 01:17:44,930 --> 01:17:47,420
-要么你赌50:50的概率
-You can take a 50:50 chance,
-
-1396
-01:17:47,920 --> 01:17:50,220
-要么我一枪爆你头
-or I can shoot you in the head.
+要么你赌50:50的概率 要么我一枪爆你头
+You can take a 50:50 chance,or I can shoot you in the head.
 
 1397
 01:17:51,680 --> 01:17:52,960
@@ -7062,7 +4456,7 @@ Just so I know whether I could have beaten you.
 
 1414
 01:18:47,960 --> 01:18:49,490
-来吧
+来吧！
 Come on!
 
 1415
@@ -7078,7 +4472,7 @@ Interesting.
 1417
 01:19:17,980 --> 01:19:19,630
 你看怎样?
-So what do you think?
+what do you think?
 
 1418
 01:19:21,100 --> 01:19:22,340
@@ -7087,28 +4481,13 @@ Shall we?
 
 1419
 01:19:24,980 --> 01:19:27,340
-真的 你觉得呢?
+真的... 你觉得呢?
 Really... What do you think?
 
 1420
 01:19:29,420 --> 01:19:30,980
 你能赢我吗?
 Can you beat me?
-
-1421
-01:19:33,280 --> 01:19:34,700
-你是不是聪明到
-Are you clever enough...
-
-1422
-01:19:36,310 --> 01:19:38,120
-能赌自己的命?
-.. to bet your life?
-
-1423
-01:19:49,900 --> 01:19:51,560
-夏洛克
-SHERLOCK!
 
 1424
 01:19:53,490 --> 01:19:55,740
@@ -7140,16 +4519,6 @@ Still the addict.
 可这个...这才是你真正的瘾
 But this... this is what you're really addicted to.
 
-1430
-01:20:18,040 --> 01:20:19,540
-你会做一切
-You'll do anything...
-
-1431
-01:20:20,360 --> 01:20:24,560
-不惜一切代价 来摆脱无聊
-.. anything at all, to stop being bored.
-
 1432
 01:20:26,320 --> 01:20:28,380
 你现在不无聊了 对吧?
@@ -7173,12 +4542,12 @@ I was, wasn't I?
 1436
 01:20:49,060 --> 01:20:50,470
 我选对了吗?
-Did I get it right?!
+Did I get it right?
 
 1437
 01:20:54,350 --> 01:20:57,070
 好吧 告诉我
-OK... Tell me this.
+OK Tell me this.
 
 1438
 01:20:58,290 --> 01:21:00,970
@@ -7198,7 +4567,7 @@ I want a name.
 1441
 01:21:04,910 --> 01:21:06,370
 不
-No...
+No.
 
 1442
 01:21:06,800 --> 01:21:09,310
@@ -7208,32 +4577,22 @@ You're dying, but there's still time to hurt you.
 1443
 01:21:09,660 --> 01:21:11,740
 给我一个名字
-Give me... a name.
+Give me a name.
 
 1444
 01:21:15,040 --> 01:21:17,900
 名字 快
-A name! Now.
+A name. Now.
 
 1445
 01:21:19,600 --> 01:21:20,910
 名字
-The name!
+The name
 
 1446
 01:21:21,600 --> 01:21:24,310
 莫里亚蒂
 MORIARTY!
-
-1447
-01:21:46,430 --> 01:21:49,010
-为什么给我毯子? 他们老给我披毯子
-Why have I got this blanket? They keep putting this blanket on me.
-
-1448
-01:21:49,045 --> 01:21:51,280
-安抚受刺激人士的      我没受刺激呀
-Yeah, it's for shock. I'm not in shock.
 
 1449
 01:21:51,340 --> 01:21:53,960
@@ -7243,7 +4602,7 @@ Yeah, but some of the guys want to take photographs.
 1450
 01:21:55,540 --> 01:21:57,125
 开枪的人呢 没痕迹?
-So, the shooter. No sign?
+the shooter. No sign?
 
 1451
 01:21:57,160 --> 01:21:58,795
@@ -7254,96 +4613,6 @@ Cleared off before we got here.
 01:21:58,830 --> 01:22:01,060
 不过那种人有仇家也挺正常
 But a guy like that would have had enemies, I suppose.
-
-1453
-01:22:01,095 --> 01:22:03,450
-可能有人跟踪他来 不过...
-One of them could have been following him, but...
-
-1454
-01:22:03,670 --> 01:22:05,570
-我们毫无线索
-we've got nothing to go on.
-
-1455
-01:22:06,130 --> 01:22:08,180
-哦 我可不觉得
-Oh, I wouldn't say that.
-
-1456
-01:22:09,640 --> 01:22:11,220
-好吧 说来听听
-OK. Give me.
-
-1457
-01:22:11,560 --> 01:22:14,060
-墙里挖出的子弹是手枪的
-The bullet they just dug out of the wall's from a handgun.
-
-1458
-01:22:14,095 --> 01:22:15,515
-隔这么远一枪毙命
-A kill shot over that distance,
-
-1459
-01:22:15,550 --> 01:22:17,245
-我们要找的是个神枪手
-that's a crack shot,WE ARE LOOKING FOR.
-
-1460
-01:22:17,280 --> 01:22:18,970
-不止枪法好 他是个战士
-But not just a marksman, a fighter.
-
-1461
-01:22:19,005 --> 01:22:20,697
-手丝毫没有抖
-His hands couldn't have shaken at all
-
-1462
-01:22:20,732 --> 01:22:22,355
-可见他熟悉暴力
-so clearly he's acclimatised to violence.
-
-1463
-01:22:22,390 --> 01:22:24,090
-但直到我命悬一线才开枪
-He didn't fire until I was in immediate danger though,
-
-1464
-01:22:24,125 --> 01:22:26,370
-可见道德感极强
-so strong moral principle.
-
-1465
-01:22:26,570 --> 01:22:27,615
-你要找的人
-You're looking for a man
-
-1466
-01:22:27,650 --> 01:22:30,240
-大概服过兵役 而且...
-probably with a history of military service, and...
-
-1467
-01:22:30,620 --> 01:22:32,140
-沉着果敢 坚韧如钢...
-nerves of steel...
-
-1468
-01:22:38,270 --> 01:22:39,820
-算了 我说 别理我了
-Actually, do you know what? Ignore me.
-
-1469
-01:22:39,855 --> 01:22:41,335
-什么?      别听我说的
-Sorry? Ignore all of that.
-
-1470
-01:22:41,370 --> 01:22:44,240
-那是...受刺激说胡话
-It's just the er... the shock talking.
 
 1471
 01:22:44,260 --> 01:22:44,715
@@ -7360,50 +4629,20 @@ I just need to... talk about the rent.
 我还有话问你      又怎么啦?
 I've still got questions. What now?
 
-1474
-01:22:48,690 --> 01:22:50,440
-我受刺激了 看 都披毯子了
-I'm in shock - look, I've got a blanket.
-
-1475
-01:22:50,475 --> 01:22:51,235
-夏洛克
-Sherlock!
-
-1476
-01:22:51,270 --> 01:22:56,190
-而且我刚给你抓住个连环杀手...多少算吧
-And, I just caught you a serial killer... More or less.
-
 1477
 01:22:58,460 --> 01:23:01,870
 好吧 明天再找你 你走吧
 OK. We'll pull you in tomorrow, off you go.
-
-1478
-01:23:09,460 --> 01:23:13,460
-多诺万警官... 解释了事情经过
-Erm - Sergeant Donovan has... just been explaining everything.
 
 1479
 01:23:13,560 --> 01:23:14,930
 那两颗药丸...
 The two pills...
 
-1480
-01:23:16,100 --> 01:23:18,390
-真阴毒对吧? 真阴毒
-Dreadful business, isn't it? Dreadful.
-
 1481
 01:23:19,340 --> 01:23:20,650
 好枪法
 Good shot.
-
-1482
-01:23:21,440 --> 01:23:24,120
-对对 肯定很难 还隔着窗户
-Yes. Yes, must have been. Through that window.
 
 1483
 01:23:24,155 --> 01:23:25,110
@@ -7415,25 +4654,15 @@ Well, you'd know.
 得把你手上的火药灼伤弄掉
 Need to get the powder burns out of your fingers.
 
-1485
-01:23:28,805 --> 01:23:30,210
-应该不会判你刑
-I don't suppose you'd serve time for this,
-
 1486
 01:23:30,245 --> 01:23:32,440
 不过我们还是别上法庭的好
 but let's avoid the court case.
 
-1487
-01:23:33,720 --> 01:23:35,825
-你没事吧      对 我当然没事
-Are you all right? Yes, of course I'm all right.
-
 1488
 01:23:35,860 --> 01:23:37,930
 你刚杀了一个人      对...
-Well, you have just killed a man. Yes...
+you have just killed a man. Yes...
 
 1489
 01:23:41,480 --> 01:23:42,980
@@ -7445,16 +4674,6 @@ That's true, isn't it?
 可他也不是什么好人
 But he wasn't a very nice man.
 
-1491
-01:23:47,660 --> 01:23:49,425
-对 他可真不是好人
-No. No, he wasn't, really, was he?
-
-1492
-01:23:49,460 --> 01:23:51,190
-什么破司机啊
-Frankly a bloody awful cabbie.
-
 1493
 01:23:52,620 --> 01:23:54,635
 就是 他根本不会开车
@@ -7465,20 +4684,10 @@ That's true, he was a bad cabbie.
 你该瞧瞧他开过来绕的路
 You should have seen the route he took us to get here.
 
-1495
-01:23:57,210 --> 01:23:59,705
-我们不能笑 这是杀人现场啊 快别说啦
-Stop it! We can't giggle, it's a crime scene. Stop it.
-
 1496
 01:23:59,740 --> 01:24:02,380
 喂 你可是凶手啊      小声点
 Well, you're the one who shot him. Keep your voice down.
-
-1497
-01:24:02,415 --> 01:24:05,020
-抱歉 我有点...亢奋 抱歉
-Sorry, it's just erm... nerves, I think. Sorry.
 
 1498
 01:24:06,670 --> 01:24:08,630
@@ -7499,11 +4708,6 @@ Biding my time. Knew you'd turn up.
 01:24:13,730 --> 01:24:14,980
 你哪知道啊
 No, you didn't.
-
-1502
-01:24:15,580 --> 01:24:16,990
-这就是你找刺激的方式 对吗
-That's how you get your kicks, isn't it -
 
 1503
 01:24:17,025 --> 01:24:18,400
@@ -7530,25 +4734,10 @@ Dinner? Starving.
 贝克街有家中餐馆不错 开到凌晨2点
 End of Baker Street there's a good Chinese. Stays open till two.
 
-1508
-01:24:28,635 --> 01:24:31,250
-看中餐馆好坏 要看门把手底部1/3
-You can tell a good Chinese by the bottom third of the door handle.
-
-1509
-01:24:31,280 --> 01:24:34,880
-夏洛克 就是他 我跟你说的那人
-Sherlock... That's him, that's the man I was talking to you about.
-
 1510
 01:24:34,915 --> 01:24:37,000
 我非常清楚他是谁
 I know exactly who that is.
-
-1511
-01:24:37,680 --> 01:24:40,140
-好呀 又一个案子破了
-So... Another case cracked.
 
 1512
 01:24:40,175 --> 01:24:42,600
@@ -7570,25 +4759,10 @@ What are you doing here?
 照例 我来关心你的
 As ever, I'm concerned about you.
 
-1516
-01:24:49,300 --> 01:24:51,510
-对 我听说你的"关心"了
-Yes, I've been hearing about your "concern".
-
-1517
-01:24:51,700 --> 01:24:53,385
-还是这么别扭
-Always so aggressive.
-
 1518
 01:24:53,420 --> 01:24:56,720
 你就没想过我和你是一个阵营的吗?
 Did it never occur to you that you and I belong on the same side?
-
-1519
-01:24:56,755 --> 01:24:58,635
-真奇怪 没有
-Oddly enough - no.
 
 1520
 01:24:58,670 --> 01:25:01,540
@@ -7599,11 +4773,6 @@ We have more in common than you'd like to believe.
 01:25:01,570 --> 01:25:04,335
 我们俩这种意气之争实在太幼稚了
 This petty feud between us is simply childish.
-
-1522
-01:25:04,370 --> 01:25:08,750
-总是殃及无辜 你也知道这惹妈妈生气
-People will suffer. And you know how it always upset Mummy.
 
 1523
 01:25:09,800 --> 01:25:11,180
@@ -7619,11 +4788,6 @@ Me?
 01:25:13,500 --> 01:25:15,670
 惹她的可不是我 麦克罗夫特
 It wasn't me that upset her, Mycroft.
-
-1526
-01:25:15,705 --> 01:25:17,270
-喂 喂 等一下
-No. No, wait...
 
 1527
 01:25:17,500 --> 01:25:18,885
@@ -7642,13 +4806,8 @@ This is my brother, Mycroft.
 
 1530
 01:25:23,510 --> 01:25:25,060
-你又增重啦?
+又增重啦?
 Putting on weight again?
-
-1531
-01:25:25,500 --> 01:25:26,840
-不好意思 是减了
-Losing it, in fact.
 
 1532
 01:25:26,875 --> 01:25:28,145
@@ -7665,11 +4824,6 @@ Course he's my brother.
 那他不是...      不是什么?
 So he's not... Not what?
 
-1535
-01:25:34,300 --> 01:25:36,770
-我不知道 地下阴谋家?
-I don't know... Criminal mastermind?
-
 1536
 01:25:37,940 --> 01:25:40,030
 差不多吧      老天爷
@@ -7679,21 +4833,6 @@ Close enough. For goodness' sake.
 01:25:40,160 --> 01:25:42,750
 我只是英国政府里小小的一员
 I occupy a minor position in the British government.
-
-1538
-01:25:42,785 --> 01:25:43,860
-他就是英国政府
-He IS the British government,
-
-1539
-01:25:43,870 --> 01:25:45,600
-在他不忙着当英国情报局的时候
-when he's not too busy being the British secret service
-
-1540
-01:25:45,635 --> 01:25:48,310
-或者不跑去客串美国中情局的时候
-or the CIA on a freelance basis.
 
 1541
 01:25:48,640 --> 01:25:50,080
@@ -7705,21 +4844,6 @@ Good evening, Mycroft.
 在我到家前请尽量别发动战争
 Try not to start a war before I get home,
 
-1543
-01:25:52,375 --> 01:25:54,100
-你知道交通会变成什么样
-you know what it does for the traffic.
-
-1544
-01:25:56,840 --> 01:25:59,150
-所以 你说你关心他的时候
-So, when you say you're concerned about him -
-
-1545
-01:25:59,185 --> 01:26:00,580
-你还真是关心他?
-you actually are concerned?
-
 1546
 01:26:00,615 --> 01:26:02,010
 对 当然
@@ -7730,30 +4854,10 @@ Yes, of course.
 我说 这真的是小孩子赌气?
 I mean, it actually is a childish feud?
 
-1548
-01:26:05,420 --> 01:26:07,470
-他一贯这么气鼓鼓的
-He's always been so resentful.
-
-1549
-01:26:07,870 --> 01:26:10,140
-能想象我们家圣诞晚宴什么样吧
-You can imagine the Christmas dinners.
-
 1550
 01:26:10,240 --> 01:26:11,240
 嗯...
 Yeah...
-
-1551
-01:26:11,290 --> 01:26:12,890
-不 天啊 不能
-No... God, no.
-
-1552
-01:26:14,580 --> 01:26:16,630
-我还是...
-I'd better erm...
 
 1553
 01:26:16,660 --> 01:26:17,870
@@ -7765,55 +4869,15 @@ Hello again.
 你好      我们今天傍晚见过
 Hello. We met earlier on this evening.
 
-1555
-01:26:23,280 --> 01:26:25,120
-哦      好吧 晚安
-Oh! OK. Goodnight.
-
 1556
 01:26:25,155 --> 01:26:26,960
 晚安 华生医生
 Goodnight, Dr Watson.
 
-1557
-01:26:28,580 --> 01:26:30,065
-吃点心去      嗯
-So, dim sum. Mmm!
-
-1558
-01:26:30,100 --> 01:26:32,320
-我总能猜到幸运饼里的签语      吹吧你
-I can always predict the fortune cookies. No, you can't.
-
-1559
-01:26:32,355 --> 01:26:34,560
-几乎能 话说你还是中过枪吧
-Almost can. You did get shot, though.
-
 1560
 01:26:34,620 --> 01:26:37,005
 什么?       在阿富汗 确实受过伤
 Sorry? In Afghanistan. There was an actual wound.
-
-1561
-01:26:37,040 --> 01:26:39,390
-哦 对 肩膀      肩膀 我就知道
-Oh. Yeah, shoulder. Shoulder! I thought so.
-
-1562
-01:26:39,425 --> 01:26:40,915
-才怪      左边吧
-No, you didn't. The left one.
-
-1563
-01:26:40,950 --> 01:26:42,420
-算你蒙对了      我从不瞎蒙
-Lucky guess. I never guess.
-
-1564
-01:26:42,620 --> 01:26:43,960
-你就是瞎蒙
-Yes, you do.
 
 1565
 01:26:44,360 --> 01:26:46,900
@@ -7839,38 +4903,3 @@ Sir, shall we go?
 01:26:54,420 --> 01:26:56,820
 那当兵的 真有意思
 Interesting, that soldier fellow.
-
-1570
-01:26:57,040 --> 01:26:59,160
-他也许是我弟的救星...
-He could be the making of my brother...
-
-1571
-01:26:59,940 --> 01:27:01,890
-或者让他更加不可救药
-or make him worse than ever.
-
-1572
-01:27:02,580 --> 01:27:06,200
-无论如何 还是提升他们的监视等级吧
-Either way, we'd better upgrade their surveillance status.
-
-1573
-01:27:06,235 --> 01:27:08,085
-启动第三级监视
-Grade three active.
-
-1574
-01:27:08,120 --> 01:27:10,600
-抱歉 长官 谁的监视等级?
-Sorry, sir - whose status?
-
-1575
-01:27:12,080 --> 01:27:15,790
-夏洛克·福尔摩斯和华生医生
-Sherlock Holmes and Dr. Watson
-
-1576
-01:27:17,750 --> 01:27:26,080
-<font color="#4096d1">破烂熊字幕组 -==http://www.ragbear.com==- 欢迎加入</font>
-
