@@ -1,83 +1,3 @@
-1
-00:00:13,640 --> 00:00:15,980
-翻译   馒头
-
-2
-00:00:17,000 --> 00:00:19,070
-翻译   夕橙
-
-3
-00:00:19,960 --> 00:00:22,030
-翻译   iJOY
-
-4
-00:00:23,270 --> 00:00:25,510
-翻译   hadessl
-
-5
-00:00:26,870 --> 00:00:29,130
-翻译   Listen
-
-6
-00:00:31,370 --> 00:00:33,590
-翻译   小面
-
-7
-00:00:34,320 --> 00:00:36,600
-特效   大卫熊
-
-8
-00:00:37,320 --> 00:00:39,320
-特效   瓜瓜
-
-9
-00:00:39,950 --> 00:00:42,140
-校对   小舞
-
-10
-00:00:42,730 --> 00:00:45,050
-时间轴   veryink
-
-11
-00:00:45,660 --> 00:00:47,740
-翻译   小面
-
-12
-00:00:50,300 --> 00:00:52,490
-翻译   Listen
-
-13
-00:00:54,020 --> 00:00:56,430
-翻译   hadessl
-
-14
-00:00:57,470 --> 00:00:59,710
-翻译   iJOY
-
-15
-00:01:00,610 --> 00:01:03,180
-翻译   夕橙
-
-16
-00:01:04,030 --> 00:01:06,470
-翻译   馒头
-
-17
-00:01:08,400 --> 00:01:10,900
-后期   瓜瓜
-
-18
-00:01:11,690 --> 00:01:13,890
-总监   大卫熊
-
-19
-00:01:39,310 --> 00:01:45,340
-唐 顿 庄 园
-
-20
-00:01:42,310 --> 00:01:45,340
-YYeTs人人影视唐顿庄园翻译组倾情奉献
-
 21
 00:01:14,740 --> 00:01:16,740
 上帝啊
@@ -88,34 +8,15 @@ Oh, my God.
 这不可能
 That's impossible.
 
-23
-00:01:23,660 --> 00:01:24,990
-我这就送去  
-I'll take it up there now.
-
 24
 00:01:24,990 --> 00:01:26,790
 别傻了
 Don't be stupid.
 
-25
-00:01:27,080 --> 00:01:29,960
-等他们起床还早呢  不差这一会儿
-None of them will be up for hours. What difference will it make?
-
-26
-00:01:30,040 --> 00:01:31,590
-吉米来了自会去送
-Jimmy will do it when he comes in.
-
-27
-00:01:46,570 --> 00:01:49,430
-1912年四月
-
 28
 00:01:51,060 --> 00:01:52,900
 六点了
-Six o'clock!
+Six o'clock
 
 29
 00:01:54,570 --> 00:01:56,320
@@ -127,19 +28,9 @@ Thank you, Daisy.
 安娜
 Anna.
 
-31
-00:02:02,120 --> 00:02:03,720
-哪怕这辈子只有一次
-Just for once in my life
-
-32
-00:02:03,730 --> 00:02:06,540
-我真想睡到自然醒
-I'd like to sleep until I woke up natural.
-
 33
 00:02:07,460 --> 00:02:08,900
-炉火还旺吗
+炉火还旺吗？
 Is your fire still in?
 
 34
@@ -147,25 +38,15 @@ Is your fire still in?
 是的  帕特莫太太
 Yes, Mrs Patmore.
 
-35
-00:02:10,710 --> 00:02:13,000
-还真是不可思议啊
-Oh, my, my, will wonders never cease?
-
 36
 00:02:13,090 --> 00:02:14,540
-仆人们的早餐摆好了吗
+仆人们的早餐摆好了吗？
 Have you laid the servant's hall breakfast?
 
 37
 00:02:14,540 --> 00:02:16,380
 好了  帕特莫太太
 Yes, Mrs Patmore.
-
-38
-00:02:16,470 --> 00:02:17,940
-炉子擦亮了吗
-And finished blacking that stove?
 
 39
 00:02:17,940 --> 00:02:19,220
@@ -174,7 +55,7 @@ Yes, Mrs Patmore.
 
 40
 00:02:19,300 --> 00:02:20,990
-卧室的炉火呢
+卧室的炉火呢？
 What about the bedroom fires?
 
 41
@@ -182,85 +63,15 @@ What about the bedroom fires?
 都生好了  帕特莫太太
 All lit, Mrs Patmore.
 
-42
-00:02:22,930 --> 00:02:24,180
-好的  带上家什
-Right, well, take your things
-
-43
-00:02:24,180 --> 00:02:26,270
-去把底楼的火也生了
-and get started on the fires on the ground floor.
-
-44
-00:02:55,000 --> 00:02:56,550
-动作快点
-Now, hurry up.
-
-45
-00:03:21,240 --> 00:03:23,700
--见着威廉了吗  -没有
-- Any sign of William? - No.
-
-46
-00:03:34,460 --> 00:03:36,710
--你上哪儿去了  -我没迟到吧
-- Where have you been? - I'm not late, am I?
-
 47
 00:03:36,800 --> 00:03:39,380
 我说你迟了就是迟了
 You're late when I say you're late.
 
-48
-00:03:48,430 --> 00:03:51,250
-黛西  你蜷在那儿做什么
-Daisy, whatever are you doing there,
-
-49
-00:03:51,250 --> 00:03:52,770
-黑灯瞎火的
-crouching in the dark?
-
-50
-00:03:52,850 --> 00:03:53,920
-你不在  我也不想用
-You weren't here and I didn't like to touch
-
-51
-00:03:53,920 --> 00:03:55,650
-脏手去拉窗帘
-the curtains with me dirty hands.
-
-52
-00:03:55,730 --> 00:03:57,270
-说得没错
-Well, quite right, too.
-
-53
-00:03:57,360 --> 00:03:59,570
--你怎么不开灯  -我不敢
-- Why didn't you put the lights on? - I daren't.
-
-54
-00:03:59,650 --> 00:04:02,240
-电又不是什么牛鬼蛇神
-Well, it's electricity and not the devil's handiwork.
-
 55
 00:04:02,320 --> 00:04:04,410
 你早晚都得习惯的
 You'll have to get used to it sooner or later.
-
-56
-00:04:04,490 --> 00:04:06,990
-人家斯凯尔顿庄园连厨房都通上电了
-At Skelton Park, they've even got it in the kitchens.
-
-57
-00:04:07,120 --> 00:04:08,410
-为什么呀
-What for?
 
 58
 00:04:13,330 --> 00:04:15,460
@@ -272,24 +83,9 @@ Yes, Mrs Patmore.
 早膳已备好  卡森先生
 Breakfast is ready, Mr Carson.
 
-60
-00:04:19,060 --> 00:04:20,760
-威廉  报纸送来了吗
-Ah, William, any papers yet?
-
-61
-00:04:20,840 --> 00:04:23,260
--送报员迟到了  -见怪不怪
-- They're late. - They certainly are.
-
-62
-00:04:23,340 --> 00:04:27,350
-把板子准备好  报纸一来就可以熨了
-Get the board out so you can do them as soon as they're here.
-
 63
 00:04:31,770 --> 00:04:32,700
-书房收拾妥当了吗
+书房收拾妥当了吗？
 Is the library tidy?
 
 64
@@ -307,26 +103,6 @@ Good. I want the dining room given a proper going over today.
 他们用完早餐  你们就开始
 You can do it when they've finished their breakfast.
 
-67
-00:04:41,360 --> 00:04:43,110
-天哪  傻丫头
-Oh, heavens, girl!
-
-68
-00:04:43,650 --> 00:04:46,700
-你是要生火  又不是钻木取火
-You're building a fire, not inventing it.
-
-69
-00:04:46,820 --> 00:04:47,960
-还剩几个了
-How many have you done?
-
-70
-00:04:47,960 --> 00:04:49,950
-主人下楼前最后一个了
-This is me last till they come downstairs.
-
 71
 00:04:50,040 --> 00:04:51,120
 很好
@@ -335,126 +111,16 @@ Very well.
 72
 00:04:51,200 --> 00:04:55,000
 赶紧回厨房  免得被人瞧见
-Now, get back down to the kitchens before anyone sees you.
-
-73
-00:05:28,710 --> 00:05:31,460
--他们起来了  -片刻不得消停
-- And they're off. - No rest for the wicked.
-
-74
-00:05:31,540 --> 00:05:33,630
-是玛丽小姐  茶盘备好了吗
-Lady Mary. Are the tea trays ready?
-
-75
-00:05:33,630 --> 00:05:35,050
-都准备好了  帕特莫太太
-All ready, Mrs Patmore.
-
-76
-00:05:35,170 --> 00:05:37,220
-就等水开了
-If the water's boiled.
-
-77
-00:05:37,340 --> 00:05:38,720
-你能帮忙把另两个端上去吗
-Could you give us a hand to take the other two up?
-
-78
-00:05:38,840 --> 00:05:40,380
-我还要服侍夫人呢
-I've got her ladyship's to carry.
-
-79
-00:05:40,470 --> 00:05:41,800
--我来吧  -后门有人
-- I'll help. - Back door.
-
-80
-00:05:41,890 --> 00:05:43,970
-报纸终于来了  威廉
-The papers, at last. William!
-
-81
-00:05:45,810 --> 00:05:47,640
--你迟到了  -是  我知道  但是
-- You're late. - Yeah, I know, but...
-
-82
-00:05:47,730 --> 00:05:50,140
--但是什么  -你看了就知道了
-- But what? - You'll see.
-
-83
-00:05:56,900 --> 00:05:59,490
-先熨《泰晤士报》  他早餐时只读这份
-Do The Times first, he only reads that at breakfast.
-
-84
-00:05:59,570 --> 00:06:01,320
-再是夫人的《每日见闻报》
-And the Sketch for her ladyship.
-
-85
-00:06:01,410 --> 00:06:04,530
-其他的等会儿再说  如果需要的话
-You can manage the others later, if need be.
-
-86
-00:06:11,420 --> 00:06:14,340
--为什么还要熨报纸  -关你什么事
-- Why are their papers ironed? - What's it to you?
-
-87
-00:06:14,420 --> 00:06:15,840
-为了让油墨干透  傻丫头
-To dry the ink, silly.
-
-88
-00:06:15,920 --> 00:06:18,920
-怎能让老爷的手弄得和你一样脏呢
-We wouldn't want his lordship's hands to be as black as yours.
-
-89
-00:06:22,590 --> 00:06:25,600
-卡森先生  我想你得看看这个
-Mr Carson, I think you ought to see this.
-
-90
-00:06:31,060 --> 00:06:33,860
--简直不敢相信  -我也是
-- I can't make myself believe it. - Me neither.
-
-91
-00:06:33,940 --> 00:06:36,440
--老爷更衣完毕  -威廉
-- His lordship's dressed. - William!
-
-92
-00:06:36,940 --> 00:06:39,360
-别聊天了  把这盘鱼蛋烩饭端上去
-Will you stop talking and take this kedgeree up.
-
-93
-00:06:39,440 --> 00:06:40,940
-小心下面还烧着火呢
-And mind the burners are still lit.
+get back down to the kitchens before anyone sees you.
 
 94
 00:06:40,940 --> 00:06:43,110
 好的  帕特莫太太
 Yes, Mrs Patmore.
 
-95
-00:06:43,700 --> 00:06:46,120
--这是真的吗  -恐怕是的
-- Is it really true? - Afraid so.
-
 96
 00:06:46,620 --> 00:06:48,700
-世事无常啊
+世事无常
 Nothing in life is sure.
 
 97
@@ -469,7 +135,7 @@ Good morning, my lord.
 
 99
 00:07:16,480 --> 00:07:18,230
-他们所言当真  
+他们所言当真 ？ 
 Is it true what they're saying?
 
 100
@@ -482,49 +148,14 @@ I believe so, my lord.
 恐怕船上还有我们认识的人
 I'm afraid we'll know some people on it.
 
-102
-00:07:22,150 --> 00:07:24,910
-幸存者的名单还没公布吧
-I don't suppose there are any lists of survivors yet?
-
-103
-00:07:24,990 --> 00:07:28,240
-据我所知大多数女士被及时救出了
-I understand most of the ladies were taken off in time.
-
-104
-00:07:28,330 --> 00:07:31,000
-你是说头等舱的女宾吧
-You mean the ladies in first class?
-
 105
 00:07:32,330 --> 00:07:35,120
 上帝保佑那些下等舱的可怜人儿
 God help the poor devils below decks.
 
-106
-00:07:37,960 --> 00:07:40,340
-死后能得以超度
-On their way to a better life.
-
-107
-00:07:42,930 --> 00:07:44,510
-真是灭顶之灾啊
-What a tragedy.
-
-108
-00:07:51,180 --> 00:07:51,990
-安娜告诉我的时候
-When Anna told me,
-
-109
-00:07:51,990 --> 00:07:53,600
-我还以为她说梦话呢
-I thought she must have dreamt it.
-
 110
 00:07:53,690 --> 00:07:55,020
-船上有熟人吗
+船上有熟人吗？
 Do we know anyone on board?
 
 111
@@ -537,14 +168,9 @@ Your mother knows the Astors, at least she knows him.
 我们上个月还和罗斯小姐共进晚餐
 We dined with Lady Rothes last month.
 
-113
-00:07:59,690 --> 00:08:01,360
-势必还有其他熟人
-There are bound to be others.
-
 114
 00:08:01,490 --> 00:08:04,200
-我以为它永不沉没呢
+我原以为它永不沉没
 I thought it was supposed to be unsinkable.
 
 115
@@ -554,168 +180,38 @@ Every mountain is unclimbable until someone climbs it,
 
 116
 00:08:06,870 --> 00:08:09,990
-也没有永不翻沉的船
-so every ship is unsinkable until it sinks.
-
-117
-00:08:10,160 --> 00:08:13,120
--早安  爸爸  -早  那是什么
-- Good morning, Papa. - Good morning. What's that?
-
-118
-00:08:13,210 --> 00:08:15,290
-刚到的  电报
-Just arrived. Telegram.
-
-119
-00:08:37,270 --> 00:08:38,810
--夫人醒了吗  -醒了  老爷
-- Is her ladyship awake? - Yes, my lord.
-
-120
-00:08:38,900 --> 00:08:41,070
--我这就去把早餐端来  -谢了
-- I'm just going to take in her breakfast. - Thank you.
-
-121
-00:08:41,190 --> 00:08:43,150
-谁啊
-Hello.
+没有永不翻沉的船
+every ship is unsinkable until it sinks.
 
 122
 00:08:43,240 --> 00:08:44,860
-我能进来吗
+我能进来吗？
 May I come in?
-
-123
-00:08:47,450 --> 00:08:49,370
-简直太不幸了
-Isn't this terrible?
-
-124
-00:08:51,240 --> 00:08:54,620
-一想起露西·罗斯出发有多兴奋
-When you think how excited Lucy Rothes was at the prospect.
-
-125
-00:08:54,750 --> 00:08:57,290
-真是惨到无以言表
-It's too awful for any words.
-
-126
-00:08:58,250 --> 00:09:00,250
-阿斯特逃过一劫了吗
-Did J.J. Astor get off?
-
-127
-00:09:00,880 --> 00:09:03,420
-他的新婚妻子肯定获救了
-Of course that new wife of his is bound to have been rescued.
-
-128
-00:09:03,550 --> 00:09:05,760
-我收到了乔治·莫里发来的电报
-I've had a telegram from George Murray.
-
-129
-00:09:05,880 --> 00:09:09,090
--他有位合伙人在纽约  -怎么了
-- One of his partners is in New York. - Yes?
-
-130
-00:09:09,430 --> 00:09:11,800
-詹姆斯和帕特里克好像也在船上
-It seems James and Patrick were on board.
-
-131
-00:09:11,930 --> 00:09:15,020
-什么  怎么可能  他们要五月才出发
-What? They can't have been. They weren't going over until May.
-
-132
-00:09:15,100 --> 00:09:16,880
-那就是计划有变
-Then they changed their plans.
 
 133
 00:09:16,880 --> 00:09:19,310
-他们的确在乘客名单上
+他们在乘客名单上
 They're on the passenger list.
-
-134
-00:09:19,440 --> 00:09:22,520
-谢谢  奥布瑞恩  先就这样吧
-Thank you, O'Brien. That'll be all for the moment.
-
-135
-00:09:22,610 --> 00:09:25,070
-但他们肯定获救了吧
-But surely they were picked up?
-
-136
-00:09:28,410 --> 00:09:30,610
--不尽其然  -什么
-- Doesn't look like it. - What?
-
-137
-00:09:34,120 --> 00:09:35,950
-一个都没救上来吗
-Neither of them?
 
 138
 00:09:36,750 --> 00:09:38,500
 你得告诉玛丽
 You must tell Mary.
 
-139
-00:09:39,790 --> 00:09:42,840
-只有你亲口告诉她才行
-She can't hear about it from anyone else.
-
 140
 00:09:53,310 --> 00:09:55,640
 两个都没被救上来  他是这么说的
 Neither of them were picked up, that's what he said.
-
-141
-00:09:55,770 --> 00:09:57,420
-卡劳利先生和帕特里克少爷吗
-Mr Crawley and Mr Patrick?
 
 142
 00:09:57,420 --> 00:09:58,850
 他是这么说的
 That's what he said.
 
-143
-00:09:58,980 --> 00:10:01,520
-夫人惊得面色煞白
-Her ladyship was the colour of this cloth.
-
-144
-00:10:01,650 --> 00:10:04,150
-如果真是这样  那就太可惜了
-Well, it's a terrible shame if it's true.
-
-145
-00:10:04,320 --> 00:10:07,360
-怎一个可惜了得  这下麻烦大了
-It's worse than a shame, it's a complication.
-
-146
-00:10:08,610 --> 00:10:11,030
--此话怎讲  -你说呢
-- What do you mean? - What do you think?
-
 147
 00:10:11,160 --> 00:10:12,980
 卡劳利先生是老爷的堂兄
 Mr Crawley was his lordship's cousin
-
-148
-00:10:12,980 --> 00:10:14,580
-也是爵位继承人
-and heir to the title.
 
 149
 00:10:14,660 --> 00:10:16,540
@@ -737,85 +233,25 @@ Girls can't inherit.
 但现在卡劳利先生已故
 But now Mr Crawley's dead
 
-153
-00:10:21,190 --> 00:10:23,000
-而帕特里克少爷又是他的独子
-and Mr Patrick was his only son.
-
-154
-00:10:23,130 --> 00:10:26,670
--这下如何是好  -真是太可怕了
-- So, what happens next? - It's a dreadful thing.
-
 155
 00:10:28,130 --> 00:10:29,340
 您好
 Hello.
 
-156
-00:10:30,840 --> 00:10:34,180
-我一直等在后门  却一直没人应门
-I've been waiting at the back door. I knocked, but no one came.
-
 157
 00:10:34,300 --> 00:10:36,010
-那你就推门而入了
+那你就推门而入了？
 So you pushed in?
-
-158
-00:10:36,680 --> 00:10:38,770
-我叫约翰·贝茨  是新来的男仆
-I'm John Bates, the new valet.
-
-159
-00:10:38,850 --> 00:10:41,190
--新来的男仆  -没错
-- The new valet? - That's right.
-
-160
-00:10:43,730 --> 00:10:46,150
--你来得真早  -搭清晨的车过来的
-- You're early. - Came on the milk train.
-
-161
-00:10:46,230 --> 00:10:50,490
-想用白天的时间熟悉环境  今晚上任
-Thought I'd use the day to get to know the place, start tonight.
 
 162
 00:10:50,860 --> 00:10:53,700
 我是安娜  女仆领班
 I'm Anna, the head housemaid.
 
-163
-00:10:54,570 --> 00:10:56,160
-您好
-How do you do?
-
-164
-00:10:57,240 --> 00:11:00,250
-我是奥布瑞恩小姐  夫人的贴身侍女
-And I'm Miss O'Brien, her ladyship's maid.
-
-165
-00:11:02,210 --> 00:11:04,540
-随我们来
-You better come along with us.
-
-166
-00:11:14,010 --> 00:11:16,070
-但你要怎么应付得过来
-But how can you manage?
-
 167
 00:11:16,070 --> 00:11:17,640
 不必担心  我自能应对
 Don't worry about that, I can manage.
-
-168
-00:11:17,720 --> 00:11:21,060
--我们可都有活在身  -我能行
-- Because we've all got our own work to do. - I can manage.
 
 169
 00:11:21,180 --> 00:11:22,190
@@ -832,65 +268,15 @@ I'll take over. Thank you.
 早上好  贝茨先生  欢迎
 Good morning, Mr Bates. Welcome.
 
-172
-00:11:27,730 --> 00:11:31,070
--愿你旅途一切顺利  -顺利  谢谢
-- I hope your journey was satisfactory. - It was fine. Thank you.
-
 173
 00:11:31,190 --> 00:11:34,280
 我是唐顿庄园的管家  我叫卡森
 I am the butler of Downton. My name is Carson.
 
-174
-00:11:34,410 --> 00:11:35,780
-您好  卡森先生
-How do you do, Mr Carson?
-
 175
 00:11:35,910 --> 00:11:37,990
 这位是托马斯  第一男仆
 This is Thomas, first footman.
-
-176
-00:11:38,080 --> 00:11:39,730
-自沃特森先生走后  老爷的起居
-He's been looking after his lordship
-
-177
-00:11:39,730 --> 00:11:41,290
-一直由他负责
-since Mr Watson left.
-
-178
-00:11:41,410 --> 00:11:44,290
-这下终于能回归正轨了  对吧  托马斯
-It'll be a relief to get back to normal, won't it, Thomas?
-
-179
-00:11:45,630 --> 00:11:48,790
-贝茨先生的房间都安排妥当了吧
-I assume that everything is ready for Mr Bates' arrival?
-
-180
-00:11:48,920 --> 00:11:50,840
-就安排在原来沃特森先生的住处
-I've put him in Mr Watson's old room.
-
-181
-00:11:50,920 --> 00:11:53,340
-虽然他走的时候屋里一片狼藉
-Though he left it in quite a state, I can tell you.
-
-182
-00:11:53,430 --> 00:11:55,380
-可那么多台阶怎么办
-But what about all them stairs?
-
-183
-00:11:55,470 --> 00:11:59,100
--我都说了  我能行  -当然
-- I keep telling you, I can manage. - Of course you can.
 
 184
 00:11:59,260 --> 00:12:01,580
@@ -909,27 +295,12 @@ Thank you, everyone.
 
 187
 00:12:12,150 --> 00:12:14,620
-我可不觉得这长久得了
-Well, I can't see that lasting long.
-
-188
-00:12:15,140 --> 00:12:16,610
-行了  奥布瑞恩小姐
-Thank you, Miss O'Brien.
-
-189
-00:12:49,150 --> 00:12:50,770
-好极了
-Oh, yes.
-
-190
-00:12:54,990 --> 00:12:57,780
-我在这里会住得很舒服
-I should be comfortable here.
+我不觉得这长久得了
+I can't see that lasting long.
 
 191
 00:13:00,700 --> 00:13:04,040
-难道是说我必须戴重孝吗
+难道是说我必须戴重孝吗？
 Does this mean I'll have to go into full mourning?
 
 192
@@ -947,139 +318,20 @@ We'll all be in mourning.
 不  我是说那件事
 No, I mean with the other thing.
 
-195
-00:13:18,760 --> 00:13:21,260
-毕竟没有正式订婚
-After all, it wasn't official.
-
-196
-00:13:21,430 --> 00:13:23,200
-若你不想以未婚妻的身份
-If you're saying you do not wish to
-
-197
-00:13:23,200 --> 00:13:25,770
-为帕特里克戴孝  那就随你吧
-mourn Patrick as a fiance, that is up to you.
-
-198
-00:13:25,850 --> 00:13:28,100
-反正只有家里人知道
-Well, no one knew about it outside the family.
-
-199
-00:13:28,190 --> 00:13:30,100
-我说了  你自己决定
-I repeat, it is up to you.
-
-200
-00:13:30,190 --> 00:13:32,110
-这样我就放心了
-Well, that's a relief.
-
-201
-00:13:46,750 --> 00:13:48,870
-阁楼上有几个内衬雪松木的衣柜
-There's some cedar-lined cupboards in the attic
-
-202
-00:13:48,960 --> 00:13:50,360
-摆放不常穿着的服装
-for things that aren't often worn,
-
-203
-00:13:50,360 --> 00:13:52,080
-以及旅行装束等
-travelling clothes and such.
-
-204
-00:13:52,210 --> 00:13:55,090
-沃特森先生把换季衣物都收在那里
-Mr Watson used them to rotate the summer and winter stuff.
-
-205
-00:13:55,210 --> 00:13:57,050
-迟些带你去看
-I'll show you later.
-
-206
-00:13:57,550 --> 00:13:58,900
-饰纽和链扣如何挑选  
-What about studs and links?
-
-207
-00:13:58,900 --> 00:14:01,140
-由我定还是他定
-Do I choose them or does he?
-
-208
-00:14:01,220 --> 00:14:04,010
-没有特别交代就呈给他挑选
-Lay them out unless he asks for something in particular.
-
 209
 00:14:04,100 --> 00:14:04,860
 这些是舞会用的
 These for a ball,
-
-210
-00:14:04,860 --> 00:14:06,840
-家常便餐时用这些  
-these for an ordinary dinner,
-
-211
-00:14:06,840 --> 00:14:08,230
-这些只在伦敦用
-these only in London.
-
-212
-00:14:08,310 --> 00:14:11,650
--我会记清楚的  -是的  你必须记住
-- I'll get the hang of it.  - Yeah, you'll have to.
 
 213
 00:14:16,150 --> 00:14:18,570
 鼻烟壶  他收集的
 Snuff boxes, he collects them.
 
-214
-00:14:19,400 --> 00:14:21,110
-精美
-Beautiful.
-
-215
-00:14:22,660 --> 00:14:25,660
--你我这份工作真是滑稽  -怎么说
-- Funny our job, isn't it?  - What do you mean?
-
-216
-00:14:27,080 --> 00:14:31,460
-奇珍异宝触手可及
-The way we live with all this pirate's hoard within our reach.
-
 217
 00:14:31,750 --> 00:14:34,080
-可没有一件属于我们  不是吗
+可没有一件属于我们  不是吗？
 But none of it's ours, is it?
-
-218
-00:14:35,460 --> 00:14:37,500
-是的  不属于我们
-No, none of it's ours.
-
-219
-00:14:48,640 --> 00:14:51,390
-我竟被个跛脚的强盗抢了职位
-I can't believe I've been passed over for Long John Silver.
-
-220
-00:14:48,640 --> 00:14:51,390
-出自《金银岛》
-
-221
-00:14:51,480 --> 00:14:53,650
-上次有机会  这话你就该直接挑明
-You should have spoken up when you had the chance.
 
 222
 00:14:53,770 --> 00:14:55,440
@@ -1088,113 +340,18 @@ Don't make the same mistake next time.
 
 223
 00:14:55,610 --> 00:14:58,280
-谁知还会不会有下次
+谁知还会不会有下次？
 Who says there'll be a next time?
-
-224
-00:14:58,360 --> 00:15:01,610
-莫非今天休假他们忘了通知我
-Is this a public holiday no one's told me of ?
 
 225
 00:15:07,370 --> 00:15:09,830
 她显然是不愿意服丧
 She was certainly reluctant to go into mourning.
 
-226
-00:15:09,950 --> 00:15:12,410
-她会的  我们都要服丧
-Well, she'll have to. We all will.
-
-227
-00:15:12,500 --> 00:15:14,330
-奥布瑞恩在为我整理黑色丧服
-O'Brien's sorting out my black now.
-
-228
-00:15:14,460 --> 00:15:15,510
-我已经让安娜去看看
-And I've told Anna to see
-
-229
-00:15:15,510 --> 00:15:18,460
-女儿们有什么合适的衣服
-what the girls have that still fits.
-
-230
-00:15:18,960 --> 00:15:22,220
-这桩意外改变了一切
-Of course, this alters everything.
-
-231
-00:15:24,340 --> 00:15:26,350
-这一点不容你否认
-You won't try to deny it.
-
-232
-00:15:26,470 --> 00:15:29,470
-毫无疑问你必须争取改变限定继承权
-You must challenge the entail now, surely.
-
-233
-00:15:29,640 --> 00:15:32,230
-就不能等确定他们遇难了
-Can't we at least wait until we know they're dead
-
-234
-00:15:32,230 --> 00:15:33,060
-再讨论这件事
-before we discuss it?
-
-235
-00:15:33,140 --> 00:15:36,650
-别说得好像我铁石心肠一样  我也很伤心
-Don't talk as if I'm not brokenhearted, because I am.
-
-236
-00:15:38,230 --> 00:15:41,190
-可我没法理解为何这份产业只能
-Of course, I've never understood why this estate must go
-
-237
-00:15:41,320 --> 00:15:42,900
-由继承你爵位的人接管
-to whomever inherits your title.
-
-238
-00:15:42,990 --> 00:15:46,370
-亲爱的  法律并非由我制定  什么事
-My dear, I don't make the law. What is it?
-
-239
-00:15:46,490 --> 00:15:49,160
-老夫人到了  在客厅里
-The Dowager Countess is in the drawing room.
-
-240
-00:15:49,240 --> 00:15:52,370
--我马上来  -她要见夫人
-- I'll come now.  - She asked for Lady Grantham.
-
 241
 00:15:53,040 --> 00:15:55,120
 不知这次我又做错了什么
 I wonder what I've done wrong this time.
-
-242
-00:15:55,210 --> 00:15:58,210
-另外新男仆已到任  老爷
-Oh. And the new valet has arrived, my lord.
-
-243
-00:15:58,340 --> 00:16:00,500
-是吗  谢谢  卡森
-Has he? Thank you, Carson.
-
-244
-00:16:02,380 --> 00:16:03,720
-还有什么事
-What is it?
 
 245
 00:16:03,840 --> 00:16:07,640
@@ -1206,150 +363,35 @@ I'm not entirely sure that he'll prove equal to the task.
 但这由老爷您决定
 But your lordship will be the judge of that.
 
-247
-00:16:15,270 --> 00:16:16,730
-我先过去了
-Better go.
-
-248
-00:16:18,940 --> 00:16:21,270
-告诉她詹姆斯和帕特里克的噩耗  
-Tell her about James and Patrick.
-
-249
-00:16:21,270 --> 00:16:22,820
-她应该还不知道
-She won't have heard.
-
-250
-00:16:23,190 --> 00:16:26,030
-我当然已经得知  否则何必匆匆赶来
-Of course I've heard. Why else would I be here?
-
-251
-00:16:26,110 --> 00:16:27,410
-罗伯特不想让您
-Robert didn't want you to
-
-252
-00:16:27,410 --> 00:16:29,700
-因报纸上的消息而哀伤过度
-read about it in the newspaper and be upset.
-
-253
-00:16:29,780 --> 00:16:31,540
-他多虑了
-He flatters me.
-
-254
-00:16:31,700 --> 00:16:33,790
-我没那么多愁善感
-I'm tougher than I look.
-
-255
-00:16:34,370 --> 00:16:37,460
-当然了  我为可怜的帕特里克感到难过
-I'm very sorry about poor Patrick, of course.
-
-256
-00:16:37,710 --> 00:16:40,630
--他是个好孩子  -我们都很喜欢这孩子
-- He was a nice boy.  - We were all so fond of him.
-
-257
-00:16:40,710 --> 00:16:43,050
-可我一直不喜欢詹姆斯
-But I never cared for James.
-
 258
 00:16:43,630 --> 00:16:44,800
 他像极了他母亲
 He was too like his mother
 
-259
-00:16:44,800 --> 00:16:47,890
-一刻也不让人安生
-and a nastier woman never drew breath.
-
-260
-00:16:50,220 --> 00:16:52,600
--您留下用午餐吗  -谢谢
-- Will you stay for some luncheon?  - Thank you.
-
-261
-00:16:52,720 --> 00:16:54,680
--我去通知卡森  -我已经跟他说了
-- I'll let Carson know.  - I've already told him.
-
-262
-00:16:54,770 --> 00:16:56,560
-能坐下说话了吗
-Shall we sit down?
-
 263
 00:17:01,940 --> 00:17:03,970
-你知道新继承人吗  
+你知道新继承人吗  ？
 Do you know the new heir?
-
-264
-00:17:03,970 --> 00:17:05,440
-只听说是有一位
-Only that there is one.
-
-265
-00:17:06,110 --> 00:17:09,160
-他是罗伯特的远房堂侄
-He's Robert's third cousin, once removed.
 
 266
 00:17:09,240 --> 00:17:11,740
 我记得我从没见过他
 I have never to my knowledge set eyes on him.
 
-267
-00:17:11,830 --> 00:17:13,760
-可要不是已故的老伯爵
-Of course, if your late husband hadn't
-
-268
-00:17:13,760 --> 00:17:16,500
-逼着我签字  侵吞我的财产
-forced me to sign that absurd act of legal theft...
-
 269
 00:17:16,580 --> 00:17:19,420
 亲爱的  我来此并非为了争执
 My dear, I didn't come here to fight.
-
-270
-00:17:19,790 --> 00:17:22,590
-格兰瑟姆老伯爵只想保护这份家业
-Lord Grantham wanted to protect the estate.
 
 271
 00:17:22,670 --> 00:17:25,420
 他从未料想到你没生下子嗣
 It never occurred to him that you wouldn't have a son.
 
-272
-00:17:25,510 --> 00:17:29,340
--我是没有  -是啊  你没有
-- Well, I didn't.  - No, you did not.
-
 273
 00:17:30,180 --> 00:17:32,470
 但如果帕特里克能够迎娶玛丽
 But when Patrick had married Mary
-
-274
-00:17:32,600 --> 00:17:35,160
-你的外孙将来会成为一家之主
-and your grandson been hailed as master,
-
-275
-00:17:35,160 --> 00:17:37,270
-家族也不失体面
-honour would have been satisfied.
 
 276
 00:17:37,940 --> 00:17:40,270
@@ -1361,11 +403,6 @@ Unfortunately, now...
 现在一个陌生人将有权处置我的财产
 Now, a complete unknown has the right to pocket my money
 
-278
-00:17:43,110 --> 00:17:45,690
-还有这份家业
-along with the rest of the swag.
-
 279
 00:17:46,030 --> 00:17:50,740
 问题是保住你的嫁妆  庄园就会破产
@@ -1376,120 +413,15 @@ The problem is, saving your dowry would break up the estate.
 那会毁掉罗伯特这辈子苦心经营的一切
 It would be the ruin of everything Robert's given his life to.
 
-281
-00:17:54,740 --> 00:17:59,000
--他也明白这点吗  -总会明白的
-- And he knows this?  - Well, if he doesn't, he will.
-
-282
-00:17:59,080 --> 00:18:01,630
-那就是两难境地  
-Then there's no answer.
-
-283
-00:18:01,630 --> 00:18:03,920
-不  还有一条出路  相当简单
-Yes, there is, and it's a simple one.
-
-284
-00:18:05,170 --> 00:18:09,930
-彻底打破对继承权的限制
-The entail must be smashed in its entirety
-
-285
-00:18:10,720 --> 00:18:13,510
-让玛丽成为继承人
-and Mary recognised as heiress of all.
-
-286
-00:18:14,680 --> 00:18:17,930
--可我们没法保住爵位  -是啊
-- There's nothing we can do about the title.  - No.
-
-287
-00:18:18,020 --> 00:18:22,020
-她不能继承爵位  但至少能保住你的财产
-She can't have the title, but she can have your money.
-
-288
-00:18:22,980 --> 00:18:24,570
-还有庄园
-And the estate.
-
-289
-00:18:25,820 --> 00:18:28,440
-我经营唐顿庄园30年
-I didn't run Downton for 30 years
-
-290
-00:18:29,030 --> 00:18:30,870
-不能眼看着它
-to see it go lock, stock
-
-291
-00:18:30,870 --> 00:18:34,410
-落入一个不知哪里冒出来的陌生人手中
-and barrel to a stranger from God knows where.
-
-292
-00:18:36,450 --> 00:18:38,700
-这么说我们将成为朋友
-Are we to be friends, then?
-
-293
-00:18:43,080 --> 00:18:45,980
-不如说是同盟  亲爱的  
-We are allies, my dear,
-
-294
-00:18:45,980 --> 00:18:48,130
-同盟办事效率更高
-which can be a good deal more effective.
-
 295
 00:18:52,010 --> 00:18:54,770
 唐顿是一所了不起的庄园  贝茨先生
 Downton is a great house, Mr Bates.
 
-296
-00:18:54,770 --> 00:18:56,640
-卡劳利同样也是了不起的家族
-And the Crawleys are a great family.
-
 297
 00:18:56,970 --> 00:18:58,760
 我们日常起居有规有矩
 We live by certain standards
-
-298
-00:18:58,760 --> 00:19:01,770
-这些规矩起初令人望而生畏
-and those standards can at first seem daunting.
-
-299
-00:19:01,850 --> 00:19:03,020
-应该的
-Of course.
-
-300
-00:19:03,100 --> 00:19:06,520
-如果你面见大人时感到拘谨不安
-If you find yourself tongue-tied in the presence of his lordship,
-
-301
-00:19:06,900 --> 00:19:10,030
-那么他的礼仪和风范
-I can only assure you that his manners and grace
-
-302
-00:19:10,110 --> 00:19:11,210
-会帮助你
-will soon help you to
-
-303
-00:19:11,210 --> 00:19:13,660
-很快地进入角色
-perform your duties to the best of your ability.
 
 304
 00:19:13,740 --> 00:19:14,780
@@ -1501,11 +433,6 @@ I know.
 贝茨  我的老朋友
 Bates, my dear fellow.
 
-306
-00:19:17,740 --> 00:19:18,990
-非常抱歉  
-I do apologise,
-
 307
 00:19:18,990 --> 00:19:20,540
 我应该想到你们正在用午餐
@@ -1515,11 +442,6 @@ I should have realised you'd all be at luncheon.
 00:19:20,620 --> 00:19:21,820
 没关系  老爷 
 Not at all, my lord.
-
-309
-00:19:21,820 --> 00:19:23,170
-请坐下吧  大家请坐
-Please, sit. Sit, everyone.
 
 310
 00:19:23,250 --> 00:19:26,790
@@ -1543,222 +465,42 @@ I'm so sorry to have disturbed you all. Please forgive me.
 
 314
 00:19:45,900 --> 00:19:47,560
-你们没问起
+你们从没问过
 You never asked.
-
-315
-00:19:52,700 --> 00:19:54,740
-托马斯  把那盘端上去
-Thomas, take that up.
-
-316
-00:19:55,280 --> 00:19:57,700
-别管他  黛西  他是个大小伙子
-Leave it, Daisy! He's a grown man.
-
-317
-00:19:57,780 --> 00:19:59,910
-一盘肉饼总能端得动
-I suppose he can lift a meat pie.
-
-318
-00:19:59,990 --> 00:20:03,120
-去把苹果馅饼放进烤箱下层
-Now, put that apple tart in the lower oven.
-
-319
-00:20:04,370 --> 00:20:05,690
-快把那个端走
-Oh, and take that away.
-
-320
-00:20:05,690 --> 00:20:08,170
-林奇先生不该把它摆在这里
-Mr Lynch shouldn't have left it there.
-
-321
-00:20:08,250 --> 00:20:10,050
--这是什么  -草酸氢钾
-- What is it?  - Salt of Sorrel.
-
-322
-00:20:10,130 --> 00:20:13,090
-我要来擦铜壶用的
-I asked him for some to clean the brass pots.
-
-323
-00:20:13,170 --> 00:20:16,300
-找个地方小心放着  那东西可有毒
-So, put it somewhere careful. It's poison.
-
-324
-00:20:16,760 --> 00:20:18,610
-食物准备得也太多了吧
-Seems like a lot of food
-
-325
-00:20:18,620 --> 00:20:20,930
-他们可是正在服丧
-when you think they're all in mourning.
 
 326
 00:20:21,520 --> 00:20:25,730
 哀伤总是让人又饿又累
 Nothing makes you hungrier or more tired than grief.
 
-327
-00:20:25,980 --> 00:20:28,480
-我姐姐走的时候  愿她安息
-When my sister died, God rest her soul,
-
-328
-00:20:28,560 --> 00:20:31,780
-我一口气吃了四盘三明治
-I ate my way through four platefuls of sandwiches at one sitting
-
-329
-00:20:31,860 --> 00:20:33,900
-然后睡了整整12个小时
-and slept round the clock.
-
 330
 00:20:33,990 --> 00:20:36,280
-那之后你感觉好些吗
+那之后你感觉好些吗？
 Did it make you feel better?
 
 331
 00:20:36,360 --> 00:20:38,740
-没什么用  可总能打发时间
+没什么用  可它能打发时间
 Not much, but it passed the time.
-
-332
-00:20:38,830 --> 00:20:40,180
-我的天哪
-Oh, my Lord!
-
-333
-00:20:40,180 --> 00:20:42,540
-这些碎鸡蛋本来要撒在哪里来着
-What was this chopped egg supposed to be sprinkled on?
-
-334
-00:20:42,620 --> 00:20:44,310
-是不是那盘鸡肉  
-Was it the chicken?
-
-335
-00:20:44,310 --> 00:20:46,160
-没错  赶紧送楼上去
-It was. Take it upstairs now.
-
-336
-00:20:46,370 --> 00:20:49,080
--可我不能进餐厅  -我当然知道
-- I can't go in the dining room.  - I should think not.
-
-337
-00:20:49,170 --> 00:20:51,670
-让托马斯或者威廉去  告诉他们怎么弄
-Find Thomas or William and tell them what to do.
-
-338
-00:20:52,170 --> 00:20:53,650
-倒是赶紧去啊  姑娘
-And for heaven's sake get a move on, girl,
-
-339
-00:20:53,650 --> 00:20:55,720
-一会儿他们就从教堂回来了
-before they get back from church.
-
-340
-00:20:56,760 --> 00:20:59,740
-我们在伦敦和这里
-Well, we've given them a memorial in London
-
-341
-00:20:59,740 --> 00:21:01,430
-分别开了追思会
-and a memorial here.
-
-342
-00:21:01,510 --> 00:21:05,640
-比葬礼好  没这么伤感
-I prefer memorials to funerals, they're less dispiriting.
 
 343
 00:21:05,730 --> 00:21:08,810
 没有遗体我们没办法举行葬礼
 We could hardly have held a funeral without the bodies.
 
-344
-00:21:08,900 --> 00:21:10,440
-我看他们会建一座纪念碑
-I gather they're putting up a stone
-
-345
-00:21:10,440 --> 00:21:13,110
-纪念那些长眠海底的人
-to mark those whose bodies were never found.
-
-346
-00:21:13,190 --> 00:21:14,700
-事实上我听说加拿大人
-In fact, I hear the Canadians
-
-347
-00:21:14,700 --> 00:21:17,240
-建了泰坦尼克号公墓
-are making quite a thing at the Titanic cemetery.
-
-348
-00:21:17,320 --> 00:21:19,280
-想不到他们能找回这么多遗骸
-I'm surprised at the number they found.
-
-349
-00:21:19,370 --> 00:21:22,740
-本以为更多遇难者将安眠大海深处
-You'd think the sea would've taken more of them.
-
-350
-00:21:24,870 --> 00:21:26,610
-莫里  关于那位
-So, Murray, what have you to tell me
-
-351
-00:21:26,610 --> 00:21:28,420
-幸运的卡劳利家成员有什么消息
-about the lucky Mr Crawley?
-
-352
-00:21:28,500 --> 00:21:30,170
-希望不算太糟
-Nothing too terrible, I hope.
-
 353
 00:21:30,250 --> 00:21:32,230
 我只做了一点调查
 I've only made a few inquiries,
-
-354
-00:21:32,230 --> 00:21:34,960
-不过没有什么需要您担心的
-but no, there's not much to alarm you.
 
 355
 00:21:35,050 --> 00:21:36,990
 马修·卡劳利是一名律师
 Matthew Crawley is a solicitor
 
-356
-00:21:36,990 --> 00:21:38,050
-在曼彻斯特工作
-based in Manchester.
-
 357
 00:21:38,130 --> 00:21:39,590
-曼彻斯特
+曼彻斯特？
 Manchester?
 
 358
@@ -1771,11 +513,6 @@ His special field is company law.
 母亲健在  和他住在一起
 His mother is alive and he lives with her.
 
-360
-00:21:46,270 --> 00:21:49,190
-父亲已过世  生前是医生
-His father obviously is not. He was a doctor.
-
 361
 00:21:49,270 --> 00:21:50,560
 我知道了
@@ -1785,16 +522,6 @@ I know.
 00:21:51,060 --> 00:21:52,130
 这真够古怪的
 It does seem odd
-
-363
-00:21:52,130 --> 00:21:54,320
-我的远房堂兄竟做了医生
-that my third cousin should be a doctor.
-
-364
-00:21:54,400 --> 00:21:56,820
-医生也差不到哪里去
-There are worse professions.
 
 365
 00:21:57,700 --> 00:21:58,990
@@ -1811,245 +538,35 @@ Do me a favour.
 这个应该撒在鸡肉上
 This is supposed to be sprinkled on the chicken.
 
-368
-00:22:09,790 --> 00:22:11,090
-不是还有菜要端吗
-But isn't there more to go up?
-
 369
 00:22:11,090 --> 00:22:12,580
 求你了  用不了几分钟
-Oh, please, it won't take a moment.
-
-370
-00:22:12,670 --> 00:22:14,170
--好吧  交给我  -好的
-- Go on then, give it here.  - Okay.
+please, it won't take a moment.
 
 371
 00:22:15,000 --> 00:22:18,470
 我们该谈谈限定继承权的事情
 We ought to talk about the business of the entail.
 
-372
-00:22:18,550 --> 00:22:20,300
-如你所知  你百年之后
-As you know, on your death,
-
-373
-00:22:20,300 --> 00:22:23,010
-承袭爵位者将继承这一切
-the heir to the title inherits everything,
-
-374
-00:22:23,100 --> 00:22:26,810
-除了留给孤儿寡母的那点遗产
-except for the sums set aside for your daughters and your widow.
-
 375
 00:22:26,890 --> 00:22:28,020
 是的
 Yes.
-
-376
-00:22:28,310 --> 00:22:30,190
-根据夫人的婚姻协议
-Owing to the terms of her settlement,
-
-377
-00:22:30,270 --> 00:22:33,690
-这也包括她的那部分财产
-this will include the bulk of your wife's fortune.
-
-378
-00:22:33,770 --> 00:22:36,400
-沉船之后这成了我们
-It has been our sole topic of conversation
-
-379
-00:22:36,480 --> 00:22:37,610
-唯一的话题
-since the day the ship went down.
-
-380
-00:22:38,320 --> 00:22:41,490
-尽管对格兰瑟姆夫人非常不公
-Of course it must seem horribly unjust to Lady Grantham,
-
-381
-00:22:41,570 --> 00:22:43,240
-可法律规定如此
-but that is how the law stands.
-
-382
-00:22:43,320 --> 00:22:46,120
-真没有办法帮她留份财产吗
-Is there really no way to detach her money from the estate?
-
-383
-00:22:46,120 --> 00:22:48,570
-连我都觉得这很荒谬
-Even to me, it seems absurd.
-
-384
-00:22:48,660 --> 00:22:51,310
-令尊坚持要这么做
-Your father tied the knots pretty tight.
-
-385
-00:22:51,310 --> 00:22:53,080
-没有余地变通
-I'd say it's unbreakable.
 
 386
 00:22:53,080 --> 00:22:54,450
 我懂了
 I see.
 
-387
-00:22:55,590 --> 00:22:59,010
-伊迪丝  何必这么入戏呢
-Really, Edith, do you have to put on such an exhibition?
-
-388
-00:22:59,010 --> 00:23:00,620
-她是真伤心
-She's not.
-
-389
-00:23:00,930 --> 00:23:03,760
-要和他订婚的不是你  是我
-I was supposed to be engaged to him, for heaven's sake, not you.
-
-390
-00:23:03,760 --> 00:23:06,210
-我都没这么失态
-And I can control myself.
-
 391
 00:23:06,260 --> 00:23:08,670
 那你就该羞愧
 Then you should be ashamed.
 
-392
-00:23:09,430 --> 00:23:13,180
-这碗蛋怎么还没送上去
-Oh, and don't tell me you've not sent up the egg yet.
-
-393
-00:23:16,230 --> 00:23:18,610
-噢上帝  帮帮我  求你了帮帮我
-Oh, God, help me! Please, God, help me!
-
-394
-00:23:18,610 --> 00:23:20,110
-怎么回事
-Well, what on earth's the matter?
-
-395
-00:23:20,110 --> 00:23:22,230
-赶快去楼上餐厅找威廉
-Just run upstairs to the dining room and find William.
-
-396
-00:23:22,230 --> 00:23:23,990
--求你了  -我现在没空
-- I beg you.  - I can't do that now.
-
-397
-00:23:23,990 --> 00:23:24,660
-求你帮帮忙
-You've got to.
-
-398
-00:23:24,660 --> 00:23:26,580
--不然我死定了  -什么
-- I'll be hanged if you don't.  - What?
-
 399
 00:23:26,580 --> 00:23:28,240
-黛西  是你吗
+黛西  是你吗？
 Daisy, is that you?
-
-400
-00:23:28,240 --> 00:23:29,500
-是洒在鸡肉沙拉上
-Is it the chicken in a sauce
-
-401
-00:23:29,500 --> 00:23:31,410
-还是橘片白切鸡上
-or the plain chicken with sliced oranges?
-
-402
-00:23:31,410 --> 00:23:36,580
-感谢万能慈悲的主  谢谢你
-Oh, thank you, blessed and merciful Lord! Thank you.
-
-403
-00:23:37,170 --> 00:23:38,670
-洒在鸡丝沙拉上
-It's the chicken in the sauce.
-
-404
-00:23:38,670 --> 00:23:43,170
-我以后要多做善事  我发誓
-I'll never do anything sinful again, I swear it. Not till I die.
-
-405
-00:23:46,300 --> 00:23:49,680
-莫里先生  幸会  快请进
-Mr Murray, how lovely to see you. Do come in.
-
-406
-00:23:49,680 --> 00:23:51,580
-多谢盛情  格兰瑟姆夫人
-You're very kind, Lady Grantham,
-
-407
-00:23:51,580 --> 00:23:52,730
-但我要赶回伦敦
-but I must get back to London.
-
-408
-00:23:52,730 --> 00:23:54,580
-不留下吃午饭了吗
-But you'll stay for luncheon?
-
-409
-00:23:54,580 --> 00:23:57,230
-没这个福气了  我在火车上吃
-Thank you, but no, I'll eat on the train.
-
-410
-00:23:57,230 --> 00:23:59,220
-可否劳驾您
-In fact, if you'd be so good
-
-411
-00:23:59,220 --> 00:24:01,690
-派车送我过去
-as to ask for the motor be brought round?
-
-412
-00:24:01,690 --> 00:24:04,950
-下午不再谈谈了吗
-But didn't you want the afternoon to talk things through?
-
-413
-00:24:04,950 --> 00:24:06,760
-已经谈得差不多了
-I think we've said everything we have to say,
-
-414
-00:24:06,760 --> 00:24:08,200
-您说对吗  阁下
-haven't we, my lord?
-
-415
-00:24:08,200 --> 00:24:10,040
-目前是差不多了
-For the time being, yes.
 
 416
 00:24:10,040 --> 00:24:11,870
@@ -2071,810 +588,90 @@ Mary, try to get everyone into the dining room.
 伊迪丝  请敏特里老爷坐下
 Edith, make sure old Lord Minterne sits down.
 
-420
-00:24:30,350 --> 00:24:33,630
--都走了吗  -感谢上帝  都走了
-- They've all gone?  - They have, thank the Lord.
-
-421
-00:24:34,270 --> 00:24:37,520
--律师呢  -他头一个走
-- Oh, what about the lawyer?  - Oh, he was the first away.
-
-422
-00:24:37,520 --> 00:24:39,610
-连午饭都没吃
-Didn't even stay for the luncheon.
-
-423
-00:24:39,610 --> 00:24:42,190
-怎么不早说呢
-I wish they'd make their minds up.
-
-424
-00:24:42,190 --> 00:24:44,490
-格温连蓝屋的床单都铺了
-Gwen's put clean sheets on the Blue Room bed.
-
-425
-00:24:44,490 --> 00:24:46,820
-现在又得收起来
-Now she'll just have to strip it again.
-
-426
-00:24:46,820 --> 00:24:49,180
-留给以后的客人不行吗
-Can't you leave it for the next guest?
-
-427
-00:24:49,180 --> 00:24:51,150
-除非你不告状
-Well, only if you don't tell.
-
-428
-00:24:54,330 --> 00:24:57,660
-尘埃落定了吗
-So, has it all been settled?
-
-429
-00:24:57,790 --> 00:25:00,590
-哪儿都没落定呢
-No. I don't know if anything's been settled.
-
-430
-00:25:00,590 --> 00:25:04,340
-曼城确实有位继承人
-There's a fellow in Manchester with claims to the title,
-
-431
-00:25:04,340 --> 00:25:07,880
-但离确定还早着呢
-I gather, but it's all a long way from settled.
-
-432
-00:25:07,930 --> 00:25:09,580
-你可别往心里去
-You mustn't take it personally.
-
-433
-00:25:09,580 --> 00:25:11,760
-不  我确实很担心  休斯太太
-No, I do take it personally, Mrs. Hughes.
-
-434
-00:25:11,760 --> 00:25:14,690
-我不忍心眼睁睁
-I can't stand by and watch our family
-
-435
-00:25:14,690 --> 00:25:16,930
-看着亲人无端失去财产
-threatened with a loss of all they hold dear.
-
-436
-00:25:17,310 --> 00:25:18,950
-他们不算我们亲人吧
-They are not our family.
-
-437
-00:25:18,950 --> 00:25:21,680
-他们是我唯一的亲人
-Well, they're all the family I've got.
-
-438
-00:25:26,490 --> 00:25:28,520
-抱歉  我失态了
-I beg your pardon.
-
 439
 00:25:33,200 --> 00:25:38,030
-你可曾想过另一种生活吗
+你可曾想过另一种生活吗？
 Do you ever wish you'd gone another way?
-
-440
-00:25:43,050 --> 00:25:45,450
-开店做工  
-Worked in a shop or a factory?
-
-441
-00:25:45,450 --> 00:25:47,460
-娶妻生子吗
-Had a wife and children?
-
-442
-00:25:48,300 --> 00:25:49,790
-你后悔吗
-Do you?
 
 443
 00:25:52,100 --> 00:25:55,130
 不知道  可能有点
 I don't know. Maybe.
 
-444
-00:25:55,520 --> 00:25:57,090
-有时候挺后悔
-Sometimes.
-
-445
-00:25:59,600 --> 00:26:01,350
-威廉在书房摆好茶了
-William's laid tea in the library,
-
-446
-00:26:01,360 --> 00:26:03,190
-但夫人还没下楼
-but Her Ladyship hasn't come down.
-
-447
-00:26:03,190 --> 00:26:07,070
-她累了  端上去送进房吧
-Oh, she'll be tired. Take a tray up to her bedroom.
-
-448
-00:26:07,070 --> 00:26:09,940
--托马斯回来了吗  -还没有  卡森先生
-- Is Thomas back? - Not yet, Mr. Carson.
-
-449
-00:26:14,200 --> 00:26:15,410
-他请了假去村里逛逛
-He asked if he could run down the village,
-
-450
-00:26:15,410 --> 00:26:17,030
-我何必拦着
-I didn't see why not.
-
 451
 00:26:43,190 --> 00:26:44,980
 太不公平了
 It's iniquitous.
 
-452
-00:26:44,980 --> 00:26:47,160
-您平白没了财产
-They can't expect you to sit by silent
-
-453
-00:26:47,160 --> 00:26:49,110
-还得故作镇定
-as your fortune is stolen away.
-
-454
-00:26:49,110 --> 00:26:50,240
-又能怎样
-Can't they?
-
-455
-00:26:50,240 --> 00:26:53,360
-老爷不会不管的
-His Lordship would never let it happen.
-
 456
 00:26:53,820 --> 00:26:56,110
-贝茨干得怎么样
+贝茨干得怎么样？
 How's Bates working out?
-
-457
-00:26:56,490 --> 00:26:59,200
-我不敢评论
-Well, I don't like to say.
-
-458
-00:27:01,000 --> 00:27:02,770
-他腿脚不方便
-Only it seems unkind to criticise a man
-
-459
-00:27:02,770 --> 00:27:05,450
-我不该多嘴的
-for an affliction, my lady.
-
-460
-00:27:06,460 --> 00:27:09,330
-哪怕他不能胜任
-Even if it means he can't do his job.
-
-461
-00:27:16,140 --> 00:27:18,380
-做得还习惯吗
-How are you settling in?
-
-462
-00:27:18,810 --> 00:27:22,890
-若老爷没有异议  我觉得还不错
-Very well, I think. Unless your Lordship feels differently.
-
-463
-00:27:22,980 --> 00:27:24,440
-没什么不顺心的吗
-No complaints?
-
-464
-00:27:24,440 --> 00:27:26,680
-即使有  也该先跟卡森先生说
-If I had any, I should take them to Mr. Carson,
-
-465
-00:27:26,680 --> 00:27:27,720
-而不是找老爷您
-my Lord, not you.
-
-466
-00:27:29,150 --> 00:27:31,310
-那倒是
-You're probably right.
-
-467
-00:27:32,030 --> 00:27:34,210
-这上楼下楼的
-And the house hasn't worn you out
-
-468
-00:27:34,210 --> 00:27:36,160
-你吃得消吗
-with the endless stairs and everything?
-
-469
-00:27:36,160 --> 00:27:40,030
-我喜欢这房子  老爷  喜欢在这干活
-I like the house, my Lord. I like it as a place to work.
-
-470
-00:27:41,710 --> 00:27:45,070
--那是怎么回事  -旧伤罢了
-- What happened?  - Oh, it's only the old wound.
-
-471
-00:27:45,670 --> 00:27:47,880
-退伍后我遇上点麻烦
-After I left the army, I had a spot of bother
-
-472
-00:27:47,880 --> 00:27:49,660
-后来解决了
-and just when I got through that
-
-473
-00:27:49,660 --> 00:27:53,080
-一年前这膝盖开始不听使唤
-about a year ago my knee started playing up.
-
-474
-00:27:53,220 --> 00:27:55,360
-里面有块弹片移了位
-A bit of shrapnel got left in or something and it moved,
-
-475
-00:27:55,360 --> 00:27:56,850
-不过不碍事
-but it's fine.
 
 476
 00:27:56,850 --> 00:27:58,220
 没问题
 It's not a problem.
 
-477
-00:27:58,220 --> 00:28:01,720
-要有问题了  就跟我说
-And you'd let me know if you felt it was all too much for you?
-
-478
-00:28:01,730 --> 00:28:04,050
-是  不会有问题的
-I would. But it won't be.
-
 479
 00:28:05,900 --> 00:28:07,390
 托马斯
 Thomas.
-
-480
-00:28:08,520 --> 00:28:11,230
--你去哪了  -村子里
-- And where have you been?  - The village.
-
-481
-00:28:11,240 --> 00:28:13,710
-发电报去了  若非打听不可
-To send a telegram, if you must know.
-
-482
-00:28:13,710 --> 00:28:15,730
-随便打听嘛
-Pardon me for living.
-
-483
-00:28:21,330 --> 00:28:24,070
-莫里没呆多久
-Well, Murray didn't stay long.
-
-484
-00:28:28,000 --> 00:28:30,750
--夫人知道结果吗  -不知道
-- Does Her Ladyship know how they left it?  - No.
 
 485
 00:28:30,750 --> 00:28:34,340
 他们从教堂回来  路上就谈完了
 They talked it all through on the way back from the church.
 
-486
-00:28:34,340 --> 00:28:36,720
-我要还跟老爷  早探出消息了
-If I was still his valet, I'd get it out of him.
-
-487
-00:28:36,720 --> 00:28:39,960
--贝茨的嘴严着呢  -没错
-- Bates won't say a word.  - He will not.
-
-488
-00:28:41,350 --> 00:28:44,720
-十镑  我赌他是主子的眼线
-I bet you a tenner he's a spy in the other direction.
-
-489
-00:28:45,730 --> 00:28:47,760
-我想跟着老爷
-I wanted that job.
-
-490
-00:28:47,900 --> 00:28:49,730
-我可是他的得力助手
-We were all right together, His Lordship and me.
-
-491
-00:28:49,730 --> 00:28:51,730
-那等贝茨走了
-Then be sure to get your foot in the door
-
-492
-00:28:51,730 --> 00:28:53,860
-你就想办法跟紧老爷
-when Bates is gone.
-
-493
-00:28:53,860 --> 00:28:57,570
-光说他暗地里嚼舌根可赶不走他
-You can't get rid of him just because he talks behind our backs.
-
-494
-00:28:57,570 --> 00:29:00,110
-东方不亮西方亮  办法多的是
-There's more than one way to skin a cat.
-
-495
-00:29:01,620 --> 00:29:05,410
--夫人没听懂吧  -说得很明白了
-- Perhaps she misunderstood.  - No, it was quite plain.
-
-496
-00:29:05,620 --> 00:29:08,290
-奥布瑞恩明说了  贝茨伺候不好老爷
-O'Brien told her Bates can't do the job properly.
-
-497
-00:29:08,290 --> 00:29:09,920
-怎么偏请了他呢
-Why was he taken on?
-
-498
-00:29:09,920 --> 00:29:13,210
-布尔战争时  他给老爷当过勤务兵
-He was Lord Grantham's batman when he was fighting the Boers.
-
-499
-00:29:13,210 --> 00:29:15,470
-我知道  那也犯不着
-I know that, but even so.
-
-500
-00:29:15,470 --> 00:29:17,470
--我觉得定有原因  -什么原因
-- I think it's romantic.  - I don't.
-
-501
-00:29:17,470 --> 00:29:19,640
-一个瘸子怎么当贴身侍从呢
-How can a valet do his work if he's lame?
-
-502
-00:29:19,640 --> 00:29:21,670
-倒不是特别瘸
-He's not very lame.
-
-503
-00:29:21,760 --> 00:29:24,770
-好了  小姐还有吩咐吗
-There. Anything else before I go down?
-
-504
-00:29:24,770 --> 00:29:27,140
-没了  下去吧
-No, that's it. Thank you.
-
-505
-00:29:35,650 --> 00:29:37,690
-一身黑真难看
-Oh, I hate black.
-
-506
-00:29:37,820 --> 00:29:39,320
-又不用穿很久
-It's not for long.
-
 507
 00:29:39,320 --> 00:29:42,330
-妈妈说下个月就改半丧
+妈妈说下个月我们可以改半丧
 Mama says we can go into half-mourning next month.
-
-508
-00:29:42,330 --> 00:29:43,950
-到九月就不用穿黑了
-And back to colours by September.
-
-509
-00:29:43,950 --> 00:29:47,700
--死了堂兄而已  何必呢  -不是未婚夫吗
-- Still seems a lot for a cousin.  - But not a fiance?
-
-510
-00:29:51,500 --> 00:29:54,370
--不算未婚夫吧  -真的吗
-- He wasn't really a fiance.  - No?
-
-511
-00:29:54,920 --> 00:29:58,340
-都要结婚了  还不是未婚夫
-I thought that was what you call a man you're going to marry.
 
 512
 00:29:58,340 --> 00:30:01,510
 实在没得选了我才会嫁给他
 I was only going to marry him if nothing better turned up.
 
-513
-00:30:01,510 --> 00:30:04,430
--玛丽  别这么说  -怕什么
-- Mary, what a horrid thing to say.  - Don't worry.
-
-514
-00:30:04,430 --> 00:30:06,880
-想嫁他的是伊迪丝  对吧
-Edith would have taken him, wouldn't you?
-
-515
-00:30:06,930 --> 00:30:09,550
-是  我想嫁他
-Yes, I'd have taken him.
-
-516
-00:30:10,310 --> 00:30:14,720
-要不是你  我早嫁给他了
-If you'd given me the chance, I'd have taken him like a shot.
-
-517
-00:30:15,780 --> 00:30:18,530
-这实在行不通  卡森先生
-I just think you should know it's not working, Mr. Carson.
-
-518
-00:30:18,530 --> 00:30:21,030
-贝茨先生很懒散吗
-Do you mean Mr. Bates is lazy?
-
-519
-00:30:21,030 --> 00:30:25,230
-不是懒散  是干不了重活
-Not lazy, exactly. But he just can't carry.
-
 520
 00:30:25,370 --> 00:30:27,000
 他连老爷的箱子都差点提不动
 He can hardly manage His Lordship's cases.
-
-521
-00:30:27,000 --> 00:30:28,030
-去伦敦参加追思会的那次   
-You saw how it was when they went up
-
-522
-00:30:28,030 --> 00:30:29,870
-您也看见了
-to London for the memorial.
-
-523
-00:30:29,870 --> 00:30:31,500
-他也没法帮客人拿行李
-He can't help with the guests' luggage neither.
-
-524
-00:30:31,500 --> 00:30:33,670
-更别说伺候用餐了
-And as for waiting at table, we can forget that.
-
-525
-00:30:33,670 --> 00:30:35,360
-你想让我怎么样呢
-And what do you want me to do?
-
-526
-00:30:35,360 --> 00:30:36,710
-我本不该多嘴
-Well, it's not for me to say.
-
-527
-00:30:36,710 --> 00:30:40,220
-但让威廉担那么多活合适吗
-But is it fair on William to have all the extra work?
 
 528
 00:30:40,220 --> 00:30:42,890
 我想您不愿看到
 I don't believe you'd like to think
 
-529
-00:30:42,890 --> 00:30:45,680
-家务水准低于以往吧
-the house was falling below the way things ought to be.
-
-530
-00:30:45,680 --> 00:30:49,050
--当然不愿意  -我就这意思
-- I would not.  - That's all I'm saying.
-
-531
-00:30:58,820 --> 00:31:01,230
-我下楼去  来吗
-I'm going down. Coming?
-
-532
-00:31:01,660 --> 00:31:03,730
-一会来  你先去吧
-In a moment. You go.
-
-533
-00:31:12,830 --> 00:31:15,000
-帕特里克出事  我知道你是伤心的
-I know you're sad about Patrick.
-
-534
-00:31:15,000 --> 00:31:17,450
-不管你怎么逞强
-Whatever you say, I know it.
-
 535
 00:31:17,880 --> 00:31:20,120
 你真贴心
 You're a darling.
-
-536
-00:31:22,930 --> 00:31:26,130
-可我并没那么伤心
-But you see, I'm not as sad as I should be.
-
-537
-00:31:26,180 --> 00:31:28,630
-这才让我难过
-And that's what makes me sad.
 
 538
 00:31:30,430 --> 00:31:32,130
 谢谢
 Thank you.
 
-539
-00:31:32,440 --> 00:31:35,440
--我来捡吧  -不用  谢谢老爷
-- I'll do that.  - No. No, thank you, My Lord.
-
-540
-00:31:35,440 --> 00:31:37,640
--我能行  -明白
-- I can do it.  - I'm sure.
-
-541
-00:31:38,780 --> 00:31:41,940
-但愿吧  老爷  希望您能相信我
-I hope so, My Lord. I hope you're sure.
-
-542
-00:31:41,950 --> 00:31:44,480
-贝茨  说白了吧
-Bates, we have to be sensible.
-
-543
-00:31:44,780 --> 00:31:46,000
-你要是负担太重
-I won't be doing you a favour in the long run
-
-544
-00:31:46,000 --> 00:31:47,820
-我这就是在帮倒忙
-if it's too much for you.
-
-545
-00:31:47,830 --> 00:31:49,790
-有交情没错  可正事不能耽误
-No matter what we've been through, it's got to work.
-
-546
-00:31:49,790 --> 00:31:53,320
-当然了长官  不  老爷
-Of course it has, sir. I mean, My Lord.
-
 547
 00:31:53,790 --> 00:31:55,500
-怀念打仗的日子吧  贝茨
+怀念部队里的日子吗  贝茨？
 Do you miss the army, Bates?
-
-548
-00:31:55,500 --> 00:31:58,330
-怀念是有的  可总得向前看
-I miss a lot of things, but you have to keep moving, don't you?
-
-549
-00:31:58,460 --> 00:32:00,660
-没错  说得好
-You do, indeed.
-
-550
-00:32:01,800 --> 00:32:05,130
-老爷  我会证明我绝不辜负您
-I'll show you, My Lord, I promise. I won't let you down.
-
-551
-00:32:05,140 --> 00:32:07,960
-大风大浪都一起过来了  对吧
-We've managed so far, haven't we?
-
-552
-00:32:08,680 --> 00:32:10,670
-对  当然
-Yes, we have. Of course we have.
-
-553
-00:32:14,310 --> 00:32:17,310
--很漂亮  -谢谢  亲爱的
-- You look very nice.  - Thank you, darling.
-
-554
-00:32:17,310 --> 00:32:19,310
-莫里挑明说了吗  
-Did Murray make matters clearer?
-
-555
-00:32:19,310 --> 00:32:21,560
-是  恐怕没戏
-Yes, I'm afraid he did.
-
-556
-00:32:31,500 --> 00:32:33,300
-对了  奥布瑞恩跟我说
-By the way, O'Brien says
-
-557
-00:32:33,300 --> 00:32:35,670
-贝茨干家务不太利索
-Bates is causing a lot of awkwardness downstairs.
-
-558
-00:32:35,670 --> 00:32:37,790
-您说说他吧
-You may have to do something about it.
-
-559
-00:32:37,790 --> 00:32:40,290
-她就会找麻烦
-She's always making trouble.
-
-560
-00:32:40,300 --> 00:32:43,830
-她忍到现在才说  难道也是搬弄是非
-Is that fair when she hasn't mentioned it before now?
-
-561
-00:32:44,010 --> 00:32:46,170
-你怎么老听她的瞎话
-I don't know why you listen to her.
-
-562
-00:32:46,220 --> 00:32:49,120
-即便是你  身边跟着个瘸腿男仆
-It is quite eccentric, even for you,
-
-563
-00:32:49,120 --> 00:32:51,310
-也够让人侧目的了
-to have a crippled valet.
-
-564
-00:32:51,470 --> 00:32:54,480
-拜托  别用瘸这个字眼
-Please, don't use that word.
-
-565
-00:32:54,850 --> 00:32:57,770
-他求职时难道没提不能走路吗
-Did he tell you he couldn't walk when he made his application?
-
-566
-00:32:57,860 --> 00:32:59,060
-别夸大其辞
-Don't exaggerate.
 
 567
 00:32:59,190 --> 00:33:01,820
-你不觉得隐瞒实情是很不诚实的吗
+你不觉得隐瞒实情是很不诚实的吗？
 Doesn't it strike you as dishonest not to mention it?
-
-568
-00:33:01,900 --> 00:33:04,400
--我知道他曾受过伤  -你可从未提过
-- I knew he'd been wounded. - You never said.
 
 569
 00:33:04,530 --> 00:33:07,200
 你知道我不愿对此多谈
 You know I don't care to talk about all that.
 
-570
-00:33:07,320 --> 00:33:08,960
-我可以理解你的心情
-Of course I understand what it must
-
-571
-00:33:08,960 --> 00:33:11,370
-毕竟你们曾彼此并肩作战出生入死
-be like to have fought alongside someone in a war.
-
-572
-00:33:11,580 --> 00:33:14,290
--是么  你真的了解吗  -当然了
-- Oh, you understand that, do you? - Certainly I do.
-
-573
-00:33:14,370 --> 00:33:17,040
-你们毕竟也算是生死之交
-You must form the most tremendous bonds.
-
-574
-00:33:17,170 --> 00:33:19,580
--即使他是个仆人  -真的吗
-- Even with a servant. - Really?
-
-575
-00:33:19,880 --> 00:33:21,710
-即使他是个仆人
-Even with a servant?
-
-576
-00:33:21,880 --> 00:33:25,010
-罗伯特  别吹毛求疵
-Oh, Robert, don't catch me out.
-
 577
 00:33:26,010 --> 00:33:29,050
 我完全理解你想帮助他的初衷
-I'm simply saying I fully see why you want to help him.
-
-578
-00:33:29,180 --> 00:33:30,180
-但是
-But?
-
-579
-00:33:30,260 --> 00:33:34,100
-但也不能勉强他做根本无法胜任的工作
-But is this the right way, to employ him for a job he can't do?
-
-580
-00:33:34,220 --> 00:33:36,640
-也难怪别人说长道短的
-Is it any wonder if the others' noses are put out?
+I fully see why you want to help him.
 
 581
 00:33:36,730 --> 00:33:38,390
@@ -2886,214 +683,29 @@ I just want to give him a chance.
 妈妈  抱歉  我不知您来此
 Mama, I'm sorry, no one told me you were here.
 
-583
-00:33:48,030 --> 00:33:50,450
-真要命  这么刺眼的光
-Oh, dear, such a glare.
-
-584
-00:33:51,620 --> 00:33:54,350
-搞得我觉得自己跟登台唱大戏似的
-I feel as if I were on stage at the Gaiety.
-
-585
-00:33:54,350 --> 00:33:56,000
-我们倒是都习惯了
-We're used to it.
-
-586
-00:33:56,080 --> 00:33:57,790
-我非常希望给您的府邸也安上一套
-I do wish you'd let me install it in the Dower House.
-
 587
 00:33:57,790 --> 00:33:59,500
 它非常方便
 It's very convenient.
-
-588
-00:33:59,580 --> 00:34:02,340
-我家电工可以连您的宅子一并打理
-The man who manages the generator could look after yours as well.
-
-589
-00:34:02,420 --> 00:34:05,330
-不要  我才不要在宅子里安电灯呢
-No. I couldn't have electricity in the house.
-
-590
-00:34:05,330 --> 00:34:06,880
-我肯定整宿都合不上眼
-I wouldn't sleep a wink.
-
-591
-00:34:06,970 --> 00:34:08,760
-搞得到处都是蒸汽什么的
-All those vapours seeping about.
-
-592
-00:34:08,880 --> 00:34:10,550
-柯拉也不愿意在卧室里安灯
-Even Cora won't have it in the bedroom.
-
-593
-00:34:10,640 --> 00:34:12,560
-她倒是曾想在厨房里安电灯  
-She did wonder about the kitchens,
-
-594
-00:34:12,560 --> 00:34:13,850
-真不知道那有什么用
-but I couldn't see the point.
-
-595
-00:34:13,930 --> 00:34:15,660
-趁着现在没有旁人打扰
-Well, before anyone joins us,
-
-596
-00:34:15,660 --> 00:34:18,100
-我想跟你说几句话
-I'm glad of this chance for a little talk.
-
-597
-00:34:21,440 --> 00:34:23,910
-我听说今天莫里来了  
-I gather Murray was here today?
 
 598
 00:34:23,910 --> 00:34:25,270
 消息传得真快  
 News travels fast.
 
-599
-00:34:25,270 --> 00:34:27,090
-没错  我是见了 但他态度并不乐观  
-Yes. I saw him and he's not optimistic
-
-600
-00:34:27,090 --> 00:34:29,740
-恐怕我们只能听天由命
-that there's anything we can do.
-
-601
-00:34:29,820 --> 00:34:31,690
-我才不信这一套呢  
-Well, I refuse to believe it.
-
-602
-00:34:31,690 --> 00:34:34,080
-无论如何  这已既成事实
-Be that as it may, it's a fact.
-
-603
-00:34:34,990 --> 00:34:38,620
-但柯拉财产可就保不住了
-But to lose Cora's fortune to...
-
 604
 00:34:38,750 --> 00:34:41,040
 说真的  妈妈  你我心知肚明
 Really, Mama, you know as well as I do
 
-605
-00:34:41,120 --> 00:34:44,210
-柯拉的财产早就不归她支配了
-that Cora's fortune is not Cora's fortune any more.
-
-606
-00:34:44,290 --> 00:34:46,920
-多亏了爸爸  那份财产早就归为家产了
-Thanks to Papa, it is now part of the estate.
-
-607
-00:34:47,090 --> 00:34:49,630
-而现在全都限定留给我的继承人
-And the estate is entailed to my heir,
-
-608
-00:34:49,630 --> 00:34:51,630
-就这样  没什么可说的了
-that is it. That is all of it.
-
-609
-00:34:52,760 --> 00:34:54,880
-罗伯特  亲爱的  我不想说难听话
-Robert, dear, I don't mean to sound harsh...
-
-610
-00:34:54,880 --> 00:34:56,810
-难不难听的  您反正是要说的
-You may not mean to, but I bet you will.
-
-611
-00:34:56,930 --> 00:34:59,510
-二十四年前你违背我愿
-Twenty-four years ago you married Cora,
-
-612
-00:34:59,510 --> 00:35:01,690
-为了钱财  娶了柯拉  
-against my wishes, for her money.
-
-613
-00:35:03,150 --> 00:35:04,770
-现在钱要拱手送人
-Give it away now, what was the point
-
-614
-00:35:04,770 --> 00:35:07,480
-那之前费劲娶她有什么意义呢
-of your peculiar marriage in the first place?
-
-615
-00:35:07,610 --> 00:35:10,190
-假如我说她让我无比幸福
-If I were to tell you she'd made me very happy,
-
-616
-00:35:10,190 --> 00:35:11,610
-您会相信吗
-would that stretch belief?
-
-617
-00:35:11,700 --> 00:35:14,120
-你娶她可不是为了这个
-It's not why you chose her,
-
-618
-00:35:14,370 --> 00:35:15,690
-再说了当时有那么多的姑娘
-above all those other girls
-
-619
-00:35:15,690 --> 00:35:18,540
-随意选一位都合我意
-who could've filled my shoes so easily.
-
-620
-00:35:18,660 --> 00:35:20,560
-实话跟您讲吧  当我回想起
-If you must know, when I think of
-
-621
-00:35:20,560 --> 00:35:23,500
-当年追求柯拉的动机时  我感到很羞愧
-my motives for pursuing Cora, I'm ashamed.
-
-622
-00:35:23,830 --> 00:35:26,670
-您就别再旧事重提刺激我了
-There's no need to remind me of them.
-
 623
 00:35:27,380 --> 00:35:29,800
-你就一点都不在乎唐顿吗
+你难道不在乎唐顿吗？
 Don't you care about Downton?
 
 624
 00:35:31,630 --> 00:35:33,510
-您觉得呢
+您觉得呢？
 What do you think?
 
 625
@@ -3106,19 +718,9 @@ I've given my life to Downton.
 我生于斯  也希望死于斯
 I was born here and I hope to die here.
 
-627
-00:35:41,020 --> 00:35:44,310
-我毕生的事业就是振兴这份家产
-I claim no career beyond the nurture of this house and the estate.
-
-628
-00:35:44,400 --> 00:35:46,980
-这大半辈子我含辛茹苦  呕心沥血
-It is my third parent and my fourth child.
-
 629
 00:35:47,070 --> 00:35:50,360
-我在乎吗  我当然在乎
+我在乎它吗？  我当然在乎！
 Do I care about it? Yes, I do care!
 
 630
@@ -3126,35 +728,10 @@ Do I care about it? Yes, I do care!
 你们不会是在争执吧
 I hope I don't hear sounds of a disagreement.
 
-631
-00:35:54,910 --> 00:35:58,280
-这就是纽约人对"讨论"的叫法吗
-Oh, is that what they call discussion in New York?
-
-632
-00:35:58,370 --> 00:35:59,920
-我很高兴你们在吵架
-Well, I'm glad you're fighting.
-
 633
 00:35:59,920 --> 00:36:01,870
 很高兴总算有人想起来抗争一下了
 I'm glad somebody's putting up a fight.
-
-634
-00:36:02,040 --> 00:36:04,210
-你不是真的跟奶奶吵架吧  爸爸
-You're not really fighting Granny, are you, Papa?
-
-635
-00:36:04,330 --> 00:36:06,520
-你们的奶奶也只是想有个万全之策
-Your grandmother merely wishes to do the right thing.
-
-636
-00:36:06,520 --> 00:36:08,710
-我也一样
-And so do I.
 
 637
 00:36:08,920 --> 00:36:11,050
@@ -3163,7 +740,7 @@ Dinner is served, my lady.
 
 638
 00:36:11,210 --> 00:36:14,220
-还有谁也一直梦见泰坦尼克号吗
+还有谁也一直梦见泰坦尼克号吗？
 Does anyone else keep dreaming about the Titanic?
 
 639
@@ -3181,39 +758,24 @@ Not again. Give it a rest.
 黛西  别再想这件事了
 Daisy, it is time to let it go.
 
-642
-00:36:19,220 --> 00:36:21,260
-但是所有的人  
-But all them people,
-
-643
-00:36:21,260 --> 00:36:24,060
-大半夜都冻死在冰冷的海水里
-freezing to death in the midnight icy water.
-
-644
-00:36:24,190 --> 00:36:26,190
-你这语气跟那些廉价恐怖小说一样
-Oh, you sound like a penny dreadful.
-
 645
 00:36:26,270 --> 00:36:29,820
-您在南非肯定见过更惨的吧  贝茨先生
-I expect you saw worse things in South Africa. Eh, Mr. Bates?
+您在南非肯定见过更惨的吧  贝茨先生？
+I expect you saw worse things in South Africa, Mr. Bates?
 
 646
 00:36:29,900 --> 00:36:32,860
-谈不上更惨  但也够呛
+谈不上更惨  但也够坏
 Not worse, but pretty bad.
 
 647
 00:36:32,940 --> 00:36:34,320
-你很享受战争的感觉吗
+你很享受战争吗？
 Did you enjoy the war?
 
 648
 00:36:34,400 --> 00:36:36,020
-我想没人喜欢享受战争
+我想没人享受战争
 I don't think anyone enjoys war,
 
 649
@@ -3228,23 +790,13 @@ I'm sure there are.
 
 651
 00:36:39,580 --> 00:36:42,410
-贝茨先生  您能把那个托盘递给我吗
+贝茨先生  您能把那个托盘递给我吗？
 Mr. Bates, would you hand me that tray?
-
-652
-00:36:45,570 --> 00:36:47,600
--该死  -我来吧
-- Blast! - I'll do it.
 
 653
 00:36:47,600 --> 00:36:48,630
 抱歉
 Sorry.
-
-654
-00:36:53,590 --> 00:36:55,780
-夫人小姐们已经吃完了  咖啡也上了
-The ladies are out, we've given them coffee.
 
 655
 00:36:55,780 --> 00:36:58,010
@@ -3256,215 +808,20 @@ The Lordship's taken his port to the library.
 安娜  格温  上楼帮忙收拾去
 Anna, Gwen, go up and help clear away.
 
-657
-00:37:00,890 --> 00:37:03,090
-黛西  告诉帕特莫太太
-Uh, Daisy, tell Mrs. Patmore
-
-658
-00:37:03,090 --> 00:37:04,310
-我们15分钟之后开饭
-we'll eat in 15 minutes.
-
 659
 00:37:17,570 --> 00:37:18,730
 我老是记不住
-Well, I keep forgetting.
+I keep forgetting.
 
 660
 00:37:18,730 --> 00:37:20,950
-这个是要放到隔壁还是拿回厨房
+这个是要放到隔壁还是拿回厨房？
 Does this go next door or back to the kitchen?
-
-661
-00:37:21,080 --> 00:37:21,860
-那些端回去  
-Those go back,
-
-662
-00:37:21,860 --> 00:37:23,990
-甜点餐具和所有酒杯
-but the dessert service and all the glasses
-
-663
-00:37:23,990 --> 00:37:24,540
-都放到楼上餐具室
-stay in the upstairs pantry.
-
-664
-00:37:24,620 --> 00:37:26,330
-放在这里
-Put it on here.
 
 665
 00:37:30,630 --> 00:37:31,670
-什么事
+什么事？
 What is it?
-
-666
-00:37:31,800 --> 00:37:32,800
-夫人跟他说  
-Her Ladyship's told him
-
-667
-00:37:32,800 --> 00:37:34,960
-她觉得贝茨先生该辞职走人
-she thinks Mr. Bates ought to go.
-
-668
-00:37:35,090 --> 00:37:36,030
-她是这么跟我说的
-She said to me,
-
-669
-00:37:36,030 --> 00:37:39,220
-"老爷一直用托马斯不就得了"
-"If only his Lordship had been content with Thomas."
-
-670
-00:37:39,300 --> 00:37:41,050
-她真是这么说的吗
-Did she really?
-
-671
-00:37:41,180 --> 00:37:44,640
--你们在这儿干吗呢  -你管得着吗
-- What are you doing up here? - It's a free country.
-
-672
-00:37:47,480 --> 00:37:50,060
-成啊  我要去吃饭了
-Well, I'm going for my dinner.
-
-673
-00:37:50,060 --> 00:37:52,650
-你俩就在这儿继续  "运筹帷幄"吧
-You two can stay here plotting.
-
-674
-00:38:04,700 --> 00:38:09,670
-这么说年轻的克罗伯勒公爵主动想来拜访
-So, the Young Duke of Crowborough is asking himself to stay.
-
-675
-00:38:09,750 --> 00:38:11,500
-我们也清楚他此番前来所欲何为
-And we know why.
-
-676
-00:38:11,590 --> 00:38:13,040
-你们自以为清楚而已 
-You hope you know why.
-
-677
-00:38:13,040 --> 00:38:15,050
-现实可不总是随人所愿
-That is not at all the same.
-
-678
-00:38:16,010 --> 00:38:19,680
-你认为公爵已察觉到玛丽的前景有所改观
-You realise the Duke thinks Mary's prospects have altered.
-
-679
-00:38:20,010 --> 00:38:24,180
--大概是吧  -什么叫大概是吧
-- I suppose so. - There's no "Suppose" about it.
-
-680
-00:38:24,510 --> 00:38:25,910
-那是肯定以及一定的
-Of course, this is exactly
-
-681
-00:38:25,920 --> 00:38:28,430
-只要我们能事事都以玛丽的利益为重
-the sort of opportunity that will come to Mary
-
-682
-00:38:28,520 --> 00:38:31,900
-那么这就是玛丽千载难逢的好机会
-if we can only get things settled in her favour.
-
-683
-00:38:32,190 --> 00:38:35,440
--罗伯特回心转意了吗  -还没有
-- Is Robert coming round? - Not yet.
-
-684
-00:38:35,900 --> 00:38:37,510
-他所担心的是
-To him, the risk is
-
-685
-00:38:37,510 --> 00:38:40,860
-纵然保住我的钱  但家产却付之东流
-we succeed in saving my money but not the estate.
-
-686
-00:38:41,620 --> 00:38:43,330
-要是唐顿庄园因他而败落
-He feels he'd be betraying his duty
-
-687
-00:38:43,330 --> 00:38:46,290
-他会觉得甚是愧对先祖
-if Downton were lost because of him.
-
-688
-00:38:46,950 --> 00:38:48,690
-好吧  那我给莫里写封信
-Well, I'm going to write to Murray.
-
-689
-00:38:48,690 --> 00:38:50,290
-他也无计可施
-He won't say anything different.
-
-690
-00:38:50,370 --> 00:38:52,850
-千里之行  始于足下  
-Well, we have to start somewhere.
-
-691
-00:38:52,850 --> 00:38:54,920
-咱们要对玛丽负责
-Our duty is to Mary.
-
-692
-00:38:55,800 --> 00:38:58,850
-等玛丽服完丧  
-Well, give him a date
-
-693
-00:38:58,850 --> 00:39:01,300
-就安排他俩约会吧
-for when Mary's out of mourning.
-
-694
-00:39:04,220 --> 00:39:07,060
-没人愿意跟穿丧服的姑娘谈情说爱
-No one wants to kiss a girl in black.
-
-695
-00:39:09,890 --> 00:39:12,060
-别顾影自怜了
-Oh, do stop admiring yourself.
-
-696
-00:39:12,060 --> 00:39:14,730
-你以为他娶你是贪图你的美貌吗
-He's not marrying you for your looks.
-
-697
-00:39:16,400 --> 00:39:19,990
-再说娶不娶还不一定呢
-That's if he wants to marry you at all.
-
-698
-00:39:20,070 --> 00:39:21,450
-他会娶我的
-He will.
 
 699
 00:39:21,570 --> 00:39:23,110
@@ -3486,19 +843,9 @@ We should go down.
 他们随时都会从车站回来
 They'll be back from the station at any moment.
 
-703
-00:39:30,000 --> 00:39:32,200
-别太花枝招展  亲爱的
-Hmm. Let's not gild the lily,dear.
-
-704
-00:39:32,200 --> 00:39:35,080
-还有  玛丽  尽量显得惊讶些
-And Mary, try to look surprised.
-
 705
 00:39:35,750 --> 00:39:37,420
-都准备好了吗
+你们都准备好了吗？
 You all ready?
 
 706
@@ -3506,209 +853,39 @@ You all ready?
 很好  大家出门迎接客人吧
 Very well. You should go out to greet them.
 
-707
-00:39:42,630 --> 00:39:44,210
-我也去吗  卡森先生  
-And me, Mr. Carson?
-
-708
-00:39:44,210 --> 00:39:45,590
-不  黛西  你不能去
-No, Daisy, not you.
-
-709
-00:39:45,970 --> 00:39:47,930
-你能行吗  贝茨先生  
-Can you manage, Mr. Bates?
-
-710
-00:39:47,930 --> 00:39:48,970
-要不你在这儿等着
-Or would you rather wait here?
-
 711
 00:39:49,100 --> 00:39:50,180
 我想出去  卡森先生
 I want to go, Mr. Carson.
-
-712
-00:39:50,270 --> 00:39:52,600
-也没必要全体都出去迎接的
-Well, there's no obligation for the whole staff to be present.
 
 713
 00:39:52,690 --> 00:39:54,140
 我很乐意去
 I'd like to be there.
 
-714
-00:39:54,440 --> 00:39:57,440
-今天是唐顿庄园的大日子
-Well, it's certainly a great day for Downton
-
-715
-00:39:57,520 --> 00:40:00,190
-因为要欢迎公爵的大驾光临
-to welcome a Duke under our roof.
-
-716
-00:40:01,530 --> 00:40:03,950
-记得帮我抬行李  别想开溜
-Remember to help me with the luggage. Don't go running off.
-
 717
 00:40:04,030 --> 00:40:05,070
 我来帮你吧
 I'll give you a hand.
-
-718
-00:40:05,160 --> 00:40:07,550
-那怎么行  贝茨先生  
-Oh, I couldn't ask that, Mr. Bates,
-
-719
-00:40:07,560 --> 00:40:08,990
-您腿脚恐怕不方便吧
-not in your condition.
-
-720
-00:40:09,620 --> 00:40:12,350
-卡森先生  我只是想知道
-How long do we have to put up with this,
-
-721
-00:40:12,350 --> 00:40:14,120
-我们究竟还要忍多久啊
-Mr. Carson, just so I know?
 
 722
 00:40:45,320 --> 00:40:47,240
 欢迎光临唐顿庄园
 Welcome to Downton.
 
-723
-00:40:47,870 --> 00:40:49,240
-格兰瑟姆夫人  感谢您的盛情邀请
-Lady Grantham, this is so kind of you.
-
-724
-00:40:49,330 --> 00:40:50,740
-哪里哪里  公爵  
-Not at all, Duke.
-
-725
-00:40:50,740 --> 00:40:53,000
-您百忙之中能光临寒舍自是荣幸之至
-I'm delighted you could spare the time.
-
-726
-00:40:53,200 --> 00:40:54,850
-想必您认识小女玛丽  
-You know my daughter Mary, of course.
-
-727
-00:40:54,850 --> 00:40:56,900
--当然  玛丽小姐  -还有伊迪丝  
-- Of course, Lady Mary. - And Edith,
-
-728
-00:40:56,900 --> 00:40:58,710
-我想你还从未见过幺女  茜玻
-but I don't believe you've met my youngest, Sybil.
-
-729
-00:40:58,840 --> 00:41:01,340
--茜玻小姐  -您好
-- Ah! Lady Sybil. - How do you do?
-
-730
-00:41:02,380 --> 00:41:05,010
-快快请进  您舟车劳顿想必甚为疲惫
-Come on in, you must be worn out.
-
 731
 00:41:06,180 --> 00:41:08,010
 格兰瑟姆夫人  我有个不情之请
-Oh, Lady Grantham, I've a confession to make,
-
-732
-00:41:08,090 --> 00:41:09,760
-当然我希望不会给您添麻烦
-which I hope won't cause too much bother.
-
-733
-00:41:09,850 --> 00:41:12,770
-我的贴身男仆在启程时生病了  所以我
-My man has taken ill just as I was leaving, so I...
-
-734
-00:41:12,850 --> 00:41:15,140
-这个好办  是吧  卡森
-Oh, well, that won't be a problem, will it, Carson?
-
-735
-00:41:15,230 --> 00:41:16,750
-当然
-Certainly not.
-
-736
-00:41:16,750 --> 00:41:18,270
-就由小人亲自服侍尊贵的大人吧
-I shall look after His Grace myself.
-
-737
-00:41:18,360 --> 00:41:20,440
-不行  我可不能这么大材小用
-Oh, no, I wouldn't dream of being such a nuisance.
-
-738
-00:41:20,440 --> 00:41:22,520
-不过是个男仆
-Surely a footman...
+Lady Grantham, I've a confession to make,
 
 739
 00:41:22,690 --> 00:41:24,610
 我记得这个人
 I remember this man.
 
-740
-00:41:25,200 --> 00:41:26,810
-格兰瑟姆夫人与我在伦敦共进晚餐时  
-Didn't you serve me
-
-741
-00:41:26,810 --> 00:41:27,320
-是你侍奉的我吧
-when I dined with Lady Grantham in London?
-
-742
-00:41:27,410 --> 00:41:30,120
--是的  大人  -这就行了
-- I did, Your Grace. - Ah, there we are.
-
-743
-00:41:30,200 --> 00:41:32,030
-我们应该会相处得不错  是吧那个
-We shall do very well together, won't we...
-
-744
-00:41:32,120 --> 00:41:34,540
--我叫托马斯  大人  -托马斯
-- Uh, Thomas, Your Grace. - Thomas.
-
-745
-00:41:35,040 --> 00:41:36,370
-那好吧
-Good.
-
-746
-00:41:38,540 --> 00:41:41,790
-您的旅途还算愉快吧
-Hope you had a pleasant journey.
-
 747
 00:41:44,050 --> 00:41:46,460
-贝茨  你没事吧  
+贝茨  你没事吧？  
 Bates, are you all right?
 
 748
@@ -3721,129 +898,24 @@ Perfectly, my Lord. I apologise.
 贝茨先生
 Mr. Bates.
 
-750
-00:41:59,100 --> 00:42:02,610
--这样好多了  -求你别来可怜我
-- That's better. - Please, don't feel sorry for me.
-
-751
-00:42:12,660 --> 00:42:15,740
-我们该去干什么呢  你想去哪儿
-What shall we do? What would you like to do?
-
-752
-00:42:17,250 --> 00:42:20,120
-我想到处转一转  参观一下
-I think I'd rather like to go exploring.
-
-753
-00:42:20,120 --> 00:42:22,170
-没问题  去花园还是府邸里
-Certainly. Gardens or house?
-
-754
-00:42:22,340 --> 00:42:25,210
-府邸吧  我觉得花园都千篇一律
-Oh, house I think. Gardens are all the same to me.
-
-755
-00:42:26,970 --> 00:42:27,570
-很好  
-Very well,
-
-756
-00:42:27,570 --> 00:42:29,680
-我们先从大厅开始  最古老的
-we can begin in the hall, which is one of the oldest...
-
-757
-00:42:29,760 --> 00:42:33,010
-不  不要那些客厅藏书室
-No, not all those drawing rooms and libraries.
-
-758
-00:42:34,850 --> 00:42:36,680
-那你想去哪儿
-Well, what then?
-
 759
 00:42:38,440 --> 00:42:39,870
 我不知道  
 I don't know.
-
-760
-00:42:39,870 --> 00:42:42,980
-比如秘密通道  小阁楼之类的
-The... The secret passages and the attics.
-
-761
-00:42:44,440 --> 00:42:47,320
-听起来有些古怪  但有何不可呢
-Well, it seems a bit odd but, why not?
-
-762
-00:42:48,650 --> 00:42:50,460
-我去跟妈妈说一声
-I'll just tell Mama.
 
 763
 00:42:50,460 --> 00:42:52,110
 不  别告诉你母亲
 No, don't tell your mama.
 
-764
-00:42:52,450 --> 00:42:53,700
-但我们又不是做什么坏事
-But there's nothing wrong in it.
-
-765
-00:42:53,780 --> 00:42:55,230
-当然不是  我只是
-No, indeed. I'm...
-
 766
 00:42:55,240 --> 00:42:58,200
 我只是不想有人来打扰我们
 I'm only worried the others will want to join us.
 
-767
-00:43:06,800 --> 00:43:08,880
-玛丽在招待他
-Mary's settling him in.
-
-768
-00:43:11,300 --> 00:43:14,470
-柯拉  别让玛丽太过于殷勤
-Cora, don't let Mary make a fool of herself.
-
-769
-00:43:16,350 --> 00:43:19,680
-对了  下周我要去伦敦
-By the way, I'll be going up to London next week.
-
-770
-00:43:20,640 --> 00:43:21,810
-要让人打扫一下房子吗
-Do you want to open the house?
-
-771
-00:43:21,900 --> 00:43:24,150
-不用了  我就带着贝茨一起住俱乐部
-No, no. I'll just take Bates and stay at the club.
-
-772
-00:43:24,230 --> 00:43:26,570
-差不多就待一两天吧
-I won't be more than a day or two.
-
-773
-00:43:26,570 --> 00:43:28,650
-好的  事情有什么进展吗
-I see. Are things progressing?
-
 774
 00:43:29,740 --> 00:43:31,360
-什么事情
+什么事情？
 What things?
 
 775
@@ -3851,60 +923,15 @@ What things?
 不过是军队的晚宴而已
 It's just a regimental dinner.
 
-776
-00:43:38,540 --> 00:43:41,210
-下午贝茨的那一跤可惜了整个迎接礼
-It's a pity Bates spoilt the arrival this afternoon.
-
-777
-00:43:41,330 --> 00:43:44,830
-不算煞风景  他只是摔倒了而已
-He didn't spoil anything. He fell over.
-
-778
-00:43:45,340 --> 00:43:48,170
-太不体面了  卡森最讨厌这种事
-It was so undignified. Carson hates that kind of thing.
-
 779
 00:43:48,250 --> 00:43:50,130
-我才不管卡森怎么想
+我不管卡森怎么想
 I don't care what Carson thinks.
-
-780
-00:43:51,590 --> 00:43:54,300
-老夫人来口信了  夫人
-A message from the Dowager Countess, my lady.
 
 781
 00:43:54,390 --> 00:43:56,140
-她说她不来喝下午茶了
+她说她不来喝茶了
 She says she won't come to tea,
-
-782
-00:43:56,140 --> 00:43:58,220
-但会来用晚餐
-but she'll join you for dinner.
-
-783
-00:43:59,930 --> 00:44:02,770
-对了  卡森  但愿你今天下午没有太难堪
-Oh, Carson, I hope you weren't embarrassed this afternoon.
-
-784
-00:44:02,850 --> 00:44:06,060
-我敢保证公爵他还是很感激你的接待
-I can assure you the Duke very much appreciated his welcome.
-
-785
-00:44:06,190 --> 00:44:07,560
-我很高兴
-I'm glad.
-
-786
-00:44:07,940 --> 00:44:10,730
--贝茨没事了吧  -我想应该没事  老爷
-- Is Bates all right? - I think so, my lord.
 
 787
 00:44:12,110 --> 00:44:15,360
@@ -3916,64 +943,9 @@ It must be so difficult for you, all the same.
 不要多事
 Don't stir.
 
-789
-00:44:35,430 --> 00:44:39,100
-我们好像是第一次这样独处
-Do you realise this is the first time we've ever been alone?
-
-790
-00:44:39,220 --> 00:44:40,350
-那你肯定是忘了
-Then you've forgotten
-
-791
-00:44:40,350 --> 00:44:43,270
-在北布洛克斯家那次  我把你拉进温室
-when I pulled you into the conservatory at the Northbrooks'.
-
-792
-00:44:44,060 --> 00:44:46,100
--我真伤心  -不  我没有忘记
-- How sad. - No, I haven't.
-
-793
-00:44:46,230 --> 00:44:47,660
-那次不一样
-It's not quite the same
-
-794
-00:44:47,660 --> 00:44:50,400
-那时有好多女伴躲在树丛暗中窥觊
-with 20 chaperones hiding behind every fern.
-
-795
-00:44:52,740 --> 00:44:55,650
-和我独处你开心吗  小姐
-And are you pleased to be alone with me, my lady?
-
-796
-00:44:55,740 --> 00:44:57,830
-天哪  若我坦诚相告
-Oh, dear, if I answer truthfully,
-
-797
-00:44:57,830 --> 00:44:59,620
-那就太不矜持了
-you'll think me rather forward.
-
-798
-00:45:07,130 --> 00:45:11,000
-我们不该随便窥探  太失礼了
-I don't think we should pry. It feels rather disrespectful.
-
-799
-00:45:11,250 --> 00:45:12,750
-胡说
-Oh, nonsense.
-
 800
 00:45:13,340 --> 00:45:14,970
-这是你父亲的房子  不是吗
+这是你父亲的房子  不是吗？
 It's your father's house, isn't it?
 
 801
@@ -3983,52 +955,17 @@ You've a right to know what goes on in it.
 
 802
 00:45:17,010 --> 00:45:18,140
-这通向哪儿
+这通向哪儿？
 Where does this lead?
-
-803
-00:45:18,260 --> 00:45:21,350
-男仆的房间  从女仆这边上锁
-To the men's quarters. With a lock on the women's side.
-
-804
-00:45:21,430 --> 00:45:24,930
--只有休斯太太有权开锁  -休斯太太
-- Only Mrs Hughes is allowed to turn it. - Mrs Hughes...
-
-805
-00:45:26,350 --> 00:45:27,770
-还有你
-And you.
-
-806
-00:45:38,160 --> 00:45:41,330
--这里是  -某位男仆的房间
-- And here? - A footman, I imagine.
-
-807
-00:45:50,380 --> 00:45:53,300
--这样合适吗  -有何不妥
-- Should you do that? - Why not?
-
-808
-00:45:53,880 --> 00:45:56,470
-我  我在研究一种叫"男仆"的物种
-I'm... I'm making a study on the genus "Footman".
-
-809
-00:45:56,550 --> 00:45:58,800
-首先我得了解他们的生活起居
-I seek to know the creature's ways.
 
 810
 00:46:00,140 --> 00:46:01,800
-有人来了
+有人来了！
 Someone's coming!
 
 811
 00:46:08,650 --> 00:46:10,680
-能效劳吗  小姐
+能效劳吗  小姐？
 Can I help you, my lady?
 
 812
@@ -4038,17 +975,17 @@ We were just exploring.
 
 813
 00:46:16,360 --> 00:46:18,650
-您是要找托马斯吗  大人
+您是要找托马斯吗  大人？
 Were you looking for Thomas, Your Grace?
 
 814
 00:46:18,740 --> 00:46:21,990
-不  如玛丽小姐所说我们只是随便看看
+不  如玛丽小姐所说 我们只是随便看看
 No, as Lady Mary said, we've just been exploring.
 
 815
 00:46:27,370 --> 00:46:29,370
-那您想看看我的房间吗  小姐
+那您想看看我的房间吗  小姐？
 Would you care to explore my room, my lady?
 
 816
@@ -4063,7 +1000,7 @@ We were just going down.
 
 818
 00:46:44,510 --> 00:46:46,630
-为什么要向那个人道歉
+为什么要向那个人道歉？
 Why did you apologise to that man?
 
 819
@@ -4071,825 +1008,70 @@ Why did you apologise to that man?
 他无权干涉我们
 It's not his business what we do.
 
-820
-00:46:48,770 --> 00:46:51,520
-犯了错就道歉
-I always apologise when I'm in the wrong.
-
 821
 00:46:51,520 --> 00:46:52,900
 这是我的习惯
 It's a habit of mine.
 
-822
-00:46:53,440 --> 00:46:56,980
-事实表明  尽管贝茨先生无过
-The plain fact is Mr Bates, through no fault of his own,
-
-823
-00:46:57,070 --> 00:47:00,530
-但他无法完成应担的额外工作
-is not able to fulfil the extra duties expected of him.
-
-824
-00:47:01,530 --> 00:47:04,350
-他不能提重物  更不能侍奉用餐
-He can't lift. He can't serve a table.
-
-825
-00:47:04,360 --> 00:47:07,330
-还四处乱掉东西
-He's dropping things all over the place.
-
-826
-00:47:08,200 --> 00:47:11,540
-比如今晚  他就该充当第三男仆
-On a night like tonight he should act as a third footman.
-
-827
-00:47:12,420 --> 00:47:13,750
-而事实上  老爷
-As it is, my lord,
-
-828
-00:47:13,750 --> 00:47:16,880
-我们今晚只能找个女仆来顶替
-we may have to have a maid in the dining room.
-
-829
-00:47:17,260 --> 00:47:19,130
-放松点  卡森
-Cheer up, Carson,
-
-830
-00:47:19,130 --> 00:47:20,420
-这也不算太糟糕
-there are worse things happening in the world.
-
-831
-00:47:20,510 --> 00:47:23,090
-让女仆侍奉公爵还不够糟
-Not worse than a maid serving a duke.
-
 832
 00:47:27,560 --> 00:47:29,730
-这么说你心意已决
+这么说你心意已决？
 So you're quite determined?
-
-833
-00:47:29,810 --> 00:47:33,600
-这决定很难  老爷  我也是不得已
-It's a hard decision, your lordship. A very hard decision.
-
-834
-00:47:34,440 --> 00:47:37,370
-但这有损唐顿的名誉
-But the honour of Downton is at stake.
 
 835
 00:47:37,370 --> 00:47:38,730
 别担心  卡森
 Don't worry, Carson.
 
-836
-00:47:39,570 --> 00:47:41,450
-为了唐顿的名誉
-I know all about hard decisions
-
-837
-00:47:41,450 --> 00:47:43,320
-我知道该怎么舍小为大
-when it comes to the honour of Downton.
-
-838
-00:47:43,700 --> 00:47:45,280
-是吧  小家伙
-Don't I, boy?
-
-839
-00:47:50,080 --> 00:47:53,040
-威廉  你不能总让托马斯占你便宜
-William, you mustn't let Thomas take advantage.
-
-840
-00:47:53,120 --> 00:47:55,630
-他跟你一样  也只是个男仆
-He's only a footman, same as you.
-
-841
-00:47:56,290 --> 00:47:58,230
-没事的  休斯太太  
-It's all right, Mrs Hughes.
-
-842
-00:47:58,230 --> 00:47:59,520
-我喜欢充实点
-I like to keep busy.
-
-843
-00:47:59,520 --> 00:48:01,470
-这样就不至于胡思乱想
-It takes your mind off things.
-
-844
-00:48:01,550 --> 00:48:04,840
-胡思乱想些什么
-What things have you got to take your mind off?
-
-845
-00:48:06,180 --> 00:48:09,680
-想家也没什么可害臊的
-If you're feeling homesick, there's no shame in it.
-
-846
-00:48:10,640 --> 00:48:14,600
--是的  -说明你有一个幸福的家庭
-- No. - It means you come from a happy home.
-
-847
-00:48:17,150 --> 00:48:20,280
-很多人羡慕都来不及呢
-There's plenty of people here would envy that.
-
-848
-00:48:21,280 --> 00:48:22,940
-知道了  休斯太太
-Yes, Mrs Hughes.
-
-849
-00:48:31,040 --> 00:48:33,580
--您还有何吩咐  老爷  -没有
-- Will that be all, my lord? - Yes.
-
-850
-00:48:35,420 --> 00:48:37,460
-其实  还有点事
-That is... Not exactly.
-
-851
-00:48:40,460 --> 00:48:42,960
-下午摔了一跤没事吧
-Have you recovered from your fall this afternoon?
-
-852
-00:48:43,050 --> 00:48:45,530
-实在抱歉  老爷
-I'm very sorry about that, my lord.
-
-853
-00:48:45,530 --> 00:48:47,180
-也不知怎么了
-I don't know what happened.
-
-854
-00:48:48,810 --> 00:48:50,730
-是这样  贝茨
-The thing is, Bates,
-
-855
-00:48:50,730 --> 00:48:53,520
-我答应让你试试  也给了你机会
-I said I'd give you a trial and I have.
-
-856
-00:48:54,480 --> 00:48:56,730
-可有些事由不得我
-If it were only up to me...
-
-857
-00:48:58,270 --> 00:49:01,360
-贴身侍从也该承担额外的职责
-It's this question of a valet's extra duties.
-
-858
-00:49:01,780 --> 00:49:03,690
-您是指有大型宴会时侍奉用餐吗
-You mean waiting a table when there's a large party?
-
-859
-00:49:03,780 --> 00:49:06,450
-还包括提箱子等等
-That and carrying things and...
-
-860
-00:49:10,740 --> 00:49:12,430
-你也知道卡森决不允许
-You do see that Carson can't be
-
-861
-00:49:12,430 --> 00:49:15,210
-他的手下效率低下
-expected to compromise the efficiency of his staff.
-
-862
-00:49:15,290 --> 00:49:17,750
-明白  老爷  我当然明白
-I do, my lord, of course I do.
-
-863
-00:49:18,250 --> 00:49:20,420
-我有个提议
-Might I make a suggestion?
-
-864
-00:49:20,920 --> 00:49:22,500
-若需额外男仆时
-That when an extra footman is required,
-
-865
-00:49:22,500 --> 00:49:23,960
-他的工钱从我工资里扣
-the cost could come out of my wages.
-
-866
-00:49:24,260 --> 00:49:26,590
-不行  我决不允许
-Absolutely not. I couldn't possibly allow that.
-
-867
-00:49:26,680 --> 00:49:29,770
-可我很想留下来  老爷  
-Because I am very eager to stay, my lord.
-
-868
-00:49:29,770 --> 00:49:30,720
-真的很想
-Very eager, indeed.
-
-869
-00:49:32,810 --> 00:49:36,390
-我知道  我也很希望你能留下来
-I know you are. And I was eager that this should work.
-
-870
-00:49:40,020 --> 00:49:44,070
-像我这样的很难再找到工作了
-You see, it is unlikely that I should find another position.
-
-871
-00:49:44,360 --> 00:49:47,030
-房子小些  责任轻些的工作肯定行
-But surely in a smaller house, where less is expected of you.
-
-872
-00:49:47,240 --> 00:49:48,700
-也不太可能
-It's not likely.
-
-873
-00:49:50,070 --> 00:49:51,910
-在你找到工作前我会帮助你
-I mean to help until you find something.
-
 874
 00:49:51,990 --> 00:49:54,200
 我不能要您的钱  老爷
 I couldn't take your money, my lord.
 
-875
-00:49:54,200 --> 00:49:56,830
-除非那是我的劳动所得
-I can take wages for a job done. That's all.
-
-876
-00:50:04,130 --> 00:50:06,760
-好吧  老爷  我马上走
-Very good, my lord. I'll go at once.
-
-877
-00:50:07,130 --> 00:50:08,730
-不必急着今晚走
-There's no need to rush out into the night.
-
-878
-00:50:08,730 --> 00:50:11,600
-搭明早九点的火车去伦敦吧
-Take the London train tomorrow. It leaves at 9:00.
-
-879
-00:50:11,680 --> 00:50:14,970
-我会多给你一个月的工资  千万收下
-You'll have a month's wages, too. That I insist on.
-
-880
-00:50:21,520 --> 00:50:23,120
-我也不想这样  贝茨
-It's a bloody business, Bates,
-
-881
-00:50:23,120 --> 00:50:25,820
-实在是别无他法
-but I can't see any way around it.
-
-882
-00:50:26,030 --> 00:50:28,360
-我理解  老爷
-I quite understand, my lord.
-
-883
-00:50:37,040 --> 00:50:40,670
-看来今晚是女士之夜了  公爵
-I'm afraid we're rather a female party tonight, Duke.
-
-884
-00:50:41,710 --> 00:50:42,960
-但是你也知道
-But you know what it's
-
-885
-00:50:42,960 --> 00:50:45,590
-乡下总是女多男少
-like trying to balance numbers in the country.
-
-886
-00:50:45,670 --> 00:50:48,340
-单身汉在这里可是众星捧月
-A single man outranks the Holy Grail.
-
-887
-00:50:50,010 --> 00:50:53,550
-不  能与您一家共进晚餐实在荣幸之至
-No, I'm terribly flattered to be dining en famille.
-
 888
 00:50:54,180 --> 00:50:57,600
-下午您和玛丽在小阁楼做什么呢
+下午您和玛丽在小阁楼做什么呢？
 What were you and Mary doing in the attics this afternoon?
-
-889
-00:50:58,680 --> 00:51:02,730
-我想玛丽只是带公爵到处看看而已  对吧
-I expect Mary was just showing the Duke the house. Weren't you?
-
-890
-00:51:05,360 --> 00:51:08,650
--您是学建筑的吗  -没错
-- Are you a student of architecture? - Mmm, absolutely.
-
-891
-00:51:08,740 --> 00:51:11,910
-那我诚挚希望您能光临寒舍
-Then I do hope you'll come and inspect my little cottage.
-
-892
-00:51:12,240 --> 00:51:15,720
-那是雷恩大师为第一任伯爵的妹妹设计建造的
-It was designed by Wren for the first earl's sister.
-
-893
-00:51:15,720 --> 00:51:17,200
-小阁楼
-The attics?
-
-894
-00:51:17,290 --> 00:51:21,040
-没错  玛丽带着公爵上了小阁楼
-Yes. Mary took the Duke up to the attics.
-
-895
-00:51:21,420 --> 00:51:23,080
-去那做什么
-Whatever for?
-
-896
-00:51:23,540 --> 00:51:25,130
-亲爱的  怎么回事
-Why was this, dear?
 
 897
 00:51:25,210 --> 00:51:27,000
 我们就是随处参观
 We were just looking around.
 
-898
-00:51:27,090 --> 00:51:31,260
-参观  仆人的房间有什么可看的
-Looking around? What is there to look at but servants' rooms?
-
-899
-00:51:31,550 --> 00:51:33,220
-到底是为什么呢
-What was the real reason, hmm?
-
-900
-00:51:33,300 --> 00:51:36,510
-别絮絮叨叨的  伊迪丝
-Don't be such a chatterbox, Edith.
-
-901
-00:51:38,220 --> 00:51:40,180
-我看大家都吃完了
-I think we'll go through.
-
-902
-00:51:40,270 --> 00:51:44,100
--我还是不懂  -少说几句行吗
-- I still don't understand... - Will you hold your tongue!
-
-903
-00:51:53,780 --> 00:51:55,820
-还要等多久  我快饿死了
-How long do you think they'll be? I'm starving.
-
-904
-00:51:55,910 --> 00:51:57,250
-夫人小姐们都安顿好了吗
-Have you settled the ladies?
-
 905
 00:51:57,250 --> 00:51:58,490
 是的  卡森管家
 Yes, Mr Carson.
 
-906
-00:51:58,580 --> 00:52:01,120
-那就不会太久了
-Then it won't be long once they go through.
-
-907
-00:52:01,210 --> 00:52:03,370
-你们觉得他会求婚吗
-You think he'll speak out?
-
-908
-00:52:03,460 --> 00:52:06,250
-想想看我们就要有个公爵夫人伺候了
-Do you think we'll have a duchess to wait on? Imagine that.
-
-909
-00:52:06,340 --> 00:52:08,460
-那也轮不到你来伺候
-You won't be waiting on her, whatever happens.
-
-910
-00:52:08,550 --> 00:52:10,160
-格兰瑟姆伯爵的长女和继承人
-There is no reason why the eldest daughter
-
-911
-00:52:10,160 --> 00:52:11,780
-成为公爵夫人
-and heiress of the Earl of Grantham
-
-912
-00:52:11,780 --> 00:52:15,010
-再合适不过了
-should not wear a duchess's coronet with honour.
-
-913
-00:52:15,090 --> 00:52:18,390
-继承人  已经决定了吗  卡森先生
-Heiress, Mr Carson? Has it been decided?
-
-914
-00:52:18,910 --> 00:52:21,850
-世间若还有公道  她理应继承
-It will be, if there's any justice in the world.
-
-915
-00:52:21,930 --> 00:52:24,350
-好吧  分晓不久便知
-Well, we'll know soon enough.
-
 916
 00:52:25,400 --> 00:52:26,520
-你在干什么  安娜
+你在干什么  安娜？
 What are you doing, Anna?
-
-917
-00:52:26,610 --> 00:52:29,410
-我想拿点吃的给贝茨先生
-I thought I'd take something up to Mr Bates,
-
-918
-00:52:29,410 --> 00:52:31,900
-他不舒服没下来吃饭
-him not being well enough to come down.
-
-919
-00:52:32,280 --> 00:52:34,310
-您不介意吧  休斯太太
-You don't mind, do you, Mrs Hughes?
-
-920
-00:52:34,310 --> 00:52:36,320
-我没意见  但仅此一次
-I don't mind. Not this once.
-
-921
-00:52:36,410 --> 00:52:39,080
-去吧  给他送吃的吧
-No, take him whatever he might need.
-
-922
-00:52:40,040 --> 00:52:43,710
-贝茨先生的离开与他的品性无关
-Mr Bates is leaving without a stain on his character.
-
-923
-00:52:44,120 --> 00:52:47,250
-我希望你们与他道别时注意分寸
-I hope you all observe that in the manner of your parting.
 
 924
 00:52:47,340 --> 00:52:48,640
 我不明白他为什么要走
-Well, I don't see why he has to go.
-
-925
-00:52:48,640 --> 00:52:50,130
-我不介意多做一些...
-I don't mind doing a bit of extra work...
+I don't see why he has to go.
 
 926
 00:52:50,210 --> 00:52:52,050
 这不是你能决定的
 It's not up to you.
 
-927
-00:52:52,760 --> 00:52:54,970
-让我来服侍老爷  卡森先生  行吗
-I'll take care of his lordship. Shall I, Mr Carson?
-
-928
-00:52:55,050 --> 00:52:57,470
-不行  你还得照顾公爵
-Not while you're looking after the Duke, you won't.
-
-929
-00:52:57,550 --> 00:53:00,680
-还是我自己来伺候吧
-I'll see to his lordship myself.
-
-930
-00:53:31,960 --> 00:53:34,840
-贝茨先生  你在吗
-Mr Bates? Are you there?
-
-931
-00:53:51,770 --> 00:53:55,030
-怕你饿着  我给你端了点吃的
-I brought something up, in case you were hungry.
-
-932
-00:53:57,070 --> 00:53:58,950
-你真好  谢谢
-That's very kind.
-
-933
-00:54:10,540 --> 00:54:14,000
--很遗憾你要走了  -我会没事的
-- I'm ever so sorry you're going. - I'll be all right.
-
-934
-00:54:16,550 --> 00:54:18,340
-那是当然
-Of course you will.
-
 935
 00:54:18,930 --> 00:54:21,850
 以你的为人  总能找到容身之处
 There's always a place for a man like you.
-
-936
-00:54:21,930 --> 00:54:25,140
-没错  总会有办法的
-Oh, yes. Something will turn up.
-
-937
-00:54:28,980 --> 00:54:31,350
-安顿好了  记得告诉我们
-Tell us when you're fixed.
-
-938
-00:54:31,810 --> 00:54:34,520
-写封信来
-Just... drop us a line.
-
-939
-00:54:36,150 --> 00:54:37,940
-不然我会担心的
-Else I'll worry.
-
-940
-00:54:38,780 --> 00:54:41,820
-放心吧
-Well, we can't have that.
-
-941
-00:55:01,390 --> 00:55:03,930
-咱们该让仆人进来收拾了
-We must go and let the servants get in here.
-
-942
-00:55:04,010 --> 00:55:06,540
-若能再逗留片刻  我将不胜感激
-I should be grateful if we could stay just a minute more.
-
-943
-00:55:06,540 --> 00:55:08,060
-还有些事想请教
-I have... I have something to ask you.
-
-944
-00:55:15,690 --> 00:55:18,610
-对于您兄侄的遭遇  我深表哀悼
-I was terribly sorry to hear about your cousins.
-
-945
-00:55:18,690 --> 00:55:20,110
-这样
-You said.
-
-946
-00:55:20,860 --> 00:55:22,350
--您认识他们  -不太熟
-- Did you know them? - Not well.
-
-947
-00:55:22,350 --> 00:55:25,910
-也就见过帕特里克·卡劳利几次
-I used to see Patrick Crawley at the odd thing.
-
-948
-00:55:27,540 --> 00:55:31,000
-府上遭受如此巨变肯定需要时间适应
-I imagine it will mean some adjustments for you all.
 
 949
 00:55:33,540 --> 00:55:38,000
 一夜之间  失去两位继承人  太可怕了
 To lose two heirs in one night, it's terrible.
 
-950
-00:55:38,550 --> 00:55:41,010
--是啊  很可怕  -真不幸
-- Indeed, it was terrible. - Awful.
-
-951
-00:55:45,970 --> 00:55:48,600
-但话说回来  祸兮福所倚
-But then again, it's an ill wind.
-
-952
-00:55:50,270 --> 00:55:54,100
-至少现在玛丽小姐的未来不可限量
-At least Lady Mary's prospects must have rather improved.
-
-953
-00:55:55,360 --> 00:55:56,820
-是吗
-Have they?
-
-954
-00:55:58,820 --> 00:56:00,400
-不是吗
-Haven't they?
-
-955
-00:56:01,030 --> 00:56:03,150
-恕我直言
-I will not be coy
-
-956
-00:56:03,240 --> 00:56:05,820
-我不想假装没听出您的弦外之音
-and pretend I do not understand your meaning,
-
-957
-00:56:05,910 --> 00:56:10,160
-似乎您对我家的私事洞若观火
-though you seem very informed on this family's private affairs.
-
-958
-00:56:10,910 --> 00:56:12,740
-那您也该知道此事
-But you ought perhaps to know
-
-959
-00:56:12,740 --> 00:56:15,170
-我无意打破限定继承权
-that I do not intend to fight the entail.
-
-960
-00:56:15,250 --> 00:56:17,210
-毫无此意
-Not any part of it.
-
-961
-00:56:18,750 --> 00:56:20,710
-您不是说真的吧
-You can't be serious.
-
-962
-00:56:21,920 --> 00:56:24,470
-尽管艰难  但我确无此意
-It pains me to say it, but I am.
-
 963
 00:56:29,010 --> 00:56:31,810
-您要放弃所有家产吗
+您要放弃所有家产吗？
 You'll give up your entire estate?
-
-964
-00:56:32,060 --> 00:56:35,850
-将您夫人的财产也交给一个陌生人吗
-Your wife's money into the bargain, to a perfect stranger?
-
-965
-00:56:36,020 --> 00:56:37,860
-您都不反抗吗
-You won't even put up a fight?
-
-966
-00:56:37,940 --> 00:56:39,920
-我希望他是个完美的继承人
-I hope he proves to be perfect,
-
-967
-00:56:39,920 --> 00:56:41,400
-但我很怀疑
-but I'd rather doubt it.
-
-968
-00:56:43,610 --> 00:56:45,530
-拿这种事说笑  够古怪
-Very odd thing to joke about.
-
-969
-00:56:45,610 --> 00:56:48,160
-这场谈话  更古怪
-No odder than this conversation.
-
-970
-00:56:49,950 --> 00:56:52,000
-给你的答复如下
-So, there you have it.
-
-971
-00:56:53,000 --> 00:56:54,830
-留给玛丽的那部分财产依旧
-But Mary will still have her settlement,
-
-972
-00:56:54,830 --> 00:56:56,290
-您不会嫌少的
-which you won't find ungenerous.
-
-973
-00:56:58,000 --> 00:57:01,420
--您说什么  -我的意思是
-- I'm sorry? - I only meant that
-
-974
-00:57:02,050 --> 00:57:05,970
-她嫁妆的价值相当可观
-her portion, when she marries, will be more than respectable.
-
-975
-00:57:06,050 --> 00:57:09,300
--您会满意的  我保证  -天哪
-- You'll be pleased, I promise you. - Oh, heavens.
-
-976
-00:57:09,390 --> 00:57:11,330
-真希望  您没有会错我的意
-I hope I haven't given the wrong impression.
-
-977
-00:57:11,330 --> 00:57:12,060
-您心里清楚
-You know very well...
-
-978
-00:57:12,140 --> 00:57:15,390
--我尊敬的格兰瑟姆伯爵  -别给我来这套
-- My dear Lord Grantham... - Don't "My dear Lord Grantham" Me!
-
-979
-00:57:15,480 --> 00:57:18,730
-此行的目的  您心知肚明
-You knew what you were doing when you came here.
-
-980
-00:57:18,980 --> 00:57:21,360
-您让玛丽以及我们所有人都以为
-You encouraged Mary, all of us, into thinking...
-
-981
-00:57:21,440 --> 00:57:22,880
-对不起  我来此
-Forgive me, but I came
-
-982
-00:57:22,880 --> 00:57:25,700
-只是为了表达我的哀悼以及友好
-to express my sympathies and my friendship.
-
-983
-00:57:25,780 --> 00:57:27,200
-别无他意
-Nothing more.
 
 984
 00:57:29,070 --> 00:57:31,130
@@ -4906,46 +1088,6 @@ Whoever marries her will be a lucky man.
 但那不会是我
 It will not, however, be me.
 
-987
-00:57:37,670 --> 00:57:41,630
-懂了  那您留我在此  是要问我什么
-I see, and what was it you asked me to stay behind to hear?
-
-988
-00:57:45,720 --> 00:57:47,340
-我  我忘了
-I... I forget.
-
-989
-00:58:01,940 --> 00:58:05,150
-您不来客厅了吗
-Well, aren't you coming into the drawing room?
-
-990
-00:58:05,490 --> 00:58:06,130
-我累了
-I'm... I'm tired.
-
-991
-00:58:06,130 --> 00:58:08,060
-失陪
-I think I'll just slip away.
-
-992
-00:58:08,060 --> 00:58:09,990
-麻烦替我致歉
-Please make my excuses.
-
-993
-00:58:10,570 --> 00:58:12,560
-看来你今天累坏了
-I'm afraid I've worn you out.
-
-994
-00:58:12,560 --> 00:58:13,740
-明天我们就...
-Tomorrow we can just...
-
 995
 00:58:13,830 --> 00:58:15,750
 我明早就告辞
@@ -4956,295 +1098,25 @@ I'm leaving in the morning.
 晚安
 Good night.
 
-997
-00:58:20,130 --> 00:58:22,380
-麻烦你告诉那位男仆
-Oh, you might tell that footman...
-
-998
-00:58:22,630 --> 00:58:26,130
--托马斯  -托马斯  告诉他我回房歇息了
-- Thomas. - Thomas. You might tell him I've gone up.
-
-999
-00:58:44,110 --> 00:58:46,110
-金龟婿没上钩吗
-So he slipped the hook?
-
-1000
-00:58:48,280 --> 00:58:51,200
-至少我没有坐以待毙
-At least I'm not fishing with no bait.
-
 1001
 00:59:00,330 --> 00:59:02,290
 难以置信
 I don't believe that.
 
-1002
-00:59:03,000 --> 00:59:06,960
-你爱信不信  他不会推翻限定继承权的
-Well, believe what you like. He won't break the entail.
-
-1003
-00:59:08,590 --> 00:59:11,180
-未知的堂弟将继承一切
-The unknown cousin gets everything
-
-1004
-00:59:12,050 --> 00:59:14,890
-玛丽分得的遗产还是那么多
-and Mary's inheritance will be the same as it always was.
-
-1005
-00:59:14,970 --> 00:59:16,930
-我怎么知道  那个律师来  我还以为
-Oh, how was I to know? When the lawyer turned up, I thought...
-
-1006
-00:59:17,020 --> 00:59:20,270
-你是没法知道  给我发电报是对的
-You weren't to and you did the right thing to telegraph me.
-
-1007
-00:59:20,390 --> 00:59:23,560
--只是事情未能如愿  -那现在怎么办
-- It's just not going to come off. - So what now?
-
-1008
-00:59:25,650 --> 00:59:28,610
-你知道我的使命决不会变
-Well, you know how I'm fixed.
-
-1009
-00:59:29,950 --> 00:59:31,680
-我得娶一位继承人
-I have to have an heiress,
-
-1010
-00:59:31,680 --> 00:59:34,490
-为此奔赴纽约也在所不惜
-if it means going to New York to find one.
-
-1011
-00:59:36,870 --> 00:59:38,490
-那我怎么办
-What about me?
-
-1012
-00:59:41,080 --> 00:59:42,340
-你
-You...
-
-1013
-00:59:43,410 --> 00:59:44,500
-你祝我顺风就好
-You will wish me well.
-
-1014
-00:59:45,090 --> 00:59:47,960
-你说过  如果我想离开  你会给我找份工
-You said you'd find me ajob if I wanted to leave.
-
-1015
-00:59:48,050 --> 00:59:49,510
-你想离开吗
-And do you?
-
-1016
-00:59:50,510 --> 00:59:51,830
-我想当贴身侍从
-I want to be a valet.
-
-1017
-00:59:51,830 --> 00:59:52,800
-我受够了男仆的工作
-I'm sick of being a footman.
-
-1018
-00:59:52,890 --> 00:59:55,510
-托马斯  我不需要贴身侍从
-Yeah, Thomas, I don't need a valet.
-
-1019
-00:59:57,640 --> 00:59:59,770
-我以为你要赶走新来的那个呢
-I thought you were getting rid of the new one here.
-
-1020
-00:59:59,850 --> 01:00:00,640
-已经赶走了
-And I've done it,
-
-1021
-01:00:00,640 --> 01:00:04,400
-但我不确定卡森是否会让我接任
-but I'm not sure Carson's going to let me take over.
-
 1022
 01:00:07,900 --> 01:00:10,070
 我想跟你在一起
-And I want to be with you.
-
-1023
-01:00:23,920 --> 01:00:26,790
-我看不到咱俩的未来  你呢
-I just can't see it working, can you?
-
-1024
-01:00:27,960 --> 01:00:29,390
-我们之间似乎没有
-We don't seem to have the basis
-
-1025
-01:00:29,390 --> 01:00:31,880
-发展主仆恋情的可能  不是吗
-of a servant-master relationship, do we?
-
-1026
-01:00:31,970 --> 01:00:33,800
-你来此不就是为了与我相会
-You came here to be with me.
-
-1027
-01:00:33,800 --> 01:00:35,470
-还有别的目的
-Among other reasons.
-
-1028
-01:00:38,930 --> 01:00:42,100
-记住孤燕不成夏
-And one swallow doesn't make a summer.
-
-1029
-01:00:58,160 --> 01:01:01,040
--你是不是忘了什么  -什么
-- Aren't you forgetting something? - What?
+I want to be with you.
 
 1030
 01:01:02,700 --> 01:01:05,210
-你这是威胁我吗
+你这是威胁我吗？
 Are you threatening me?
-
-1031
-01:01:08,340 --> 01:01:10,960
-一段年少无知的风流韵事
-Because of a youthful dalliance?
-
-1032
-01:01:11,050 --> 01:01:13,050
-伦敦社交忙季的数周缱绻
-A few weeks of madness in a London season?
-
-1033
-01:01:13,130 --> 01:01:14,970
-你不会要拿这些事威胁我吧
-You wouldn't hold that against me, surely?
-
-1034
-01:01:15,050 --> 01:01:17,010
-困兽犹斗  何况是人
-I would if I have to.
-
-1035
-01:01:22,180 --> 01:01:25,890
-谁会相信一个贪婪男仆指证公爵的话
-And who'd believe a greedy footman over the words of a duke?
-
-1036
-01:01:25,980 --> 01:01:29,360
-你若不谨慎行事  小心牢狱之灾
-If you're not careful, you'll end up behind bars.
 
 1037
 01:01:29,860 --> 01:01:31,610
 我有证据
 I've got proof.
-
-1038
-01:01:35,900 --> 01:01:37,610
-你是指这些书信
-You mean these?
-
-1039
-01:01:54,050 --> 01:01:56,010
-我母亲一直叮嘱我
-You know, my mother's always telling me
-
-1040
-01:01:56,010 --> 01:01:57,720
-别留下白纸黑字的明证
-never put anything in writing.
-
-1041
-01:01:57,800 --> 01:02:00,720
-如今  多亏了你  我会引以为戒的
-And now, thanks to you, I never will again.
-
-1042
-01:02:00,800 --> 01:02:02,260
-你怎么拿到的
-How did you get them?
-
-1043
-01:02:02,890 --> 01:02:03,900
-你这个混蛋
-You bastard.
-
-1044
-01:02:03,900 --> 01:02:06,060
-别一失算就气急败坏  托马斯
-Don't be a bad loser, Thomas.
-
-1045
-01:02:06,230 --> 01:02:07,730
-睡觉去吧
-Go to bed.
-
-1046
-01:02:09,100 --> 01:02:11,150
-除非你想留下过夜
-Unless you want to stay.
-
-1047
-01:02:44,100 --> 01:02:46,390
-我要睡了
-I think I'll turn in.
-
-1048
-01:02:46,480 --> 01:02:48,850
--没什么重要消息吗  -没有
-- No big announcement, then? - No.
-
-1049
-01:02:48,940 --> 01:02:52,060
-也不可能有了  他乘明早九点的火车离开
-Nor likely to be. He's off on the 9:00 train.
-
-1050
-01:02:52,150 --> 01:02:53,610
-他怎么能这样
-He never is!
-
-1051
-01:02:53,690 --> 01:02:56,480
-为了明日的晚宴  我们都宰好了一只火鸡呢
-And when we've had a turkey killed for tomorrow's dinner!
-
-1052
-01:02:56,570 --> 01:02:59,820
--她到底做错了什么  -她没错
-- I wonder what she did wrong. - She did nothing wrong.
-
-1053
-01:02:59,910 --> 01:03:02,780
-听老爷那口气  她应该没错
-Not from the way his lordship was talking.
-
-1054
-01:03:02,950 --> 01:03:06,040
-真不知公爵大人的礼数教养都到哪里去了
-So His Grace turned out to be graceless.
 
 1055
 01:03:08,120 --> 01:03:10,210
@@ -5256,99 +1128,19 @@ Good night, Mrs Hughes.
 晚安  卡森先生
 Good night, Mr Carson.
 
-1057
-01:03:15,710 --> 01:03:19,260
-既然你意已决  何必让玛丽卷进来
-If you knew that was your decision, why put Mary through it?
-
-1058
-01:03:19,340 --> 01:03:20,800
-我之前还犹豫不决
-But I didn't know it was my decision,
-
-1059
-01:03:20,810 --> 01:03:23,340
-直到今晚  才最终决定
-my final decision, until tonight.
-
-1060
-01:03:23,430 --> 01:03:25,550
-我觉得  我不能为了玛丽
-But I find I cannot ruin the estate
-
-1061
-01:03:25,550 --> 01:03:27,810
-破坏这份家业  辱没这个头衔
-or hollow out the title for the sake of Mary,
-
-1062
-01:03:27,890 --> 01:03:30,430
-就算她嫁个更好的人也不行
-even with a better man than that.
-
-1063
-01:03:30,520 --> 01:03:33,020
-我无论如何也理解不了
-I try to understand. I just can't.
-
-1064
-01:03:33,110 --> 01:03:36,150
-不理解也罢  唐顿是我的家族祖业
-Well, why should you? Downton is in my blood and in my bones.
-
-1065
-01:03:36,230 --> 01:03:37,860
-又不是你的
-It's not in yours.
-
-1066
-01:03:37,940 --> 01:03:39,990
-我不能成为一个卖国贼
-And I can no more be the cause of its destruction
-
-1067
-01:03:40,070 --> 01:03:42,150
-也决不能成为败家子
-than I could betray my country.
-
-1068
-01:03:42,240 --> 01:03:43,580
-再说  之前我又不知道
-Besides, how was I to know
-
-1069
-01:03:43,580 --> 01:03:45,070
-他只是冲着整个家产来的
-he wouldn't take her without the money?
-
-1070
-01:03:45,160 --> 01:03:47,490
-别得了便宜还卖乖
-Don't pretend to be a child because it suits you.
-
 1071
 01:03:47,580 --> 01:03:50,500
-你觉得她跟慕钱而来的人结婚会幸福吗
+你觉得她跟慕钱而来的人结婚会幸福吗？
 Do you think she would've been happy with a fortune hunter?
-
-1072
-01:03:50,580 --> 01:03:52,370
-也许会呢
-She might've been.
-
-1073
-01:03:52,790 --> 01:03:54,000
-我就很幸福
-I was.
 
 1074
 01:03:57,210 --> 01:03:58,340
-你真的幸福吗
+你幸福吗？
 Have you been happy?
 
 1075
 01:03:58,340 --> 01:04:01,170
-我真让你觉得幸福吗
+我真让你觉得幸福吗？
 Really, have I made you happy?
 
 1076
@@ -5356,40 +1148,10 @@ Really, have I made you happy?
 真的
 Yes.
 
-1077
-01:04:07,350 --> 01:04:09,540
-你爱上我的那刻起  幸福就开始了
-That is, since you fell in love with me,
-
-1078
-01:04:09,540 --> 01:04:10,730
-如果我没记错的话
-which, if I remember correctly,
-
-1079
-01:04:10,810 --> 01:04:13,310
-大概是我们结婚一年后
-was about a year after we were married.
-
-1080
-01:04:13,400 --> 01:04:16,310
-没有一年  没那么长时间
-Not a year. Not as long as that.
-
-1081
-01:04:16,860 --> 01:04:18,900
-但这种好事不一定会落在玛丽身上
-But it wouldn't have happened for Mary.
-
-1082
-01:04:18,900 --> 01:04:19,760
-为什么
-Why not?
-
-1083
+1803
 01:04:20,900 --> 01:04:24,910
 我这人可比克罗伯勒公爵好多了
-Because I am so much nicer than the Duke of Crowborough.
+I am so much nicer than the Duke of Crowborough.
 
 1084
 01:04:25,530 --> 01:04:26,820
@@ -5399,107 +1161,17 @@ I'll be the judge of that.
 1085
 01:04:30,790 --> 01:04:33,830
 别以为我会袖手旁观  罗伯特
-Just don't think I'm going to let it rest, Robert.
-
-1086
-01:04:33,920 --> 01:04:36,460
-我不达目的  誓不罢休
-I haven't given up by any means.
-
-1087
-01:04:38,250 --> 01:04:42,800
--我做事得对得起自己的良心  -我也是
-- I must do what my conscience tells me. - And so must I.
-
-1088
-01:04:44,550 --> 01:04:47,930
-还有  你别以为我会就此罢休
-And I don't want you to think I'll let it rest.
-
-1089
-01:05:00,440 --> 01:05:02,740
-老爷  可否让贝茨
-My lord, would it be acceptable
-
-1090
-01:05:02,740 --> 01:05:05,030
-与泰勒在前座将就下
-for Bates to ride in front with Taylor?
-
-1091
-01:05:05,110 --> 01:05:07,320
-否则就得另外备车了
-Otherwise, it means getting the other car out.
+don't think I'm going to let it rest, Robert.
 
 1092
 01:05:07,410 --> 01:05:09,830
 他和公爵大人赶的是同一班火车
 He and His Grace are catching the same train.
 
-1093
-01:05:09,910 --> 01:05:11,740
-完全可以
-Perfectly acceptable.
-
-1094
-01:05:11,830 --> 01:05:15,210
-公爵大人就算不乐意  也只能将就下了
-And if His Grace doesn't like it, he can lump it.
-
-1095
-01:05:28,760 --> 01:05:30,970
-格兰瑟姆夫人  您实在太客气了  谢谢
-You've been so kind, Lady Grantham. Thank you.
-
 1096
 01:05:31,060 --> 01:05:32,720
 再见  公爵
 Goodbye, Duke.
-
-1097
-01:05:33,060 --> 01:05:35,520
-烦请您替我向令媛道个别
-You'll make my farewells to your delightful daughters?
-
-1098
-01:05:35,600 --> 01:05:37,940
-她们若知道您现在就走  定会亲自相送
-They'd have been down if they'd known you were leaving so soon.
-
-1099
-01:05:38,020 --> 01:05:41,320
-确实有突发急事  不得不走
-Alas, something's come up which has taken me quite by surprise.
-
-1100
-01:05:41,400 --> 01:05:42,860
-看得出来
-Obviously.
-
-1101
-01:05:43,240 --> 01:05:46,110
-格兰瑟姆  贵宅小住非常愉快
-Well, Grantham, this has been a highly enjoyable interlude.
-
-1102
-01:05:46,200 --> 01:05:48,530
-是吗  我还担心是否让您失望了
-Has it? And I feared it had proved a disappointment.
-
-1103
-01:05:48,620 --> 01:05:49,820
-怎么会  完全没有
-Not at all, not at all.
-
-1104
-01:05:49,910 --> 01:05:52,370
-小住一日  得知你们都好  我就安心多了
-A short stay in your lovely house has driven away my cares.
-
-1105
-01:05:52,450 --> 01:05:56,410
-老爷  要赶上这班火车的话  我们得走了
-We ought to go, my lord, if His Grace is to catch the train.
 
 1106
 01:05:58,880 --> 01:06:01,340
@@ -5513,51 +1185,10 @@ Good luck to you, my lord.
 
 1108
 01:06:23,650 --> 01:06:24,980
-等等
+等等！
 Wait!
-
-1109
-01:06:27,950 --> 01:06:31,200
--贝茨  下车  -我真不能误了这班火车
-- Get out, Bates. - I really mustn't be late.
-
-1110
-01:06:33,200 --> 01:06:36,500
-回屋去  解雇的事绝不再提了
-Get back inside and we'll say no more about it.
-
-1111
-01:06:51,550 --> 01:06:53,720
-卡森  不该让他走
-It wasn't right, Carson.
-
-1112
-01:06:54,390 --> 01:06:56,890
-不该赶他走的
-I just didn't think it was right.
-
-1113
-01:07:14,330 --> 01:07:17,080
--夫人  急件  -谢谢  艾伦
-- First post, ma'am. - Thank you, Ellen.
-
-1114
-01:07:20,670 --> 01:07:23,580
--这封是你的  -谢谢  母亲
-- One for you. - Thank you, Mother.
-
-1115
-01:07:34,010 --> 01:07:36,030
-是格兰瑟姆伯爵寄来的
-Oh, it's from Lord Grantham.
-
-1116
-01:07:36,030 --> 01:07:38,520
-真的吗  他有什么事会找你
-Really? What on earth does he want?
 
 1117
 01:07:41,350 --> 01:07:43,690
 他想要改变我们的命运
 He wants to change our lives.
-
