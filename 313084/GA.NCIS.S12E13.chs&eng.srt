@@ -30,12 +30,12 @@ Oh, come on.
 
 7
 00:00:50,500 --> 00:00:51,880
-是谁
+是谁?
 Hello?
 
 8
 00:00:53,850 --> 00:00:55,590
-有人么
+有人么?
 Somebody there?
 
 9
@@ -55,20 +55,8 @@ Go on, get inside.
 
 12
 00:01:20,610 --> 00:01:22,220
-Loki 我不是跟你说了么...
+Loki 我不是跟你说了么......
 Loki, I thought I told you to...
-
-13
-00:01:28,710 --> 00:01:32,340
-本字幕仅作学习交流之用 禁止用于任何商业用途 否则后果自负
-
-14
-00:01:32,360 --> 00:01:57,410
-==GA字幕组==
-翻译：小末 小白 寂静流年 清欢仰慕者 汤汤忙忙忙 师太
-校对：寂静流年 清欢仰慕者 师太
-总校：毯子  时间轴：笑傲绿茶
-英文字幕：elderman
 
 15
 00:01:59,830 --> 00:02:01,600
@@ -92,22 +80,22 @@ Baby's first lab coat.
 
 19
 00:02:06,360 --> 00:02:07,650
--耶 -噢
-- Yay. - Oh.
+耶 噢
+ Yay.  Oh.
 
 20
 00:02:07,650 --> 00:02:08,760
-这个是...
+这个是......
 Uh, is it made of, um...?
 
 21
 00:02:08,760 --> 00:02:10,160
-百分百纯棉 没错
+百分百纯棉, 没错
 100% cotton, yes.
 
 22
 00:02:10,160 --> 00:02:10,840
-那你有没有...
+那你有没有......?
 And did you....?
 
 23
@@ -122,8 +110,8 @@ Choking hazard averted.
 
 25
 00:02:14,100 --> 00:02:16,250
--A+ Abby -噢不
-- A-plus, Abby. - Oh, no!
+A+ Abby 噢不!
+ Aplus, Abby.  Oh, no!
 
 26
 00:02:16,250 --> 00:02:18,270
@@ -155,10 +143,6 @@ Been looking forward to it for weeks.
 精灵妈妈 精灵爸爸
 Mama Gremlin, Papa Gremlin,
 
-32
-00:02:25,340 --> 00:02:27,090
-{\a6}Tony之前给Jimmy起的外号叫精灵
-
 33
 00:02:27,100 --> 00:02:28,690
 这是送给你们俩的礼物
@@ -171,13 +155,13 @@ Thank you, Tony.
 
 35
 00:02:30,240 --> 00:02:31,770
-我们看看 呃...
+我们看看 呃......
 Let's see. Uh...
 
 36
 00:02:31,790 --> 00:02:35,370
 工业级别的耳塞
-Uh, industrial-grade earplugs?
+Uh, industrialgrade earplugs?
 
 37
 00:02:35,370 --> 00:02:37,620
@@ -196,7 +180,7 @@ Bottle of Bordeaux.
 
 40
 00:02:42,160 --> 00:02:43,360
-还有
+还有......
 And, um...
 
 41
@@ -231,17 +215,17 @@ Um,
 
 47
 00:02:56,850 --> 00:02:58,170
-亲爱的
+亲爱的?
 babe? Mm?
 
 48
 00:02:58,190 --> 00:03:00,040
-你能去给我倒点水吗
+你能去给我倒点水吗?
 Will you please go get me some water?
 
 49
 00:03:00,040 --> 00:03:01,810
-没问题 不过其实...
+没问题 不过其实......
 Sure, but, you know, actually, the, uh...
 
 50
@@ -266,7 +250,7 @@ Listen up, guys, I need your help.
 
 54
 00:03:14,600 --> 00:03:15,490
-怎么了
+怎么了?
 What's wrong?
 
 55
@@ -277,7 +261,7 @@ It's Jimmy. He's driving me crazy.
 56
 00:03:18,130 --> 00:03:20,840
 他什么也不让我吃不让我喝
-He-he won't let me eat or drink anything
+Hehe won't let me eat or drink anything
 
 57
 00:03:20,840 --> 00:03:23,170
@@ -326,12 +310,12 @@ Oh, thank God.
 
 66
 00:03:41,380 --> 00:03:44,590
-我是说 抱歉 这太糟糕了
-I mean... Sorry. That-That's awful.
+我是说...... 抱歉 这太糟糕了
+I mean... Sorry. ThatThat's awful.
 
 67
 00:03:49,600 --> 00:03:50,630
-有什么发现 Duck
+有什么发现 Duck?
 What do you got, Duck?
 
 68
@@ -351,8 +335,8 @@ What on earth is holding Mr. Palmer?
 
 71
 00:03:56,370 --> 00:03:57,390
--还有其它发现么 -有
-- You got anything else? - Yeah.
+还有其它发现么? 有
+ You got anything else?  Yeah.
 
 72
 00:03:57,390 --> 00:04:01,520
@@ -371,8 +355,8 @@ we may be able to pull DNA.
 
 75
 00:04:05,240 --> 00:04:06,360
-死亡时间
-Time of death, Duck?
+死亡时间?
+Time of death?
 
 76
 00:04:06,370 --> 00:04:10,160
@@ -421,8 +405,8 @@ Police had reports of no gunfire.
 
 85
 00:04:27,320 --> 00:04:28,900
--死者身份 -海军上尉
-- Victim? - Navy Lieutenant
+死者身份? 海军上尉
+ Victim?  Navy Lieutenant
 
 86
 00:04:28,900 --> 00:04:30,630
@@ -434,10 +418,6 @@ Eric Kutzler, 28.
 海蜂把他分配到海军后勤部
 Seabee assigned him to Naval Support Unit
 
-88
-00:04:30,640 --> 00:04:33,770
-{\a6}海蜂指Navy Construction Battalion（海军建设兵团）Seabee是其缩写CB的谐音
-
 89
 00:04:32,650 --> 00:04:33,770
 为国务院工作
@@ -445,8 +425,8 @@ for the State Department.
 
 90
 00:04:33,770 --> 00:04:34,520
--目击者 -呃
-- Witnesses? - Well,
+目击者? 呃
+ Witnesses?  Well
 
 91
 00:04:35,490 --> 00:04:37,350
@@ -465,12 +445,12 @@ It's "Loki."
 
 94
 00:04:41,040 --> 00:04:43,880
-Loki 就是那个阿斯加德王子
+Loki 就是那个阿斯加德王子?
 Loki, as in the prince of Asgard?
 
 95
 00:04:43,880 --> 00:04:45,410
-恶作剧之神
+恶作剧之神?
 The god of mischief?
 
 96
@@ -490,8 +470,8 @@ It's just you and me now, boss.
 
 99
 00:04:53,880 --> 00:04:55,440
-我去检查一下...
-I'm-I'm gonna go check the...
+我去检查一下......
+I'mI'm gonna go check the...
 
 100
 00:04:55,440 --> 00:04:56,830
@@ -540,7 +520,7 @@ Well, that's blood.
 
 109
 00:05:21,150 --> 00:05:22,310
-从哪里来的
+从哪里来的?
 From what?
 
 110
@@ -550,7 +530,7 @@ I think we found the source of our victim's battered knuckles.
 
 111
 00:05:27,960 --> 00:05:29,570
-你是第一个到达现场的警官
+你是第一个到达现场的警官?
 You were the first officer on the scene?
 
 112
@@ -560,8 +540,8 @@ That's correct.
 
 113
 00:05:32,300 --> 00:05:34,480
--那是几点 -呃
-- What time was that? - Uh,
+那是几点? 呃
+ What time was that?  Uh,
 
 114
 00:05:34,480 --> 00:05:35,380
@@ -570,27 +550,27 @@ I'm not certain.
 
 115
 00:05:35,400 --> 00:05:39,140
-我那时刚下班 8点多一点吧...
-I-I got off shift, um, a little after 8:00. Uh...
+我那时刚下班 8点多一点吧
+II got off shift, um, a little after 8:00.
 
 116
 00:05:39,140 --> 00:05:40,390
-下班
+下班?
 Off shift?
 
 117
 00:05:40,940 --> 00:05:42,790
-我检查了他的脉搏
+我检查了他的脉搏......
 I checked his vitals...
 
 118
 00:05:43,810 --> 00:05:47,080
-我知道 他已经去了
+我知道...... 他已经去了
 but I knew... he was gone.
 
 119
 00:05:47,990 --> 00:05:49,410
-你认识死者
+你认识死者?
 You knew the victim?
 
 120
@@ -606,7 +586,7 @@ I left for work last night around 7:00,
 122
 00:05:57,000 --> 00:05:59,540
 Eric那时候很好
-and Eric wa-was fine.
+and Eric wawas fine.
 
 123
 00:05:59,540 --> 00:06:01,160
@@ -615,13 +595,13 @@ Everything was normal.
 
 124
 00:06:01,160 --> 00:06:03,860
-差不多午夜时 他给我打过电话
+差不多午夜时 他给我打过电话......
 He called my cell at around midnight...
 
 125
 00:06:03,870 --> 00:06:06,260
 但我直到早上才收到信息
-...but I didn't get the message till this morning.
+but I didn't get the message till this morning.
 
 126
 00:06:06,380 --> 00:06:07,480
@@ -645,8 +625,8 @@ Yeah, I'm on my way.
 
 130
 00:06:15,160 --> 00:06:17,110
--Kutzler的丈夫 -嗯
-- Kutzler's husband... - Right.
+Kutzler的丈夫 嗯
+ Kutzler's husband...  Right.
 
 131
 00:06:19,550 --> 00:06:20,930
@@ -665,7 +645,7 @@ Leon.
 
 134
 00:06:25,580 --> 00:06:28,970
-现在点完名了 咱可以说工作了么
+现在点完名了 咱可以说工作了么?
 Now that roll call is over, shall we move on to business?
 
 135
@@ -680,12 +660,12 @@ to assist with your investigation, Gibbs.
 
 137
 00:06:34,560 --> 00:06:36,360
-真是寒冷的严冬哈
+真是寒冷的严冬哈?
 Hell of a winter, huh?
 
 138
 00:06:40,610 --> 00:06:42,770
-国防部为什么对这案子感兴趣
+国防部为什么对这案子感兴趣?
 What's, uh, DoD's interest in the case?
 
 139
@@ -735,12 +715,12 @@ both in the director's office.
 
 148
 00:07:14,890 --> 00:07:16,280
-你知道这意味着什么吗
+你知道这意味着什么吗?
 You know what this means?
 
 149
 00:07:16,560 --> 00:07:18,610
-她会在这个案件上协助我们
+她会在这个案件上协助我们?
 That she's helping with our case?
 
 150
@@ -771,7 +751,7 @@ And he's not gonna talk to us about his feelings and emotions.
 155
 00:07:34,220 --> 00:07:38,020
 但是Hollis Mann 他们说着同样的沉默语言
-But Hollis Mann-- she speaks his monosyllabic language.
+But Hollis Mann she speaks his monosyllabic language.
 
 156
 00:07:38,550 --> 00:07:40,600
@@ -780,7 +760,7 @@ She's our Gibbs whisperer.
 
 157
 00:07:41,910 --> 00:07:43,390
-你怎么...
+你怎么...?
 Ah. How did you...?
 
 158
@@ -790,7 +770,7 @@ Update.
 
 159
 00:07:44,720 --> 00:07:45,370
-呃...
+呃......
 Uh...
 
 160
@@ -800,8 +780,8 @@ Come on, come on, come on, come on.
 
 161
 00:07:46,320 --> 00:07:47,910
--开始汇报 -那个...
-- Let's go. - Just...
+开始汇报 那个......
+ Let's go.  Just...
 
 162
 00:07:49,900 --> 00:07:52,430
@@ -853,14 +833,10 @@ Kutzler's Seabees unit was on a
 在Punjab执行一项人道主义任务
 humanitarian mission in the Punjab Province when
 
-172
-00:08:07,330 --> 00:08:09,710
-{\a6}位于巴基斯坦 也被称为五河流域
-
 173
 00:08:09,710 --> 00:08:12,200
--他们遭到伏击 -在他们被敌人压制
-- they were ambushed. - And while they were pinned down
+他们遭到伏击 在他们被敌人压制
+ they were ambushed.  And while they were pinned down
 
 174
 00:08:12,200 --> 00:08:13,400
@@ -922,10 +898,6 @@ He spoke at several rallies
 他在好几个集会上演讲
 in the months leading up to the repeal of Don't Ask Don't Tell.
 
-186
-00:08:31,880 --> 00:08:35,640
-{\a6}1993年制定的政策 回避美国军队中同性恋的敏感话题
-
 187
 00:08:35,640 --> 00:08:36,520
 这就是为什么
@@ -943,7 +915,7 @@ Kutzler would be the first openly gay service member to receive the Medal of Hon
 
 190
 00:08:43,190 --> 00:08:44,810
-你觉得这是仇恨犯罪
+你觉得这是仇恨犯罪?
 You think this was a hate crime?
 
 191
@@ -958,7 +930,7 @@ So, where are we on suspects?
 
 193
 00:08:52,240 --> 00:08:53,510
-我们
+我们?
 We?
 
 194
@@ -1003,13 +975,13 @@ but she went to Beltway Burger.
 
 202
 00:09:18,220 --> 00:09:19,010
-不
+不!
 No!
 
 203
 00:09:19,010 --> 00:09:20,000
 嗯哼
-Uh-huh.
+Uhhuh.
 
 204
 00:09:20,000 --> 00:09:21,200
@@ -1023,17 +995,17 @@ Okay. Bye, Breena.
 
 206
 00:09:22,570 --> 00:09:24,280
-什么 什么 告诉我什么
+什么? 什么? 告诉我什么
 What? What? Tell me what.
 
 207
 00:09:24,280 --> 00:09:25,670
-Abby 还有什么 什么 什么
+Abby 还有什么? 什么? 什么?
 Abby, what else? What? What?
 
 208
 00:09:25,670 --> 00:09:27,140
-她没...
+她没......
 She didn't...
 
 209
@@ -1063,7 +1035,7 @@ and get to the hospital because Breena is in labor.
 
 214
 00:09:37,660 --> 00:09:40,600
-Jimmy 你听到她的话了吗
+Jimmy 你听到她的话了吗?
 Jimmy, did you hear what she said?
 
 215
@@ -1073,37 +1045,37 @@ She just said Breena's having a baby.
 
 216
 00:09:42,930 --> 00:09:45,040
--我觉得你把他弄坏了 -我们该怎么办
-- I think you broke him. - What do we do?
+我觉得你把他弄坏了 我们该怎么办?
+ I think you broke him.  What do we do?
 
 217
 00:09:47,650 --> 00:09:48,380
-婴儿专用包
+婴儿专用包!
 Baby go bag!
 
 218
 00:09:48,390 --> 00:09:49,340
-我需要我的婴儿专用包
+我需要我的婴儿专用包!
 I need my baby go bag!
 
 219
 00:09:49,340 --> 00:09:51,170
-这不是演习
+这不是演习!
 Uh, this is not a drill!
 
 220
 00:09:51,170 --> 00:09:53,340
-来啦 父亲来了快让路
+来啦! 父亲来了快让路!
 Incoming! Father coming through!
 
 221
 00:09:53,460 --> 00:09:55,530
-好运啊 Jimmy 干得好 Gibbs
+好运啊 Jimmy! 干得好 Gibbs
 Good luck, Jimmy! Good job, Gibbs.
 
 222
 00:09:55,530 --> 00:09:56,500
-有什么线索
+有什么线索?
 What do we got?
 
 223
@@ -1124,7 +1096,7 @@ She means, uh, surveillance footage
 226
 00:10:03,710 --> 00:10:06,140
 Kutzler邻居安保系统的监控视频
-from Kutzler's next-door neighbor's security system.
+from Kutzler's nextdoor neighbor's security system.
 
 227
 00:10:06,150 --> 00:10:08,500
@@ -1138,12 +1110,12 @@ to where Kutzler was shot.
 
 229
 00:10:10,560 --> 00:10:12,110
-录像带上拍到凶手了么
+录像带上拍到凶手了么?
 Do we have the killer on tape?
 
 230
 00:10:12,180 --> 00:10:13,550
-录像带上
+录像带上?
 On tape?
 
 231
@@ -1168,7 +1140,7 @@ The killer never faced the camera.
 
 235
 00:10:25,860 --> 00:10:26,930
-还有什么
+还有什么?
 What else?
 
 236
@@ -1218,12 +1190,8 @@ Armstrong lied to us, boss.
 
 245
 00:10:47,520 --> 00:10:50,020
--他在哪儿 -他和CACO工作人员在一起
-- Where is he? - He's with a CACO officer.
-
-246
-00:10:47,520 --> 00:10:50,020
-{\a6}Casualty Assistance Calls Office 伤亡救援呼救中心
+他在哪儿? 他和CACO工作人员在一起
+ Where is he?  He's with a CACO officer.
 
 247
 00:10:52,590 --> 00:10:54,470
@@ -1232,7 +1200,7 @@ I've answered all your questions.
 
 248
 00:10:54,470 --> 00:10:56,670
-你们不是应该在外头排查社区么
+你们不是应该在外头排查社区么?
 Why aren't you out canvassing the neighborhood?
 
 249
@@ -1248,7 +1216,7 @@ You find your husband dead and then you decide
 251
 00:11:00,410 --> 00:11:03,020
 先休息20分钟再报警
-to take a 20-minute breather before calling 911
+to take a 20minute breather before calling 911
 
 252
 00:11:03,020 --> 00:11:04,200
@@ -1262,18 +1230,18 @@ I was in shock.
 
 254
 00:11:06,160 --> 00:11:07,910
-你和Kutzler之间有矛盾么
+你和Kutzler之间有矛盾么?
 You and Kutzler having issues?
 
 255
 00:11:07,910 --> 00:11:10,120
-你俩发生过激烈争吵么
+你俩发生过激烈争吵么?
 Any heated arguments between you two?
 
 256
 00:11:10,120 --> 00:11:11,870
 当然有 我们结婚了
-Of course-- we're married.
+Of course we're married.
 
 257
 00:11:11,910 --> 00:11:13,010
@@ -1282,7 +1250,7 @@ Fair enough.
 
 258
 00:11:13,020 --> 00:11:14,680
-你眼睛下那道伤痕呢
+你眼睛下那道伤痕呢?
 What about that cut under your eye?
 
 259
@@ -1292,7 +1260,7 @@ Got it pulling over a drunk driver.
 
 260
 00:11:16,700 --> 00:11:18,520
-你工作时没人揍你么
+你工作时没人揍你么?
 No one's ever taken a swing at you on the job?
 
 261
@@ -1307,8 +1275,8 @@ You do have a face people naturally dislike.
 
 263
 00:11:23,160 --> 00:11:24,810
--什么 -不相信我的话
-- What? - Check my dashcam
+什么? 不相信我的话
+ What?  Check my dashcam
 
 264
 00:11:24,810 --> 00:11:26,000
@@ -1327,12 +1295,12 @@ why don't you tell us about your discharge
 
 267
 00:11:31,800 --> 00:11:34,070
-2007年从海军陆战队退役的事吧
+2007年从海军陆战队退役的事吧?
 from the Marine Corps in 2007?
 
 268
 00:11:35,530 --> 00:11:37,380
-退役的原因是啥来着 McGee
+退役的原因是啥来着 McGee?
 What was the reason for the discharge, McGee?
 
 269
@@ -1347,13 +1315,13 @@ That was it.
 
 271
 00:11:40,400 --> 00:11:41,880
-那和这事有什么联系
+那和这事有什么联系?
 What does that have to do with anything?
 
 272
 00:11:41,880 --> 00:11:43,880
--那是很多年前了 -嗯
-- That was years ago. - Well,
+那是很多年前了 嗯
+ That was years ago.  Well,
 
 273
 00:11:43,880 --> 00:11:45,820
@@ -1402,7 +1370,7 @@ Oh. I'm all for some midday cardio, boss, but I just ate
 
 282
 00:12:05,990 --> 00:12:06,620
-而且我们正在...
+而且我们正在......
 and we're in the middle of...
 
 283
@@ -1427,23 +1395,23 @@ I know this interrogation tactic, Agent Gibbs.
 
 287
 00:12:21,780 --> 00:12:23,290
-改变审讯地点...
+改变审讯地点......
 Change the location...
 
 288
 00:12:24,030 --> 00:12:25,540
 让对方措手不及
-try to catch the subject off-guard.
+try to catch the subject offguard.
 
 289
 00:12:25,540 --> 00:12:26,800
--有用么 -没有
-- How's it working? - It's not.
+有用么 没有
+ How's it working?  It's not.
 
 290
 00:12:26,800 --> 00:12:29,120
--我也这么觉得 -我们这是去哪儿
-- Didn't think so. - So where are we going?
+我也这么觉得 我们这是去哪儿
+ Didn't think so.  So where are we going?
 
 291
 00:12:29,400 --> 00:12:31,350
@@ -1459,10 +1427,6 @@ So I made a few calls. You were one squared away Marine.
 00:12:34,560 --> 00:12:37,460
 高分数 漂亮的评估报告
 Top marks, stellar FITREPs,
-
-294
-00:12:34,560 --> 00:12:37,460
-{\a6}即Fitness Report
 
 295
 00:12:37,460 --> 00:12:39,230
@@ -1506,7 +1470,7 @@ I had to think of my future.
 
 303
 00:13:00,260 --> 00:13:01,750
-为什么成为一个警察
+为什么成为一个警察?
 Why become a cop?
 
 304
@@ -1521,7 +1485,7 @@ Protect. Serve.
 
 306
 00:13:07,800 --> 00:13:10,840
-但如果连最爱的人都保护不了 还有什么意义
+但如果连最爱的人都保护不了 还有什么意义?
 But what's the point if you can't even protect the ones you care about?
 
 307
@@ -1586,8 +1550,8 @@ I don't know why Eric had them, but they're not his.
 
 319
 00:13:46,750 --> 00:13:49,120
--你怎么知道 -他是有不少恶习
-- How can you be sure of that? - He had his
+你怎么知道? 他是有不少恶习
+ How can you be sure of that?  He had his
 
 320
 00:13:49,180 --> 00:13:52,690
@@ -1596,7 +1560,7 @@ demons, but drugs wasn't one of them. I would know.
 
 321
 00:13:53,560 --> 00:13:54,880
-你把袋子藏到哪儿了
+你把袋子藏到哪儿了?
 Where'd you hide them?
 
 322
@@ -1611,13 +1575,8 @@ I shouldn't have touched the crime scene,
 
 324
 00:13:59,760 --> 00:14:01,440
-但我知道这事会影响Eric的形象
-but I knew it would make Eric look bad and I didn't
-
-325
-00:14:01,470 --> 00:14:03,840
-我不想耽误他的荣誉勋章提名
-want it to affect his Medal of Honor nomination.
+但我知道这事会影响Eric的形象我不想耽误他的荣誉勋章提名
+but I knew it would make Eric look bad and I didn't want it to affect his Medal of Honor nomination.
 
 326
 00:14:03,840 --> 00:14:05,010
@@ -1636,12 +1595,12 @@ I couldn't save his life.
 
 329
 00:14:13,380 --> 00:14:15,040
-但是请你
+但是请你......
 But please...
 
 330
 00:14:16,510 --> 00:14:17,660
-拜托你
+拜托你......
 please...
 
 331
@@ -1651,7 +1610,7 @@ help me protect his memory.
 
 332
 00:14:34,940 --> 00:14:36,240
-有什么进展 姑娘们
+有什么进展 姑娘们?
 What's the latest, Team Babbs?
 
 333
@@ -1677,7 +1636,7 @@ It's like, one day
 337
 00:14:44,430 --> 00:14:46,250
 你还只是你自己
-you're just... you're you,
+you're just you're you,
 
 338
 00:14:46,280 --> 00:14:48,950
@@ -1696,13 +1655,13 @@ I hate to interrupt, Abbs, but Hurricane Gibbs
 
 341
 00:14:53,930 --> 00:14:56,240
-马上就要登陆了 你有什么发现
+马上就要登陆了 你有什么发现?
 is about to make landfall. What do you got?
 
 342
 00:14:56,840 --> 00:14:58,890
 Kutzler的药检
-Kutzler's tox screen--
+Kutzler's tox screen
 
 343
 00:14:58,890 --> 00:15:01,320
@@ -1716,17 +1675,13 @@ What about the narcotics
 
 345
 00:15:03,460 --> 00:15:06,310
--收缴来的这些麻醉剂呢 -每个药瓶
-- we confiscated from his garage? - Each vial
+收缴来的这些麻醉剂呢? 每个药瓶
+ we confiscated from his garage?  Each vial
 
 346
 00:15:06,350 --> 00:15:09,340
 都装有符合制药标准的吗啡和芬太尼
-contains pharmaceutical-grade morphine and fentanyl.
-
-347
-00:15:06,350 --> 00:15:09,340
-{\a6}前者是麻醉剂 后者是止痛剂
+contains pharmaceuticalgrade morphine and fentanyl.
 
 348
 00:15:09,340 --> 00:15:11,040
@@ -1751,16 +1706,16 @@ This batch is homemade. I mean, this distinct
 352
 00:15:17,440 --> 00:15:19,440
 看这独特的药瓶颜色和标签
-color and this labeling--
+color and this labeling
 
 353
 00:15:19,450 --> 00:15:21,750
--这是某人的招牌 -唔
-- this is somebody's brand. - Hmm.
+这是某人的招牌 唔
+ this is somebody's brand.  Hmm.
 
 354
 00:15:21,750 --> 00:15:24,020
-某人肯定是看太多《绝命毒师》了
+某人肯定是看太多绝命毒师了
 Somebody who's seen a little too much Breaking Bad.
 
 355
@@ -1775,18 +1730,18 @@ Just one vial of this stuff fetches a steep
 
 357
 00:15:27,450 --> 00:15:29,930
--可以卖到很高的价钱 -所以如果Kutzler
-- take on the street. So if Kutzler wasn't
+可以卖到很高的价钱 所以如果Kutzler
+ take on the street. So if Kutzler wasn't
 
 358
 00:15:29,930 --> 00:15:33,040
-没有吸毒 或许他是在贩毒
+没有吸毒 或许他是在贩毒？
 taking drugs, maybe he was selling them?
 
 359
 00:15:33,090 --> 00:15:36,390
 战斗英雄转行毒贩 真是个蛮大的角色转换
-War hero to drug peddler-- that's a big shift.
+War hero to drug peddler that's a big shift.
 
 360
 00:15:36,400 --> 00:15:38,400
@@ -1805,7 +1760,7 @@ Someone willing to kill for them.
 
 363
 00:15:50,160 --> 00:15:52,760
-啊 Hollis 你见到Jethro了没
+啊 Hollis 你见到Jethro了没?
 Ah, Hollis, have you seen Jethro?
 
 364
@@ -1831,7 +1786,7 @@ No, we met once, last week.
 368
 00:16:03,350 --> 00:16:04,870
 为了荣誉勋章提名
-I was fact-checking his account
+I was factchecking his account
 
 369
 00:16:04,870 --> 00:16:07,160
@@ -1860,7 +1815,7 @@ Listen, I heard about Diane.
 
 374
 00:16:21,680 --> 00:16:23,320
-Jethro还好么
+Jethro还好么?
 How's Jethro been doing?
 
 375
@@ -1870,8 +1825,8 @@ I reached out, but he hasn't returned
 
 376
 00:16:25,230 --> 00:16:27,240
--回我的电话 -嗯
-- any of my calls. - Well,
+回我的电话 嗯
+ any of my calls.  Well,
 
 377
 00:16:27,240 --> 00:16:30,400
@@ -1910,8 +1865,8 @@ why he's been keeping us all at a distance.
 
 384
 00:16:48,120 --> 00:16:50,590
--Ducky 你找我 -呃
-- Ducky, you called me. - Uh,
+Ducky 你找我 呃
+ Ducky, you called me.  Uh,
 
 385
 00:16:50,600 --> 00:16:52,430
@@ -2210,8 +2165,8 @@ Rear Admiral Xavier Meade.
 
 444
 00:19:06,790 --> 00:19:08,460
--Meade现在何处 -驻守在
-- Where is Meade now? - Uh, stationed
+Meade现在何处? 驻守在
+ Where is Meade now?  Uh, stationed
 
 445
 00:19:08,460 --> 00:19:11,110
@@ -2245,8 +2200,8 @@ I'm not surprised he was up for the Medal of Honor.
 
 451
 00:19:25,940 --> 00:19:28,160
--是现在 -你说什么
-- Is. - Pardon?
+是现在 你说什么?
+ Is.  Pardon?
 
 452
 00:19:28,290 --> 00:19:30,220
@@ -2256,7 +2211,7 @@ Is. You said was.
 453
 00:19:30,230 --> 00:19:33,360
 Kutzler目前还在候选人名单中
-Kutzler-- he's still being considered.
+Kutzler he's still being considered.
 
 454
 00:19:33,600 --> 00:19:35,000
@@ -2275,8 +2230,8 @@ Damn shame.
 
 457
 00:19:40,840 --> 00:19:43,400
--你俩关系好么 -上尉和我的关系
-- Did the two of you get along? - The lieutenant
+你俩关系好么 上尉和我的关系
+ Did the two of you get along?  The lieutenant
 
 458
 00:19:43,400 --> 00:19:45,680
@@ -2385,7 +2340,7 @@ Written reprimand was protocol.
 
 479
 00:20:35,400 --> 00:20:37,630
-那后来为什么又撤销了呢
+那后来为什么又撤销了呢?
 So why'd you later pull it from his record?
 
 480
@@ -2405,7 +2360,7 @@ I retracted it, gave him a verbal warning instead.
 
 483
 00:20:48,900 --> 00:20:50,740
-那跟他斗殴的水手呢
+那跟他斗殴的水手呢?
 What about the sailor he fought with?
 
 484
@@ -2435,7 +2390,7 @@ It's kind of like Gibbs' basement.
 
 489
 00:21:05,320 --> 00:21:07,560
-说到Gibbs...
+说到Gibbs......
 Speaking of Gibbs...
 
 490
@@ -2480,7 +2435,7 @@ You can be persuasive.
 
 498
 00:21:29,130 --> 00:21:30,800
-Davis Riley么
+Davis Riley么?
 Davis Riley?
 
 499
@@ -2500,8 +2455,8 @@ Hollis Mann, DoD. We spoke on the phone
 
 502
 00:21:35,370 --> 00:21:37,010
--通过电话 -噢对
-- earlier. - Oh, right, yeah.
+通过电话 噢对
+ earlier.  Oh, right, yeah.
 
 503
 00:21:37,010 --> 00:21:39,130
@@ -2521,31 +2476,26 @@ Where we you last night around midnight?
 506
 00:21:43,290 --> 00:21:46,240
 我在我的公寓里 睡觉
-Uh... I was at my apartment, asleep.
+I was at my apartment, asleep.
 
 507
 00:21:46,300 --> 00:21:48,880
--有证人吗 -看着我睡觉的证人
-- Any witnesses? - To me sleeping?
+有证人吗? 看着我睡觉的证人?
+ Any witnesses?  To me sleeping?
 
 508
 00:21:48,880 --> 00:21:50,740
-我是不是遗漏了什么 我以为
-Am I missing something? I thought you wanted to talk to me
-
-509
-00:21:50,740 --> 00:21:52,170
-你是要找我聊Kutzler荣誉勋章提名的事
-about Kutzler's nomination packet.
+我是不是遗漏了什么? 我以为你是要找我聊Kutzler荣誉勋章提名的事
+Am I missing something? I thought you wanted to talk to me about Kutzler's nomination packet.
 
 510
 00:21:52,220 --> 00:21:53,930
--确实如此 -对
-- I did. - Yes.
+确实如此 对
+ I did.  Yes.
 
 511
 00:21:53,930 --> 00:21:55,700
-她也的确会那么做 但是
+她也的确会那么做 但是......
 And she's going to, but...
 
 512
@@ -2555,7 +2505,7 @@ I'd like to talk to you about his murder.
 
 513
 00:21:58,540 --> 00:21:59,360
-谋杀
+谋杀?
 Murder?
 
 514
@@ -2570,7 +2520,7 @@ Oh, my God.
 
 516
 00:22:05,920 --> 00:22:07,220
-我...
+我......
 I...
 
 517
@@ -2600,7 +2550,7 @@ I just wanted him gone.
 
 522
 00:22:26,690 --> 00:22:28,370
-这是认罪么
+这是认罪么?
 Is this a confession?
 
 523
@@ -2611,26 +2561,21 @@ Of the old me.
 524
 00:22:31,780 --> 00:22:33,580
 我已经不是那个人了 我变了
-I'm not that guy anymore; I've changed.
+I'm not that guy anymore, I've changed.
 
 525
 00:22:34,260 --> 00:22:36,340
-你转变的时间真是
-What a miraculous and conveniently timed
+你转变的时间真是恰到好处啊
+What a miraculous and conveniently timed change of heart. 
 
 526
 00:22:36,340 --> 00:22:38,580
--恰到好处啊 -阿富汗的事
-- change of heart. - Afghanistan was
-
-527
-00:22:38,600 --> 00:22:41,590
-为我敲响了警钟 这可没什么恰到好处的
-a wake-up call-- there was nothing convenient about it.
+阿富汗的事为我敲响了警钟 这可没什么恰到好处的
+Afghanistan was a wakeup call there was nothing convenient about it.
 
 528
 00:22:44,830 --> 00:22:48,520
-前一分钟 我们还在为学校打地基
+前一分钟...... 我们还在为学校打地基
 One minute... we're laying foundation for a school,
 
 529
@@ -2655,7 +2600,7 @@ Chief and I were hit but not critical.
 
 533
 00:22:59,500 --> 00:23:01,710
-我们看到手榴弹时
+我们看到手榴弹时......
 Kutzler was applying my tourniquet...
 
 534
@@ -2670,7 +2615,7 @@ He didn't hesitate.
 
 536
 00:23:11,630 --> 00:23:13,700
-一秒都没迟疑 他就...
+一秒都没迟疑 他就......
 Not even for a split second. He just...
 
 537
@@ -2681,11 +2626,11 @@ dove on top of it.
 538
 00:23:18,720 --> 00:23:21,510
 在那之后 我才真正认识了Kutzler 他是英雄
-After that, I saw Kutzler for what he was-- a hero.
+After that, I saw Kutzler for what he was a hero.
 
 539
 00:23:23,000 --> 00:23:24,880
-否则我怎么会提名他为荣誉勋章候选人
+否则我怎么会提名他为荣誉勋章候选人?
 Why else would I put him up for the Medal of Honor?
 
 540
@@ -2705,8 +2650,8 @@ of yours on file.
 
 543
 00:23:32,120 --> 00:23:35,100
-这 这怎么...怎么可能
-How-how is that... even possible?
+这 这怎么......怎么可能?
+Howhow is that... even possible?
 
 544
 00:23:35,180 --> 00:23:38,540
@@ -2721,11 +2666,11 @@ back in 2012.
 546
 00:23:40,670 --> 00:23:44,290
 军方表彰提名不会凭空消失
-Military award packets don't just... disappear.
+Military award packets don't just disappear.
 
 547
 00:23:44,290 --> 00:23:45,770
-我猜你没有什么证明材料吧
+我猜你没有什么证明材料吧？
 I don't suppose you have any proof?
 
 548
@@ -2736,7 +2681,7 @@ Well, I didn't make a copy, if that's what you mean.
 549
 00:23:48,770 --> 00:23:51,300
 问问Donahue军士长 他能为我担保
-Ask Chief Donahue-- he can vouch for me.
+Ask Chief Donahue he can vouch for me.
 
 550
 00:23:51,850 --> 00:23:53,580
@@ -2750,12 +2695,12 @@ I was trying to do right by him.
 
 552
 00:23:56,740 --> 00:23:58,950
-我...明白 长官 我相信那是有些不成熟
+我......明白 长官 我相信那是有些不成熟
 I... yes, sir, I believe that's a bit premature,
 
 553
 00:23:58,950 --> 00:23:59,860
-但是...
+但是......
 but it...
 
 554
@@ -2770,7 +2715,7 @@ Yes, I understand, but our agents are working
 
 556
 00:24:03,920 --> 00:24:05,400
-夜以继日地工作...
+夜以继日地工作......
 around the clock to...
 
 557
@@ -2800,13 +2745,13 @@ was found dead with illegal narcotics in his possession.
 
 562
 00:24:20,120 --> 00:24:20,800
-怎么会
+怎么会?
 How?
 
 563
 00:24:20,840 --> 00:24:22,840
 这真是个好问题 Gibbs
-That's the million- dollar question, Gibbs.
+That's the million dollar question, Gibbs.
 
 564
 00:24:23,120 --> 00:24:25,100
@@ -2845,8 +2790,8 @@ Tarnishing the nation's highest honor
 
 571
 00:24:38,380 --> 00:24:40,120
--是不可接受的风险 -玷污
-- is not an acceptable risk. - Neither is
+是不可接受的风险 玷污
+ is not an acceptable risk.  Neither is
 
 572
 00:24:40,150 --> 00:24:42,480
@@ -2911,12 +2856,12 @@ What we need to do is
 584
 00:25:19,950 --> 00:25:22,090
 团结一致 这事会过去的
-stick together-- this, too, shall pass.
+stick together this, too, shall pass.
 
 585
 00:25:22,090 --> 00:25:24,200
--嘿 进展到哪儿了 -老大来了
-- Hey, where are we? - Albatross.
+嘿 进展到哪儿了 老大来了
+ Hey, where are we?  Albatross.
 
 586
 00:25:25,570 --> 00:25:26,700
@@ -2960,17 +2905,17 @@ Kutzler ever left, boss.
 
 594
 00:25:42,440 --> 00:25:44,920
-Abby在查他车里的GPS 但是...
+Abby在查他车里的GPS 但是......
 Abby's working on his vehicle's GPS, but...
 
 595
 00:25:44,920 --> 00:25:46,140
-但是
+但是?
 But?
 
 596
 00:25:46,960 --> 00:25:48,270
-Hollis Mann在哪儿
+Hollis Mann在哪儿?
 Where is Hollis Mann?
 
 597
@@ -2980,18 +2925,8 @@ I... I think she went back to the DoD.
 
 598
 00:25:50,710 --> 00:25:52,050
-你觉得
+你觉得?
 You think?
-
-599
-00:25:52,080 --> 00:25:54,650
-你"觉得"是什么意思
-What do you... what do you mean... you think?
-
-600
-00:25:54,860 --> 00:25:55,980
-呃
-Uh...
 
 601
 00:25:55,980 --> 00:25:57,420
@@ -3001,12 +2936,12 @@ We've been at this all night.
 602
 00:25:57,460 --> 00:25:59,430
 我们都有点累了 不如大家休息一下
-Uh, we're all a little tired-- why don't we take a break,
+Uh, we're all a little tired why don't we take a break,
 
 603
 00:25:59,470 --> 00:26:00,560
--透透气去吧 -不 不准休息
-- get some air? - No, there is no break.
+透透气去吧 不 不准休息
+ get some air?  No, there is no break.
 
 604
 00:26:00,560 --> 00:26:03,350
@@ -3015,8 +2950,8 @@ There's no breaks until this case breaks.
 
 605
 00:26:04,000 --> 00:26:05,690
-"办案时切忌掺杂个人感情"
-Never get personally involved in a case--
+办案时切忌掺杂个人感情
+Never get personally involved in a case
 
 606
 00:26:05,690 --> 00:26:07,430
@@ -3025,42 +2960,32 @@ you're breaking rule number ten, boss.
 
 607
 00:26:07,770 --> 00:26:10,860
-你特么真说对了DiNozzo 你有意见么
+你特么真说对了DiNozzo 你有意见么?
 You're damn right I am, DiNozzo. Do you have a problem with that?
 
 608
 00:26:10,860 --> 00:26:12,200
-老大
+老大......
 Boss...
 
 609
 00:26:13,030 --> 00:26:14,020
-呃 老大
+呃 老大?
 Uh, boss?
 
 610
 00:26:14,040 --> 00:26:14,780
-这就是你说的
-Is this what you meant
-
-611
-00:26:14,780 --> 00:26:17,030
-让我相信你么 Gibbs探员
-when you said trust you, Agent Gibbs?
+这就是你说的让我相信你么 Gibbs探员?
+Is this what you meant when you said trust you, Agent Gibbs?
 
 612
 00:26:17,060 --> 00:26:19,780
--我们与此事无关 -他们在
-- Our office had nothing to do with that. They're dragging Eric's name
-
-613
-00:26:19,780 --> 00:26:21,480
-玷污Eric的声誉 这正是我所担忧的
-through the mud-- it is exactly what I was afraid would happen.
+我们与此事无关 他们在玷污Eric的声誉 这正是我所担忧的
+Our office had nothing to do with that. They're dragging Eric's name through the mud it is exactly what I was afraid would happen.
 
 614
 00:26:21,480 --> 00:26:22,710
-我们还是去会议室说吧
+我们还是去会议室说吧？
 Why don't we take this to the conference room?
 
 615
@@ -3090,7 +3015,7 @@ You got me.
 
 620
 00:26:33,210 --> 00:26:35,750
-嘿 不过是死个基佬水手嘛 对吧
+嘿 不过是死个基佬水手嘛 对吧？
 Hey, but what's one dead gay sailor, right?
 
 621
@@ -3110,12 +3035,12 @@ I think he'd prefer a lead, Abby.
 
 624
 00:26:47,800 --> 00:26:49,660
--那个我也能办到 -你从Kutzler的
-- I can help with that, too. - Did you get anything
+那个我也能办到 你从Kutzler的
+ I can help with that, too.  Did you get anything
 
 625
 00:26:49,660 --> 00:26:51,090
-GPS系统里发现什么了吗
+GPS系统里发现什么了吗？
 from Kutzler's GPS system?
 
 626
@@ -3190,8 +3115,8 @@ The Berwyn Community
 
 640
 00:27:21,970 --> 00:27:24,510
--服务中心 -太棒了 谢谢你 Abby
-- Outreach Center. - Excellent. Thank you, Abby.
+服务中心 太棒了 谢谢你 Abby
+ Outreach Center.  Excellent. Thank you, Abby.
 
 641
 00:27:31,540 --> 00:27:33,140
@@ -3200,12 +3125,12 @@ Excuse me.
 
 642
 00:27:33,140 --> 00:27:35,810
-天使降临
+天使降临！
 Bestow an angel!
 
 643
 00:27:36,450 --> 00:27:37,890
-你叫什么名字 靓眼妞
+你叫什么名字 靓眼妞？
 What's your name, bright eyes?
 
 644
@@ -3228,29 +3153,15 @@ I'm Special Agent DiNozzo.
 漏了个T吧 伙计
 You're missing a "T" there, buddy.
 
-648
-00:27:42,220 --> 00:27:43,770
-{\a6}通常写做Matt
-
-649
-00:27:43,770 --> 00:27:44,510
-像doormat[门垫]的那个"mat"么
-Like "doormat"?
-
 650
 00:27:44,510 --> 00:27:46,550
-我几年前就把第二个T丢掉了
-I dropped the second "T" years ago. Life's not about
-
-651
-00:27:46,550 --> 00:27:49,600
-生活不是用来遵循男权社会常规的
-conforming to society's phallocentric norms.
+我几年前就把第二个T丢掉了生活不是用来遵循男权社会常规的
+I dropped the second "T" years ago. Life's not about conforming to society's phallocentric norms.
 
 652
 00:27:51,190 --> 00:27:53,350
-来点自制无谷肉桂素食饼干吧
-Homemade gluten-free vegan cinnamon scone?
+来点自制无谷肉桂素食饼干吧？
+Homemade glutenfree vegan cinnamon scone?
 
 653
 00:27:53,350 --> 00:27:54,000
@@ -3264,7 +3175,7 @@ No.
 
 655
 00:27:55,460 --> 00:27:56,720
-你疯了么
+你疯了么？
 Are you nuts?
 
 656
@@ -3299,13 +3210,13 @@ have you and your nonprescription glasses
 
 662
 00:28:08,640 --> 00:28:09,980
-见过这家伙吗
+见过这家伙吗?
 seen this guy?
 
 663
 00:28:10,160 --> 00:28:12,780
 呃 当然 我认识这张脸
-Uh... sure. I know the face.
+sure. I know the face.
 
 664
 00:28:12,830 --> 00:28:15,290
@@ -3314,7 +3225,7 @@ He attends our nightly 9:30 meeting.
 
 665
 00:28:15,290 --> 00:28:16,370
-什么集会
+什么集会?
 Meeting for what?
 
 666
@@ -3350,7 +3261,7 @@ with some guy from his group.
 672
 00:28:27,960 --> 00:28:30,960
 他们在喊什么 我不知道
-They were... yelling about something-- I don't know, I...
+They were yelling about something I don't know, 
 
 673
 00:28:30,990 --> 00:28:32,420
@@ -3359,18 +3270,13 @@ I try to mind my own business.
 
 674
 00:28:32,420 --> 00:28:34,040
-另外那个人叫什么名字
+另外那个人叫什么名字?
 This other guy have a name?
 
 675
 00:28:34,100 --> 00:28:35,780
-我们这儿可不会关注
-Well, we're not exactly following each other's
-
-676
-00:28:35,790 --> 00:28:37,300
-大家的社交账号
-Instagram accounts around here.
+我们这儿可不会关注大家的社交账号
+Well, we're not exactly following each other's Instagram accounts around here.
 
 677
 00:28:39,900 --> 00:28:41,680
@@ -3394,7 +3300,7 @@ Kutzler wasn't an addict.
 
 681
 00:28:47,620 --> 00:28:48,960
-他为什么要来参加这种集会
+他为什么要来参加这种集会?
 Why would he attend these meetings?
 
 682
@@ -3404,17 +3310,13 @@ And why would he be carrying around
 
 683
 00:28:50,150 --> 00:28:52,200
-非法麻醉品
+非法麻醉品?
 a stash of illegal narcotics?
 
 684
 00:28:52,240 --> 00:28:53,820
 他用的是Badger那一招
 He's pulling a Badger.
-
-685
-00:28:52,240 --> 00:28:56,400
-{\a6}Badger是《绝命毒师》中的一个配角 在剧中曾试图把毒品卖给A.A.集会中的瘾君子
 
 686
 00:28:53,830 --> 00:28:56,400
@@ -3443,7 +3345,7 @@ We could ask Mat to call us if our mystery man comes back.
 
 691
 00:29:05,120 --> 00:29:07,520
-你想去告诉Gibbs 我们没有任何发现
+你想去告诉Gibbs 我们没有任何发现?
 You want to be the one to tell Gibbs we got nothing?
 
 692
@@ -3464,7 +3366,7 @@ Stakeout.
 695
 00:29:17,460 --> 00:29:20,580
 这是杯不附带任何条件的咖啡 Jethro
-It's a no-strings-attached cup of coffee, Jethro.
+It's a nostringsattached cup of coffee, Jethro.
 
 696
 00:29:20,590 --> 00:29:21,640
@@ -3478,7 +3380,7 @@ so take it.
 
 698
 00:29:28,900 --> 00:29:30,430
-好点儿么
+好点儿么?
 Is that better?
 
 699
@@ -3528,7 +3430,7 @@ You're not seriously accusing me of having something to do
 
 708
 00:29:59,370 --> 00:30:02,460
-跟Kutzler上尉之死有关吧
+跟Kutzler上尉之死有关吧?
 with Lieutenant Kutzler's death?
 
 709
@@ -3543,7 +3445,7 @@ We checked your alibi, and it's rock solid.
 
 711
 00:30:06,900 --> 00:30:09,070
-很高兴我们说清楚了 我可以走了么
+很高兴我们说清楚了 我可以走了么?
 Well, I'm glad we cleared that up. Am I free to go now?
 
 712
@@ -3578,7 +3480,7 @@ Oh, we already talked to SECNAV.
 
 718
 00:30:24,320 --> 00:30:25,570
-她怎么说的来着
+她怎么说的来着?
 How did she phrase it?
 
 719
@@ -3588,7 +3490,7 @@ Uh, "nail the son of a bitch."
 
 720
 00:30:33,710 --> 00:30:34,840
-为了什么
+为了什么?
 For what?
 
 721
@@ -3608,13 +3510,8 @@ I have no idea what you're talking about.
 
 724
 00:30:46,720 --> 00:30:48,490
-2012年 那个表彰申请
-The packet was routed through your chain of command
-
-725
-00:30:48,490 --> 00:30:50,410
-经过你的管理层 少将
-in 2012, Admiral.
+2012年 那个表彰申请经过你的管理层 少将
+The packet was routed through your chain of command in 2012, Admiral.
 
 726
 00:30:50,810 --> 00:30:52,960
@@ -3633,13 +3530,8 @@ Because it never did.
 
 729
 00:30:55,980 --> 00:30:57,410
-不过我向你们保证
-And I assure you,
-
-730
-00:30:57,410 --> 00:30:58,520
-我一定会追查此事
-I will look into it.
+不过我向你们保证我一定会追查此事
+And I assure you,I will look into it.
 
 731
 00:30:58,560 --> 00:31:00,480
@@ -3668,23 +3560,13 @@ who cataloged all your incoming routing sheets.
 
 736
 00:31:10,080 --> 00:31:12,910
-没错 这儿呢 "标题
-And yes, here it is. "Subject:
-
-737
-00:31:12,910 --> 00:31:14,470
-Eric James Kutzler上尉的
-"Medal of Honor awards packet
-
-738
-00:31:14,480 --> 00:31:17,060
-荣誉勋章提名申请
-"for one Lieutenant Eric James Kutzler.
+没错 这儿呢 标题:Eric James Kutzler上尉的荣誉勋章提名申请
+And yes, here it is.Subject:Medal of Honor awards packet for one Lieutenant Eric James Kutzler.
 
 739
 00:31:17,070 --> 00:31:20,130
-送至Xavier Meade少将办公室"
-Delivered to the office of Admiral Xavier Meade."
+送至Xavier Meade少将办公室
+Delivered to the office of Admiral Xavier Meade.
 
 740
 00:31:20,140 --> 00:31:23,940
@@ -3694,7 +3576,7 @@ November 1, 2012.
 741
 00:31:24,450 --> 00:31:27,280
 要让这文件消失轻而易举 没人在追踪它
-Easy enough to make that disappear-- no one was tracking it.
+Easy enough to make that disappear no one was tracking it.
 
 742
 00:31:27,290 --> 00:31:30,230
@@ -3763,7 +3645,7 @@ who's served under you.
 
 755
 00:32:00,790 --> 00:32:03,480
-你感觉到墙在逼近了么
+你感觉到墙在逼近了么?
 Do you feel the walls closing in yet?
 
 756
@@ -3819,7 +3701,7 @@ You're a disgrace to that uniform.
 766
 00:32:30,320 --> 00:32:33,600
 我期待在你的军事法庭上作证
-And I look forward to testifying at your court-martial.
+And I look forward to testifying at your courtmartial.
 
 767
 00:32:40,840 --> 00:32:43,390
@@ -3843,7 +3725,7 @@ I only use those for creative purposes.
 
 771
 00:32:56,640 --> 00:32:59,320
-那是...Davis Riley么
+那是...Davis Riley么?
 Is that... Davis Riley?
 
 772
@@ -3888,12 +3770,12 @@ Your backpack.
 
 780
 00:33:23,490 --> 00:33:26,610
--能让我看看么 -我想答案是肯定的
-- Mind if I take a look inside? - I think that was a yes.
+能让我看看么？ 我想答案是肯定的
+ Mind if I take a look inside?  I think that was a yes.
 
 781
 00:33:28,480 --> 00:33:30,160
-谁知道呢 看来你要在
+谁知道呢? 看来你要在
 What do you know? Looks like you're gonna be
 
 782
@@ -3918,7 +3800,7 @@ Tony, I don't think he's breathing.
 
 786
 00:33:42,650 --> 00:33:44,610
-Bishop 打911
+Bishop 打911!
 Bishop, call 911!
 
 787
@@ -3943,7 +3825,7 @@ Heard you were back building boats.
 
 791
 00:34:29,320 --> 00:34:31,060
-打算给这艘起什么名字
+打算给这艘起什么名字?
 What are you gonna name this one?
 
 792
@@ -3958,7 +3840,7 @@ Not until you talk to me.
 
 794
 00:34:39,770 --> 00:34:40,860
-聊什么
+聊什么?
 Talk about what?
 
 795
@@ -3968,8 +3850,8 @@ You. Your least favorite topic.
 
 796
 00:34:42,920 --> 00:34:45,600
--不 我很好 -别跟我说你很好
-- No, I'm-I'm doing fine. - Don't tell me you're fine.
+不 我很好 别跟我说你很好
+ No, I'mI'm doing fine.  Don't tell me you're fine.
 
 797
 00:34:46,120 --> 00:34:47,760
@@ -4038,8 +3920,8 @@ So that's why you're shutting me out?
 
 810
 00:35:31,080 --> 00:35:32,610
--为了保护我 -我不需要你卷入这事
-- To protect me? - I don't need you mixed up in this.
+为了保护我 我不需要你卷入这事
+ To protect me?  I don't need you mixed up in this.
 
 811
 00:35:32,610 --> 00:35:34,310
@@ -4063,7 +3945,7 @@ I can handle myself.
 
 815
 00:35:42,840 --> 00:35:44,190
-嗯
+嗯?
 Hmm?
 
 816
@@ -4073,13 +3955,8 @@ Copy that.
 
 817
 00:36:01,730 --> 00:36:02,280
-不 我不会让你
-No, I'm not
-
-818
-00:36:02,280 --> 00:36:04,000
-这么容易解脱的
-letting you off that easy.
+不 我不会让你这么容易解脱的
+No, I'm not letting you off that easy.
 
 819
 00:36:09,240 --> 00:36:11,090
@@ -4118,7 +3995,7 @@ I see my friends die again and again.
 
 826
 00:36:35,200 --> 00:36:37,180
-而那颗该死的手榴弹...
+而那颗该死的手榴弹......
 And that damn grenade...
 
 827
@@ -4148,7 +4025,7 @@ I can't get that image out of my head.
 
 832
 00:36:58,270 --> 00:37:00,180
-所以你开始吸毒
+所以你开始吸毒?
 That's why you started using?
 
 833
@@ -4158,12 +4035,12 @@ I just wanted to forget.
 
 834
 00:37:06,220 --> 00:37:08,080
-Kutzler是怎么卷进来的
+Kutzler是怎么卷进来的?
 How was Kutzler involved?
 
 835
 00:37:08,320 --> 00:37:11,160
-他...看到了情况有多糟
+他......看到了情况有多糟
 He... saw how bad it got
 
 836
@@ -4188,7 +4065,7 @@ He saved my life a second time.
 
 840
 00:37:22,760 --> 00:37:24,120
-你什么时候复吸的
+你什么时候复吸的?
 When did you relapse?
 
 841
@@ -4208,7 +4085,7 @@ Kutzler came to my apartment,
 
 844
 00:37:31,160 --> 00:37:32,570
-然后...
+然后......
 and, uh...
 
 845
@@ -4233,7 +4110,7 @@ GPS puts him at the community center later that night.
 
 849
 00:37:45,600 --> 00:37:46,720
-他为什么回去
+他为什么回去?
 Why'd he go back?
 
 850
@@ -4248,7 +4125,7 @@ Eric probably went there to confront him.
 
 852
 00:37:57,060 --> 00:37:58,320
-是谁
+是谁?
 Who's that?
 
 853
@@ -4273,7 +4150,7 @@ I'm totally serious. I swear. Hey, Mat.
 
 857
 00:38:19,390 --> 00:38:21,210
-Mat你好么 哥们
+Mat你好么? 哥们
 Mat, what's up, man? Hey, uh,
 
 858
@@ -4288,8 +4165,8 @@ It is hilarious, and you're gonna get
 
 860
 00:38:24,870 --> 00:38:26,600
--喜欢的 告诉他 -是这样的
-- a kick out of it. Tell him. - So,
+喜欢的 告诉他 是这样的
+ a kick out of it. Tell him.  So,
 
 861
 00:38:26,620 --> 00:38:28,410
@@ -4309,7 +4186,7 @@ along with hundreds of vials of morphine and fentanyl,
 864
 00:38:32,980 --> 00:38:35,230
 就像这个
-just... like this.
+just like this.
 
 865
 00:38:35,560 --> 00:38:38,560
@@ -4338,7 +4215,7 @@ so you follow him home and put three rounds in him.
 
 870
 00:38:46,860 --> 00:38:48,360
-我说对了么
+我说对了么?
 Am I right?
 
 871
@@ -4348,7 +4225,7 @@ You made money exploiting people who needed help.
 
 872
 00:38:54,440 --> 00:38:55,690
-找这个么
+找这个么?
 Looking for this?
 
 873
@@ -4363,7 +4240,7 @@ Found a .22 with a silencer.
 
 875
 00:38:58,940 --> 00:39:01,710
-嘿 这和杀害Kutzler上尉的枪是不是同一把
+嘿 这和杀害Kutzler上尉的枪是不是同一把?
 Hey, isn't that the same weapon used to kill Lieutenant Kutzler?
 
 876
@@ -4378,7 +4255,7 @@ Spoiler alert, Heisenberg,
 
 878
 00:39:03,860 --> 00:39:05,780
-{\a6}《绝命毒师》中制毒男主给自己起的名字
+《绝命毒师》中制毒男主给自己起的名字
 
 879
 00:39:05,780 --> 00:39:07,640
@@ -4422,7 +4299,7 @@ Thank you, sincerely.
 
 887
 00:39:29,230 --> 00:39:30,280
-什么时候出结果
+什么时候出结果?
 When's it official?
 
 888
@@ -4495,10 +4372,6 @@ Finish the mission.
 有消息了么
 Did you hear anything?
 
-902
-00:40:39,460 --> 00:40:44,550
-{\a6}背景音乐 <Going Home> by Randall Kent
-
 903
 00:40:43,600 --> 00:40:45,010
 各位
@@ -4507,7 +4380,7 @@ You guys.
 904
 00:40:46,220 --> 00:40:47,350
 怎么样 怎么样
-What? What? What? What? What? What? What?
+What? What? 
 
 905
 00:40:54,280 --> 00:40:55,640
@@ -4541,12 +4414,12 @@ Why would you want to help me? He's dead because of me.
 
 911
 00:41:10,180 --> 00:41:12,800
--我不值得被救 -Eric认为你值得
-- I'm not worth saving. - Eric thought you were.
+我不值得被救 Eric认为你值得
+ I'm not worth saving.  Eric thought you were.
 
 912
 00:41:13,340 --> 00:41:15,520
-虽然这并不容易 但是
+虽然这并不容易 但是......
 And, hey, it's not gonna be easy, but...
 
 913
@@ -4576,7 +4449,7 @@ Congratulations, you guys.
 
 918
 00:41:29,100 --> 00:41:32,780
-这位小美人儿叫什么名字
+这位小美人儿叫什么名字？
 And what is this fair beauty's name?
 
 919
@@ -4586,7 +4459,7 @@ She's sort of named after you, Doctor.
 
 920
 00:41:38,080 --> 00:41:39,680
-再说一遍
+再说一遍?
 I beg your pardon?
 
 921
@@ -4596,12 +4469,8 @@ Say hello to Victoria Elizabeth Palmer.
 
 922
 00:41:45,150 --> 00:41:48,020
-妈妈...会很激动的
+妈妈......会很激动的
 Mother... would be thrilled.
-
-923
-00:41:45,150 --> 00:41:48,020
-{\a6}Ducky的母亲名叫Victoria
 
 924
 00:41:48,380 --> 00:41:50,370
@@ -4610,7 +4479,7 @@ As I am.
 
 925
 00:41:50,430 --> 00:41:51,880
-Jimmy 你的手怎么了
+Jimmy 你的手怎么了?
 Jimmy, what happened to your hand?
 
 926
@@ -4620,17 +4489,8 @@ Oh. Funny story. Uh,
 
 927
 00:41:54,160 --> 00:41:57,270
-你们知道epidural对5%的病人
-did you know that epidurals don't work
-
-928
-00:41:54,160 --> 00:41:57,270
-{\a6}无痛分娩所使用的脊椎硬膜外麻醉药剂
-
-929
-00:41:57,260 --> 00:41:59,060
-不起作用么
-on five percent of patients?
+你们知道epidural对5%的病人不起作用么
+did you know that epidurals don't work on five percent of patients?
 
 930
 00:41:59,090 --> 00:42:00,080
@@ -4644,7 +4504,7 @@ I had to improvise with my pain management.
 
 932
 00:42:02,610 --> 00:42:03,670
-你掰断了他的手指
+你掰断了他的手指?
 You broke his finger?
 
 933
@@ -4666,19 +4526,4 @@ But it was worth it.
 00:42:08,970 --> 00:42:11,470
 已经是真正父母的语气了
 Spoken like a true parent.
-
-937
-00:42:32,120 --> 00:42:38,570
-==GA字幕组==
-翻译：小末 小白 寂静流年 清欢仰慕者 汤汤忙忙忙 师太
-校对：寂静流年 清欢仰慕者 师太
-总校：毯子  时间轴：笑傲绿茶
-英文字幕：elderman
-
-938
-00:42:39,120 --> 00:42:49,570
-But what's the point if you can't even protect the ones you care about? To protect the things they care about.
-好久没见到米国爆棚的爱国主义了
-最后好有爱啊
-祝贺Palmer夫妇！
 
