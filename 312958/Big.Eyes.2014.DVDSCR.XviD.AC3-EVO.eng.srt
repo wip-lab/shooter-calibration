@@ -1,26 +1,6 @@
 1
 00:00:14,315 --> 00:00:19,291
-<I> based on true events </ i>
-
-2
-00:01:02,014 --> 00:01:09,629
-by danassus
-
-3
-00:01:37,592 --> 00:01:40,375
-<I> "I think that what Keane has done is just terrific. </ I>
-
-4
-00:01:40,410 --> 00:01:42,691
-<I> It has to be good. </ I>
-
-5
-00:01:42,726 --> 00:01:45,043
-<I> If  it were bad, so many people wouldn't like it." </ I>
-
-6
-00:01:45,078 --> 00:01:47,544
-<I> Andy Worhol </ i>
+based on true events
 
 7
 00:01:48,982 --> 00:01:50,546
@@ -28,31 +8,31 @@ Northern California 1958
 
 8
 00:01:50,581 --> 00:01:52,602
-<I> The fifties are grand time ... </ i>
+The fifties are grand time ... 
 
 9
 00:01:52,637 --> 00:01:53,933
-<I> ... if you are a man. </ I>
+... if you are a man. 
 
 10
 00:01:54,734 --> 00:01:57,166
-<I> I am Dick Dolly I make things up for living. </ I>
+I am Dick Dolly I make things up for living. 
 
 11
 00:01:57,201 --> 00:01:58,312
-<I> I'm a reporter. </ I>
+I'm a reporter. 
 
 12
 00:02:12,256 --> 00:02:15,069
-<I>It's the strangest goddammit story that I've ever covered. </ I>
+It's the strangest goddammit story that I've ever covered. 
 
 13
 00:02:15,484 --> 00:02:18,686
-<I>It start the day Margaret Olmprich walk out of her suffocated husband. </ I>
+It start the day Margaret Olmprich walk out of her suffocated husband. 
 
 14
 00:02:18,721 --> 00:02:21,723
-<I> long before it became a fashionable thing to do. </ I>
+long before it became a fashionable thing to do. 
 
 15
 00:02:22,600 --> 00:02:24,414
@@ -92,8 +72,8 @@ She is going to this sweet little school, you know it's really hard without her 
 
 24
 00:04:30,766 --> 00:04:32,726
-- just don't know we gonna be able to...
-- Stop.
+ just don't know we gonna be able to...
+ Stop.
 
 25
 00:04:33,079 --> 00:04:34,192
@@ -157,19 +137,15 @@ You have a lot to learn.
 
 40
 00:05:11,807 --> 00:05:13,810
-<I> Back then, women didn't live... </ i>
-
-41
-00:05:14,167 --> 00:05:16,327
-<I> ...not without a job or prospects. </ I>
+Back then, women didn't live not without a job or prospects. 
 
 42
 00:05:16,653 --> 00:05:18,919
-<I> All she has is her painting in the trunk. </ i>
+All she has is her painting in the trunk. 
 
 43
 00:05:18,954 --> 00:05:21,185
-<I> ...and her daughter in the back seat. </ I>
+...and her daughter in the back seat. 
 
 44
 00:05:21,589 --> 00:05:23,076
@@ -229,8 +205,8 @@ You do understand this is a furniture company?
 
 58
 00:07:02,285 --> 00:07:05,739
-- You see anything like?
-- I like those over there.
+ You see anything like?
+ I like those over there.
 
 59
 00:07:06,164 --> 00:07:07,690
@@ -254,13 +230,13 @@ Today's special, two dollars.
 
 64
 00:07:15,295 --> 00:07:18,378
-- I give you one.
-- All right.
+ I give you one.
+ All right.
 
 65
 00:07:19,443 --> 00:07:21,631
-- Go ahead.
-- Go ahead and have a seat.
+ Go ahead.
+ Go ahead and have a seat.
 
 66
 00:07:22,834 --> 00:07:23,770
@@ -268,13 +244,13 @@ What's your name?
 
 67
 00:07:24,021 --> 00:07:26,041
-- My name is Dolly.
-- Dolly.
+ My name is Dolly.
+ Dolly.
 
 68
 00:07:26,373 --> 00:07:28,463
-- How old are you?
-- I'm 9 years old.
+ How old are you?
+ I'm 9 years old.
 
 69
 00:07:29,006 --> 00:07:30,598
@@ -282,8 +258,8 @@ Nine years old.
 
 70
 00:07:36,357 --> 00:07:37,589
-- Looks like Monet. 
-- Monet?
+ Looks like Monet. 
+ Monet?
 
 71
 00:07:38,790 --> 00:07:41,590
@@ -323,8 +299,8 @@ Would you excuse me one second?
 
 80
 00:08:20,329 --> 00:08:22,394
-- Here you go. 
-- Thank you.
+ Here you go. 
+ Thank you.
 
 81
 00:08:27,197 --> 00:08:29,019
@@ -360,7 +336,7 @@ What would you rather have? flirting with those girls over there?
 
 89
 00:08:50,773 --> 00:08:52,327
-No, I, like you, Margaret ...
+No, I, like you, Margaret ......
 
 90
 00:08:53,429 --> 00:08:54,851
@@ -380,15 +356,7 @@ Little girl!
 
 94
 00:09:05,562 --> 00:09:09,633
-How would you like your portrait sketched by ...
-
-95
-00:09:09,668 --> 00:09:11,164
-... world renowned Margaret Ulbrich,
-
-96
-00:09:11,494 --> 00:09:13,182
-... queen of the bay?
+How would you like your portrait sketched by world renowned Margaret Ulbrich, queen of the bay?
 
 97
 00:09:13,765 --> 00:09:16,337
@@ -396,8 +364,8 @@ in mere minutes she capture you soul!
 
 98
 00:09:16,663 --> 00:09:18,680
-- Nah. 
-- Why nay?
+ Nah. 
+ Why nay?
 
 99
 00:09:18,945 --> 00:09:21,116
@@ -433,8 +401,8 @@ Mr. Olbrich is out of the picture
 
 107
 00:09:52,447 --> 00:09:53,977
-- Good evening, Henry!
-- Mr. Keane!
+ Good evening, Henry!
+ Mr. Keane!
 
 108
 00:09:54,012 --> 00:09:56,307
@@ -454,8 +422,8 @@ And I don't have to pay,  I'm set because I give a chef a painting.
 
 112
 00:10:08,491 --> 00:10:09,966
-- You know what he said?
-- What?
+ You know what he said?
+ What?
 
 113
 00:10:10,179 --> 00:10:13,560
@@ -563,11 +531,7 @@ Yeah, my street things are ...
 
 139
 00:11:29,610 --> 00:11:32,249
-But, at the end of day, they are just collections of ...
-
-140
-00:11:32,375 --> 00:11:34,040
-... buildings and sidewalks.
+But, at the end of day, they are just collections of buildings and sidewalks
 
 141
 00:11:34,893 --> 00:11:38,276
@@ -679,8 +643,8 @@ My guy really need versions for the forth floor retail.
 
 168
 00:13:33,280 --> 00:13:38,069
-- We will hear from permits by Thursday.
-- Yeah, that's terrific, I'll tell the architect.
+ We will hear from permits by Thursday.
+ Yeah, that's terrific, I'll tell the architect.
 
 169
 00:13:43,525 --> 00:13:45,285
@@ -716,11 +680,7 @@ Any blockhead can arrange a sublease.
 
 177
 00:14:16,148 --> 00:14:18,100
-All I ever wanted ...
-
-178
-00:14:18,333 --> 00:14:20,575
-... is to surpport myself as a artist.
+All I ever wanted is to surpport myself as a artist.
 
 179
 00:14:21,552 --> 00:14:24,864
@@ -740,8 +700,8 @@ Just set it down over here ...
 
 183
 00:14:51,031 --> 00:14:55,354
-- Right here?
-- Yeah, that's great, I just like to keep it out of the way.
+ Right here?
+ Yeah, that's great, I just like to keep it out of the way.
 
 184
 00:14:56,593 --> 00:15:00,383
@@ -765,8 +725,8 @@ Frank wants take Jane away.
 
 189
 00:15:56,396 --> 00:15:59,639
-- He say I'm a unfitted mother ...
-- You're a perfect mother.
+ He say I'm a unfitted mother ...
+ You're a perfect mother.
 
 190
 00:16:02,116 --> 00:16:06,148
@@ -786,8 +746,8 @@ Don't think of a reason to say no, I got a million reasons to say yes.
 
 194
 00:16:26,232 --> 00:16:29,010
-- I know it makes no sense.
-- no, it doesn't.
+ I know it makes no sense.
+ no, it doesn't.
 
 195
 00:16:29,293 --> 00:16:31,482
@@ -859,11 +819,11 @@ That's Walter and Jane, they build that sand castle together.
 
 212
 00:18:34,821 --> 00:18:38,320
-Well, these just all happening mighty quick, by the time you moved here ...
+Well, these just all happening mighty quick, by the time you moved here
 
 213
 00:18:39,030 --> 00:18:41,649
-... I had two days, you're already married.
+I had two days, you're already married.
 
 214
 00:18:41,931 --> 00:18:44,303
@@ -915,8 +875,8 @@ The image has no visual center for attention.
 
 226
 00:19:38,888 --> 00:19:42,402
-- It's quite gestural.
-- Oh definitively, strongly influenced by Tachism.
+ It's quite gestural.
+ Oh definitively, strongly influenced by Tachism.
 
 227
 00:19:42,938 --> 00:19:45,798
@@ -976,8 +936,8 @@ Walter, you know we don't go for that representational jazz, you're too literal.
 
 241
 00:20:38,181 --> 00:20:40,693
-- Art is a fashion.
-- Yes it is!
+ Art is a fashion.
+ Yes it is!
 
 242
 00:20:41,198 --> 00:20:45,963
@@ -1013,13 +973,13 @@ Well, I'm just glad your two found each other.
 
 250
 00:21:25,681 --> 00:21:28,905
-- So what do you say?
-- I say no, it's not art.
+ So what do you say?
+ I say no, it's not art.
 
 251
 00:21:29,249 --> 00:21:31,370
-- It's not art?
-- Like a back of magzine, you know.
+ It's not art?
+ Like a back of magzine, you know.
 
 252
 00:21:31,715 --> 00:21:34,184
@@ -1063,11 +1023,7 @@ Yeah, you're living in fairy land.
 
 262
 00:22:24,998 --> 00:22:29,498
-People don't get to discovery anythings, they buy arts because ...
-
-263
-00:22:29,533 --> 00:22:31,322
-... it's in the right place at right time.
+People don't get to discovery anythings, they buy arts because it's in the right place at right time.
 
 264
 00:22:34,102 --> 00:22:36,946
@@ -1163,8 +1119,8 @@ She so sad.
 
 287
 00:25:07,526 --> 00:25:10,964
-- Is she poor?
-- She is forgotten.
+ Is she poor?
+ She is forgotten.
 
 288
 00:25:11,577 --> 00:25:13,921
@@ -1196,8 +1152,8 @@ There is so much emotion in those eyes.
 
 295
 00:25:35,404 --> 00:25:37,933
-- Is something wrong?
-- No.
+ Is something wrong?
+ No.
 
 296
 00:25:39,593 --> 00:25:41,698
@@ -1325,21 +1281,17 @@ Walter, we made the front page.
 
 327
 00:27:36,649 --> 00:27:39,422
-People are here because they want to see that sappy painting...
-
-328
-00:27:39,736 --> 00:27:41,805
-... that made grown man fight.
+People are here because they want to see that sappy painting that made grown man fight.
 
 329
 00:27:43,419 --> 00:27:46,965
-- I'm sick of you, Keane!
-- I'll see you in court gate!
+ I'm sick of you, Keane!
+ I'll see you in court gate!
 
 330
 00:27:47,338 --> 00:27:52,377
-- You son of a bitch! I'll sue you ...
-- I'm sick of you and your paintings!
+ You son of a bitch! I'll sue you
+ I'm sick of you and your paintings!
 
 331
 00:27:52,908 --> 00:27:55,354
@@ -1347,11 +1299,11 @@ I'll sue you for slander!
 
 332
 00:28:09,903 --> 00:28:11,739
-<I> Walter Keane was not a subtle man. </ I>
+Walter Keane was not a subtle man. 
 
 333
 00:28:12,375 --> 00:28:14,577
-<I> But subtle dosen't sell. </ I>
+But subtle dosen't sell. 
 
 334
 00:28:16,848 --> 00:28:20,935
@@ -1437,10 +1389,6 @@ Because of that article, the joint was packed.
 00:29:43,534 --> 00:29:49,505
 There are famous journalists, sold all of it. I need more paintings!
 
-355
-00:29:51,606 --> 00:29:53,606
-...
-
 356
 00:29:58,250 --> 00:30:03,459
 This is a opportunity, we gonna make a cracker jack team!
@@ -1463,11 +1411,7 @@ The eyes are so powerful.
 
 361
 00:31:36,017 --> 00:31:37,954
-You know a poet once said ...
-
-362
-00:31:38,043 --> 00:31:41,109
-... The eyes are the windows of the soul.
+You know a poet once said The eyes are the windows of the soul.
 
 363
 00:31:41,372 --> 00:31:43,797
@@ -1551,11 +1495,7 @@ Honey, I just wanna share it with the world.
 
 383
 00:32:42,755 --> 00:32:45,582
-Would you rather your children pouting in closet ...
-
-384
-00:32:45,617 --> 00:32:47,744
-... or hanging in someone's living room
+Would you rather your children pouting in closet or hanging in someone's living room
 
 385
 00:32:55,325 --> 00:32:56,026
@@ -1631,27 +1571,19 @@ From now on, we're one of the same.
 
 403
 00:35:12,606 --> 00:35:16,761
-<I> My source tell me the mayor expect big surprise today. </ I>
+My source tell me the mayor expect big surprise today. 
 
 404
 00:35:17,640 --> 00:35:21,838
-On behalf of the children of the world, I pesent this painting ...
-
-405
-00:35:22,087 --> 00:35:24,306
-... to the mayor of San Francisco.
+On behalf of the children of the world, I pesent this painting to the mayor of San Francisco.
 
 406
 00:35:26,887 --> 00:35:31,286
-<I> My man on the street tells me Soviet ambassador in town as speak. </ I>
+My man on the street tells me Soviet ambassador in town as speak. 
 
 407
 00:35:32,656 --> 00:35:34,543
-In the interest of peace throught culture ...
-
-408
-00:35:34,766 --> 00:35:37,918
-... I donate this painting to the people of Soviet Union.
+In the interest of peace throught culture I donate this painting to the people of Soviet Union.
 
 409
 00:35:40,839 --> 00:35:45,266
@@ -1659,19 +1591,15 @@ The Purple Onion, 21:30, Joan Crawford have dinner reservation.
 
 410
 00:35:48,592 --> 00:35:51,905
-Mrs. Crawford, in recognition of your cinematic craft ...
-
-411
-00:35:52,187 --> 00:35:54,921
-... we bestow with this painting of you!
+Mrs. Crawford, in recognition of your cinematic craft we bestow with this painting of you!
 
 412
 00:35:58,703 --> 00:36:00,453
-<I> The cat is out of the bag. </ I>
+The cat is out of the bag. 
 
 413
 00:36:00,845 --> 00:36:05,114
-<I> I can revail our local luminary Walter Kean is open his own gallery. </ I>
+I can revail our local luminary Walter Kean is open his own gallery. 
 
 414
 00:36:11,613 --> 00:36:13,742
@@ -1803,19 +1731,11 @@ No, it's not like ...
 
 446
 00:38:29,914 --> 00:38:33,237
-It sounds if your husband is to try to make the best of ...
-
-447
-00:38:33,518 --> 00:38:35,282
-... a imperfect situation.
+It sounds if your husband is to try to make the best of a imperfect situation.
 
 448
 00:38:35,689 --> 00:38:38,028
-You were raised Christian, you know we were taught ...
-
-449
-00:38:38,846 --> 00:38:41,332
-... man is the head of a household.
+You were raised Christian, you know we were taught man is the head of a household.
 
 450
 00:38:41,760 --> 00:38:44,798
@@ -1867,11 +1787,7 @@ Oh, because Walter is more established.
 
 462
 00:39:35,084 --> 00:39:38,503
-Strange you know, Walter doesn't really strike me ...
-
-463
-00:39:38,792 --> 00:39:40,580
-... as cute hungry kids type.
+Strange you know, Walter doesn't really strike me as cute hungry kids type.
 
 464
 00:39:42,504 --> 00:39:44,661
@@ -1955,44 +1871,36 @@ Couldn't it be just some stranger who just struck a conversation with Mr. bailey
 
 484
 00:41:14,837 --> 00:41:17,637
-- No!
-- Thank you, Mrs. Roger, that would be all.
+ No!
+ Thank you, Mrs. Roger, that would be all.
 
 485
 00:41:18,591 --> 00:41:21,304
-<I> Perry Mason  will return after this. </ I>
+Perry Mason  will return after this. 
 
 486
 00:41:21,803 --> 00:41:24,070
-<I> New York Times art critic John Canaday ... </ i>
-
-487
-00:41:24,460 --> 00:41:27,180
-<I> ... with a perspective into the work of Walter Keane </ I>
+New York Times art critic John Canaday with a perspective into the work of Walter Keane 
 
 488
 00:41:27,524 --> 00:41:29,990
-<I> Keane's work is completely without distinction. </ I>
+Keane's work is completely without distinction. 
 
 489
 00:41:30,585 --> 00:41:33,056
-<I> He is not a member of society western artists. </ I>
+He is not a member of society western artists. 
 
 490
 00:41:33,430 --> 00:41:35,055
-<I> He's won no awards. </ I>
+He's won no awards. 
 
 491
 00:41:35,445 --> 00:41:40,135
-<I> He's only known to others for his appearence in certain newspaper's gossip columns. </ I>
+He's only known to others for his appearence in certain newspaper's gossip columns. 
 
 492
 00:41:41,457 --> 00:41:44,267
-<I> Mr. Keane is why society need critics. </ I>
-
-493
-00:41:44,637 --> 00:41:47,374
-<I> to protect them from such atrocities. </ I>
+Mr. Keane is why society need critics to protect them from such atrocities.
 
 494
 00:41:48,750 --> 00:41:50,478
@@ -2020,7 +1928,7 @@ You need to respect your mother's privacy.
 
 500
 00:42:16,762 --> 00:42:19,205
-Sometimes grown-up need their own time.
+Sometimes grownup need their own time.
 
 501
 00:42:29,109 --> 00:42:31,235
@@ -2052,11 +1960,7 @@ She is eating icecream, she hasn't assume she even has a college fund.
 
 508
 00:43:04,408 --> 00:43:08,671
-Maybe I'm just light-headed from all this turpentine ...
-
-509
-00:43:08,814 --> 00:43:10,396
-... up here all day
+Maybe I'm just lightheaded from all this turpentine up here all day
 
 510
 00:43:10,877 --> 00:43:12,399
@@ -2084,8 +1988,8 @@ Maybe you have a unhealthy obession with little girls.
 
 516
 00:43:31,055 --> 00:43:34,034
-- Cute.
-- I'm sorry.
+ Cute.
+ I'm sorry.
 
 517
 00:43:34,554 --> 00:43:36,944
@@ -2113,11 +2017,7 @@ I grew up in a orphanage.
 
 523
 00:44:00,767 --> 00:44:03,998
-I lived at a world where adult had vanished ...
-
-524
-00:44:04,109 --> 00:44:09,771
-... and kids and kittens run wild over desolate landscape?
+I lived at a world where adult had vanished and kids and kittens run wild over desolate landscape?
 
 525
 00:44:11,197 --> 00:44:13,324
@@ -2205,11 +2105,7 @@ First a nickel, then a dime, yes, it's cool!
 
 546
 00:46:32,781 --> 00:46:37,069
-But, then it got me thinking, would you rather sell one $ 500 painting ...
-
-547
-00:46:37,284 --> 00:46:40,050
-... or millions cheaply reproduced posters?
+But, then it got me thinking, would you rather sell one $ 500 painting or millions cheaply reproduced posters?
 
 548
 00:46:40,429 --> 00:46:42,221
@@ -2229,36 +2125,36 @@ Eeverywhere!
 
 552
 00:47:41,693 --> 00:47:46,593
-<I> Lana Del Rey - Big Eyes </I>
-<I> ... I used to think I could trust you. </I>
+Lana Del Rey  Big Eyes 
+... I used to think I could trust you. 
 
 553
 00:47:47,393 --> 00:47:51,793
-<I> I was your woman. </I>
+I was your woman. 
 
 554
 00:47:52,193 --> 00:47:56,793
-<I> You were my knight </I>
+You were my knight 
 
 555
 00:47:57,993 --> 00:48:01,093
-<I> shining companion. </I>
+shining companion. 
 
 556
 00:48:03,193 --> 00:48:07,693
-<I> To my surprise, my loves demise. </I>
+To my surprise, my loves demise. 
 
 557
 00:48:08,293 --> 00:48:12,693
-<I> Was his own greed and lullaby. </I>
+Was his own greed and lullaby. 
 
 558
 00:48:13,393 --> 00:48:22,093
-<I> With your big eyes, and your big lies. </I>
+With your big eyes, and your big lies. 
 
 559
 00:48:23,393 --> 00:48:32,093
-<I> With your big eyes, and your big lies ... </I>
+With your big eyes, and your big lies ... 
 
 560
 00:48:34,087 --> 00:48:36,157
@@ -2326,11 +2222,7 @@ Keane means me.
 
 576
 00:49:28,999 --> 00:49:31,531
-I know, but when people asks me if I paint ...
-
-577
-00:49:31,771 --> 00:49:33,031
-... I don't know how to answer it.
+I know, but when people asks me if I paint I don't know how to answer it.
 
 578
 00:49:33,115 --> 00:49:36,343
@@ -2346,11 +2238,7 @@ Nobody.
 
 581
 00:49:39,822 --> 00:49:40,545
-If you tell anyone ...
-
-582
-00:49:40,770 --> 00:49:42,879
-... this empire collapses!
+If you tell anyone this empire collapses!
 
 583
 00:49:43,414 --> 00:49:44,989
@@ -2358,8 +2246,8 @@ You wanna give back the money?
 
 584
 00:49:45,831 --> 00:49:48,514
-- We could become Fraud!
-- I know!
+ We could become Fraud!
+ I know!
 
 585
 00:49:49,799 --> 00:49:52,805
@@ -2395,11 +2283,7 @@ So, Margaret, where did you get your ideas?
 
 593
 00:50:23,924 --> 00:50:26,885
-From the world around me ...
-
-594
-00:50:27,786 --> 00:50:30,186
-... and I just love Modigliani.
+From the world around me and I just love Modigliani.
 
 595
 00:50:30,321 --> 00:50:31,467
@@ -2503,8 +2387,8 @@ Walter, may I have a word with you?
 
 620
 00:52:03,740 --> 00:52:05,949
-- What is going on in here?
-- That's Lily.
+ What is going on in here?
+ That's Lily.
 
 621
 00:52:06,194 --> 00:52:07,684
@@ -2516,8 +2400,8 @@ No, you didn't.
 
 623
 00:52:11,118 --> 00:52:13,032
-- Is she moving in?
-- No.
+ Is she moving in?
+ No.
 
 624
 00:52:13,580 --> 00:52:15,418
@@ -2525,11 +2409,7 @@ Her mother has gone to Vegas for the weekend.
 
 625
 00:52:15,623 --> 00:52:17,127
-I supposed to have her once a month ...
-
-626
-00:52:17,316 --> 00:52:18,433
-... but I don't make her mom ...
+I supposed to have her once a month but I don't make her mom
 
 627
 00:52:18,633 --> 00:52:20,804
@@ -2537,8 +2417,8 @@ How could you lie about something so big?
 
 628
 00:52:20,939 --> 00:52:23,176
-- Oh she is a very sweet girl.
-- I'm sure she is.
+ Oh she is a very sweet girl.
+ I'm sure she is.
 
 629
 00:52:23,257 --> 00:52:26,067
@@ -2558,7 +2438,7 @@ Please, let's just get through this.
 
 633
 00:52:43,443 --> 00:52:47,443
-... Walter Keane and Paul Gauguin have a lot in common.
+Walter Keane and Paul Gauguin have a lot in common.
 
 634
 00:52:47,643 --> 00:52:51,443
@@ -2566,24 +2446,24 @@ Both walk away from a career to travel the globe ...
 
 635
 00:52:52,744 --> 00:52:55,084
-<I> I've learn a lot of famous personalities. </ I>
+I've learn a lot of famous personalities. 
 
 636
 00:52:55,454 --> 00:52:58,325
-<I> Only a certain type of creature can live in that spotlight. </ I>
+Only a certain type of creature can live in that spotlight. 
 
 637
 00:52:58,773 --> 00:53:00,399
-<I> Walter had a chops. </ I>
+Walter had a chops. 
 
 638
 00:53:00,679 --> 00:53:02,605
-<I> Margaret not so much. </ I>
+Margaret not so much. 
 
 639
 00:53:05,798 --> 00:53:08,036
-- I painted that.
-- really?
+ I painted that.
+ really?
 
 640
 00:53:09,422 --> 00:53:12,132
@@ -2593,21 +2473,13 @@ It's very evocative.
 00:53:13,794 --> 00:53:15,090
 sensual.
 
-642
-00:53:21,290 --> 00:53:22,790
-MDH
-
 643
 00:53:24,543 --> 00:53:27,295
 You're so mystery.
 
 644
 00:53:29,390 --> 00:53:33,052
-Yes, we don't use my name since people don't ...
-
-645
-00:53:33,250 --> 00:53:35,521
-... take women's art seriously.
+Yes, we don't use my name since people don't take women's art seriously.
 
 646
 00:53:36,095 --> 00:53:37,440
@@ -2735,8 +2607,8 @@ I know.
 
 677
 00:55:32,615 --> 00:55:36,630
-- You got two acres.
-- A pool, Five bedrooms.
+ You got two acres.
+ A pool, Five bedrooms.
 
 678
 00:55:37,771 --> 00:55:39,222
@@ -2812,8 +2684,8 @@ Is that your arts studio?
 
 696
 00:56:33,804 --> 00:56:36,908
-- You don't want to go in there.
-- I wanna take a peek.
+ You don't want to go in there.
+ I wanna take a peek.
 
 697
 00:56:37,345 --> 00:56:40,766
@@ -2865,19 +2737,11 @@ Shut up, you're so full of shit! Walter.
 
 709
 00:57:40,463 --> 00:57:41,414
-Get out of my house ...
-
-710
-00:57:41,649 --> 00:57:43,431
-... get out of my big house!
+Get out of my house get out of my big house!
 
 711
 00:57:43,666 --> 00:57:46,691
-Go back selling your sculpture ...
-
-712
-00:57:46,796 --> 00:57:48,116
-... in fishmen's wharf!
+Go back selling your sculpture in fishmen's wharf!
 
 713
 00:57:48,151 --> 00:57:49,437
@@ -2893,8 +2757,8 @@ I won't.
 
 716
 00:58:10,178 --> 00:58:12,246
-- All right Jane, I'm get to work.
-- Can I come?
+ All right Jane, I'm get to work.
+ Can I come?
 
 717
 00:58:12,857 --> 00:58:14,328
@@ -2930,7 +2794,7 @@ I did ... every single one of them.
 
 725
 00:58:55,967 --> 00:58:57,519
-Every "Big Eyes".
+Every Big Eyes.
 
 726
 00:58:57,521 --> 00:58:58,632
@@ -2946,11 +2810,7 @@ I'm gonna paint another one right now.
 
 729
 00:59:06,286 --> 00:59:07,866
-Take Walter off ...
-
-730
-00:59:07,901 --> 00:59:10,453
-... I'll paint one about a crazy girl talking to a dog.
+Take Walter off I'll paint one about a crazy girl talking to a dog.
 
 731
 01:00:25,405 --> 01:00:27,341
@@ -2962,11 +2822,7 @@ Stumble on some hot gossip.
 
 733
 01:00:32,518 --> 01:00:35,434
-Madame Chiang Kai-shek is coming to town ...
-
-734
-01:00:35,872 --> 01:00:37,310
-... straight from Taipei.
+Madame Chiang Kaishek is coming to town straight from Taipei.
 
 735
 01:00:38,406 --> 01:00:43,417
@@ -3018,12 +2874,12 @@ She probably doesn't has a Parisian street scene hanging in her palace.
 
 747
 01:01:20,674 --> 01:01:23,426
-Unless Madame Chiang Kai-shek already has a S. Cenic.
+Unless Madame Chiang Kaishek already has a S. Cenic.
 
 748
 01:01:26,517 --> 01:01:27,966
-- What's that?
-- A S.Cenic.
+ What's that?
+ A S.Cenic.
 
 749
 01:01:28,741 --> 01:01:31,687
@@ -3043,11 +2899,7 @@ All my art school pals love my scenic view so much.
 
 753
 01:01:47,406 --> 01:01:49,617
-They call me, well they couldn't pronouce properly ...
-
-754
-01:01:49,740 --> 01:01:51,355
-... so they call me S. Cenic.
+They call me, well they couldn't pronouce properly so they call me S. Cenic.
 
 755
 01:01:53,617 --> 01:01:55,484
@@ -3067,11 +2919,7 @@ Then why did you painted over the name?
 
 759
 01:02:03,261 --> 01:02:04,032
-Piece of advice ...
-
-760
-01:02:04,182 --> 01:02:05,617
-... never use water base over nowhere ...
+Piece of advice never use water base over nowhere
 
 761
 01:02:05,823 --> 01:02:07,521
@@ -3139,18 +2987,18 @@ There are three extra bedroom in this house, go pick one.
 
 777
 01:03:47,863 --> 01:03:51,365
-- How many more this under back?
-- I don't know, maybe 3000?
+ How many more this under back?
+ I don't know, maybe 3000?
 
 778
 01:03:52,073 --> 01:03:53,863
-- Does the printer ...
-- Excuse me, Mrs.
+ Does the printer ...
+ Excuse me, Mrs.
 
 779
 01:03:54,284 --> 01:03:57,132
-- How much this painting?
-- Go! what do I pay you for?
+ How much this painting?
+ Go! what do I pay you for?
 
 780
 01:04:04,210 --> 01:04:06,540
@@ -3158,8 +3006,7 @@ Not even one of mine, one of hers.
 
 781
 01:04:07,898 --> 01:04:10,571
-1964 New York World's Fair
-Construction Races Toward April Opening
+1964 New York World's Fair Construction Races Toward April Opening
 
 782
 01:04:16,804 --> 01:04:18,545
@@ -3167,8 +3014,8 @@ This doesn't change anything.
 
 783
 01:04:20,571 --> 01:04:23,149
-- I know the truth.
-- Oh who cares?
+ I know the truth.
+ Oh who cares?
 
 784
 01:04:24,270 --> 01:04:28,734
@@ -3188,8 +3035,8 @@ Quiet!
 
 788
 01:04:36,089 --> 01:04:41,981
-- Don't raise your voice.
-- I will talk as loud as I want.
+ Don't raise your voice.
+ I will talk as loud as I want.
 
 789
 01:04:42,439 --> 01:04:45,780
@@ -3273,8 +3120,8 @@ Opening day I unveil my master piece.
 
 809
 01:06:01,256 --> 01:06:03,824
-- What master piece?
-- Exact.
+ What master piece?
+ Exact.
 
 810
 01:06:04,788 --> 01:06:06,344
@@ -3330,35 +3177,35 @@ WORLD'S FAIR REPORT WITH LOWELL THOMAS
 
 823
 01:06:44,134 --> 01:06:45,534
-<I> Hello, everybody. </ I>
+Hello, everybody. 
 
 824
 01:06:45,769 --> 01:06:47,092
-<I> I'm Lowell Thomas. </ I>
+I'm Lowell Thomas. 
 
 825
 01:06:47,427 --> 01:06:49,535
-<I> Standing in front one of what will soon be ... </ I>
+Standing in front one of what will soon be ... 
 
 826
 01:06:49,835 --> 01:06:52,035
-<I> ... one of the wonders of the modern world. </ I>
+... one of the wonders of the modern world. 
 
 827
 01:07:09,478 --> 01:07:11,547
-<I> When people asked me why did she stay. </ I>
+When people asked me why did she stay. 
 
 828
 01:07:11,782 --> 01:07:14,348
-<I> Was it fear, lack of confidence? </ i>
+Was it fear, lack of confidence? 
 
 829
 01:07:14,383 --> 01:07:17,135
-<I> Margaret was trapped in the lie that she helped creat. </ I>
+Margaret was trapped in the lie that she helped creat. 
 
 830
 01:07:17,575 --> 01:07:19,856
-<I> Another cover up is worth than a crime. </ I>
+Another cover up is worth than a crime. 
 
 831
 01:07:22,216 --> 01:07:24,854
@@ -3382,7 +3229,7 @@ A publicist says it's good timing to put out a coffee table book.
 
 836
 01:07:40,443 --> 01:07:43,347
-You know, 『Classy』, 『Tomorrow's  Masters』.
+You know, Classy,Tomorrow's  Masters.
 
 837
 01:07:44,453 --> 01:07:48,369
@@ -3394,11 +3241,7 @@ Yes, where are all of your preliminary sketches?
 
 839
 01:07:52,109 --> 01:07:55,097
-All that time you spent in art school seem to ...
-
-840
-01:07:55,349 --> 01:07:58,542
-... well laid all of your useful experiment, all these unfinished charcoals.
+All that time you spent in art school seem to well laid all of your useful experiment, all these unfinished charcoals.
 
 841
 01:07:59,204 --> 01:08:00,912
@@ -3450,15 +3293,15 @@ He's like the hula hoop, he just won't go away!
 
 853
 01:10:06,003 --> 01:10:09,240
-" ... will be unveil in the grand pavilion of the hall of education ... "
+"will be unveil in the grand pavilion of the hall of education"
 
 854
 01:10:10,551 --> 01:10:13,927
-" ... internationally celebrated artists been selected ... "
+"internationally celebrated artists been selected"
 
 855
 01:10:14,722 --> 01:10:17,502
-" ... will represent the aspiration of the children worldwide. "
+"will represent the aspiration of the children worldwide. "
 
 856
 01:10:18,177 --> 01:10:19,759
@@ -3762,11 +3605,7 @@ Hurts to hear you say these words, that's sure how we come to this.
 
 931
 01:19:03,673 --> 01:19:07,493
-I suppose I could agree just split as long as...
-
-932
-01:19:08,423 --> 01:19:12,276
-... as you sign me all rest of every painting you ever produce.
+I suppose I could agree just split as long as you sign me all rest of every painting you ever produce.
 
 933
 01:19:15,773 --> 01:19:17,461
@@ -3778,7 +3617,7 @@ Really?
 
 935
 01:19:20,710 --> 01:19:26,073
-Ok, well, then we have to consider future revenue strings ...
+Ok, well, then we have to consider future revenue strings.
 
 936
 01:19:26,194 --> 01:19:28,255
@@ -3790,11 +3629,7 @@ If you want me out of your life, here is my bargain.
 
 938
 01:19:32,359 --> 01:19:34,411
-You have to paint me a hundred more waifs ...
-
-939
-01:19:34,578 --> 01:19:36,990
-... a hundred more Walter Keanes.
+You have to paint me a hundred more waifs a hundred more Walter Keanes.
 
 940
 01:19:42,134 --> 01:19:46,251
@@ -3806,8 +3641,8 @@ No, I'm gonna go surf's game.
 
 942
 01:19:48,978 --> 01:19:51,804
-- Jane, I think your friends are a little wild.
-- Who's not, mom?
+ Jane, I think your friends are a little wild.
+ Who's not, mom?
 
 943
 01:19:52,787 --> 01:19:53,729
@@ -3815,11 +3650,7 @@ You're impossible.
 
 944
 01:19:54,249 --> 01:19:55,080
-You move all the way ...
-
-945
-01:19:55,176 --> 01:19:59,102
-... to Hawaii, and I actually make some friends, all you do is complain about them.
+You move all the way to Hawaii, and I actually make some friends, all you do is complain about them.
 
 946
 01:20:00,289 --> 01:20:02,115
@@ -3839,39 +3670,31 @@ Hello, we visit everyone in this neighbourhood with an important message.
 
 950
 01:20:54,902 --> 01:20:56,309
-We have something to share with you ..
-
-951
-01:20:56,410 --> 01:20:58,810
-... about the wonderful things the God's kindom  ...
-
-952
-01:20:58,911 --> 01:21:00,111
-... would do for mankind.
+We have something to share with you about the wonderful things the God's kindom would do for mankind.
 
 953
 01:21:00,825 --> 01:21:03,121
-Well from where I'm standing, I don't see much good anywhere ...
+Well from where I'm standing, I don't see much good anywhere
 
 954
 01:21:03,322 --> 01:21:06,722
-... just a lot of pride deviant people treating each other poorly.
+just a lot of pride deviant people treating each other poorly.
 
 955
 01:21:07,189 --> 01:21:09,722
-Do you know what it says in Timothy 3: 1-5?
+Do you know what it says in Timothy 3: 15?
 
 956
 01:21:10,644 --> 01:21:15,128
-In the last days, critical time hard to dealt with will be here ...
+In the last days, critical time hard to dealt with will be here
 
 957
 01:21:15,302 --> 01:21:18,324
-... for men would be lovers of themselves.
+for men would be lovers of themselves.
 
 958
 01:21:18,645 --> 01:21:20,308
-Sounds like my ex-husband.
+Sounds like my exhusband.
 
 959
 01:21:30,648 --> 01:21:32,015
@@ -3907,11 +3730,7 @@ My art supplies!
 
 967
 01:22:16,076 --> 01:22:16,856
-I had a factory ...
-
-968
-01:22:17,057 --> 01:22:20,357
-... even before what soup can was!
+I had a factory even before what soup can was!
 
 969
 01:22:35,439 --> 01:22:37,455
@@ -3943,7 +3762,7 @@ And two, he is not a painter.
 
 976
 01:23:12,858 --> 01:23:16,542
-But did I mistake, is he the guy does the 'crazy eyes'?
+But did I mistake, is he the guy does the crazy eyes?
 
 977
 01:23:17,967 --> 01:23:19,153
@@ -3963,15 +3782,15 @@ You got to be kidding!
 
 981
 01:24:10,459 --> 01:24:11,841
-<I> You know what piss me off? </ i>
+You know what piss me off? 
 
 982
 01:24:12,153 --> 01:24:15,614
-<I> Margaret give the scoop to some button pusing Big Lolo. </ I>
+Margaret give the scoop to some button pusing Big Lolo. 
 
 983
 01:24:16,119 --> 01:24:18,753
-<I> Instead of some respectful jounalist like myself. </ I>
+Instead of some respectful jounalist like myself. 
 
 984
 01:24:20,990 --> 01:24:22,533
@@ -4063,11 +3882,7 @@ All of  it!
 
 1006
 01:25:50,848 --> 01:25:54,628
-I feel good about myself for the first time in years, I can't let Walter ...
-
-1007
-01:25:54,861 --> 01:25:56,419
-... just take that away from me.
+I feel good about myself for the first time in years, I can't let Walter just take that away from me.
 
 1008
 01:25:57,949 --> 01:26:00,092
@@ -4084,15 +3899,15 @@ The art world is a buzz.
 
 1011
 01:26:08,544 --> 01:26:11,313
-Today at federal court, lawyers will present their opening argument ...
+Today at federal court, lawyers will present their opening argument
 
 1012
 01:26:11,414 --> 01:26:14,514
-... indicate Magaret Keane vs. Walter Keane and Gkanet newspaper ...
+indicate Magaret Keane vs. Walter Keane and Gkanet newspaper 
 
 1013
 01:26:14,715 --> 01:26:19,115
-... a trial could produce largest libel and slander reward in Hawaii histories.
+a trial could produce largest libel and slander reward in Hawaii histories.
 
 1014
 01:26:19,279 --> 01:26:21,205
@@ -4120,15 +3935,11 @@ All right, excuse me, gentle man, excuse me.
 
 1020
 01:26:55,046 --> 01:26:57,078
-Margaret Keane is a public figure ...
+Margaret Keane is a public figure 
 
 1021
 01:26:57,178 --> 01:27:00,078
-... and such him has approve that our newspaper's public statements  ...
-
-1022
-01:27:00,162 --> 01:27:02,451
-... aware of probable falsity.
+and such him has approve that our newspaper's public statements aware of probable falsity.
 
 1023
 01:27:02,663 --> 01:27:06,697
@@ -4136,11 +3947,11 @@ Now there is not evidence to suggest our editors could've known these assertion 
 
 1024
 01:27:07,214 --> 01:27:12,566
-We would like to submit 692 articles and interviews in which Mrs. Keane ...
+We would like to submit 692 articles and interviews in which Mrs. Keane
 
 1025
 01:27:12,644 --> 01:27:17,479
-... credits Mr. Keane as the painter of the so call "Big Eyes Children".
+credits Mr. Keane as the painter of the so call "Big Eyes Children".
 
 1026
 01:27:28,016 --> 01:27:29,860
@@ -4200,35 +4011,23 @@ Would you like to post permit in order to get your fair and orders?
 
 1040
 01:28:29,866 --> 01:28:32,784
-I've always taken care of myself, I don't need a bunch of rented suits ...
-
-1041
-01:28:32,951 --> 01:28:34,791
-... to defend my good name.
+I've always taken care of myself, I don't need a bunch of rented suits to defend my good name.
 
 1042
 01:28:35,026 --> 01:28:36,274
 Let's proceed.
 
-1043
-01:28:41,274 --> 01:28:44,274
-AP -- HNOLULU -- KEANE TRIAL TAKES STARTLING TURN
-
-1044
-01:28:46,574 --> 01:28:48,874
-UPI -- HONOLULU -- HE'S A PAINTER AND A LAWYER?
-
 1045
 01:28:49,676 --> 01:28:52,679
-<I> I concern about my old pal Walter Keane. </ I>
+I concern about my old pal Walter Keane. 
 
 1046
 01:28:52,979 --> 01:28:55,279
-<I> The Hawaii heat may cook his brain. </ I>
+The Hawaii heat may cook his brain. 
 
 1047
 01:28:55,535 --> 01:29:00,798
-<I> The only thing he knows about court room and laws come from watching Perry Mason on televison. </ I>
+The only thing he knows about court room and laws come from watching Perry Mason on televison. 
 
 1048
 01:29:01,867 --> 01:29:04,985
@@ -4268,7 +4067,7 @@ Mrs. Keane, you seems to be lucid, reasonablely intelligent woman.
 
 1057
 01:29:46,814 --> 01:29:52,159
-So how could you possibly have gone along with far-out statement like that?
+So how could you possibly have gone along with farout statement like that?
 
 1058
 01:29:55,048 --> 01:29:57,177
@@ -4344,11 +4143,7 @@ Overrule!
 
 1076
 01:31:22,839 --> 01:31:27,058
-You were outrageous, constantly criticise me, wore me down ...
-
-1077
-01:31:27,229 --> 01:31:30,309
-... saying you would have me knocked off if I told the truth.
+You were outrageous, constantly criticise me, wore me down saying you would have me knocked off if I told the truth.
 
 1078
 01:31:30,621 --> 01:31:32,138
@@ -4436,19 +4231,11 @@ I was a artist, and friend of untold celebrities.
 
 1099
 01:33:21,002 --> 01:33:23,802
-Yeah, when I look back at all ...
-
-1100
-01:33:23,875 --> 01:33:27,034
-... to define what really mattered ...
-
-1101
-01:33:27,335 --> 01:33:32,135
-... it was that I was dedicated to hungry children of the world.
+Yeah, when I look back at all to define what really mattered it was that I was dedicated to hungry children of the world.
 
 1102
 01:33:34,638 --> 01:33:39,558
-It all began in Berlin, after World War II ...
+It all began in Berlin, after World War II
 
 1103
 01:33:40,233 --> 01:33:47,795
@@ -4456,11 +4243,11 @@ The orphans clutching part of wire, their bodies lacerated ...
 
 1104
 01:33:49,021 --> 01:33:52,748
-... their fingers scrawny ... their eyes big.
+their fingers scrawny their eyes big.
 
 1105
 01:33:55,217 --> 01:33:57,249
-Mrs. Joan Crawford walked out ...
+Mrs. Joan Crawford walked out
 
 1106
 01:33:57,384 --> 01:33:59,810
@@ -4468,11 +4255,11 @@ Mr. Keane, sit down.
 
 1107
 01:34:00,438 --> 01:34:01,729
-Marilyn Monroe ...
+Marilyn Monroe 
 
 1108
 01:34:01,930 --> 01:34:03,530
-the Newton and I ...
+the Newton and I 
 
 1109
 01:34:04,131 --> 01:34:08,431
@@ -4480,7 +4267,7 @@ Jerry Lewis calls me says I wants you to paint me and my family in clown suits.
 
 1110
 01:34:08,808 --> 01:34:12,838
-Mrs. Natalie Wood walked out to me and said ...
+Mrs. Natalie Wood walked out to me and said 
 
 1111
 01:34:13,639 --> 01:34:19,639
@@ -4492,8 +4279,8 @@ You done!
 
 1113
 01:34:21,016 --> 01:34:22,866
-- I'm not finished.
-- Actually you are!
+ I'm not finished.
+ Actually you are!
 
 1114
 01:34:23,251 --> 01:34:26,099
@@ -4509,15 +4296,7 @@ Federal court overburden enough without you ducky clacking nonsense.
 
 1117
 01:34:32,566 --> 01:34:35,236
-We can stay here until we grow old and die ...
-
-1118
-01:34:35,471 --> 01:34:38,057
-... but it's obvious this case boils down to your words ...
-
-1119
-01:34:38,158 --> 01:34:39,658
-... versus Mrs. Keane's words.
+We can stay here until we grow old and die but it's obvious this case boils down to your words versus Mrs. Keane's words.
 
 1120
 01:34:39,858 --> 01:34:40,458
@@ -4609,7 +4388,7 @@ She went on charges of defamation, emotional destress, and damaged reputation.
 
 1142
 01:38:25,579 --> 01:38:27,579
-Congratulation... Margaret ...
+Congratulation Margaret 
 
 1143
 01:38:27,879 --> 01:38:29,479
@@ -4629,19 +4408,19 @@ Margaret, can I possibly have your autograph?
 
 1147
 01:38:43,242 --> 01:38:44,921
-<I> Two things matter to Margaret. </ I>
+Two things matter to Margaret. 
 
 1148
 01:38:45,122 --> 01:38:46,822
-<I> Her daughter and her paintings. </ I>
+Her daughter and her paintings. 
 
 1149
 01:38:47,301 --> 01:38:49,719
-<I> And after all the crazy turn the story took ... </ i>
+And after all the crazy turn the story took ... 
 
 1150
 01:38:50,057 --> 01:38:52,566
-<I> ... she came out the end with bountiful. </ I>
+... she came out the end with bountiful. 
 
 1151
 01:39:01,959 --> 01:39:05,178
