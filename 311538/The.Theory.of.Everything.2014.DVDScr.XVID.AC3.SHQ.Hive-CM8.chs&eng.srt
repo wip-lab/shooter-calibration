@@ -1,23 +1,3 @@
-1
-00:00:05,000 --> 00:00:10,000
-{\an3}{\pos(360,230)}翻译：somehacker  彼岸荼蘼
-
-2
-00:00:10,000 --> 00:00:15,000
-{\an3}{\pos(360,230)}校对：somehacker
-
-3
-00:00:15,000 --> 00:00:20,000
-{\an3}{\pos(360,230)}特效：somehacker
-
-4
-00:00:58,070 --> 00:01:04,330
-{\pos(196,160)}万物理论
-
-5
-00:01:16,710 --> 00:01:18,050
-{\an8}1963年  英格兰  剑桥
-
 6
 00:01:16,710 --> 00:01:19,050
 快点
@@ -30,7 +10,7 @@ Come on, old man.
 
 8
 00:01:21,360 --> 00:01:23,000
-再不快点就晚了
+再不快点就晚了!
 I think we're going to be late!
 
 9
@@ -40,22 +20,12 @@ Fire's on the rocket, Brian.
 
 10
 00:01:30,950 --> 00:01:33,510
-布莱恩找到了空隙
+布莱恩找到了空隙!
 Brian finds an opening!
 
 11
 00:01:34,560 --> 00:01:36,300
-别搞砸了
-Oy, don't mess up!
-
-12
-00:01:36,350 --> 00:01:38,210
-霍金的最后冲刺
-Hawking's last minute!
-
-13
-00:01:44,540 --> 00:01:45,540
-谢了  布莱恩
+别搞砸了!
 Thanks, Brian!
 
 14
@@ -80,13 +50,13 @@ What if the secret of the universe has something to do with sex.
 
 18
 00:02:10,170 --> 00:02:13,370
-你博士论文就写这个吧  爱之物理学
+你博士论文就写这个吧?  爱之物理学
 Maybe do your doctorate on that? The physics of love.
 
 19
 00:02:13,440 --> 00:02:16,070
--那是你的研究领域吧  -最近没怎么研究了
-- I think that's more your field, Brian. - Not lately.
+那是你的研究领域吧  最近没怎么研究了
+ I think that's more your field, Brian. Not lately.
 
 20
 00:02:16,140 --> 00:02:18,940
@@ -95,17 +65,17 @@ They will boot you out, you know, if you don't decide.
 
 21
 00:02:19,100 --> 00:02:22,620
-我认识这里所有的...棒极了
+我认识这里所有的......棒极了
 I know everybody here who's... brilliant.
 
 22
 00:02:22,900 --> 00:02:25,560
-居然是科学家们
+居然是科学家们!
 Oh, dear, scientists!
 
 23
 00:02:28,440 --> 00:02:31,090
-别担心  不会待太久的
+别担心  不会待太久的......
 Don't worry, we don't have to stay long...
 
 24
@@ -115,68 +85,68 @@ looks mortifyingly dull.
 
 25
 00:02:38,370 --> 00:02:40,270
--没劲  -那是谁
-- Bores. - Who's that?
+没劲  那是谁
+ Bores.  Who's that?
 
 26
 00:02:40,320 --> 00:02:43,050
-哪个  他吗
+哪个?  他吗？
 Who's who? Oh, him?
 
 27
 00:02:44,250 --> 00:02:49,300
-他可怪了  不过他也去了抗议核游行[1960年代]
+他可怪了  不过他也去了抗议核游行
 He's strange. However, he goes to ban the bomb marches.
 
 28
 00:02:49,550 --> 00:02:53,290
 Y  缩写是GY
-Y... G.Y.
+Y G.Y.
 
 29
 00:02:53,400 --> 00:02:56,500
-大卫在那  大卫
+大卫在那......  大卫
 Oh, there's David... David?
 
 30
 00:02:56,570 --> 00:02:58,240
-戴安娜
+戴安娜?
 Diana?
 
 31
 00:03:14,240 --> 00:03:16,270
--你好  -你好
-- Hello. - Hello.
+你好  你好
+ Hello.  Hello.
 
 32
 00:03:16,440 --> 00:03:18,720
--理学吗  -文学
-- Science? - Arts.
+理学吗?  文学
+ Science?  Arts.
 
 33
 00:03:18,900 --> 00:03:21,670
--英语  -法语及西班牙语
-- English. - French and Spanish.
+英语.  法语及西班牙语
+ English.  French and Spanish.
 
 34
 00:03:23,400 --> 00:03:25,870
-那你呢  你学什么的
+那你呢?  你学什么的?
 What about you? What are you?
 
 35
 00:03:25,940 --> 00:03:30,200
--宇宙学家  我是个宇宙学家  -那是什么
-- Cosmologist, I'm a cosmologist. - What's that?
+宇宙学家  我是个宇宙学家  那是什么?
+ Cosmologist, I'm a cosmologist.  What's that?
 
 36
 00:03:30,370 --> 00:03:32,160
-就是特别聪明的  不信上帝的人
-It's a kind of religion for
+就是特别聪明的  不信上帝的人信的宗教
+It's a kind of religion for intelligent atheists. 
 
 37
 00:03:32,160 --> 00:03:34,940
--信的宗教  -聪明的不信上帝的
-- intelligent atheists. - Intelligent atheists?
+ 聪明的不信上帝的
+ Intelligent atheists?
 
 38
 00:03:35,560 --> 00:03:37,140
@@ -190,8 +160,8 @@ C. Of E.
 
 40
 00:03:41,500 --> 00:03:44,000
--就是英国国教[圣公会]  -是啊
-- Church of England. - England, yes.
+就是英国国教  是啊
+ Church of England.  England, yes.
 
 41
 00:03:46,140 --> 00:03:48,270
@@ -200,32 +170,27 @@ I suppose someone has to be.
 
 42
 00:03:48,340 --> 00:03:51,270
-那宇宙学家信奉什么呢
+那宇宙学家信奉什么呢?
 So, what do cosmologists worship then?
 
 43
 00:03:51,440 --> 00:03:52,740
-信奉什么
+信奉什么?
 What do we worship?
 
 44
 00:03:52,900 --> 00:03:54,430
-用一个统一的方程
-One single unifying equation
-
-45
-00:03:54,430 --> 00:03:56,660
-来解释宇宙万物
-that explains everything in the universe.
+用一个统一的方程来解释宇宙万物
+One single unifying equation that explains everything in the universe.
 
 46
 00:03:56,710 --> 00:03:58,170
--是吗  -是
-- Really. - Yes.
+是吗  是
+ Really.  Yes.
 
 47
 00:03:58,340 --> 00:03:59,400
-是什么方程
+是什么方程?
 What's the equation?
 
 48
@@ -250,32 +215,27 @@ Then why do you even stay at Oxford?
 
 52
 00:04:19,000 --> 00:04:20,970
-因为我的期末考试
-Because my finals exams are such a
-
-53
-00:04:20,970 --> 00:04:24,440
-考得一塌糊涂  他们叫我参加个口试
-shambles that the examiners they settled me in for a "Viva",
+因为我的期末考试考得一塌糊涂他们叫我参加个口试
+Because my finals exams are such a shambles that the examiners they settled me in for a "Viva",
 
 54
 00:04:24,490 --> 00:04:27,600
--他们如果我拿到二等  -口试是什么
-- And they told me that if I go up a second... - What's a "Viva"?
+他们如果我拿到二等  口试是什么
+ And they told me that if I go up a second What's a "Viva"?
 
 55
 00:04:27,670 --> 00:04:30,820
 有点恐怖  跟人面对面坐下来什么的
-A sort of, mildly terrifying face-to-face thingy.
+A sort of, mildly terrifying facetoface thingy.
 
 56
 00:04:31,200 --> 00:04:33,570
--面试吗  -审讯吧
-- As an interview? - An interrogation.
+面试吗?  审讯吧
+ As an interview?  An interrogation.
 
 57
 00:04:34,070 --> 00:04:36,650
-我告诉他们  如果给我二等学位[参考片尾注释]
+我告诉他们  如果给我二等学位
 And I told them that if they gave me a 2nd class degree
 
 58
@@ -295,13 +255,13 @@ they would never have to see me again.
 
 61
 00:04:46,040 --> 00:04:49,360
--所以他们给了你一等  -没错
-- They gave you the 1st. - They gave me the 1st.
+所以他们给了你一等  没错
+ They gave you the 1st.  They gave me the 1st.
 
 62
 00:04:49,400 --> 00:04:53,460
--是啊  -派对已经正式结束了
-- Of course. - This party is officially deceased.
+是啊  派对已经正式结束了
+ Of course.  This party is officially deceased.
 
 63
 00:04:54,000 --> 00:04:55,970
@@ -311,31 +271,31 @@ Come on, I've fixed you up a ride home.
 64
 00:04:57,310 --> 00:05:01,990
 走啊  简  简
-Come on, Jane... Jane?
+Come on, Jane Jane?
 
 65
 00:05:02,070 --> 00:05:04,770
--跟你聊天很开心  -我也是
-- Well, it was lovely to talk to you. - Yes.
+跟你聊天很开心  我也是
+ Well, it was lovely to talk to you.  Yes.
 
 66
 00:05:05,700 --> 00:05:09,870
 还有  希望你能找到那个方程
-And... I hope you find your equation.
+And I hope you find your equation.
 
 67
 00:05:09,920 --> 00:05:11,530
 是啊
-Yes... oh...
+Yes
 
 68
 00:05:14,140 --> 00:05:16,820
--再见  -再见
-- Bye. - G'bye.
+再见  再见
+Bye.  G'bye.
 
 69
 00:05:26,740 --> 00:05:28,700
-斯蒂芬
+斯蒂芬?
 Stephen?
 
 70
@@ -355,7 +315,7 @@ a little challenge for you all,
 
 73
 00:05:43,350 --> 00:05:45,760
-在你们的学术研究路上...
+在你们的学术研究路上......
 as you embark upon your separate doctoral journeys...
 
 74
@@ -380,8 +340,8 @@ the wheat from the chaff,
 
 78
 00:05:53,430 --> 00:05:56,980
-介子还是π介子  真夸克[基本粒子之一]还是假行家
-the mesons from the pi-mesons, the quarks from the quacks.
+介子还是π介子  真夸克还是假行家
+the mesons from the pimesons, the quarks from the quacks.
 
 79
 00:05:57,100 --> 00:06:00,850
@@ -425,13 +385,13 @@ Can I get two more of those, please?
 
 87
 00:06:40,270 --> 00:06:42,740
--换点零钱打个电话  -好的
-- And some change for phone, Sir. - Yeah.
+换点零钱打个电话  好的
+ And some change for phone, Sir.  Yeah.
 
 88
 00:06:53,700 --> 00:06:56,640
--不拿走吗  -简
-- Take her out, man. - Jane.
+不拿走吗  简
+ Take her out, man.  Jane.
 
 89
 00:07:03,640 --> 00:07:06,770
@@ -445,7 +405,7 @@ I think she was having a date, she can have him, quite frankly.
 
 91
 00:07:11,870 --> 00:07:13,730
-这概率有多大
+这概率有多大?
 What's the probability?
 
 92
@@ -455,18 +415,18 @@ Reasonably low.
 
 93
 00:07:17,260 --> 00:07:21,100
-这个  这是斯蒂芬
-Uh... this is... this is Stephen.
+这个......  这是斯蒂芬
+ this is... this is Stephen.
 
 94
 00:07:21,170 --> 00:07:23,360
--你玩槌球吗  -槌球
-- Do you play croquet? - Croquet?
+你玩槌球吗?  槌球?
+ Do you play croquet?  Croquet?
 
 95
 00:07:23,970 --> 00:07:27,430
--有阵子没玩了  -周日早上
-- Not recently. - Sunday morning.
+有阵子没玩了  周日早上
+ Not recently.  Sunday morning.
 
 96
 00:07:27,870 --> 00:07:30,670
@@ -475,7 +435,7 @@ I'm actually busy on Sunday mornings.
 
 97
 00:07:32,670 --> 00:07:36,920
-是啊  跟上帝[做礼拜]
+是啊  跟上帝
 Oh... Him.
 
 98
@@ -485,17 +445,17 @@ Okay.
 
 99
 00:08:02,110 --> 00:08:05,680
-快起床  你做出了几个
-Oh, come on, get up! How many did you get?
+快起床  你做出了几个?
+get up! How many did you get?
 
 100
 00:08:07,050 --> 00:08:10,400
--早上好  布莱恩  -下午好  斯蒂芬
-- Morning, Brian. - Good afternoon, Stephen.
+早上好  布莱恩  下午好  斯蒂芬
+ Morning, Brian.  Good afternoon, Stephen.
 
 101
 00:08:10,600 --> 00:08:12,620
-那几个问题你做出几个
+那几个问题你做出几个?
 How many of the possible questions did you do?
 
 102
@@ -505,13 +465,13 @@ Brian, I have no idea what you're talking about.
 
 103
 00:08:14,870 --> 00:08:17,270
-夏玛的问题  你做出几个  斯蒂芬
+夏玛的问题  你做出几个  斯蒂芬?
 How many of Sciama's questions did you get, Stephen?
 
 104
 00:08:17,370 --> 00:08:20,640
--没做  -一个没做吗
-- None. - You didn't get any?
+没做  一个没做吗?
+ None.  You didn't get any?
 
 105
 00:08:20,700 --> 00:08:21,900
@@ -540,7 +500,7 @@ you've voluntarily embarked on a PhD in physics?
 
 110
 00:08:28,100 --> 00:08:29,570
-还是在英国最顶尖的大学里
+还是在英国最顶尖的大学里?
 At the most prestigious college in England?
 
 111
@@ -555,23 +515,23 @@ Oh! Thought maybe you'd slept through the induction or something.
 
 113
 00:08:36,540 --> 00:08:37,640
-布莱恩
+布莱恩?
 Brian?
 
 114
 00:08:38,540 --> 00:08:41,490
--怎么了  -放段瓦格纳吧
-- What? - Can you whip on some Wagner?
+怎么了?  放段瓦格纳吧?
+ What?  Can you whip on some Wagner?
 
 115
 00:08:41,940 --> 00:08:43,330
-一边去
+一边去!
 Sod off!
 
 116
 00:09:27,940 --> 00:09:31,140
--请进  斯蒂芬  -抱歉
-- Come in, Stephen. - Sorry.
+请进,斯蒂芬  抱歉
+ Come in, Stephen.  Sorry.
 
 117
 00:09:32,740 --> 00:09:34,480
@@ -585,13 +545,13 @@ I can't quite decipher how wrong it is, I suspect enormously,
 
 119
 00:09:37,110 --> 00:09:40,280
-布莱恩  看不懂你写的什么
+布莱恩......  看不懂你写的什么
 and Brian... that's just baffling.
 
 120
 00:09:40,570 --> 00:09:43,690
--您受累做了没  -抱歉
-- Have you even bothered to? - Oh, sorry.
+您受累做了没  抱歉
+ Have you even bothered to?  Oh, sorry.
 
 121
 00:09:48,740 --> 00:09:51,000
@@ -615,12 +575,12 @@ I could only do nine.
 
 125
 00:10:10,700 --> 00:10:15,010
-好吧  谢天谢地  那个
-Well... oh... thank God... however...
+好吧......  谢天谢地
+Well... thank God...
 
 126
 00:10:17,050 --> 00:10:18,380
-九个
+九个?
 Nine?
 
 127
@@ -650,7 +610,7 @@ I can't decide.
 
 132
 00:10:52,660 --> 00:10:54,790
-有什么想法吗
+有什么想法吗?
 Do you have any ideas?
 
 133
@@ -660,28 +620,18 @@ No.
 
 134
 00:11:17,530 --> 00:11:22,670
-汤普森在这发现了电子[1897年]
+汤普森在这发现了电子
 This is where J.J. Thomson discovered the electron,
 
 135
 00:11:22,670 --> 00:11:26,290
-卢瑟福在这分裂了原子核[1909年]
+卢瑟福在这分裂了原子核
 and where Rutherford split the atom.
 
 136
 00:11:28,930 --> 00:11:31,990
-在剑桥搞研究的好处就是  你永远都不知道
-You know, one of the great rewards of this job is one never knows
-
-137
-00:11:32,060 --> 00:11:33,710
-谁  在哪里
-from where the next great
-
-138
-00:11:33,710 --> 00:11:36,600
-能搞出个重大发现来
-leap forward is going to come, or from whom.
+在剑桥搞研究的好处就是  你永远都不知道谁  在哪里能搞出个重大发现来
+You know, one of the great rewards of this job is one never knows from where the next great leap forward is going to come, or from whom.
 
 139
 00:11:40,360 --> 00:11:44,530
@@ -696,7 +646,7 @@ to attend a talk by the mathematician Roger Penrose.
 141
 00:11:48,290 --> 00:11:51,690
 你也来吧  如果有兴趣的话
-You come along... if you're interested.
+You come along if you're interested.
 
 142
 00:11:55,430 --> 00:11:58,120
@@ -705,13 +655,13 @@ Oh, and close the door as you leave.
 
 143
 00:12:44,190 --> 00:12:46,660
-听说你从没去过教堂
+听说你从没去过教堂?
 So, I gather you've never been to church?
 
 144
 00:12:46,860 --> 00:12:50,460
--很久以前去过  -想信教吗
-- Once upon a time. - Tempted to convert?
+很久以前去过  想信教吗?
+ Once upon a time.  Tempted to convert?
 
 145
 00:12:50,560 --> 00:12:53,800
@@ -720,18 +670,18 @@ I have a slight problem with the whole Celestial Dictator premise.
 
 146
 00:12:54,390 --> 00:12:59,090
-你午饭有安排吗  我妈烤的肉特别好吃
+你午饭有安排吗?  我妈烤的肉特别好吃
 Now, what are you doing for lunch? Ma makes a cracking roast.
 
 147
 00:13:03,560 --> 00:13:06,810
-简  你是学什么的
+简  你是学什么的?
 So, Jane, what are you studying?
 
 148
 00:13:06,860 --> 00:13:08,660
--文学  -要球甘蓝吗
-- Arts. - Sprouts?
+文学  要球甘蓝吗?
+ Arts.  Sprouts?
 
 149
 00:13:08,660 --> 00:13:10,420
@@ -755,13 +705,13 @@ Medieval poetry of the Iberian Peninsula.
 
 153
 00:13:18,890 --> 00:13:22,590
-中世纪诗歌...你喜欢哪位画家
+中世纪诗歌......你喜欢哪位画家
 Medieval poets... What painters do you like?
 
 154
 00:13:23,040 --> 00:13:26,600
--我喜欢特纳  -特纳吗
-- Well, I like Turner. - Turner, really?
+我喜欢特纳  特纳吗?
+ Well, I like Turner.  Turner, really?
 
 155
 00:13:26,860 --> 00:13:28,530
@@ -775,13 +725,13 @@ paintings look as if they've been left out in the rain.
 
 157
 00:13:32,730 --> 00:13:34,690
-还有  威廉·布雷克
+还有......  威廉·布雷克
 And... William Blake.
 
 158
 00:13:36,150 --> 00:13:39,030
--简  来尝尝我的接骨木酒  -谢谢
-- Jane, have some of my elderflower wine. - Yes, yes, thank you.
+简  来尝尝我的接骨木酒  谢谢
+ Jane, have some of my elderflower wine.  Yes, yes, thank you.
 
 159
 00:13:39,060 --> 00:13:41,050
@@ -796,7 +746,7 @@ Thank you. Mother.
 161
 00:13:42,780 --> 00:13:46,500
 斯蒂芬不喜欢我自己酿的酒  菲丽西汀呢
-Stephen doesn't like my homemade wine...Philistine.
+Stephen doesn't like my homemade wine Philistine.
 
 162
 00:13:46,760 --> 00:13:49,720
@@ -810,13 +760,13 @@ So, Stephen, you have come to church with a good woman.
 
 164
 00:13:53,050 --> 00:13:55,090
-觉得自己圣洁吗
+觉得自己圣洁吗?
 Are you feeling holier than thou?
 
 165
 00:13:55,890 --> 00:13:58,960
 非常圣洁  谢谢
-Positively saintly... thank you.
+Positively saintly thank you.
 
 166
 00:13:59,130 --> 00:14:01,200
@@ -840,27 +790,27 @@ Sounds less of an argument against God than against physicists.
 
 170
 00:14:12,860 --> 00:14:14,810
-鸡胸还是鸡腿
+鸡胸还是鸡腿?
 Light or dark?
 
 171
 00:14:16,290 --> 00:14:19,330
--简  鸡胸还是鸡腿  -鸡胸  谢谢
-- Jane, light meat or dark? - Light, please.
+简  鸡胸还是鸡腿?  鸡胸  谢谢
+ Jane, light meat or dark?  Light, please.
 
 172
 00:14:20,730 --> 00:14:22,750
-我要请简做我五月舞会[剑桥传统]的舞伴
+我要请简做我五月舞会的舞伴
 I'm inviting Jane to be my partner for the May ball.
 
 173
 00:14:22,800 --> 00:14:24,990
-真的吗  真棒
+真的吗!  真棒!
 Really! Very impressive!
 
 174
 00:14:24,990 --> 00:14:28,720
-你要跳舞了  斯蒂芬
+你要跳舞了  斯蒂芬?
 You'll have to dance, won't you, Stephen?
 
 175
@@ -880,13 +830,13 @@ Hello.
 
 178
 00:15:09,830 --> 00:15:12,660
--抱歉  -你没事吧
-- Sorry. - Are you okay?
+抱歉  你没事吧?
+ Sorry.  Are you okay?
 
 179
 00:15:21,390 --> 00:15:23,870
--跳舞吧  -不跳
-- Should we dance? - No.
+跳舞吧?  不跳
+ Should we dance?  No.
 
 180
 00:15:25,410 --> 00:15:26,870
@@ -905,7 +855,7 @@ but I can't possibly imagine participating.
 
 183
 00:15:32,160 --> 00:15:34,330
-我也这么想的  谁愿意跳舞啊
+我也这么想的  谁愿意跳舞啊?
 I absolutely agree. I mean, who would want to dance?
 
 184
@@ -921,22 +871,22 @@ No dancing then.
 186
 00:15:48,860 --> 00:15:50,310
 你看男生的衬衫前胸
-Do you see how the men's shirt-fronts
+Do you see how the men's shirtfronts
 
 187
 00:15:50,330 --> 00:15:53,820
-还有领结  比女生的礼服还闪亮
+还有领结  比女生的礼服还闪亮?
 and their bow ties how they glow more than the womens' dresses?
 
 188
 00:15:53,960 --> 00:15:56,800
--是啊  -知道为什么吗
-- Yes. - Do you know why?
+是啊  知道为什么吗?
+ Yes.  Do you know why?
 
 189
 00:15:56,850 --> 00:15:59,840
--为什么  -汰渍
-- Why? - Tide.
+为什么?  汰渍
+ Why?  Tide.
 
 190
 00:16:00,480 --> 00:16:01,540
@@ -975,22 +925,22 @@ and all that we would see are these spectacular births and deaths.
 
 197
 00:16:35,930 --> 00:16:40,460
--我觉得应该...  -就像这个
-- And I reckon it would look a little... - Like that.
+我觉得应该......  就像这个
+ And I reckon it would look a little...  Like that.
 
 198
 00:17:15,560 --> 00:17:18,390
--为什么  -什么为什么
-- So, why? - Why what?
+为什么?  什么为什么？
+ So, why?  Why what?
 
 199
 00:17:18,440 --> 00:17:20,860
-为什么要研究中世纪西班牙诗歌
+为什么要研究中世纪西班牙诗歌？
 Why Spanish medieval poetry?
 
 200
 00:17:20,860 --> 00:17:23,770
-应该是我喜欢穿越时空吧...
+应该是我喜欢穿越时空吧......
 I suppose I like to time travel...
 
 201
@@ -1000,32 +950,28 @@ I suppose I like to time travel...
 
 202
 00:17:26,260 --> 00:17:29,240
-有哪段时空是你特别想去的吗
+有哪段时空是你特别想去的吗?
 Are there any particular time periods that you'd like to visit?
 
 203
 00:17:29,290 --> 00:17:32,860
--二十年代吧  -咆哮的二十年代吗[1920  北美]
-- The imagine it's the Twenties. - The Roaring Twenties?
-
-204
-00:17:33,740 --> 00:17:41,730
-{\an8}耶茨  《The Song of the Happy Shepherd》
+二十年代吧  咆哮的二十年代吗
+ The imagine it's the Twenties.  The Roaring Twenties?
 
 205
 00:17:33,740 --> 00:17:37,060
-"不要在天文学家那找寻知识
-"Seek, then, No learning from starry men,
+不要在天文学家那找寻知识
+No learning from starry men,
 
 206
 00:17:37,060 --> 00:17:39,650
-"他们只是用望远镜
-"Who follow with the optic glass
+他们只是用望远镜
+Who follow with the optic glass
 
 207
 00:17:39,700 --> 00:17:41,730
-"追随恒星纷飞的路径"
-"The whirling ways of stars that pass."
+追随恒星纷飞的路径
+The whirling ways of stars that pass.
 
 208
 00:17:46,660 --> 00:17:48,280
@@ -1034,22 +980,17 @@ Bravo!
 
 209
 00:18:20,790 --> 00:18:28,250
-"创世之初  只有天地
-"In the beginning was the heaven and the earth,
-
-210
-00:18:28,250 --> 00:18:33,330
-大地混沌  没有定型"
-and the earth was without form,"
+创世之初  只有天地 大地混沌  没有定型
+In the beginning was the heaven and the earth,and the earth was without form,
 
 211
 00:18:34,290 --> 00:18:39,300
-"黑暗笼罩着深渊"
-"And darkness was upon the face of the deep."
+黑暗笼罩着深渊
+And darkness was upon the face of the deep.
 
 212
 00:18:51,660 --> 00:18:54,480
-和我共舞一曲吧
+和我共舞一曲吧?
 Would you dance with me?
 
 213
@@ -1060,7 +1001,7 @@ The train now departing from track number three is
 214
 00:19:55,150 --> 00:20:00,350
 将于九点十五发车
-the nine-fifteen service to London King's Cross.
+the ninefifteen service to London King's Cross.
 
 215
 00:20:06,720 --> 00:20:09,580
@@ -1069,12 +1010,12 @@ Come on, Stephen. Get a move on.
 
 216
 00:20:10,050 --> 00:20:13,320
-怎么了你  快上来
+怎么了你?  快上来
 What's wrong with you, man? Come up top.
 
 217
 00:20:27,080 --> 00:20:30,640
-一颗恒星  体积是太阳的三倍多
+一颗恒星  体积是太阳的三倍多......
 A star, more than three times the size of our sun...
 
 218
@@ -1105,17 +1046,17 @@ If the star is massive enough, it will continue this collapse,
 223
 00:20:47,440 --> 00:20:51,240
 形成一个黑洞  翘曲了时空
-creating a black hole, where the warping of space-time
+creating a black hole, where the warping of spacetime
 
 224
 00:20:51,290 --> 00:20:55,080
 什么都逃不出去  包括光
-is so great that nothing can escape... not even light.
+is so great that nothing can escape not even light.
 
 225
 00:20:55,130 --> 00:21:00,600
 变得越来越小  越小
-It gets... smaller... smaller.
+It gets smaller smaller.
 
 226
 00:21:01,280 --> 00:21:05,230
@@ -1129,7 +1070,7 @@ as atoms, even subatomic particles get literally crushed into smaller and smalle
 
 228
 00:21:11,950 --> 00:21:16,400
-那最终  我们得到了什么
+那最终  我们得到了什么?
 And at its end point what are we left with?
 
 229
@@ -1149,7 +1090,7 @@ I wonder what would happen if you applied
 
 232
 00:21:53,970 --> 00:21:56,780
-从黑洞推广到整个宇宙呢
+从黑洞推广到整个宇宙呢?
 Penrose's theory about black holes to the entire universe?
 
 233
@@ -1164,13 +1105,13 @@ or if general relativity is correct, then the universe is expanding, yes?
 
 235
 00:22:02,800 --> 00:22:03,020
-对吧
+对吧?
 Yes?
 
 236
 00:22:03,070 --> 00:22:04,170
--对  -好了
-- Yes. - Okay, so...
+对  好了
+ Yes.  Okay, so
 
 237
 00:22:04,520 --> 00:22:07,840
@@ -1179,8 +1120,8 @@ If you reverse time, then the universe is getting smaller.
 
 238
 00:22:08,230 --> 00:22:10,350
--没错  -那么
-- All right. - So...
+没错  那么......
+ All right.  So...
 
 239
 00:22:10,400 --> 00:22:13,310
@@ -1189,13 +1130,13 @@ What if I reverse the process all the way
 
 240
 00:22:13,310 --> 00:22:17,420
-回到时间的起点呢
+回到时间的起点呢?
 back to see what happened at the beginning of Time itself?
 
 241
 00:22:17,850 --> 00:22:20,020
--时间的起点  -对
-- The beginning of Time itself? - Yes.
+时间的起点?  对
+ The beginning of Time itself?  Yes.
 
 242
 00:22:20,180 --> 00:22:22,590
@@ -1204,7 +1145,7 @@ The universe, getting smaller and smaller,
 
 243
 00:22:22,590 --> 00:22:25,450
-密度越来越大  温度越来越高
+密度越来越大  温度越来越高......
 getting denser and denser, hotter and hotter as...
 
 244
@@ -1214,12 +1155,12 @@ As you wind back the clock.
 
 245
 00:22:27,560 --> 00:22:30,330
--没错  时光倒流  -时光倒流
-- Exactly, you wind back the clock. - Wind back the clock.
+没错  时光倒流  时光倒流
+ Exactly, you wind back the clock.  Wind back the clock.
 
 246
 00:22:30,580 --> 00:22:33,880
-你是想让时光倒流吗[逆时针]
+你是想让时光倒流吗
 Is that what you're doing? You're winding back the clock.
 
 247
@@ -1229,7 +1170,7 @@ Exactly what I'm doing.
 
 248
 00:22:35,480 --> 00:22:40,100
-继续转  还有好久呢  继续转
+继续转!  还有好久呢!  继续转
 Well, keep winding! You've got quite a way to go! Keep winding.
 
 249
@@ -1244,12 +1185,12 @@ Well, you've got to go back to the beginning of time.
 
 251
 00:22:42,310 --> 00:22:45,570
-可有你转的  接着转  别停
+可有你转的  接着转  别停!
 You've got a long way to go, so, keep winding, keep winding!
 
 252
 00:22:46,540 --> 00:22:48,150
-直到...
+直到......
 Until you get...
 
 253
@@ -1260,7 +1201,7 @@ A singularity.
 254
 00:22:49,920 --> 00:22:51,250
 时空奇点
-A space-time singularity,
+A spacetime singularity,
 
 255
 00:22:51,250 --> 00:22:53,870
@@ -1269,38 +1210,38 @@ so the universe born from a black hole exploding.
 
 256
 00:22:53,880 --> 00:22:56,620
--继续  -继续什么
-- Keep going. - What do you mean, "Keep going", what...
+继续  继续什么
+ Keep going.  What do you mean, "Keep going", what
 
 257
 00:22:56,720 --> 00:22:58,150
-宇宙起源之前吗
+宇宙起源之前吗?
 before the universe began?
 
 258
 00:22:58,400 --> 00:23:01,120
-不是  继续  用数学来解决
+不是  继续  用数学来解决!
 No, no, no, no! Keep going, develop the mathematics!
 
 259
 00:24:48,020 --> 00:24:51,710
-用力顶  用力顶
-Push it as hard as you can! Push it, push it!
+用力顶  用力顶!
+Push it, push it!
 
 260
 00:24:51,720 --> 00:24:54,570
--用力  -我用力了
-- As hard as you can. - I am pushing as hard as I can.
+用力  我用力了
+ As hard as you can.  I am pushing as hard as I can.
 
 261
 00:24:55,800 --> 00:25:04,350
-怎么...  一  二  一  二
-What... I count 1... 1, 2... 1, 2...
+怎么......  一  二  一  二
+What... I count  1, 2, 1, 2
 
 262
 00:25:04,480 --> 00:25:06,720
 好了
-All right, all right.
+all right.
 
 263
 00:25:07,320 --> 00:25:09,800
@@ -1325,7 +1266,7 @@ that destroys the cells in the brain that control essential muscle activity,
 267
 00:25:58,990 --> 00:25:59,510
 比如
-such as...
+such as
 
 268
 00:26:00,050 --> 00:26:06,660
@@ -1340,17 +1281,12 @@ The signals that muscles must receive in order to move are disrupted.
 270
 00:26:12,620 --> 00:26:18,440
 结果就是肌肉逐步萎缩
-The result is... gradual muscle decay, wasting away.
+The result is gradual muscle decay, wasting away.
 
 271
 00:26:20,360 --> 00:26:23,020
-最终  丧失
-Eventually, the ability to
-
-272
-00:26:23,020 --> 00:26:28,150
-运动能力  彻底地
-control voluntary movement is... lost... entirely.
+最终  丧失运动能力  彻底地
+Eventually, the ability to control voluntary movement is lost, entirely.
 
 273
 00:26:32,480 --> 00:26:36,750
@@ -1364,7 +1300,7 @@ There's nothing I can do for you.
 
 275
 00:26:45,180 --> 00:26:46,860
-大脑呢
+大脑呢?
 What about the brain?
 
 276
@@ -1375,7 +1311,7 @@ The brain isn't affected, you're thoughts won't change.
 277
 00:26:52,190 --> 00:26:55,900
 就是
-It's... just that...
+It's just that
 
 278
 00:26:58,080 --> 00:27:02,030
@@ -1405,11 +1341,11 @@ of the rare Cambridge Physicist,
 283
 00:28:06,640 --> 00:28:09,860
 就是盛装的这位
-seen here in his remarkable plumage..."
+seen here in his remarkable plumage
 
 284
 00:28:12,070 --> 00:28:15,840
-怎么样  他们怎么说的  你的手腕怎么样
+怎么样  他们怎么说的?  你的手腕怎么样?
 So, how was it? What did they say, how's your wrist?
 
 285
@@ -1420,7 +1356,7 @@ I have a disease, Bri.
 286
 00:28:19,690 --> 00:28:22,900
 是花柳病吗  斯蒂芬
-Is it venereal... Stephen?
+Is it venereal Stephen?
 
 287
 00:28:25,340 --> 00:28:27,800
@@ -1430,7 +1366,7 @@ I have motor neuron disease.
 288
 00:28:29,790 --> 00:28:30,970
 不好意思
-Sorry, I don't...
+Sorry, I don't.
 
 289
 00:28:31,020 --> 00:28:34,210
@@ -1449,45 +1385,35 @@ skilled motor, baseball related diseases.
 
 292
 00:28:42,740 --> 00:28:47,390
--我还剩两年  -什么
-- I have two years to live. - Sorry?
+我还剩两年  什么?
+ I have two years to live.  Sorry?
 
 293
 00:28:48,840 --> 00:28:52,110
-大声说出来就不那么怪了是吧
+大声说出来就不那么怪了是吧?
 It does sound odd when you say it out loud, doesn't it?
 
 294
 00:28:55,340 --> 00:28:58,740
-什么意思  你干什么
+什么意思?  你干什么?
 Whatchya mean? What are you doing?
-
-295
-00:29:00,710 --> 00:29:02,190
-他们  他们
-What did... what did... what...
 
 296
 00:29:02,190 --> 00:29:04,490
-他们怎么说的  我刚没仔细...
-what did they say? Sorry, I... I don't really...
+他们怎么说的  我刚没仔细......
+what did they say? Sorry, I don't really...
 
 297
 00:29:07,510 --> 00:29:08,760
-走吧  布莱恩
+走吧  布莱恩?
 Will you go, Brian?
 
 298
 00:29:08,810 --> 00:29:10,740
-斯蒂芬  是我太蠢了
+斯蒂芬  是我太蠢了......
 Stephen, I was just being a berk...
 
 299
-00:29:10,750 --> 00:29:12,510
-我没...我肯定...
-I didn't... I'm so... I'll be...
-
-300
 00:29:14,980 --> 00:29:16,490
 走吧
 You go.
@@ -1499,8 +1425,8 @@ Stephen, phone for you. It's a girl.
 
 302
 00:29:35,340 --> 00:29:39,130
--回头见  好的
-- I'll see you soon. - Yes.
+回头见  好的
+ I'll see you soon.  Yes.
 
 303
 00:29:50,670 --> 00:29:52,330
@@ -1509,18 +1435,18 @@ She's waiting.
 
 304
 00:30:02,240 --> 00:30:03,040
-斯蒂芬
+斯蒂芬?
 Stephen?
 
 305
 00:30:52,240 --> 00:30:54,290
--简  -布莱恩
-- Jane! - Brian.
+简!  布莱恩
+ Jane!  Brian.
 
 306
 00:30:54,410 --> 00:30:57,500
-真抱歉  我
-I'm sorry... I'm...
+真抱歉  我......
+I'm sorry.I'm...
 
 307
 00:30:57,610 --> 00:30:59,460
@@ -1534,17 +1460,17 @@ I'm so sorry. It's about Stephen.
 
 309
 00:31:09,650 --> 00:31:12,910
-他之前住院...
+他之前住院......
 You know he was in hospital...
 
 310
 00:31:50,610 --> 00:31:52,900
-有教育意义吗
+有教育意义吗?
 Something educational?
 
 311
 00:31:55,140 --> 00:31:56,380
-非常有
+非常有.
 Very.
 
 312
@@ -1574,7 +1500,7 @@ to work out the mathematical probability of happiness.
 
 317
 00:32:13,470 --> 00:32:14,760
-要算出来了吗
+要算出来了吗?
 Are you close?
 
 318
@@ -1584,8 +1510,8 @@ It's some integer of zero, but, no, I'm not quite there yet.
 
 319
 00:32:22,190 --> 00:32:25,310
--斯蒂芬  -他刚走
-- Stephen. - You just missed him.
+斯蒂芬  他刚走
+ Stephen.  You just missed him.
 
 320
 00:32:25,360 --> 00:32:27,170
@@ -1599,7 +1525,7 @@ Don't do this.
 
 322
 00:32:36,270 --> 00:32:37,780
-走吧
+走吧!
 Go!
 
 323
@@ -1614,27 +1540,27 @@ Play a game with me.
 
 325
 00:32:48,640 --> 00:32:50,010
-快走
+快走!
 Go!
 
 326
 00:32:54,370 --> 00:32:57,420
 你要是不站起来跟我打一场
-If you don't get up and play a game with me...
+If you don't get up and play a game with me
 
 327
 00:32:58,140 --> 00:33:00,340
 我就不回来了
-I won't come back here again...
+I won't come back here again
 
 328
 00:33:04,250 --> 00:33:06,550
 永远不来了
-...ever.
+never.
 
 329
 00:33:19,360 --> 00:33:20,740
-来吧
+来吧!
 Come on!
 
 330
@@ -1644,13 +1570,13 @@ You can leave me now.
 
 331
 00:34:51,950 --> 00:34:53,490
-你不想谈谈吗
+你不想谈谈吗?
 Are you going to talk about this or not?
 
 332
 00:34:53,540 --> 00:34:56,240
--快走不好吗  -你想要我走吗
-- Will you please just go? - Is that what you want?
+快走不好吗?  你想要我走吗?
+ Will you please just go?  Is that what you want?
 
 333
 00:34:56,330 --> 00:34:58,100
@@ -1659,23 +1585,23 @@ Yes, it is what I want, so, please,
 
 334
 00:34:58,100 --> 00:35:00,530
-你要是还在乎我  就走吧
+你要是还在乎我  就走吧!
 if you care about me all, then, please, just go!
 
 335
 00:35:00,580 --> 00:35:02,790
--不行  -我只剩两年了
-- I can't. - I have two years to live.
+不行  我只剩两年了
+ I can't.  I have two years to live.
 
 336
 00:35:02,840 --> 00:35:04,940
--我还要工作  -我爱你
-- I need to work. - I love you.
+我还要工作  我爱你
+ I need to work.  I love you.
 
 337
 00:35:10,110 --> 00:35:13,970
-你这  你得出了错误结论
-You've... you've leapt to... that's a false conclusion...
+你这......  你得出了错误结论
+You've... that's a false conclusion...
 
 338
 00:35:14,040 --> 00:35:16,430
@@ -1689,7 +1615,7 @@ and if that's not very long then, well,
 
 340
 00:35:17,930 --> 00:35:20,260
-也没事  两年也够
+也没事......  两年也够
 that's just how it is... it'll have to do.
 
 341
@@ -1709,7 +1635,7 @@ There.
 
 344
 00:36:04,320 --> 00:36:06,290
-好多了吧
+好多了吧?
 That's better, isn't it?
 
 345
@@ -1724,27 +1650,27 @@ Yes, it is.
 
 347
 00:36:20,060 --> 00:36:22,710
-...在盒子边缘
+......在盒子边缘
 ...the solutions to the Schrodinger
 
 348
 00:36:22,710 --> 00:36:27,400
-薛定谔方程是无解的  所以...
+薛定谔方程是无解的  所以......
 equation must vanish at the boundary of the box, so we have...
 
 349
 00:36:29,260 --> 00:36:30,960
-时间
+时间!
 Time!
 
 350
 00:36:31,960 --> 00:36:34,260
-你的课题是时间吗
+你的课题是时间吗?
 Time, that's your subject?
 
 351
 00:36:36,160 --> 00:36:38,660
-有具体方向吗
+有具体方向吗？
 Any aspect in particular?
 
 352
@@ -1779,18 +1705,13 @@ And this will not be a fight, Jane.
 
 358
 00:37:20,530 --> 00:37:24,900
-我们都会被打败
-This is going to be a very heavy defeat...
-
-359
-00:37:28,260 --> 00:37:30,080
-...所有人
-...for all of us.
+我们都会被打败所有人
+This is going to be a very heavy defeat for all of us.
 
 360
 00:37:34,600 --> 00:37:37,600
 我知道你们都怎么想
-I know what you all think... that...
+I know what you all think
 
 361
 00:37:39,330 --> 00:37:43,480
@@ -1809,13 +1730,13 @@ And he loves me.
 
 364
 00:37:55,860 --> 00:37:59,440
-我们要一起抗争...
+我们要一起抗争......
 We're going to fight this illness together...
 
 365
 00:38:03,350 --> 00:38:05,050
-...大家一起
-...all of us.
+大家一起
+all of us.
 
 366
 00:39:30,930 --> 00:39:32,710
@@ -1824,22 +1745,22 @@ Good luck.
 
 367
 00:39:33,360 --> 00:39:35,880
--早上好  斯蒂芬  -早上好  雷夫
-- Good morning, Stephen. - Good morning, Rev.
+早上好  斯蒂芬  早上好  雷夫
+ Good morning, Stephen.  Good morning, Rev.
 
 368
 00:39:45,960 --> 00:39:47,660
-我知道  我知道
+我知道  我知道......
 I know, I know...
 
 369
 00:39:47,760 --> 00:39:49,830
--...方程要更优雅一点  -是啊
-- ...got to be a little more elegant. - Yes, that's what...
+方程要更优雅一点  是啊......
+got to be a little more elegant.  Yes, that's what...
 
 370
 00:39:49,880 --> 00:39:51,570
-我懂...
+我懂......
 I understand...
 
 371
@@ -1854,33 +1775,33 @@ I know it's something we're all worried about initially.
 
 373
 00:40:09,660 --> 00:40:13,850
-你保留了些意见...
+你保留了些意见......
 You had some reservations about it...
 
 374
 00:40:15,900 --> 00:40:18,090
 等着瞧吧
-Well, well, we'll see.
+we'll see.
 
 375
 00:40:18,440 --> 00:40:20,110
--欢迎  斯蒂芬  -早上好
-- Welcome, Stephen. - Morning.
+欢迎  斯蒂芬  早上好
+ Welcome, Stephen.  Morning.
 
 376
 00:40:20,200 --> 00:40:24,010
--请坐吧  -不用  谢谢
-- Would you like to take a seat? - No, I'm fine, thank you.
+坐吗？  不用  谢谢
+ Would you like to take a seat?  No, I'm fine, thank you.
 
 377
 00:40:24,060 --> 00:40:25,410
-确定吗
+确定吗？
 You're sure?
 
 378
 00:40:25,460 --> 00:40:28,500
 好吧  总体来说
-So, so you... in summary.
+So. in summary.
 
 379
 00:40:29,200 --> 00:40:32,370
@@ -1894,8 +1815,8 @@ Lacks mathematical support.
 
 381
 00:40:35,600 --> 00:40:39,590
--基普·索恩教授  -第二章  原创的
-- Professor Thorne. - Chapter Two, now, really original.
+基普·索恩教授  第二章  原创的
+ Professor Thorne.  Chapter Two, now, really original.
 
 382
 00:40:39,630 --> 00:40:41,630
@@ -1929,12 +1850,12 @@ this black hole at the beginning of time.
 
 388
 00:40:55,030 --> 00:40:58,200
--时空奇点  -没错
-- Space-time singularity? - Indeed.
+时空奇点?  没错
+ Spacetime singularity?  Indeed.
 
 389
 00:40:58,250 --> 00:41:00,190
-太棒了
+太棒了!
 It's brilliant!
 
 390
@@ -1944,23 +1865,23 @@ Brilliant.
 
 391
 00:41:02,340 --> 00:41:03,620
-棒极了
+棒极了!
 Superb!
 
 392
 00:41:03,870 --> 00:41:07,040
-那么只剩下一句话了  做得不错
+那么只剩下一句话了  做得不错！
 And therefore, all that remains to be said is: Well done!
 
 393
 00:41:07,460 --> 00:41:09,360
-或者准确点说
+或者准确点说!
 Or perhaps, I should say, to be more precise:
 
 394
 00:41:09,410 --> 00:41:12,220
--做的不错  博士  -漂亮  斯蒂芬
-- Well done, Doctor! - Bravo, Stephen.
+做的不错  博士!  漂亮  斯蒂芬
+ Well done, Doctor!  Bravo, Stephen.
 
 395
 00:41:12,360 --> 00:41:15,090
@@ -1974,8 +1895,8 @@ Thank you.
 
 397
 00:41:21,200 --> 00:41:24,690
--然后呢  -证明它
-- So what next? - Prove it.
+然后呢?  证明它
+ So what next?  Prove it.
 
 398
 00:41:25,300 --> 00:41:31,690
@@ -1984,7 +1905,7 @@ To prove, with a single equation, that time had a beginning.
 
 399
 00:41:34,660 --> 00:41:37,360
-是不是很棒  教授
+是不是很棒  教授?
 Wouldn't that be nice, Professor?
 
 400
@@ -1994,7 +1915,7 @@ With one simple elegant equation
 
 401
 00:41:46,330 --> 00:41:48,930
-来解释万物
+来解释万物？
 to explain everything?
 
 402
@@ -2004,13 +1925,13 @@ Yes, it would. It would indeed.
 
 403
 00:42:13,820 --> 00:42:17,560
-受人尊敬的  能力超群的
+受人尊敬的  能力超群的......
 The esteemed, and formidable...
 
 404
 00:42:17,680 --> 00:42:19,360
--博士  -谁[神秘博士]
-- Doctor. - Who?
+博士  谁?
+ Doctor.  Who?
 
 405
 00:42:22,100 --> 00:42:24,860
@@ -2040,7 +1961,7 @@ to receive his doctorate fearing what little work he's be doing.
 410
 00:42:36,900 --> 00:42:39,110
 努力是霍金最讨厌的词
-"Work" Was the worst four-letter word for Stephen.
+"Work" Was the worst fourletter word for Stephen.
 
 411
 00:42:39,110 --> 00:42:39,550
@@ -2054,8 +1975,8 @@ especially, he averaged an hour, an HOUR a day he averaged.
 
 413
 00:42:39,560 --> 00:42:44,660
--就这样  斯蒂芬就是...  -真是神奇  我一开始...
-- And that it is. It's Stephen... - It's astonishing that...
+就这样  斯蒂芬就是......  真是神奇  我一开始......
+ And that it is. It's Stephen...  It's astonishing that...
 
 414
 00:42:49,660 --> 00:42:50,400
@@ -2064,23 +1985,23 @@ And how many of your
 
 415
 00:42:50,400 --> 00:42:52,120
-我帮你们回了多少信
+我帮你们回了多少信?
 letters have I covered in the last six months?
 
 416
 00:42:52,200 --> 00:42:54,500
-你们外出搞研究时候
+你们外出搞研究时候......
 When you've been doing research trips...
 
 417
 00:42:57,000 --> 00:42:58,590
--多少  -四封
-- How many? - Four.
+多少?  四封
+ How many?  Four.
 
 418
 00:43:24,430 --> 00:43:29,400
--没事吧  -没事  我没事
-- Everything all right? - I'm good... I'm fine.
+没事吧? 没事  我没事
+ Everything all right?  I'm good... I'm fine.
 
 419
 00:44:19,830 --> 00:44:21,100
@@ -2119,17 +2040,17 @@ Thank you.
 
 426
 00:46:54,690 --> 00:46:57,700
-你刚说什么了
+你刚说什么了?
 Sorry, did you say something?
 
 427
 00:47:00,320 --> 00:47:02,380
-我说...
+我说......
 I said...
 
 428
 00:47:05,880 --> 00:47:07,270
-什么
+什么?
 Yes?
 
 429
@@ -2139,7 +2060,7 @@ Thank you.
 
 430
 00:48:01,390 --> 00:48:02,920
-看看你
+看看你!
 Look at you!
 
 431
@@ -2169,7 +2090,7 @@ Stephen.
 
 436
 00:49:05,370 --> 00:49:06,930
-亲爱的
+亲爱的?
 Dear?
 
 437
@@ -2184,13 +2105,13 @@ I said I've had an idea.
 
 439
 00:49:29,720 --> 00:49:31,060
--你好  -你好  丹尼斯
-- Hello. - Hi, Dennis.
+你好  你好  丹尼斯
+ Hello.  Hi, Dennis.
 
 440
 00:49:31,150 --> 00:49:33,430
--你好  丹尼斯  -你好
-- Hello, Dennis. - Hi.
+你好  丹尼斯  你好
+ Hello, Dennis.  Hi.
 
 441
 00:49:34,950 --> 00:49:37,150
@@ -2204,12 +2125,12 @@ He'll be fine, he'll be fine.
 
 443
 00:49:41,790 --> 00:49:43,570
--抱歉  没关系
-- Sorry. - No problem.
+抱歉  没关系
+ Sorry.  No problem.
 
 444
 00:49:51,850 --> 00:49:56,060
-...我们可以推断
+......我们可以推断
 ...allowing us to predict that
 
 445
@@ -2229,7 +2150,7 @@ but glow with heat radiation.
 
 448
 00:50:16,250 --> 00:50:18,910
-...也就是说
+......也就是说
 ...the steady emission of
 
 449
@@ -2254,8 +2175,8 @@ Second law of thermodynamics.
 
 453
 00:50:37,370 --> 00:50:39,270
--没错  热力学  -就在...
-- He's right, it's thermodynamics. - In... in...
+没错  热力学  就在......
+ He's right, it's thermodynamics.  In...
 
 454
 00:50:40,350 --> 00:50:42,620
@@ -2274,12 +2195,12 @@ over time it will diminish in size, it will evaporate.
 
 457
 00:50:46,400 --> 00:50:49,240
--然后  -消失
-- It will... - Disappear.
+然后......  消失
+ It will...  Disappear.
 
 458
 00:50:51,520 --> 00:50:53,110
-所以
+所以......
 So...
 
 459
@@ -2289,18 +2210,18 @@ First a star vanishes into a black hole,
 
 460
 00:51:04,990 --> 00:51:12,450
-然后  黑洞也要...
+然后  黑洞也要......
 but then the black hole itself must...
 
 461
 00:51:13,670 --> 00:51:14,890
-消失  虚无
+消失!  虚无!
 Gone! Nothing!
 
 462
 00:51:14,950 --> 00:51:18,520
--从虚无到虚无  -你欠我杯啤酒
-- From nothing to nothing. - You owe me another beer.
+从虚无到虚无  你欠我杯啤酒
+ From nothing to nothing.  You owe me another beer.
 
 463
 00:51:19,090 --> 00:51:20,750
@@ -2319,12 +2240,12 @@ Not only that, how the universe was born, and how it will end.
 
 466
 00:51:28,170 --> 00:51:32,550
--砰  -咔嚓
-- Bang! - Crunch!
+砰!  咔嚓！
+ Bang!  Crunch!
 
 467
 00:51:34,380 --> 00:51:37,390
-多美  多生动
+多美！ 多生动！
 It's beautiful! It's racy!
 
 468
@@ -2334,7 +2255,7 @@ Complete nonsense. It's preposterous.
 
 469
 00:51:43,720 --> 00:51:46,940
-是因为我说的东西吗  教授
+是因为我说的东西吗？ 教授？
 Was it something I said, Professor?
 
 470
@@ -2344,7 +2265,7 @@ Excuse me.
 
 471
 00:51:52,690 --> 00:51:53,600
-我叫
+我叫......
 My name...
 
 472
@@ -2374,17 +2295,17 @@ and theory of the black holes.
 
 477
 00:52:10,790 --> 00:52:13,150
-说实话...
+说实话......
 To be honest...
 
 478
 00:52:13,190 --> 00:52:14,840
-我今天来...
+我今天来......
 I came here today...
 
 479
 00:52:15,890 --> 00:52:19,540
-...就是想听胡言乱语的
+......就是想听胡言乱语的
 ...expecting to hear a lot of nonsense.
 
 480
@@ -2399,7 +2320,7 @@ The little one here... has done it.
 
 482
 00:52:28,760 --> 00:52:30,190
-他做到了
+他做到了!
 He has done it!
 
 483
@@ -2409,28 +2330,28 @@ It has been a pleasure to meet you,
 
 484
 00:52:41,080 --> 00:52:43,730
--教授  -彼此彼此
-- Professor. - Likewise, likewise.
+教授  彼此彼此
+ Professor.  Likewise, likewise.
 
 485
 00:52:48,890 --> 00:52:53,950
--还算顺利嘛  -是挺顺利的
-- That went pretty well. - It's probably for awhile.
+还算顺利嘛  是挺顺利的
+ That went pretty well.  It's probably for awhile.
 
 486
 00:52:57,750 --> 00:53:01,270
-霍金辐射  这位小伙子做到了
+霍金辐射  这位小伙子做到了!
 Hawking radiation! The little one has done it!
 
 487
 00:53:01,270 --> 00:53:03,350
-这位小伙子做到了
+这位小伙子做到了!
 The little one has done it!
 
 488
 00:53:04,820 --> 00:53:07,250
--快点  天才  -真好笑
-- Come on, Genius! - Oh, very funny!
+快点  天才  真好笑
+ Come on, Genius!  Oh, very funny!
 
 489
 00:53:10,390 --> 00:53:12,220
@@ -2444,37 +2365,37 @@ Come on, codger. 1, 2, 3...
 
 491
 00:53:19,520 --> 00:53:21,440
-天哪  简是怎么做到的
+天哪  简是怎么做到的?
 God! How does Jane manage?
 
 492
 00:53:25,520 --> 00:53:30,080
-斯蒂芬  你那个运动口腔什么的病  会不会影响...
+斯蒂芬  你那个运动口腔什么的病  会不会影响......
 Stephen, your Motor "Mouth" Disease, does it effect...
 
 493
 00:53:30,860 --> 00:53:31,970
-什么
+什么?
 What?
 
 494
 00:53:32,780 --> 00:53:34,360
-一切
+一切?
 Everything?
 
 495
 00:53:36,810 --> 00:53:41,110
 另一套系统  自动的
-Different system... automatic.
+Different system automatic.
 
 496
 00:53:41,210 --> 00:53:42,940
-真的吗
+真的吗?
 You serious?
 
 497
 00:53:42,990 --> 00:53:45,170
-那还算不错嘛
+那还算不错嘛?
 Well, that's a bit wonderful, isn't it?
 
 498
@@ -2485,16 +2406,12 @@ Well, it certainly explains a lot about men.
 499
 00:53:50,230 --> 00:53:54,300
 快点
-Hurry up! Come on!
-
-500
-00:54:15,180 --> 00:54:17,840
-{\an8}霍金辐射
+Hurry up!
 
 501
 00:54:27,180 --> 00:54:31,840
--里面有什么  -惊喜
-- What's in there? - It's a surprise!
+里面有什么?  惊喜!
+ What's in there?  It's a surprise!
 
 502
 00:54:34,780 --> 00:54:36,410
@@ -2503,7 +2420,7 @@ Keep them closed.
 
 503
 00:54:39,540 --> 00:54:40,410
-爸爸  快看
+爸爸  快看!
 Look, Daddy, look!
 
 504
@@ -2518,33 +2435,23 @@ If you don't like it, we can take it back.
 
 506
 00:55:09,580 --> 00:55:11,230
-我不明白...
+我不明白......
 I don't understand...
 
 507
 00:55:11,230 --> 00:55:15,160
-你花了好多年假设黑洞存在
-you've spent years assuming black holes exist, and
-
-508
-00:55:15,180 --> 00:55:18,410
-你相信天鹅座X-1星很可能
-you believe Cygnus X-1 could well turn out to be
-
-509
-00:55:18,460 --> 00:55:21,890
-是我们能观测到的第一个黑洞
-the first black hole that we can actually observe,
+你花了好多年假设黑洞存在你相信天鹅座X1星很可能是我们能观测到的第一个黑洞
+you've spent years assuming black holes exist, and you believe Cygnus X1 could well turn out to be the first black hole that we can actually observe
 
 510
 00:55:21,940 --> 00:55:24,310
-却还跟基普·索恩赌它不是
+却还跟基普·索恩赌它不是?
 and yet you bet Kip Thorne it's not a black hole?
 
 511
 00:55:24,360 --> 00:55:26,490
--是的  -赌什么
-- Yes. - What did you bet him?
+是的  赌什么?
+ Yes.  What did you bet him?
 
 512
 00:55:26,780 --> 00:55:30,450
@@ -2553,48 +2460,48 @@ A one year's subscription to a magazine.
 
 513
 00:55:31,500 --> 00:55:35,980
--什么杂志  《自然》吗  -不是  《阁楼》
-- Which magazine? Nature? - No! Penthouse!
+什么杂志?  《自然》吗?  不是!《阁楼》?!
+ Which magazine? Nature?  No! Penthouse!
 
 514
 00:55:36,680 --> 00:55:39,140
--《阁楼》吗  -没错
-- Penthouse? - Yes.
+《阁楼》吗?  没错
+ Penthouse?  Yes.
 
 515
 00:55:39,210 --> 00:55:41,210
-抓到你了
+抓到你了!
 Gonna get you!
 
 516
 00:55:44,640 --> 00:55:47,480
-爸爸  快点  得快点
+爸爸!  快点!  得快点!
 Daddy! Come up! You need to hurry!
 
 517
 00:55:51,910 --> 00:55:54,630
-妈妈  妈妈  快来看
+妈妈!  妈妈!  快来看!
 Mummy! Muumy! Come and look!
 
 518
 00:55:58,310 --> 00:56:00,810
-抓到你了
+抓到你了!
 I'm gonna get you!
 
 519
 00:56:08,480 --> 00:56:14,090
-一整天  一整天  一整天  一整天
+一整天!  一整天!  一整天!  一整天!
 All that day! All that day! All that day! All that day!
 
 520
 00:56:22,420 --> 00:56:24,120
--你好  -你好
-- Hello! - Hello!
+你好! 你好!
+ Hello!  Hello!
 
 521
 00:56:24,170 --> 00:56:25,170
--你好  -来了啊
-- Hello! - There you are!
+你好!  来了啊!
+ Hello!  There you are!
 
 522
 00:56:25,180 --> 00:56:28,180
@@ -2608,12 +2515,12 @@ The bloody steps, Frank.
 
 524
 00:56:31,060 --> 00:56:32,590
--简  斯蒂芬  -你好
-- Jane, Stephen! - Hello.
+简  斯蒂芬!  你好
+ Jane, Stephen!  Hello.
 
 525
 00:56:32,610 --> 00:56:34,140
-终于来了
+终于来了!
 Here we are!
 
 526
@@ -2624,7 +2531,7 @@ Yes, here we go.
 527
 00:56:36,110 --> 00:56:39,380
 等上去了就方便多了  你好啊  斯蒂芬
-And once we're up at the top, it's very snug... hello, Stephen.
+And once we're up at the top, it's very snug hello, Stephen.
 
 528
 00:56:39,540 --> 00:56:41,040
@@ -2633,8 +2540,8 @@ Here we go.
 
 529
 00:56:41,090 --> 00:56:43,280
--来给你转个身  -要我推一下吗
-- We'll turn you around, Stephen. - You want me to push?
+来给你转个身  要我推一下吗?
+ We'll turn you around, Stephen.  You want me to push?
 
 530
 00:56:43,480 --> 00:56:46,040
@@ -2659,7 +2566,7 @@ One, there we go.
 534
 00:56:58,960 --> 00:57:05,770
 下雨了  冷得让人发抖
-Um... the... rain coming down, shivering, cold, no, uh...
+rain coming down, shivering, cold, no, uh...
 
 535
 00:57:06,030 --> 00:57:10,650
@@ -2668,8 +2575,8 @@ The... falling... falling... um...
 
 536
 00:57:12,340 --> 00:57:14,070
--非常冷  -是什么
-- Very cold. - What is it?
+非常冷.  是什么?
+ Very cold.  What is it?
 
 537
 00:57:14,120 --> 00:57:17,270
@@ -2678,13 +2585,13 @@ I can... I'm having a...
 
 538
 00:57:28,040 --> 00:57:29,840
-出来了吗
+出来了吗?
 Is it out?
 
 539
 00:57:31,240 --> 00:57:33,950
--要点水吗  -不用  没事
-- Some... some water? - No, don't worry.
+要点水吗......  不用  没事
+ Some... some water?  No, don't worry.
 
 540
 00:57:34,690 --> 00:57:36,860
@@ -2708,8 +2615,8 @@ It keeps happening over and over again.
 
 544
 00:57:45,940 --> 00:57:54,280
--不看医生  不看医生  -好  不看
-- No doctors. No doctors! - All right, no doctors.
+不看医生  不看医生!  好  不看
+ No doctors. No doctors!  All right, no doctors.
 
 545
 00:57:58,730 --> 00:58:00,630
@@ -2718,7 +2625,7 @@ A little water.
 
 546
 00:58:38,810 --> 00:58:40,560
-斯蒂芬
+斯蒂芬?
 Stephen?
 
 547
@@ -2729,7 +2636,7 @@ I need help.
 548
 00:58:47,710 --> 00:58:52,290
 为了罗伯特  他的童年都被我拖累了
-If only for Robert, it... he's missing out on his childhood.
+If only for Robert, he's missing out on his childhood.
 
 549
 00:58:52,580 --> 00:58:55,930
@@ -2753,7 +2660,7 @@ We're not a normal family.
 
 553
 00:59:09,880 --> 00:59:12,030
-哪里正常了
+哪里正常了!
 We're not a normal family!
 
 554
@@ -2768,22 +2675,22 @@ Thanks.
 
 556
 00:59:40,290 --> 00:59:41,710
-简
+简?
 Jane?
 
 557
 00:59:47,620 --> 00:59:49,410
-简  停下
+简!  停下!
 Jane! Stop!
 
 558
 00:59:56,770 --> 00:59:58,150
-坐下
+坐下!
 Sit!
 
 559
 01:00:11,920 --> 01:00:13,650
-好了...
+好了......
 Now...
 
 560
@@ -2803,18 +2710,13 @@ I think that you should consider joining the church choir.
 
 563
 01:00:36,680 --> 01:00:38,410
-妈妈
+妈妈......
 Mum...
 
 564
 01:00:38,480 --> 01:00:39,940
-我好久都没听过
-I think that's possibly
-
-565
-01:00:39,940 --> 01:00:42,750
-这么贴心的话了
-the most English thing anyone has ever said.
+我好久都没听过这么贴心的话了
+I think that's possibly the most English thing anyone has ever said.
 
 566
 01:00:44,840 --> 01:00:46,480
@@ -2823,13 +2725,13 @@ Maybe so.
 
 567
 01:00:48,510 --> 01:00:51,690
--我以前喜欢唱歌  -唱得挺好的
-- I used to love singing. - You're very good at it.
+我以前喜欢唱歌  唱得挺好的
+ I used to love singing.  You're very good at it.
 
 568
 01:00:52,240 --> 01:00:55,280
--可我也不确定  -去吧
-- I don't know about that. - Just go.
+可我也不确定  去吧
+ I don't know about that.  Just go.
 
 569
 01:00:58,010 --> 01:01:00,280
@@ -2843,28 +2745,28 @@ Really lovely, everyone. Okay, see you next week.
 
 571
 01:01:59,080 --> 01:02:00,260
--你好  -你好
-- Hello. - Hello.
+你好  你好
+ Hello.  Hello.
 
 572
 01:02:00,340 --> 01:02:05,780
--是要加入唱诗班吗  -我是来...
-- Have you come to sing? - Um... I just came to...
+是要加入唱诗班吗?  我是来......
+ Have you come to sing?  Um... I just came to...
 
 573
 01:02:08,800 --> 01:02:11,140
--高音吗  -中音
-- Soprano? - Mezzo.
+高音吗?  中音
+ Soprano?  Mezzo.
 
 574
 01:02:11,200 --> 01:02:13,660
-太棒了  正需要中音
+太棒了!  正需要中音
 Ah! Lovely! Just what we need.
 
 575
 01:02:14,000 --> 01:02:16,990
--你早去哪了  -问得好
-- Where have you been hiding? - A good question.
+你早去哪了  问得好
+ Where have you been hiding?  A good question.
 
 576
 01:02:17,030 --> 01:02:20,260
@@ -2878,17 +2780,17 @@ As they say.
 
 578
 01:02:27,170 --> 01:02:30,070
--反正我还要回来的  -好
-- Ya know, I have to come back anyway. - Great.
+反正我还要回来的  好
+ You know, I have to come back anyway.  Great.
 
 579
 01:02:30,130 --> 01:02:32,430
--都给你了吗  -是的  谢谢
-- Do you have everything? - Yes, thank you, yes.
+都给你了吗?  是的  谢谢
+ Do you have everything?  Yes, thank you, yes.
 
 580
 01:02:32,480 --> 01:02:36,910
-谢谢你  你肯定是...团里的中流砥柱
+谢谢你  你肯定是......团里的中流砥柱
 Thank you for coming, you will be a... A valuable asset.
 
 581
@@ -2898,42 +2800,42 @@ Thank you.
 
 582
 01:02:41,700 --> 01:02:43,570
-我  我该走了
+我  我该走了......
 Well, I should... I should be going.
 
 583
 01:02:43,670 --> 01:02:46,540
-要是你儿子想学钢琴...
-And... uh... if your son wants those piano lessons, just...
+要是你儿子想学钢琴......
+if your son wants those piano lessons, just...
 
 584
 01:02:46,630 --> 01:02:48,930
 是啊  没问题
-Yes, yes, absolutely, I... um...
+Yes, yes, absolutely
 
 585
 01:02:49,520 --> 01:02:50,700
--肯定找你  -真棒
-- I will do. - Great.
+肯定找你  真棒
+ I will do.  Great.
 
 586
 01:02:50,730 --> 01:02:53,930
 我丈夫也喜欢音乐
-My... my husband... adores music, too.
+my husband adores music, too.
 
 587
 01:02:53,930 --> 01:02:56,670
-他弹什么乐器吗
-Oh! Well! Does he play?
+他弹什么乐器吗?
+Does he play?
 
 588
 01:02:58,020 --> 01:03:00,340
 我也可以教他的
-I could... I could teach him as well.
+I could teach him as well.
 
 589
 01:03:01,030 --> 01:03:04,220
-说来话长  不过...
+说来话长  不过......
 That's a long story. But, um...
 
 590
@@ -2943,17 +2845,17 @@ Ah, okay.
 
 591
 01:03:05,700 --> 01:03:08,210
--谢谢你  乔纳森  -不客气  简  再见
-- Well, thank you, Jonathan - My pleasure, Jane, see you again.
+谢谢你  乔纳森  不客气  简  再见
+ Well, thank you, Jonathan  My pleasure, Jane, see you again.
 
 592
 01:03:08,260 --> 01:03:09,730
--再见  -再见
-- Bye bye. - Bye bye.
+再见  再见
+ Bye bye.  Bye bye.
 
 593
 01:04:02,930 --> 01:04:04,480
-要酒吗
+要酒吗?
 Wine?
 
 594
@@ -2963,18 +2865,18 @@ Why not, thank you.
 
 595
 01:04:07,260 --> 01:04:09,810
--斯蒂芬  -要
-- Stephen? - Yes.
+斯蒂芬?  要
+ Stephen?  Yes.
 
 596
 01:04:27,770 --> 01:04:31,420
-斯蒂芬  简跟我说  你有个优美的理论
+斯蒂芬  简跟我说  你有个优美的理论......
 Stephen, Jane was telling me you have a beautiful theorem...
 
 597
 01:04:33,570 --> 01:04:38,840
 证明宇宙是有开端的
-...that... that proves the universe had a beginning?
+that proves the universe had a beginning?
 
 598
 01:04:42,900 --> 01:04:46,740
@@ -2988,7 +2890,7 @@ My new project disproves it.
 
 600
 01:04:53,900 --> 01:04:55,060
-是错的
+是错的?
 Disproves it?
 
 601
@@ -2998,18 +2900,13 @@ Yes.
 
 602
 01:04:58,700 --> 01:05:01,720
-那你不再相信创世理论了
+那你不再相信创世理论了?
 So, then, you no longer believe in the Creation?
 
 603
 01:05:02,000 --> 01:05:08,260
-在物理学里  人信仰什么是...
-What one believes is irrelevant...
-
-604
-01:05:08,400 --> 01:05:11,080
-...是不重要的
-...irrelevant in physics.
+在物理学里  人信仰什么是是不重要的
+What one believes is irrelevant irrelevant in physics.
 
 605
 01:05:12,650 --> 01:05:14,120
@@ -3019,7 +2916,7 @@ I see.
 606
 01:05:14,630 --> 01:05:16,200
 斯蒂芬来了个大转弯
-Stephen's done a U-turn.
+Stephen's done a Uturn.
 
 607
 01:05:16,300 --> 01:05:20,020
@@ -3028,18 +2925,18 @@ The big new idea is that the universe has no boundaries at all.
 
 608
 01:05:20,570 --> 01:05:22,560
-没有边界  没有开端...
+没有边界  没有开端......
 No boundaries, no beginning...
 
 609
 01:05:22,570 --> 01:05:25,850
-...也没有上帝
-...and no God. Oh!
+也没有上帝!
+and no God. Oh!
 
 610
 01:05:25,900 --> 01:05:29,050
-明白了  我还以为
-Oh, I see... I... I thought that...
+明白了......  我还以为......
+Oh, I see... I thought that...
 
 611
 01:05:29,370 --> 01:05:30,570
@@ -3053,8 +2950,8 @@ had a beginning and thus a need for a Creator.
 
 613
 01:05:34,900 --> 01:05:39,060
--我的错  -是我的
-- My mistake. - No... mine.
+我的错  是我的
+ My mistake.  No mine.
 
 614
 01:05:41,300 --> 01:05:43,080
@@ -3104,11 +3001,11 @@ Einstein's theory, the law that governs the very large,
 623
 01:06:09,460 --> 01:06:14,100
 恒星什么的  但量子论  和相对论
-planets and such, but Quantum, and Relativity...
+planets and such, but Quantum, and Relativity
 
 624
 01:06:14,170 --> 01:06:16,190
-别说  他们是不一样的
+别说......  他们是不一样的?
 Don't tell me... they're different?
 
 625
@@ -3143,7 +3040,7 @@ If you incorporate peas into the menu,
 
 631
 01:06:36,870 --> 01:06:38,250
-就变得有点...
+就变得有点......
 then it all goes a little...
 
 632
@@ -3158,8 +3055,8 @@ Yes, haywire.
 
 634
 01:06:43,070 --> 01:06:45,410
--变成了没有上帝的乱世  -天啊
-- It all becomes a Godless mess. - Oh, dear.
+变成了没有上帝的乱世  天啊
+ It all becomes a Godless mess.  Oh, dear.
 
 635
 01:06:45,600 --> 01:06:48,000
@@ -3209,7 +3106,7 @@ Yes, physics is back in business.
 644
 01:07:30,030 --> 01:07:32,360
 我以前结过婚
-I was married... actually.
+I was married actually.
 
 645
 01:07:34,870 --> 01:07:37,220
@@ -3228,12 +3125,12 @@ It was leukemia.
 
 648
 01:07:47,270 --> 01:07:52,860
-她抗争过  我也尽力照顾  可还是...
+她抗争过  我也尽力照顾  可还是......
 She fought it and I nursed her, but in the end...
 
 649
 01:07:58,300 --> 01:08:04,870
-我特别孤独  独守空房
+我特别孤独......  独守空房
 I do get quite lonely... the tyranny of the empty room.
 
 650
@@ -3244,7 +3141,7 @@ And all that.
 651
 01:08:07,470 --> 01:08:11,200
 但音乐拯救了我  在唱诗班  教人弹琴
-But... music is my salvation... teaching and playing.
+But music is my salvation... teaching and playing.
 
 652
 01:08:11,370 --> 01:08:13,230
@@ -3254,11 +3151,11 @@ Not really as a career,
 653
 01:08:13,230 --> 01:08:15,290
 反正我也没有什么野心
-but I... I'm not that ambitious, so...
+but I... I'm not that ambitious
 
 654
 01:08:22,030 --> 01:08:25,220
-这算不算是罪  我也不知道
+这算不算是罪?  我也不知道
 Is that a sin? I don't know.
 
 655
@@ -3268,12 +3165,12 @@ Wrong man to ask.
 
 656
 01:08:34,770 --> 01:08:37,670
--谢谢你们的招待  -谢谢你能来
-- Thank you so much for having me. - Thank you for coming.
+谢谢你们的招待  谢谢你能来
+ Thank you so much for having me.  Thank you for coming.
 
 657
 01:08:37,720 --> 01:08:40,230
-真是太...太好了
+真是太......太好了
 It was re... really... really wonderful.
 
 658
@@ -3303,7 +3200,7 @@ I only mean that if I... could be of help, I've...
 
 663
 01:08:56,030 --> 01:08:58,130
-我肯定...  也算是
+我肯定......  也算是
 I'm... really, if I might find a purpose
 
 664
@@ -3313,22 +3210,22 @@ that would help alleviate my own situation.
 
 665
 01:09:04,110 --> 01:09:06,590
--晚安  -晚安
-- Good night. - Night.
+晚安  晚安
+ Good night.  Night.
 
 666
 01:09:42,830 --> 01:09:46,060
-我理解你的
+我理解你的......
 I understand...
 
 667
 01:09:47,670 --> 01:09:50,940
-如果你需要帮助...
+如果你需要帮助......
 If you need help...
 
 668
 01:09:53,230 --> 01:09:59,490
-并且有人愿意帮忙
+并且有人愿意帮忙......
 If someone is prepared to offer...
 
 669
@@ -3358,12 +3255,12 @@ Great! Lovely! Okay! We can go!
 
 674
 01:12:47,390 --> 01:12:49,850
--刚刚七点二十五  -谢谢
-- Just going on seven twenty-five. - Thank you.
+刚刚七点二十五  谢谢
+ Just going on seven twentyfive.  Thank you.
 
 675
 01:12:50,390 --> 01:12:53,370
-能...谁能给我留一份
+能...谁能给我留一份?
 I'm... could... could you all leave a copy of that?
 
 676
@@ -3373,7 +3270,7 @@ There's something I need to tell you.
 
 677
 01:13:01,980 --> 01:13:03,400
-什么
+什么?
 What?
 
 678
@@ -3383,47 +3280,47 @@ I'm pregnant.
 
 679
 01:13:08,260 --> 01:13:11,910
-天啊  我...我还以为你和斯蒂芬
+天啊  我......我还以为你和斯蒂芬......
 Gosh! I... I, um... I assumed that you and Stephen...
 
 680
 01:13:13,020 --> 01:13:15,510
-真...真是太棒了
-Well, that's... that's really wonderful.
+真是太棒了
+that's really wonderful.
 
 681
 01:13:15,930 --> 01:13:18,730
--确实  -真的  太美妙了
-- It is. - Yes, it's wonderful.
+确实  真的  太美妙了
+ It is.  Yes, it's wonderful.
 
 682
 01:13:19,660 --> 01:13:23,510
--简  恭喜你  -谢谢
-- Congratulations, Jane. - Thank you.
+简  恭喜你  谢谢
+ Congratulations, Jane.  Thank you.
 
 683
 01:13:38,910 --> 01:13:40,530
-说"茄子"  准备好了吗
+说"茄子"!  准备好了吗?
 Everyone say "Cheese"! Ready?
 
 684
 01:13:40,540 --> 01:13:42,560
-我数到三  1  2  3
+我数到三!  1  2  3
 Count 3! 1, 2, 3...
 
 685
 01:13:42,610 --> 01:13:44,340
-茄子
+茄子!
 Cheese!
 
 686
 01:13:57,120 --> 01:13:59,520
--妈妈  -来了
-- Mummy! - Just coming.
+妈妈!  来了
+ Mummy!  Just coming.
 
 687
 01:14:08,860 --> 01:14:11,160
-那个
+那个......
 Now, you know...
 
 688
@@ -3441,11 +3338,6 @@ of your choice not to have home help,
 但我们得想个长远的办法
 but we need to find a permanent solution.
 
-691
-01:14:18,240 --> 01:14:19,660
-这种...这种...
-This... this...
-
 692
 01:14:20,020 --> 01:14:22,300
 这种状况不是长久之计
@@ -3454,7 +3346,7 @@ situation cannot continue,
 693
 01:14:22,300 --> 01:14:26,860
 你得赶紧找个常住的护工
-you need to have a proper live-in nurse immediately.
+you need to have a proper live in nurse immediately.
 
 694
 01:14:27,160 --> 01:14:29,220
@@ -3469,7 +3361,7 @@ Look... you know what I'm talking about.
 696
 01:14:33,560 --> 01:14:36,840
 我们雇不起护工
-We can't afford a live-in nurse.
+We can't afford a livein nurse.
 
 697
 01:14:36,850 --> 01:14:39,160
@@ -3478,7 +3370,7 @@ Stephen, you need to find a way,
 
 698
 01:14:39,160 --> 01:14:40,740
-为了你的家人
+为了你的家人......
 for your family's sake...
 
 699
@@ -3508,17 +3400,17 @@ We have a right to know, Jane.
 
 704
 01:15:21,060 --> 01:15:23,100
-知道什么
+知道什么？
 Know what?
 
 705
 01:15:23,690 --> 01:15:26,080
-蒂莫西的爸爸是谁...
+蒂莫西的爸爸是谁......
 Whose child Timothy is...
 
 706
 01:15:26,080 --> 01:15:29,060
-斯蒂芬还是乔纳森
+斯蒂芬还是乔纳森?
 Stephen's, or Jonathan's?
 
 707
@@ -3538,18 +3430,18 @@ could have any other father than Stephen.
 
 710
 01:15:38,660 --> 01:15:40,460
-行了吧
+行了吧!
 Enough!
 
 711
 01:15:50,910 --> 01:15:53,770
--乔纳森  别走  -我该走了
-- Jonathan, please don't go. - I have to go.
+乔纳森  别走  我该走了
+ Jonathan, please don't go.  I have to go.
 
 712
 01:15:54,060 --> 01:15:56,770
--所有人都说我们...  -那又怎样
-- Everybody's talking, and... - So, what does it matter?
+所有人都说我们......  那又怎样?
+ Everybody's talking, and...  So, what does it matter?
 
 713
 01:15:56,820 --> 01:15:58,890
@@ -3571,15 +3463,10 @@ and your help is valueless.
 我想现在我最好还是
 The best thing for me right thing right now,
 
-717
-01:16:02,800 --> 01:16:03,740
-还是...还是
-I think, maybe if... if... if...
-
 718
 01:16:04,150 --> 01:16:06,140
-...退出你们的生活吧
-...I just step back for now.
+退出你们的生活吧
+I just step back for now.
 
 719
 01:16:06,160 --> 01:16:07,460
@@ -3598,8 +3485,8 @@ and I need you, and Stephen needs you.
 
 722
 01:16:10,860 --> 01:16:11,660
--乔纳森  -别说这些了
-- Jonathan... - Don't think of it.
+乔纳森  别说这些了
+ Jonathan...  Don't think of it.
 
 723
 01:16:11,690 --> 01:16:14,180
@@ -3628,17 +3515,17 @@ I've been invited to Bordeaux.
 
 728
 01:17:26,420 --> 01:17:30,720
--去哪  -波尔多
-- Invited where? - To Bordeaux.
+去哪?  波尔多
+ Invited where?  To Bordeaux.
 
 729
 01:17:31,850 --> 01:17:33,500
-你要去波尔多
+你要去波尔多?
 To Bordeaux?
 
 730
 01:17:34,680 --> 01:17:36,180
-马克他们吗
+马克他们吗?
 Mark and them?
 
 731
@@ -3688,8 +3575,8 @@ Hello, Stephen.
 
 740
 01:18:55,060 --> 01:18:58,010
--喝这个行吗  -这个...
-- Is this okay? - Well...
+喝这个行吗  这个......
+ Is this okay?  Well...
 
 741
 01:18:59,190 --> 01:19:01,160
@@ -3698,7 +3585,7 @@ I won't tell if you won't.
 
 742
 01:19:12,370 --> 01:19:13,490
-但是...
+但是......
 Just...
 
 743
@@ -3728,17 +3615,17 @@ And you'll call me when you get to the hotel.
 
 748
 01:19:54,080 --> 01:19:55,320
--不会忘的  -保证
-- I will. -Yes? Promise?
+不会忘的  保证?
+ I will. Yes? Promise?
 
 749
 01:19:55,370 --> 01:19:56,450
--一定不会  -好
-- Yeah. - Good!
+一定不会  好!
+ Yeah.  Good!
 
 750
 01:19:57,480 --> 01:19:59,080
-斯蒂芬
+斯蒂芬?
 Stephen?
 
 751
@@ -3748,8 +3635,8 @@ Mum'll take the baby.
 
 752
 01:20:03,950 --> 01:20:07,040
--她一会就到  -我们波尔多见
-- She'll be here any minute. - See you in Bordeaux.
+她一会就到  我们波尔多见
+ She'll be here any minute.  See you in Bordeaux.
 
 753
 01:20:07,870 --> 01:20:09,600
@@ -3758,8 +3645,8 @@ You be good.
 
 754
 01:20:33,550 --> 01:20:36,240
--他们睡了吗  -睡了
-- They asleep? - Yeah.
+他们睡了吗?  睡了
+ They asleep?  Yeah.
 
 755
 01:22:37,190 --> 01:22:38,780
@@ -3768,7 +3655,7 @@ Jonathan.
 
 756
 01:23:51,990 --> 01:23:53,220
-乔纳森
+乔纳森?
 Jonathan?
 
 757
@@ -3785,30 +3672,6 @@ he's in the hospital right now,
 01:24:00,130 --> 01:24:01,430
 现在还在昏迷
 he's in a coma.
-
-760
-01:24:33,430 --> 01:24:34,430
-{\an8}他怎么了
-
-761
-01:24:36,430 --> 01:24:37,430
-{\an8}他感染了重度肺炎
-
-762
-01:24:39,430 --> 01:24:41,430
-{\an8}现在全靠呼吸机维持
-
-763
-01:24:45,430 --> 01:24:46,430
-{\an8}不知道他还能撑多久
-
-764
-01:24:50,430 --> 01:24:51,430
-{\an8}我得问问我的同事
-
-765
-01:24:51,430 --> 01:24:53,430
-{\an8}能不能撤掉呼吸机
 
 766
 01:24:56,410 --> 01:24:58,420
@@ -3832,12 +3695,12 @@ it's not sure he will survive resuscitation.
 
 770
 01:25:10,580 --> 01:25:12,940
-让他脱离麻醉状态
+让他脱离麻醉状态!
 You have to bring him round from the anesthetic!
 
 771
 01:25:14,400 --> 01:25:16,790
-你确定真要这么做
+你确定真要这么做?
 Are you sure it's what you want?
 
 772
@@ -3853,7 +3716,7 @@ would be to give him a tracheotomy,
 774
 01:25:23,280 --> 01:25:27,330
 在脖子上开刀  从喉咙旁边过去
-a hole in the neck, by-passing the throat.
+a hole in the neck, bypassing the throat.
 
 775
 01:25:28,510 --> 01:25:30,770
@@ -3862,7 +3725,7 @@ He will never speak again.
 
 776
 01:25:35,110 --> 01:25:39,850
-没得商量  必须要保住他的命
+没得商量......  必须要保住他的命
 There's no question... Stephen must live.
 
 777
@@ -3877,8 +3740,8 @@ I will have him transferred back to Cambridge.
 
 779
 01:25:49,180 --> 01:25:54,040
--他很可能下不了手术台  -他能的
-- He may not survive the journey. - Yes, he will.
+他很可能下不了手术台  他能的
+ He may not survive the journey.  Yes, he will.
 
 780
 01:26:01,850 --> 01:26:03,110
@@ -3887,7 +3750,7 @@ I know.
 
 781
 01:26:05,380 --> 01:26:06,740
-我就...
+我就......
 I'll...
 
 782
@@ -3897,12 +3760,12 @@ step back.
 
 783
 01:26:12,610 --> 01:26:14,890
-你东西都带齐了吗
+你东西都带齐了吗......
 Did you get everything in the car...
 
 784
 01:26:14,900 --> 01:26:17,750
-他的轮椅  设备什么的
+他的轮椅  设备什么的?
 his chair, and his equipment, and everything?
 
 785
@@ -3912,7 +3775,7 @@ Goodbye.
 
 786
 01:28:15,420 --> 01:28:16,420
-斯蒂芬
+斯蒂芬?
 Stephen?
 
 787
@@ -3952,7 +3815,7 @@ by blinking again when I say the color of each letter with that group...
 
 794
 01:29:01,310 --> 01:29:03,050
-...很简单
+......很简单
 ...apparently
 
 795
@@ -3992,8 +3855,8 @@ Blink to choose the color of
 
 802
 01:29:31,970 --> 01:29:34,090
-就对我眨下眼睛好吗
-the group of the letter that you want, Stephen.?
+就对我眨下眼睛好吗?
+the group of the letter that you want, Stephen?
 
 803
 01:29:45,640 --> 01:29:47,220
@@ -4022,8 +3885,8 @@ Red.
 
 808
 01:30:52,970 --> 01:30:55,700
--稍等一下  -好的
-- Just wait here. - Great.
+稍等一下  好的
+ Just wait here.  Great.
 
 809
 01:31:02,100 --> 01:31:06,170
@@ -4037,7 +3900,7 @@ Promise not to eat her alive.
 
 811
 01:31:13,000 --> 01:31:14,520
-好吗
+好吗?
 Okay?
 
 812
@@ -4082,8 +3945,8 @@ Thank you, Jane.
 
 820
 01:31:48,940 --> 01:31:52,260
--对了  拜托你关上门  -当然
-- Oh, if you just close the doors. - Of course.
+对了  拜托你关上门  当然
+ Oh, if you just close the doors.  Of course.
 
 821
 01:31:57,900 --> 01:32:00,040
@@ -4093,7 +3956,7 @@ Let's get started then.
 822
 01:32:02,070 --> 01:32:04,000
 好了
-Okay...
+Okay.
 
 823
 01:32:12,280 --> 01:32:13,900
@@ -4117,7 +3980,7 @@ Green.
 
 827
 01:32:25,100 --> 01:32:27,670
-黑色  E
+黑色......  E
 Black... "E".
 
 828
@@ -4142,7 +4005,7 @@ Okay.
 
 832
 01:32:44,300 --> 01:32:46,100
-要什么口味
+要什么口味？
 Any preference?
 
 833
@@ -4172,7 +4035,7 @@ Green, blue, black, pink, red.
 
 838
 01:33:09,010 --> 01:33:10,140
-红色吗
+红色吗？
 Red?
 
 839
@@ -4182,12 +4045,12 @@ Green, yellow, blue, blue.
 
 840
 01:33:13,170 --> 01:33:19,050
-U 你要加糖和奶  是吗
+U 你要加糖和奶  是吗?
 "U"... should be Builder's Tea, right?
 
 841
 01:33:27,370 --> 01:33:29,390
-他学的怎么
+他学的怎么?
 Well, how did he get on?
 
 842
@@ -4197,12 +4060,12 @@ You know, I think he's the most brilliant man I've ever met.
 
 843
 01:33:33,470 --> 01:33:36,310
--你很幸运  -谢谢
-- You're very lucky. - Thank you.
+你很幸运  谢谢
+ You're very lucky.  Thank you.
 
 844
 01:33:36,540 --> 01:33:38,860
-连他下面的土地都是伟大的...
+连他下面的土地都是伟大的......
 You must worship the ground beneath...
 
 845
@@ -4217,7 +4080,7 @@ And he's a perfect patient, he's so funny.
 
 847
 01:33:44,160 --> 01:33:45,610
-当你了解了他的时候...
+当你了解了他的时候......
 When you read about him people...
 
 848
@@ -4227,7 +4090,7 @@ Let's see how he gets on,
 
 849
 01:33:46,650 --> 01:33:47,720
-好吗  伊莲
+好吗  伊莲?
 shall we, Elaine?
 
 850
@@ -4247,8 +4110,8 @@ and we can change the angle to whatever speed wants you there.
 
 853
 01:33:58,670 --> 01:34:01,030
--这可是尖端科技  -要怎么用
-- Ya know, it's cutting-edge. - So, how does it work?
+这可是尖端科技  要怎么用?
+ Ya know, it's cuttingedge.  So, how does it work?
 
 854
 01:34:01,070 --> 01:34:04,390
@@ -4297,28 +4160,28 @@ to convert the written text into synthesized speech.
 
 863
 01:34:21,980 --> 01:34:25,270
-声音是有点像机器人  但总比...
+声音是有点像机器人  但总比......
 I mean the voice sounds a little bit robotic, but...
 
 864
 01:34:25,620 --> 01:34:26,760
-我们来试试吧
+我们来试试吧?
 Shall we give it a try?
 
 865
 01:34:26,820 --> 01:34:28,960
--太棒了  -这是按钮
-- Great! - Here's the clicker.
+太棒了  这是按钮
+ Great!  Here's the clicker.
 
 866
 01:34:32,870 --> 01:34:34,100
-右手吗
+右手吗?
 Right hand?
 
 867
 01:34:40,960 --> 01:34:42,180
 开始吧
-There ya go.
+There you go.
 
 868
 01:34:44,910 --> 01:34:46,930
@@ -4332,18 +4195,18 @@ My name is Stephen Hawking.
 
 870
 01:34:56,680 --> 01:34:58,150
-是美国口音的
+是美国口音的!
 It's American!
 
 871
 01:34:58,680 --> 01:34:59,960
-有问题吗
+有问题吗?
 Is that a problem?
 
 872
 01:35:00,550 --> 01:35:04,290
-这个...有别的选择吗
-Oh, my goodness, well... is there another voice?
+有别的选择吗
+is there another voice?
 
 873
 01:35:05,320 --> 01:35:07,710
@@ -4355,10 +4218,6 @@ It's the only one lately I have at the moment.
 真棒
 I think it's great.
 
-875
-01:35:43,080 --> 01:35:47,220
-{\an8}取自歌曲《Daisy Bell》
-
 876
 01:35:43,080 --> 01:35:47,220
 黛西  黛西  告诉我你的答案  快点
@@ -4368,10 +4227,6 @@ Daisy, Daisy, give me your answer, do.
 01:35:53,500 --> 01:35:57,150
 "说实话  亲爱的  我不在乎"
 "Frankly, my dear, I don't give a damn."
-
-878
-01:36:01,610 --> 01:36:05,520
-{\an8}《神秘博士》中Dalek的经典台词
 
 879
 01:36:01,610 --> 01:36:03,130
@@ -4395,17 +4250,17 @@ I will write a book.
 
 883
 01:36:22,220 --> 01:36:23,570
-关于什么的
+关于什么的?
 About what?
 
 884
 01:36:31,250 --> 01:36:34,040
--时间  -时间
-- Time. - Time.
+时间  时间
+ Time.  Time.
 
 885
 01:36:42,570 --> 01:36:45,140
-时间的本质是什么
+时间的本质是什么?
 What is the nature of time?
 
 886
@@ -4415,7 +4270,7 @@ Will it ever come to an end?
 
 887
 01:36:49,090 --> 01:36:51,350
-我们能不能回到过去
+我们能不能回到过去?
 Can we go back in time?
 
 888
@@ -4433,10 +4288,6 @@ as obvious to us as the Earth orbiting the sun,
 抑或如乌龟塔般荒谬
 or perhaps as ridiculous as a tower of tortoises.
 
-891
-01:37:00,160 --> 01:37:04,180
-{\an8}古代人对宇宙的认识
-
 892
 01:37:07,310 --> 01:37:09,450
 唯有时间
@@ -4447,11 +4298,6 @@ Only time,
 不管它是什么  才能给我们答案
 whatever that may be, will tell.
 
-894
-01:37:31,030 --> 01:37:33,430
-{\an8}基普·索恩  致  斯蒂芬·霍金
-剑桥大学
-
 895
 01:37:34,330 --> 01:37:35,830
 教授
@@ -4459,8 +4305,8 @@ Professor?
 
 896
 01:37:47,220 --> 01:37:50,690
--是帮我朋友订的  -当然...
-- It is for a friend. - Of course it is...
+是帮我朋友订的  当然......
+ It is for a friend.  Of course it is...
 
 897
 01:37:50,990 --> 01:37:52,990
@@ -4479,13 +4325,13 @@ I know how men are like.
 
 900
 01:38:01,110 --> 01:38:02,770
-我们来看看吧
+我们来看看吧?
 Shall we take a look?
 
 901
 01:38:04,350 --> 01:38:06,090
 来吧
-There ya go.
+There you go.
 
 902
 01:38:18,510 --> 01:38:20,570
@@ -4502,10 +4348,6 @@ Next one.
 怎么了
 What?
 
-905
-01:39:14,200 --> 01:39:16,200
-{\an8}《时间简史》
-
 906
 01:39:21,190 --> 01:39:23,700
 我说过  我一直在努力寻找
@@ -4513,7 +4355,7 @@ So I said I had long been looking for
 
 907
 01:39:23,700 --> 01:39:26,200
-适用于整个宇宙的模型[模特]
+适用于整个宇宙的模型
 a model of the universe.
 
 908
@@ -4533,7 +4375,7 @@ Stephen, I need to steal you, the contracts arrived.
 
 911
 01:39:44,750 --> 01:39:47,310
-简  能再给我们一小会儿吗
+简  能再给我们一小会儿吗?
 Could you just give us a minute, please, Jane?
 
 912
@@ -4548,7 +4390,7 @@ Like new.
 
 914
 01:40:39,610 --> 01:40:43,610
-我们是谁  为何存在于此
+我们是谁?  为何存在于此?
 Who are we? Why are we here?
 
 915
@@ -4568,13 +4410,13 @@ for then we would know the mind of God.
 
 918
 01:40:52,730 --> 01:40:55,420
--你真这么觉得  -是的
-- Do you mean this? - Yes.
+你真这么觉得?  是的
+ Do you mean this?  Yes.
 
 919
 01:40:58,210 --> 01:41:01,580
--当然  -所以你相信上帝存在了
-- Of course. - So, you're acknowledging Him?
+当然  所以你相信上帝存在了
+ Of course.  So, you're acknowledging Him?
 
 920
 01:41:07,120 --> 01:41:08,690
@@ -4583,7 +4425,7 @@ However.
 
 921
 01:41:11,410 --> 01:41:13,430
-"但是"什么
+"但是"什么?
 "However", what?
 
 922
@@ -4595,10 +4437,6 @@ Are you actually going to let me have this moment?
 01:41:28,580 --> 01:41:30,390
 不客气
 You're welcome.
-
-924
-01:41:46,580 --> 01:41:50,090
-{\an8}我请伊莲陪我去美国了
 
 925
 01:42:09,670 --> 01:42:13,250
@@ -4612,7 +4450,7 @@ She will look after me.
 
 927
 01:42:32,360 --> 01:42:33,930
-是吗
+是吗?
 Will she?
 
 928
@@ -4637,7 +4475,7 @@ I'm sorry.
 
 932
 01:43:17,060 --> 01:43:19,330
-多少年了
+多少年了?
 How many years?
 
 933
@@ -4667,13 +4505,13 @@ I did my best.
 
 938
 01:45:12,680 --> 01:45:13,980
-小心点
+小心点!
 Careful!
 
 939
 01:45:15,200 --> 01:45:17,650
--那个留下  -好的
-- No, that stays. - All right.
+那个留下  好的
+ No, that stays.  All right.
 
 940
 01:46:03,670 --> 01:46:05,640
@@ -4692,7 +4530,7 @@ I first met the Professor in 1963.
 
 943
 01:47:53,750 --> 01:47:57,050
-一转眼  白驹过隙一样
+一转眼......  白驹过隙一样?
 And there you are... time, where did it go?
 
 944
@@ -4732,7 +4570,7 @@ have the first preselected question, thank you.
 
 951
 01:48:44,540 --> 01:48:46,710
-大家能听到吗
+大家能听到吗?
 Can you hear me?
 
 952
@@ -4797,7 +4635,7 @@ You have said you did not believe in God.
 
 964
 01:50:42,670 --> 01:50:45,990
-那么您有什么指导您的生活哲学吗
+那么您有什么指导您的生活哲学吗?
 Do you have a philosophy of life that helps you?
 
 965
@@ -4822,7 +4660,7 @@ in the outer suburb of one
 
 969
 01:51:19,540 --> 01:51:22,100
-还有上亿个星系
+还有上亿个星系......
 among a hundred billion galaxies...
 
 970
@@ -4852,7 +4690,7 @@ very special about the boundary conditions of the universe.
 
 975
 01:51:42,000 --> 01:51:46,010
-但是还有比没有边界更特别的答案吗
+但是还有比没有边界更特别的答案吗?
 And what can be more special than that there is no boundary?
 
 976
@@ -4932,40 +4770,15 @@ It was extraordinary.
 
 991
 01:54:35,230 --> 01:54:37,850
-我们这一路一直都很棒  是吧
+我们这一路一直都很棒  是吧?
 It's all been rather extraordinary, though, hasn't it?
 
 992
 01:54:46,690 --> 01:54:48,540
-你在写什么
+你在写什么?
 What are you writing?
 
 993
 01:55:00,550 --> 01:55:04,250
 看看我们的成果
 Look what we made.
-
-994
-01:56:41,680 --> 01:56:52,860
-{\an8}{\pos(192,82)}《时间简史》在全球销量超过千万
-虽然已经72岁了  斯蒂芬依然没有退休
-继续探索万物理论
-
-995
-01:56:47,980 --> 01:56:52,860
-{\an8}{\pos(192,181)}他婉拒了女王授予的骑士头衔
-
-996
-01:56:54,050 --> 01:57:03,620
-{\an8}{\pos(192,78)}简拿到了西班牙诗歌的博士学位
-她与乔纳森喜结连理
-简和斯蒂芬依然是好朋友  现已经有三个孙辈
-
-997
-01:57:05,070 --> 01:57:13,650
-{\an5}英国大学学位分等级
-一般来说  一等学位要求均分70以上
-霍金的本科三年只有一次考试  也就是毕业考试
-由于紧张他发挥失常  成绩处在一等与二等的边缘
-因此需要追加一次面试
-
